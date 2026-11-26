@@ -1,0 +1,132 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Blissymbols in Depth</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a drafting table. Case list on the left, one 3D stage on the right
+   where depth separates mind (front sheet) from matter (back sheet). */
+:root {
+  --paper: #eef1f5;      /* cool drafting paper */
+  --sheet: #ffffff;
+  --ink: #16233a;        /* Bliss stroke ink */
+  --muted: #5b6a82;
+  --rule: #cfd6e0;
+  --meaning: #b87900;    /* synchronicity */
+  --cause: #b3364f;      /* causal link */
+  --chance: #6b7688;     /* neither */
+  --plate: #9fb4d3;      /* the two aspect sheets in the scene */
+  --focus: #2a63c7;
+  --display: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
+  --body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0f1622; --sheet: #17202f; --ink: #e3e9f3; --muted: #97a4b8; --rule: #2a3649;
+    --meaning: #f0b33c; --cause: #f0718a; --chance: #8d99ad; --plate: #3d5273; --focus: #7fa9f5;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0f1622; --sheet: #17202f; --ink: #e3e9f3; --muted: #97a4b8; --rule: #2a3649;
+  --meaning: #f0b33c; --cause: #f0718a; --chance: #8d99ad; --plate: #3d5273; --focus: #7fa9f5;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font: 400 15px/1.5 var(--body);
+  padding-block: 24px 40px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 1120px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+header h1 { font: 700 28px/1.15 var(--display); margin: 0 0 6px; text-wrap: balance; }
+header p { margin: 0; color: var(--muted); max-width: 65ch; }
+.bench { display: grid; grid-template-columns: minmax(0, 300px) minmax(0, 1fr); gap: 20px; align-items: start; }
+@media (max-width: 760px) { .bench { grid-template-columns: minmax(0, 1fr); } }
+.label { font: 500 11px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.cases { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.cases ol { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column;
+  border-top: 1px solid var(--rule); max-height: 560px; overflow-y: auto; }
+@media (max-width: 760px) { .cases ol { max-height: 220px; } }
+.cases button {
+  width: 100%; display: flex; justify-content: space-between; align-items: center; gap: 10px;
+  padding: 9px 4px; border: 0; border-bottom: 1px solid var(--rule); background: none;
+  color: var(--ink); font: 500 14px/1.3 var(--body); text-align: left; cursor: pointer;
+}
+.cases button:hover { background: var(--sheet); }
+.cases button[aria-current="true"] { background: var(--sheet); box-shadow: inset 3px 0 0 var(--ink); padding-left: 10px; }
+button:focus-visible, input:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.chip { flex: none; font: 500 11px/1 var(--mono); padding: 4px 7px; border-radius: 3px; border: 1px solid currentColor; }
+.chip.meaning { color: var(--meaning); } .chip.cause { color: var(--cause); } .chip.chance { color: var(--chance); }
+.stage { min-width: 0; display: flex; flex-direction: column; gap: 12px; }
+.view { position: relative; background: var(--sheet); border: 1px solid var(--rule); aspect-ratio: 16 / 10; max-width: 100%; }
+@media (max-width: 760px) { .view { aspect-ratio: 1 / 1; } }
+.view canvas { display: block; width: 100%; height: 100%; touch-action: none; cursor: grab; }
+.view canvas:active { cursor: grabbing; }
+.hint { position: absolute; left: 10px; bottom: 8px; pointer-events: none; }
+.tools { position: absolute; right: 8px; top: 8px; display: flex; gap: 6px; }
+.tools button { font: 500 12px/1 var(--body); padding: 6px 9px; background: var(--paper); color: var(--ink);
+  border: 1px solid var(--rule); border-radius: 3px; cursor: pointer; }
+.sentence { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+@media (max-width: 520px) { .sentence { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.sentence div { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
+.sentence code { font: 400 13px/1.35 var(--mono); overflow-wrap: anywhere; }
+.verdict { margin: 0; font: 500 16px/1.4 var(--display); }
+.verdict.meaning { color: var(--meaning); } .verdict.cause { color: var(--cause); } .verdict.chance { color: var(--chance); }
+.browse { display: flex; flex-direction: column; gap: 8px; }
+.browse .row { display: flex; gap: 8px; flex-wrap: wrap; }
+.browse input { flex: 1 1 220px; min-width: 0; font: 400 14px/1.2 var(--mono); padding: 8px 10px;
+  background: var(--sheet); color: var(--ink); border: 1px solid var(--rule); border-radius: 3px; }
+.browse button { font: 500 13px/1 var(--body); padding: 8px 12px; background: var(--ink); color: var(--paper);
+  border: 0; border-radius: 3px; cursor: pointer; }
+footer { color: var(--muted); font-size: 13px; max-width: 75ch; border-top: 1px solid var(--rule); padding-top: 12px; }
+footer code { font-family: var(--mono); font-size: 12px; }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Blissymbols in Depth</h1>
+    <p>Each coincidence is written as a Blissymbol sentence and set in space. The mental symbol stands on the front sheet, the physical one on the back sheet, the archetype above both. What joins them is decided by a Lean proof, not by this page.</p>
+  </header>
+
+  <div class="bench">
+    <nav class="cases" aria-label="Cases">
+      <span class="label">Cases</span>
+      <ol id="caseList"></ol>
+    </nav>
+
+    <section class="stage">
+      <div class="view">
+        <canvas id="scene" aria-label="3D scene of the selected Blissymbol sentence"></canvas>
+        <div class="tools">
+          <button id="spin" type="button" aria-pressed="true">Pause turning</button>
+          <button id="reset" type="button">Reset view</button>
+        </div>
+        <span class="label hint">drag to turn · scroll to zoom</span>
+      </div>
+      <p class="verdict" id="verdict"></p>
+      <div class="sentence" id="sentence"></div>
+
+      <div class="browse">
+        <label class="label" for="symbolInput">Any symbol of the set, in 3D</label>
+        <div class="row">
+          <input id="symbolInput" list="symbolNames" placeholder="e.g. house, music, fox,jackal,coyote" autocomplete="off">
+          <datalist id="symbolNames"></datalist>
+          <button id="showSymbol" type="button">Show symbol</button>
+        </div>
+        <span class="label" id="symbolNote"></span>
+      </div>
+    </section>
+  </div>
+
+  <footer id="proof"></footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="bliss3d_paths.js"></script>
+<script src="bliss3d_data.js"></script>
+<script src="viewer.js"></script>

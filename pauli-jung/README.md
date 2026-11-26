@@ -51,8 +51,11 @@ past of both events, whether the pair is meaningful, and the verdict. CI
 | `PauliJung.Dynamics` | trajectories, decline effect, recurrence |
 | `PauliJung.Historical` | figures as reported by Jung and Rhine |
 | `PauliJung.Script` | the world-file format behind `paulijung FILE` |
+| `PauliJung.Symbols` | the cases as Blissymbol sentences, link symbol computed from the verdict |
+| `Bliss` (library) | the Blissymbol database in Lean: well-formedness, `flatten`, `expandWord` |
 | `PauliJung.Audit` | axiom audit of the headline theorems |
 | `Main` | the `paulijung` executable |
+| `BlissExport` | the `blissexport` executable: Lean's data for the 3D viewer in `../bliss3d` |
 
 ## Main results
 
@@ -87,6 +90,10 @@ past of both events, whether the pair is meaningful, and the verdict. CI
 | `kammerer_acausal_not_sync` | an acausal series without meaning is not a synchronicity |
 | `bookcase_second_not_sync` | a fulfilled prediction explained by a common cause |
 | `astro_top_never_repeats` | in Jung's reported data each batch favoured a different aspect |
+| `Bliss.items_wf`, `Bliss.words_wf` | the Blissymbol database has no missing or circular references |
+| `Bliss.itemStrokes_valid` | every symbol flattens to existing primitive paths |
+| `link_is_meaning_iff` | a case's Blissymbol sentence says "meaning" exactly when it is a synchronicity |
+| `vocabulary_exists` | every symbol used in the sentences is in the database |
 | `sync_without_any_reduction` | synchronicity with neither aspect reducible to the other |
 | `meaning_without_sync` | worlds with meaningful coincidences and no synchronicity |
 | `strict_not_content`, `iching_content_sync` | strict and content-level synchronicity are logically independent |
@@ -115,6 +122,9 @@ edges of each model are modelling choices. Numbers in the April-fish, I
 Ching, Rhine and astrology cases are illustrative. Figures as reported by
 Jung and Rhine are in `PauliJung.Historical`; they were collected from
 quotations of the sources, not checked against the printed volumes.
+
+The cases are also written in Blissymbols and shown in 3D: see
+[../bliss3d](../bliss3d/README.md).
 
 For a plain-language account see [docs/EXPOSITION.md](docs/EXPOSITION.md).
 A measure-theoretic companion lives in `../pauli-jung-prob` (needs Mathlib).

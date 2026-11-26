@@ -19,6 +19,13 @@ If elan cannot reach its release mirror, download
 `lean-4.26.0-linux.zip` from the lean4 GitHub releases, unzip it, and put
 its `bin` on `PATH`.
 
+## Blissymbols
+`Bliss/Data.lean` is generated; never edit it. After the database changes:
+`node tools/gen_bliss_lean.js`, `lake build`, then
+`lake exe blissexport > ../bliss3d/bliss3d_data.js`. CI fails if the
+generated files are stale. `Bliss.Data` and `vocabulary_exists` are slow to
+compile (minutes).
+
 ## Conventions
 - Don't weaken theorem statements to make them build; fix the proofs.
 - Case models are `@[reducible]` so tactics can see through `W.M`, `W.P`.

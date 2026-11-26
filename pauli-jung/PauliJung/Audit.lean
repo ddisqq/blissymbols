@@ -4,6 +4,7 @@ import PauliJung.Series
 import PauliJung.MoreCases
 import PauliJung.Dynamics
 import PauliJung.Historical
+import PauliJung.Symbols
 
 /-!
 # Axiom audit
@@ -211,4 +212,32 @@ open PauliJung
 /-- info: 'PauliJung.bookcase_common_cause' does not depend on any axioms -/
 #guard_msgs in
 #print axioms bookcase_common_cause
+
+/-- info: 'Bliss.items_wf' does not depend on any axioms -/
+#guard_msgs in
+#print axioms Bliss.items_wf
+
+/-- info: 'Bliss.words_wf' does not depend on any axioms -/
+#guard_msgs in
+#print axioms Bliss.words_wf
+
+/-- info: 'Bliss.itemStrokes_valid' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms Bliss.itemStrokes_valid
+
+/-- info: 'Bliss.wordChars_valid' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms Bliss.wordChars_valid
+
+/-- info: 'PauliJung.link_is_meaning_iff' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms link_is_meaning_iff
+
+/-- info: 'PauliJung.link_is_cause_iff' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms link_is_cause_iff
+
+/-- info: 'PauliJung.vocabulary_exists' depends on axioms: [propext] -/
+#guard_msgs in
+#print axioms vocabulary_exists
 

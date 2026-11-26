@@ -2,9 +2,9 @@ name: pauli-jung
 
 on:
   push:
-    paths: ["pauli-jung/**", "pauli-jung-prob/**", ".github/workflows/pauli-jung.yml"]
+    paths: ["pauli-jung/**", "pauli-jung-prob/**", "bliss3d/**", "blissdata_*.js", ".github/workflows/pauli-jung.yml"]
   pull_request:
-    paths: ["pauli-jung/**", "pauli-jung-prob/**", ".github/workflows/pauli-jung.yml"]
+    paths: ["pauli-jung/**", "pauli-jung-prob/**", "bliss3d/**", "blissdata_*.js", ".github/workflows/pauli-jung.yml"]
 
 permissions:
   contents: read
@@ -30,6 +30,11 @@ jobs:
           lake exe paulijung examples/scarab.world
           lake exe paulijung examples/bookcase.world
           ! lake exe paulijung examples/broken.world
+      - name: Check that the generated Blissymbol files are current
+        run: |
+          node tools/gen_bliss_lean.js
+          git diff --exit-code -- Bliss/Data.lean ../bliss3d/bliss3d_paths.js
+          lake exe blissexport | diff - ../bliss3d/bliss3d_data.js
 
   mathlib-companion:
     runs-on: ubuntu-latest

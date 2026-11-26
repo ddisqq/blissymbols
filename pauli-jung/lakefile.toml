@@ -1,9 +1,16 @@
 name = "pauli_jung"
-defaultTargets = ["PauliJung", "paulijung"]
+defaultTargets = ["PauliJung", "Bliss", "paulijung"]
 
 [[lean_lib]]
 name = "PauliJung"
 
+[[lean_lib]]
+name = "Bliss"
+
 [[lean_exe]]
 name = "paulijung"
 root = "Main"
+
+[[lean_exe]]
+name = "blissexport"
+root = "BlissExport"
