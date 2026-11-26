@@ -1,0 +1,443 @@
+{
+ "title": "After Rain",
+ "stanzas": [
+  [
+   [
+    "sun",
+    "warm",
+    "water"
+   ],
+   [
+    "bird",
+    "song"
+   ]
+  ],
+  [
+   [
+    "friend",
+    "come",
+    "home"
+   ],
+   [
+    "heart",
+    "happy"
+   ]
+  ],
+  [
+   [
+    "rain",
+    "go"
+   ],
+   [
+    "no",
+    "sad"
+   ]
+  ],
+  [
+   [
+    "star",
+    "night",
+    "moon"
+   ],
+   [
+    "time",
+    "walk",
+    "see"
+   ]
+  ],
+  [
+   [
+    "love",
+    "live",
+    "open"
+   ],
+   [
+    "hope",
+    "new",
+    "day"
+   ]
+  ]
+ ],
+ "tokens": {
+  "sun": {
+   "english": "sun",
+   "database_key": "sun",
+   "kind": "symbol",
+   "svg": "2d/01-sun.svg",
+   "glb": "3d/01-sun.glb",
+   "png": "3d/01-sun.png",
+   "composition": [],
+   "base_symbols": [
+    "sun"
+   ]
+  },
+  "warm": {
+   "english": "warm",
+   "database_key": "warm",
+   "kind": "word",
+   "svg": "2d/02-warm.svg",
+   "glb": "3d/02-warm.glb",
+   "png": "3d/02-warm.png",
+   "composition": [
+    "hot_(temperature)",
+    "littleness,smallness"
+   ],
+   "base_symbols": [
+    "heat",
+    "indicator_(description)",
+    "littleness,smallness"
+   ]
+  },
+  "water": {
+   "english": "water",
+   "database_key": "water,fluid,liquid",
+   "kind": "symbol",
+   "svg": "2d/03-water.svg",
+   "glb": "3d/03-water.glb",
+   "png": "3d/03-water.png",
+   "composition": [],
+   "base_symbols": [
+    "water,fluid,liquid"
+   ]
+  },
+  "bird": {
+   "english": "bird",
+   "database_key": "bird",
+   "kind": "symbol",
+   "svg": "2d/04-bird.svg",
+   "glb": "3d/04-bird.glb",
+   "png": "3d/04-bird.png",
+   "composition": [],
+   "base_symbols": [
+    "bird"
+   ]
+  },
+  "song": {
+   "english": "song",
+   "database_key": "song",
+   "kind": "word",
+   "svg": "2d/05-song.svg",
+   "glb": "3d/05-song.glb",
+   "png": "3d/05-song.png",
+   "composition": [
+    "mouth",
+    "musical_note,music_(in_combinations)"
+   ],
+   "base_symbols": [
+    "mouth",
+    "musical_note,music_(in_combinations)"
+   ]
+  },
+  "friend": {
+   "english": "friend",
+   "database_key": "friend",
+   "kind": "word",
+   "svg": "2d/06-friend.svg",
+   "glb": "3d/06-friend.glb",
+   "png": "3d/06-friend.png",
+   "composition": [
+    "person,human_being,individual,human",
+    "goodness"
+   ],
+   "base_symbols": [
+    "person,human_being,individual,human",
+    "feeling,emotion,sensation",
+    "and,also,plus,too",
+    "intensity"
+   ]
+  },
+  "come": {
+   "english": "come",
+   "database_key": "come,approach-(to)",
+   "kind": "word",
+   "svg": "2d/07-come.svg",
+   "glb": "3d/07-come.glb",
+   "png": "3d/07-come.png",
+   "composition": [
+    "approach",
+    "indicator_(action)"
+   ],
+   "base_symbols": [
+    "forward",
+    "indicator_(action)",
+    "line,stripe"
+   ]
+  },
+  "home": {
+   "english": "home",
+   "database_key": "home",
+   "kind": "word",
+   "svg": "2d/08-home.svg",
+   "glb": "3d/08-home.glb",
+   "png": "3d/08-home.png",
+   "composition": [
+    "house,building,dwelling,residence",
+    "feeling,emotion,sensation"
+   ],
+   "base_symbols": [
+    "house,building,dwelling,residence",
+    "feeling,emotion,sensation"
+   ]
+  },
+  "heart": {
+   "english": "heart",
+   "database_key": "heart",
+   "kind": "word",
+   "svg": "2d/09-heart.svg",
+   "glb": "3d/09-heart.glb",
+   "png": "3d/09-heart.png",
+   "composition": [
+    "feeling,emotion,sensation",
+    "indicator_(thing)"
+   ],
+   "base_symbols": [
+    "feeling,emotion,sensation",
+    "indicator_(thing)"
+   ]
+  },
+  "happy": {
+   "english": "happy",
+   "database_key": "happy,glad,gladly,happily",
+   "kind": "word",
+   "svg": "2d/10-happy.svg",
+   "glb": "3d/10-happy.glb",
+   "png": "3d/10-happy.png",
+   "composition": [
+    "happiness,fun,joy,pleasure",
+    "indicator_(description)"
+   ],
+   "base_symbols": [
+    "feeling,emotion,sensation",
+    "indicator_(description)",
+    "up,upward"
+   ]
+  },
+  "rain": {
+   "english": "rain",
+   "database_key": "rain",
+   "kind": "symbol",
+   "svg": "2d/11-rain.svg",
+   "glb": "3d/11-rain.glb",
+   "png": "3d/11-rain.png",
+   "composition": [],
+   "base_symbols": [
+    "rain"
+   ]
+  },
+  "go": {
+   "english": "go",
+   "database_key": "go,depart,leave-(to)",
+   "kind": "word",
+   "svg": "2d/12-go.svg",
+   "glb": "3d/12-go.glb",
+   "png": "3d/12-go.png",
+   "composition": [
+    "departure",
+    "indicator_(action)"
+   ],
+   "base_symbols": [
+    "line,stripe",
+    "forward",
+    "indicator_(action)"
+   ]
+  },
+  "no": {
+   "english": "no",
+   "database_key": "minus,no,without",
+   "kind": "symbol",
+   "svg": "2d/13-no.svg",
+   "glb": "3d/13-no.glb",
+   "png": "3d/13-no.png",
+   "composition": [],
+   "base_symbols": [
+    "minus,no,without"
+   ]
+  },
+  "sad": {
+   "english": "sad",
+   "database_key": "sad,sadly,unhappily,unhappy",
+   "kind": "word",
+   "svg": "2d/14-sad.svg",
+   "glb": "3d/14-sad.glb",
+   "png": "3d/14-sad.png",
+   "composition": [
+    "sadness,sorrow,unhappiness",
+    "indicator_(description)"
+   ],
+   "base_symbols": [
+    "feeling,emotion,sensation",
+    "indicator_(description)",
+    "down,downward"
+   ]
+  },
+  "star": {
+   "english": "star",
+   "database_key": "star",
+   "kind": "symbol",
+   "svg": "2d/15-star.svg",
+   "glb": "3d/15-star.glb",
+   "png": "3d/15-star.png",
+   "composition": [],
+   "base_symbols": [
+    "star"
+   ]
+  },
+  "night": {
+   "english": "night",
+   "database_key": "night",
+   "kind": "symbol",
+   "svg": "2d/16-night.svg",
+   "glb": "3d/16-night.glb",
+   "png": "3d/16-night.png",
+   "composition": [],
+   "base_symbols": [
+    "night"
+   ]
+  },
+  "moon": {
+   "english": "moon",
+   "database_key": "moon",
+   "kind": "symbol",
+   "svg": "2d/17-moon.svg",
+   "glb": "3d/17-moon.glb",
+   "png": "3d/17-moon.png",
+   "composition": [],
+   "base_symbols": [
+    "moon"
+   ]
+  },
+  "time": {
+   "english": "time",
+   "database_key": "time",
+   "kind": "symbol",
+   "svg": "2d/18-time.svg",
+   "glb": "3d/18-time.glb",
+   "png": "3d/18-time.png",
+   "composition": [],
+   "base_symbols": [
+    "time"
+   ]
+  },
+  "walk": {
+   "english": "walk",
+   "database_key": "walk,go-(to)",
+   "kind": "word",
+   "svg": "2d/19-walk.svg",
+   "glb": "3d/19-walk.glb",
+   "png": "3d/19-walk.png",
+   "composition": [
+    "legs_and_feet",
+    "indicator_(action)"
+   ],
+   "base_symbols": [
+    "legs_and_feet",
+    "indicator_(action)"
+   ]
+  },
+  "see": {
+   "english": "see",
+   "database_key": "see,look,watch-(to)",
+   "kind": "word",
+   "svg": "2d/20-see.svg",
+   "glb": "3d/20-see.glb",
+   "png": "3d/20-see.png",
+   "composition": [
+    "eye",
+    "indicator_(action)"
+   ],
+   "base_symbols": [
+    "eye",
+    "indicator_(action)"
+   ]
+  },
+  "love": {
+   "english": "love",
+   "database_key": "love,affection",
+   "kind": "symbol",
+   "svg": "2d/21-love.svg",
+   "glb": "3d/21-love.glb",
+   "png": "3d/21-love.png",
+   "composition": [],
+   "base_symbols": [
+    "love,affection"
+   ]
+  },
+  "live": {
+   "english": "live",
+   "database_key": "live,dwell,reside-(to)",
+   "kind": "word",
+   "svg": "2d/22-live.svg",
+   "glb": "3d/22-live.glb",
+   "png": "3d/22-live.png",
+   "composition": [
+    "house,building,dwelling,residence",
+    "indicator_(action)"
+   ],
+   "base_symbols": [
+    "house,building,dwelling,residence",
+    "indicator_(action)"
+   ]
+  },
+  "open": {
+   "english": "open",
+   "database_key": "open",
+   "kind": "word",
+   "svg": "2d/23-open.svg",
+   "glb": "3d/23-open.glb",
+   "png": "3d/23-open.png",
+   "composition": [
+    "opening",
+    "indicator_(description)"
+   ],
+   "base_symbols": [
+    "opening",
+    "indicator_(description)"
+   ]
+  },
+  "hope": {
+   "english": "hope",
+   "database_key": "hope",
+   "kind": "word",
+   "svg": "2d/24-hope.svg",
+   "glb": "3d/24-hope.glb",
+   "png": "3d/24-hope.png",
+   "composition": [
+    "happiness,fun,joy,pleasure",
+    "future_(uncertain)"
+   ],
+   "base_symbols": [
+    "feeling,emotion,sensation",
+    "up,upward",
+    "future_(uncertain)"
+   ]
+  },
+  "new": {
+   "english": "new",
+   "database_key": "new",
+   "kind": "word",
+   "svg": "2d/25-new.svg",
+   "glb": "3d/25-new.glb",
+   "png": "3d/25-new.png",
+   "composition": [
+    "newness,novelty",
+    "indicator_(description)"
+   ],
+   "base_symbols": [
+    "newness,novelty",
+    "indicator_(description)"
+   ]
+  },
+  "day": {
+   "english": "day",
+   "database_key": "day",
+   "kind": "symbol",
+   "svg": "2d/26-day.svg",
+   "glb": "3d/26-day.glb",
+   "png": "3d/26-day.png",
+   "composition": [],
+   "base_symbols": [
+    "day"
+   ]
+  }
+ }
+}

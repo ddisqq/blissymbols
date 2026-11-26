@@ -123,3 +123,15 @@ from Språkbanken:
 
 There is a script, `download_and_update_blissdata_words.py`, which is run irregularly to keep
 the database in this repository in sync with Karp.
+
+
+Supporting files
+----------------
+
+- `docs/GUIDE.md`: guide to the database, the supporting files and how they are built
+- `dictionary/`: dictionary of all 4,675 headwords (Markdown and CSV) and an index of all 1,150 symbols
+- `svg/`: original 2D drawing of every symbol
+- `3d/`: 3D equivalent of every symbol (`.glb`), with `viewer.html` to browse them
+- `gallery/index.html`: searchable gallery of all symbols
+- `poem/`: the poem *After Rain*, each word as an original drawing and as a 3D equivalent
+- `tools/`: scripts that build all of the above from the database

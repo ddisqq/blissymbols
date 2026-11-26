@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Blissymbol 3D viewer</title>
+<style>
+:root{--bg:#f5f6f8;--panel:#fff;--fg:#111;--mut:#666;--line:#e2e4e8;--acc:#1f5fbf}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#101113;--panel:#17181b;--fg:#eee;--mut:#9a9a9a;--line:#2c2e33;--acc:#7fb0ff}}
+:root[data-theme="dark"]{--bg:#101113;--panel:#17181b;--fg:#eee;--mut:#9a9a9a;--line:#2c2e33;--acc:#7fb0ff}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{display:grid;grid-template-columns:260px 1fr;grid-template-rows:100%;background:var(--bg);color:var(--fg);font:14px/1.4 system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif;overflow:hidden}
+aside{background:var(--panel);border-right:1px solid var(--line);display:flex;flex-direction:column;min-height:0}
+aside header{padding:12px;border-bottom:1px solid var(--line)}
+aside h1{font-size:15px;margin:0 0 8px}
+input{width:100%;padding:7px 9px;border:1px solid var(--line);border-radius:7px;background:var(--bg);color:var(--fg);font:inherit}
+#list{overflow:auto;flex:1;margin:0;padding:4px 0;list-style:none}
+#list li{padding:6px 12px;cursor:pointer;display:flex;justify-content:space-between;gap:8px}
+#list li:hover{background:var(--bg)}
+#list li.on{background:var(--acc);color:#fff}
+#list li small{opacity:.65;font-variant-numeric:tabular-nums}
+main{position:relative;min-width:0;display:grid;grid-template-rows:auto 1fr auto}
+.top{padding:12px 16px;display:flex;align-items:center;gap:14px;border-bottom:1px solid var(--line);background:var(--panel)}
+.top h2{font-size:17px;margin:0}
+.top .sub{color:var(--mut);font-size:13px}
+.top img{height:56px;background:#fff;border-radius:6px;padding:2px;margin-left:auto}
+#stage{position:relative;min-height:0}
+canvas{display:block;width:100%;height:100%}
+#msg{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:var(--mut);pointer-events:none;text-align:center;padding:24px}
+.foot{padding:8px 16px;color:var(--mut);font-size:12px;border-top:1px solid var(--line);background:var(--panel)}
+.foot a{color:var(--acc)}
+@media (max-width:760px){
+  body{grid-template-columns:1fr;grid-template-rows:42vh 1fr}
+  aside{border-right:0;border-bottom:1px solid var(--line)}
+  main{grid-template-rows:auto 1fr auto}
+  .top img{height:40px}
+}
+</style>
+<script type="importmap">
+{ "imports": {
+    "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+    "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+} }
+</script>
+</head>
+<body>
+<aside>
+  <header>
+    <h1>Blissymbols in 3D</h1>
+    <input id="q" type="search" placeholder="Filter symbols…" autocomplete="off">
+  </header>
+  <ul id="list"></ul>
+</aside>
+<main>
+  <div class="top">
+    <div>
+      <h2 id="title">Choose a symbol</h2>
+      <div class="sub" id="sub">Drag to rotate · scroll to zoom · right-drag to pan</div>
+    </div>
+    <img id="orig" alt="" src="">
+  </div>
+  <div id="stage"><canvas id="c"></canvas><div id="msg">Loading the catalog…</div></div>
+  <div class="foot">Each symbol is its original 2D drawing extruded into a solid slab (1 Bliss square = 1 unit).
+    Models are glTF/GLB files in this folder. <a href="../gallery/index.html">Back to the gallery</a></div>
+</main>
+<script type="module">
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+
+const $ = (id) => document.getElementById(id);
+const list = $('list'), q = $('q'), msg = $('msg');
+const canvas = $('c');
+
+const renderer = new THREE.WebGLRenderer({ canvas, antialias: true });
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(getComputedStyle(document.body).getPropertyValue('--bg').trim() === '#101113' ? 0x101113 : 0xf5f6f8);
+const camera = new THREE.PerspectiveCamera(35, 1, 0.01, 1000);
+const controls = new OrbitControls(camera, canvas);
+controls.enableDamping = true;
+
+scene.add(new THREE.HemisphereLight(0xffffff, 0x8890a0, 1.6));
+const key = new THREE.DirectionalLight(0xffffff, 1.6);
+key.position.set(2, 3, 4);
+scene.add(key);
+const fill = new THREE.DirectionalLight(0xffffff, 0.5);
+fill.position.set(-3, -1, -2);
+scene.add(fill);
+
+const ink = new THREE.MeshStandardMaterial({ color: 0x1a1a1c, roughness: 0.55, metalness: 0.05 });
+const loader = new GLTFLoader();
+let current = null;
+let items = [];
+
+function resize() {
+  const r = canvas.parentElement.getBoundingClientRect();
+  renderer.setSize(r.width, r.height, false);
+  camera.aspect = r.width / Math.max(1, r.height);
+  camera.updateProjectionMatrix();
+}
+window.addEventListener('resize', resize);
+resize();
+renderer.setAnimationLoop(() => { controls.update(); renderer.render(scene, camera); });
+
+function fit(object) {
+  const box = new THREE.Box3().setFromObject(object);
+  const size = box.getSize(new THREE.Vector3());
+  const centre = box.getCenter(new THREE.Vector3());
+  object.position.sub(centre);
+  const radius = Math.max(size.x, size.y, size.z, 0.5) * 0.9;
+  const dist = radius / Math.tan((camera.fov * Math.PI) / 360);
+  camera.position.set(dist * 0.62, dist * 0.42, dist * 1.15); // three-quarter view so the depth reads
+  camera.near = dist / 100; camera.far = dist * 100; camera.updateProjectionMatrix();
+  controls.target.set(0, 0, 0);
+  controls.update();
+}
+
+function show(item) {
+  if (!item) return;
+  for (const li of list.children) li.classList.toggle('on', li.dataset.glb === item.glb);
+  $('title').textContent = item.name + (item.aliases.length ? '  ·  ' + item.aliases.join(', ') : '');
+  $('sub').textContent = 'Symbol #' + item.id + ' · ' + item.glb;
+  $('orig').src = item.svg;
+  $('orig').alt = item.name;
+  history.replaceState(null, '', '?symbol=' + encodeURIComponent(item.glb));
+  msg.style.display = 'flex';
+  msg.textContent = 'Loading…';
+  loader.load('./' + item.glb, (gltf) => {
+    if (current) scene.remove(current);
+    current = gltf.scene;
+    current.traverse((o) => { if (o.isMesh) { o.material = ink; } });
+    scene.add(current);
+    fit(current);
+    msg.style.display = 'none';
+  }, undefined, () => { msg.textContent = 'Could not load ' + item.glb + '. Serve this folder over http (e.g. python3 -m http.server).'; });
+}
+
+function render(filter) {
+  list.replaceChildren();
+  const t = filter.trim().toLowerCase();
+  for (const it of items) {
+    if (t && !(it.name + ' ' + it.aliases.join(' ')).toLowerCase().includes(t)) continue;
+    const li = document.createElement('li');
+    li.dataset.glb = it.glb;
+    li.innerHTML = '<span></span><small></small>';
+    li.firstChild.textContent = it.name;
+    li.lastChild.textContent = it.id;
+    li.addEventListener('click', () => show(it));
+    list.appendChild(li);
+  }
+}
+
+q.addEventListener('input', () => render(q.value));
+
+fetch('./catalog.json').then((r) => r.json()).then((data) => {
+  items = data;
+  render('');
+  msg.style.display = 'none';
+  const want = new URLSearchParams(location.search).get('symbol');
+  show(items.find((i) => i.glb === want) || items[0]);
+}).catch(() => { msg.textContent = 'Could not load catalog.json. Serve this folder over http.'; });
+</script>
+</body>
+</html>

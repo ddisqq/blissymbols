@@ -1,0 +1,9143 @@
+[
+{
+"id": "0001",
+"name": "a",
+"aliases": [
+"an",
+"any"
+],
+"glb": "0001-a.glb",
+"svg": "../svg/0001-a.svg"
+},
+{
+"id": "0002",
+"name": "a (lowercase)",
+"aliases": [],
+"glb": "0002-a-lowercase.glb",
+"svg": "../svg/0002-a-lowercase.svg"
+},
+{
+"id": "0003",
+"name": "A (uppercase)",
+"aliases": [],
+"glb": "0003-a-uppercase.glb",
+"svg": "../svg/0003-a-uppercase.svg"
+},
+{
+"id": "0004",
+"name": "ability",
+"aliases": [
+"capability",
+"capacity",
+"potential"
+],
+"glb": "0004-ability.glb",
+"svg": "../svg/0004-ability.svg"
+},
+{
+"id": "0005",
+"name": "ability (half sized)",
+"aliases": [],
+"glb": "0005-ability-half-sized.glb",
+"svg": "../svg/0005-ability-half-sized.svg"
+},
+{
+"id": "0006",
+"name": "about",
+"aliases": [
+"concerning",
+"in relation to",
+"of",
+"on"
+],
+"glb": "0006-about.glb",
+"svg": "../svg/0006-about.svg"
+},
+{
+"id": "0007",
+"name": "account",
+"aliases": [],
+"glb": "0007-account.glb",
+"svg": "../svg/0007-account.svg"
+},
+{
+"id": "0008",
+"name": "across",
+"aliases": [],
+"glb": "0008-across.glb",
+"svg": "../svg/0008-across.svg"
+},
+{
+"id": "0009",
+"name": "action",
+"aliases": [
+"act",
+"deed"
+],
+"glb": "0009-action.glb",
+"svg": "../svg/0009-action.svg"
+},
+{
+"id": "0010",
+"name": "activity",
+"aliases": [
+"male gender (in combinations)"
+],
+"glb": "0010-activity.glb",
+"svg": "../svg/0010-activity.svg"
+},
+{
+"id": "0011",
+"name": "addition",
+"aliases": [
+"gain"
+],
+"glb": "0011-addition.glb",
+"svg": "../svg/0011-addition.svg"
+},
+{
+"id": "0012",
+"name": "adult",
+"aliases": [
+"grownup"
+],
+"glb": "0012-adult.glb",
+"svg": "../svg/0012-adult.svg"
+},
+{
+"id": "0013",
+"name": "after",
+"aliases": [
+"behind"
+],
+"glb": "0013-after.glb",
+"svg": "../svg/0013-after.svg"
+},
+{
+"id": "0014",
+"name": "again",
+"aliases": [],
+"glb": "0014-again.glb",
+"svg": "../svg/0014-again.svg"
+},
+{
+"id": "0015",
+"name": "against",
+"aliases": [
+"opposed to"
+],
+"glb": "0015-against.glb",
+"svg": "../svg/0015-against.svg"
+},
+{
+"id": "0016",
+"name": "ago",
+"aliases": [
+"then (past)"
+],
+"glb": "0016-ago.glb",
+"svg": "../svg/0016-ago.svg"
+},
+{
+"id": "0017",
+"name": "agreement",
+"aliases": [],
+"glb": "0017-agreement.glb",
+"svg": "../svg/0017-agreement.svg"
+},
+{
+"id": "0018",
+"name": "air",
+"aliases": [
+"atmosphere"
+],
+"glb": "0018-air.glb",
+"svg": "../svg/0018-air.svg"
+},
+{
+"id": "0019",
+"name": "airplane",
+"aliases": [
+"aeroplane",
+"plane"
+],
+"glb": "0019-airplane.glb",
+"svg": "../svg/0019-airplane.svg"
+},
+{
+"id": "0020",
+"name": "alcoholic drink",
+"aliases": [
+"alcoholic beverage",
+"liquor"
+],
+"glb": "0020-alcoholic-drink.glb",
+"svg": "../svg/0020-alcoholic-drink.svg"
+},
+{
+"id": "0021",
+"name": "all",
+"aliases": [
+"every",
+"everything",
+"total",
+"whole"
+],
+"glb": "0021-all.glb",
+"svg": "../svg/0021-all.svg"
+},
+{
+"id": "0022",
+"name": "alphabet",
+"aliases": [
+"letters (lowercase)"
+],
+"glb": "0022-alphabet.glb",
+"svg": "../svg/0022-alphabet.svg"
+},
+{
+"id": "0023",
+"name": "alphabet",
+"aliases": [
+"letters (uppercase)"
+],
+"glb": "0023-alphabet.glb",
+"svg": "../svg/0023-alphabet.svg"
+},
+{
+"id": "0024",
+"name": "alternation",
+"aliases": [],
+"glb": "0024-alternation.glb",
+"svg": "../svg/0024-alternation.svg"
+},
+{
+"id": "0025",
+"name": "although",
+"aliases": [],
+"glb": "0025-although.glb",
+"svg": "../svg/0025-although.svg"
+},
+{
+"id": "0026",
+"name": "alto",
+"aliases": [],
+"glb": "0026-alto.glb",
+"svg": "../svg/0026-alto.svg"
+},
+{
+"id": "0027",
+"name": "and",
+"aliases": [
+"also",
+"plus",
+"too"
+],
+"glb": "0027-and.glb",
+"svg": "../svg/0027-and.svg"
+},
+{
+"id": "0028",
+"name": "angel (1)",
+"aliases": [],
+"glb": "0028-angel-1.glb",
+"svg": "../svg/0028-angel-1.svg"
+},
+{
+"id": "0029",
+"name": "angle",
+"aliases": [],
+"glb": "0029-angle.glb",
+"svg": "../svg/0029-angle.svg"
+},
+{
+"id": "0030",
+"name": "angle (right)",
+"aliases": [
+"right angle"
+],
+"glb": "0030-angle-right.glb",
+"svg": "../svg/0030-angle-right.svg"
+},
+{
+"id": "0031",
+"name": "animal",
+"aliases": [
+"beast"
+],
+"glb": "0031-animal.glb",
+"svg": "../svg/0031-animal.svg"
+},
+{
+"id": "0032",
+"name": "animal (bovine",
+"aliases": [
+"ovine)",
+"bovid",
+"bovine"
+],
+"glb": "0032-animal-bovine.glb",
+"svg": "../svg/0032-animal-bovine.svg"
+},
+{
+"id": "0033",
+"name": "animal (bushy tailed)",
+"aliases": [],
+"glb": "0033-animal-bushy-tailed.glb",
+"svg": "../svg/0033-animal-bushy-tailed.svg"
+},
+{
+"id": "0034",
+"name": "animal (water)",
+"aliases": [],
+"glb": "0034-animal-water.glb",
+"svg": "../svg/0034-animal-water.svg"
+},
+{
+"id": "0035",
+"name": "ankle",
+"aliases": [],
+"glb": "0035-ankle.glb",
+"svg": "../svg/0035-ankle.svg"
+},
+{
+"id": "0036",
+"name": "answer",
+"aliases": [
+"reply"
+],
+"glb": "0036-answer.glb",
+"svg": "../svg/0036-answer.svg"
+},
+{
+"id": "0037",
+"name": "anywhere",
+"aliases": [
+"anyplace",
+"someplace",
+"somewhere"
+],
+"glb": "0037-anywhere.glb",
+"svg": "../svg/0037-anywhere.svg"
+},
+{
+"id": "0038",
+"name": "apostrophe",
+"aliases": [],
+"glb": "0038-apostrophe.glb",
+"svg": "../svg/0038-apostrophe.svg"
+},
+{
+"id": "0039",
+"name": "apple",
+"aliases": [],
+"glb": "0039-apple.glb",
+"svg": "../svg/0039-apple.svg"
+},
+{
+"id": "0040",
+"name": "arm",
+"aliases": [],
+"glb": "0040-arm.glb",
+"svg": "../svg/0040-arm.svg"
+},
+{
+"id": "0041",
+"name": "armchair",
+"aliases": [],
+"glb": "0041-armchair.glb",
+"svg": "../svg/0041-armchair.svg"
+},
+{
+"id": "0042",
+"name": "around",
+"aliases": [],
+"glb": "0042-around.glb",
+"svg": "../svg/0042-around.svg"
+},
+{
+"id": "0043",
+"name": "arrow (bent)",
+"aliases": [],
+"glb": "0043-arrow-bent.glb",
+"svg": "../svg/0043-arrow-bent.svg"
+},
+{
+"id": "0044",
+"name": "ascending and descending",
+"aliases": [],
+"glb": "0044-ascending-and-descending.glb",
+"svg": "../svg/0044-ascending-and-descending.svg"
+},
+{
+"id": "0045",
+"name": "asparagus",
+"aliases": [],
+"glb": "0045-asparagus.glb",
+"svg": "../svg/0045-asparagus.svg"
+},
+{
+"id": "0046",
+"name": "at",
+"aliases": [],
+"glb": "0046-at.glb",
+"svg": "../svg/0046-at.svg"
+},
+{
+"id": "0047",
+"name": "atom",
+"aliases": [],
+"glb": "0047-atom.glb",
+"svg": "../svg/0047-atom.svg"
+},
+{
+"id": "0048",
+"name": "attachment",
+"aliases": [
+"appendix",
+"annex"
+],
+"glb": "0048-attachment.glb",
+"svg": "../svg/0048-attachment.svg"
+},
+{
+"id": "0049",
+"name": "attic",
+"aliases": [],
+"glb": "0049-attic.glb",
+"svg": "../svg/0049-attic.svg"
+},
+{
+"id": "0050",
+"name": "aunt",
+"aliases": [],
+"glb": "0050-aunt.glb",
+"svg": "../svg/0050-aunt.svg"
+},
+{
+"id": "0051",
+"name": "avocado",
+"aliases": [],
+"glb": "0051-avocado.glb",
+"svg": "../svg/0051-avocado.svg"
+},
+{
+"id": "0052",
+"name": "away",
+"aliases": [
+"at a distance",
+"off"
+],
+"glb": "0052-away.glb",
+"svg": "../svg/0052-away.svg"
+},
+{
+"id": "0053",
+"name": "away",
+"aliases": [
+"at a distance",
+"off (OLD)"
+],
+"glb": "0053-away.glb",
+"svg": "../svg/0053-away.svg"
+},
+{
+"id": "0054",
+"name": "b (lowercase)",
+"aliases": [],
+"glb": "0054-b-lowercase.glb",
+"svg": "../svg/0054-b-lowercase.svg"
+},
+{
+"id": "0055",
+"name": "B (uppercase)",
+"aliases": [],
+"glb": "0055-b-uppercase.glb",
+"svg": "../svg/0055-b-uppercase.svg"
+},
+{
+"id": "0056",
+"name": "baby",
+"aliases": [
+"infant"
+],
+"glb": "0056-baby.glb",
+"svg": "../svg/0056-baby.svg"
+},
+{
+"id": "0057",
+"name": "baby boy",
+"aliases": [],
+"glb": "0057-baby-boy.glb",
+"svg": "../svg/0057-baby-boy.svg"
+},
+{
+"id": "0058",
+"name": "baby girl",
+"aliases": [],
+"glb": "0058-baby-girl.glb",
+"svg": "../svg/0058-baby-girl.svg"
+},
+{
+"id": "0059",
+"name": "back (body)",
+"aliases": [],
+"glb": "0059-back-body.glb",
+"svg": "../svg/0059-back-body.svg"
+},
+{
+"id": "0060",
+"name": "back and forth",
+"aliases": [
+"backward and forward",
+"to and fro"
+],
+"glb": "0060-back-and-forth.glb",
+"svg": "../svg/0060-back-and-forth.svg"
+},
+{
+"id": "0061",
+"name": "backward",
+"aliases": [
+"back"
+],
+"glb": "0061-backward.glb",
+"svg": "../svg/0061-backward.svg"
+},
+{
+"id": "0062",
+"name": "bad conscience",
+"aliases": [],
+"glb": "0062-bad-conscience.glb",
+"svg": "../svg/0062-bad-conscience.svg"
+},
+{
+"id": "0063",
+"name": "badge",
+"aliases": [
+"shield"
+],
+"glb": "0063-badge.glb",
+"svg": "../svg/0063-badge.svg"
+},
+{
+"id": "0064",
+"name": "baggage",
+"aliases": [
+"bag",
+"luggage",
+"suitcase"
+],
+"glb": "0064-baggage.glb",
+"svg": "../svg/0064-baggage.svg"
+},
+{
+"id": "0065",
+"name": "ball",
+"aliases": [],
+"glb": "0065-ball.glb",
+"svg": "../svg/0065-ball.svg"
+},
+{
+"id": "0066",
+"name": "ball field",
+"aliases": [],
+"glb": "0066-ball-field.glb",
+"svg": "../svg/0066-ball-field.svg"
+},
+{
+"id": "0067",
+"name": "balloon",
+"aliases": [],
+"glb": "0067-balloon.glb",
+"svg": "../svg/0067-balloon.svg"
+},
+{
+"id": "0068",
+"name": "balloon (hot air)",
+"aliases": [],
+"glb": "0068-balloon-hot-air.glb",
+"svg": "../svg/0068-balloon-hot-air.svg"
+},
+{
+"id": "0069",
+"name": "banana",
+"aliases": [],
+"glb": "0069-banana.glb",
+"svg": "../svg/0069-banana.svg"
+},
+{
+"id": "0070",
+"name": "bar",
+"aliases": [
+"cake"
+],
+"glb": "0070-bar.glb",
+"svg": "../svg/0070-bar.svg"
+},
+{
+"id": "0071",
+"name": "barred window",
+"aliases": [],
+"glb": "0071-barred-window.glb",
+"svg": "../svg/0071-barred-window.svg"
+},
+{
+"id": "0072",
+"name": "barrier (contraceptive)",
+"aliases": [],
+"glb": "0072-barrier-contraceptive.glb",
+"svg": "../svg/0072-barrier-contraceptive.svg"
+},
+{
+"id": "0073",
+"name": "basement",
+"aliases": [
+"cellar"
+],
+"glb": "0073-basement.glb",
+"svg": "../svg/0073-basement.svg"
+},
+{
+"id": "0074",
+"name": "bass",
+"aliases": [],
+"glb": "0074-bass.glb",
+"svg": "../svg/0074-bass.svg"
+},
+{
+"id": "0075",
+"name": "bat (animal)",
+"aliases": [],
+"glb": "0075-bat-animal.glb",
+"svg": "../svg/0075-bat-animal.svg"
+},
+{
+"id": "0076",
+"name": "bath",
+"aliases": [
+"washing"
+],
+"glb": "0076-bath.glb",
+"svg": "../svg/0076-bath.svg"
+},
+{
+"id": "0077",
+"name": "beach",
+"aliases": [
+"bank",
+"coast",
+"shore"
+],
+"glb": "0077-beach.glb",
+"svg": "../svg/0077-beach.svg"
+},
+{
+"id": "0078",
+"name": "bean",
+"aliases": [],
+"glb": "0078-bean.glb",
+"svg": "../svg/0078-bean.svg"
+},
+{
+"id": "0079",
+"name": "bear's head",
+"aliases": [],
+"glb": "0079-bear-s-head.glb",
+"svg": "../svg/0079-bear-s-head.svg"
+},
+{
+"id": "0080",
+"name": "beard",
+"aliases": [],
+"glb": "0080-beard.glb",
+"svg": "../svg/0080-beard.svg"
+},
+{
+"id": "0081",
+"name": "bed",
+"aliases": [],
+"glb": "0081-bed.glb",
+"svg": "../svg/0081-bed.svg"
+},
+{
+"id": "0082",
+"name": "beetle",
+"aliases": [],
+"glb": "0082-beetle.glb",
+"svg": "../svg/0082-beetle.svg"
+},
+{
+"id": "0083",
+"name": "before",
+"aliases": [
+"in front of",
+"prior to"
+],
+"glb": "0083-before.glb",
+"svg": "../svg/0083-before.svg"
+},
+{
+"id": "0084",
+"name": "beginning",
+"aliases": [
+"start"
+],
+"glb": "0084-beginning.glb",
+"svg": "../svg/0084-beginning.svg"
+},
+{
+"id": "0085",
+"name": "belief (supernatural)",
+"aliases": [],
+"glb": "0085-belief-supernatural.glb",
+"svg": "../svg/0085-belief-supernatural.svg"
+},
+{
+"id": "0086",
+"name": "belongs to",
+"aliases": [
+"of (possessive)"
+],
+"glb": "0086-belongs-to.glb",
+"svg": "../svg/0086-belongs-to.svg"
+},
+{
+"id": "0087",
+"name": "berry",
+"aliases": [],
+"glb": "0087-berry.glb",
+"svg": "../svg/0087-berry.svg"
+},
+{
+"id": "0088",
+"name": "between",
+"aliases": [],
+"glb": "0088-between.glb",
+"svg": "../svg/0088-between.svg"
+},
+{
+"id": "0089",
+"name": "bigness",
+"aliases": [
+"largeness"
+],
+"glb": "0089-bigness.glb",
+"svg": "../svg/0089-bigness.svg"
+},
+{
+"id": "0090",
+"name": "biochemical product",
+"aliases": [
+"organic compound"
+],
+"glb": "0090-biochemical-product.glb",
+"svg": "../svg/0090-biochemical-product.svg"
+},
+{
+"id": "0091",
+"name": "bird",
+"aliases": [],
+"glb": "0091-bird.glb",
+"svg": "../svg/0091-bird.svg"
+},
+{
+"id": "0092",
+"name": "bird of prey",
+"aliases": [
+"raptor"
+],
+"glb": "0092-bird-of-prey.glb",
+"svg": "../svg/0092-bird-of-prey.svg"
+},
+{
+"id": "0093",
+"name": "birth",
+"aliases": [],
+"glb": "0093-birth.glb",
+"svg": "../svg/0093-birth.svg"
+},
+{
+"id": "0094",
+"name": "birth",
+"aliases": [
+"giving birth",
+"parturition",
+"delivery"
+],
+"glb": "0094-birth.glb",
+"svg": "../svg/0094-birth.svg"
+},
+{
+"id": "0095",
+"name": "blindness",
+"aliases": [],
+"glb": "0095-blindness.glb",
+"svg": "../svg/0095-blindness.svg"
+},
+{
+"id": "0096",
+"name": "bliss-name",
+"aliases": [],
+"glb": "0096-bliss-name.glb",
+"svg": "../svg/0096-bliss-name.svg"
+},
+{
+"id": "0097",
+"name": "blissymbol",
+"aliases": [
+"Bliss-word"
+],
+"glb": "0097-blissymbol.glb",
+"svg": "../svg/0097-blissymbol.svg"
+},
+{
+"id": "0098",
+"name": "block",
+"aliases": [
+"brick"
+],
+"glb": "0098-block.glb",
+"svg": "../svg/0098-block.svg"
+},
+{
+"id": "0099",
+"name": "board",
+"aliases": [],
+"glb": "0099-board.glb",
+"svg": "../svg/0099-board.svg"
+},
+{
+"id": "0100",
+"name": "board (material)",
+"aliases": [],
+"glb": "0100-board-material.glb",
+"svg": "../svg/0100-board-material.svg"
+},
+{
+"id": "0101",
+"name": "boarding",
+"aliases": [
+"embarkation (to sea)"
+],
+"glb": "0101-boarding.glb",
+"svg": "../svg/0101-boarding.svg"
+},
+{
+"id": "0102",
+"name": "boat",
+"aliases": [
+"ship"
+],
+"glb": "0102-boat.glb",
+"svg": "../svg/0102-boat.svg"
+},
+{
+"id": "0103",
+"name": "body with mane",
+"aliases": [],
+"glb": "0103-body-with-mane.glb",
+"svg": "../svg/0103-body-with-mane.svg"
+},
+{
+"id": "0104",
+"name": "body with navel",
+"aliases": [],
+"glb": "0104-body-with-navel.glb",
+"svg": "../svg/0104-body-with-navel.svg"
+},
+{
+"id": "0105",
+"name": "body with pubic hair",
+"aliases": [],
+"glb": "0105-body-with-pubic-hair.glb",
+"svg": "../svg/0105-body-with-pubic-hair.svg"
+},
+{
+"id": "0106",
+"name": "body",
+"aliases": [
+"trunk"
+],
+"glb": "0106-body.glb",
+"svg": "../svg/0106-body.svg"
+},
+{
+"id": "0107",
+"name": "bone",
+"aliases": [],
+"glb": "0107-bone.glb",
+"svg": "../svg/0107-bone.svg"
+},
+{
+"id": "0108",
+"name": "bones with joint",
+"aliases": [],
+"glb": "0108-bones-with-joint.glb",
+"svg": "../svg/0108-bones-with-joint.svg"
+},
+{
+"id": "0109",
+"name": "book",
+"aliases": [],
+"glb": "0109-book.glb",
+"svg": "../svg/0109-book.svg"
+},
+{
+"id": "0110",
+"name": "boom",
+"aliases": [],
+"glb": "0110-boom.glb",
+"svg": "../svg/0110-boom.svg"
+},
+{
+"id": "0111",
+"name": "bottle",
+"aliases": [
+"flask"
+],
+"glb": "0111-bottle.glb",
+"svg": "../svg/0111-bottle.svg"
+},
+{
+"id": "0112",
+"name": "bottleneck",
+"aliases": [
+"bottle opening"
+],
+"glb": "0112-bottleneck.glb",
+"svg": "../svg/0112-bottleneck.svg"
+},
+{
+"id": "0113",
+"name": "bottom",
+"aliases": [
+"base"
+],
+"glb": "0113-bottom.glb",
+"svg": "../svg/0113-bottom.svg"
+},
+{
+"id": "0114",
+"name": "bottom",
+"aliases": [
+"bottom of a thing"
+],
+"glb": "0114-bottom.glb",
+"svg": "../svg/0114-bottom.svg"
+},
+{
+"id": "0115",
+"name": "bow",
+"aliases": [
+"arc"
+],
+"glb": "0115-bow.glb",
+"svg": "../svg/0115-bow.svg"
+},
+{
+"id": "0116",
+"name": "bow",
+"aliases": [
+"fore"
+],
+"glb": "0116-bow.glb",
+"svg": "../svg/0116-bow.svg"
+},
+{
+"id": "0117",
+"name": "bow (knot)",
+"aliases": [],
+"glb": "0117-bow-knot.glb",
+"svg": "../svg/0117-bow-knot.svg"
+},
+{
+"id": "0118",
+"name": "bow (musical instrument)",
+"aliases": [],
+"glb": "0118-bow-musical-instrument.glb",
+"svg": "../svg/0118-bow-musical-instrument.svg"
+},
+{
+"id": "0119",
+"name": "bow and arrow",
+"aliases": [],
+"glb": "0119-bow-and-arrow.glb",
+"svg": "../svg/0119-bow-and-arrow.svg"
+},
+{
+"id": "0120",
+"name": "bow and string (musical)",
+"aliases": [],
+"glb": "0120-bow-and-string-musical.glb",
+"svg": "../svg/0120-bow-and-string-musical.svg"
+},
+{
+"id": "0121",
+"name": "box",
+"aliases": [
+"cube"
+],
+"glb": "0121-box.glb",
+"svg": "../svg/0121-box.svg"
+},
+{
+"id": "0122",
+"name": "boy",
+"aliases": [
+"lad"
+],
+"glb": "0122-boy.glb",
+"svg": "../svg/0122-boy.svg"
+},
+{
+"id": "0123",
+"name": "brain signal",
+"aliases": [],
+"glb": "0123-brain-signal.glb",
+"svg": "../svg/0123-brain-signal.svg"
+},
+{
+"id": "0124",
+"name": "branch",
+"aliases": [],
+"glb": "0124-branch.glb",
+"svg": "../svg/0124-branch.svg"
+},
+{
+"id": "0125",
+"name": "bread",
+"aliases": [
+"loaf of bread",
+"loaf"
+],
+"glb": "0125-bread.glb",
+"svg": "../svg/0125-bread.svg"
+},
+{
+"id": "0126",
+"name": "bread surface",
+"aliases": [],
+"glb": "0126-bread-surface.glb",
+"svg": "../svg/0126-bread-surface.svg"
+},
+{
+"id": "0127",
+"name": "break",
+"aliases": [
+"fracture",
+"damage"
+],
+"glb": "0127-break.glb",
+"svg": "../svg/0127-break.svg"
+},
+{
+"id": "0128",
+"name": "breast(s)",
+"aliases": [],
+"glb": "0128-breast-s.glb",
+"svg": "../svg/0128-breast-s.svg"
+},
+{
+"id": "0129",
+"name": "bridge",
+"aliases": [
+"overpass"
+],
+"glb": "0129-bridge.glb",
+"svg": "../svg/0129-bridge.svg"
+},
+{
+"id": "0130",
+"name": "broom",
+"aliases": [],
+"glb": "0130-broom.glb",
+"svg": "../svg/0130-broom.svg"
+},
+{
+"id": "0131",
+"name": "brush",
+"aliases": [],
+"glb": "0131-brush.glb",
+"svg": "../svg/0131-brush.svg"
+},
+{
+"id": "0132",
+"name": "bubble",
+"aliases": [],
+"glb": "0132-bubble.glb",
+"svg": "../svg/0132-bubble.svg"
+},
+{
+"id": "0133",
+"name": "buffalo",
+"aliases": [
+"bison"
+],
+"glb": "0133-buffalo.glb",
+"svg": "../svg/0133-buffalo.svg"
+},
+{
+"id": "0134",
+"name": "building with attic",
+"aliases": [],
+"glb": "0134-building-with-attic.glb",
+"svg": "../svg/0134-building-with-attic.svg"
+},
+{
+"id": "0135",
+"name": "building with cellar",
+"aliases": [],
+"glb": "0135-building-with-cellar.glb",
+"svg": "../svg/0135-building-with-cellar.svg"
+},
+{
+"id": "0136",
+"name": "building with chimney",
+"aliases": [],
+"glb": "0136-building-with-chimney.glb",
+"svg": "../svg/0136-building-with-chimney.svg"
+},
+{
+"id": "0137",
+"name": "building with foundation",
+"aliases": [],
+"glb": "0137-building-with-foundation.glb",
+"svg": "../svg/0137-building-with-foundation.svg"
+},
+{
+"id": "0138",
+"name": "building with storey",
+"aliases": [],
+"glb": "0138-building-with-storey.glb",
+"svg": "../svg/0138-building-with-storey.svg"
+},
+{
+"id": "0139",
+"name": "building with yard and fence",
+"aliases": [],
+"glb": "0139-building-with-yard-and-fence.glb",
+"svg": "../svg/0139-building-with-yard-and-fence.svg"
+},
+{
+"id": "0140",
+"name": "buildings with courtyard",
+"aliases": [],
+"glb": "0140-buildings-with-courtyard.glb",
+"svg": "../svg/0140-buildings-with-courtyard.svg"
+},
+{
+"id": "0141",
+"name": "bulb (flower)",
+"aliases": [],
+"glb": "0141-bulb-flower.glb",
+"svg": "../svg/0141-bulb-flower.svg"
+},
+{
+"id": "0142",
+"name": "bulb (plant)",
+"aliases": [],
+"glb": "0142-bulb-plant.glb",
+"svg": "../svg/0142-bulb-plant.svg"
+},
+{
+"id": "0143",
+"name": "bulbous plant",
+"aliases": [],
+"glb": "0143-bulbous-plant.glb",
+"svg": "../svg/0143-bulbous-plant.svg"
+},
+{
+"id": "0144",
+"name": "bump",
+"aliases": [
+"press",
+"pressing"
+],
+"glb": "0144-bump.glb",
+"svg": "../svg/0144-bump.svg"
+},
+{
+"id": "0145",
+"name": "bun (food)",
+"aliases": [],
+"glb": "0145-bun-food.glb",
+"svg": "../svg/0145-bun-food.svg"
+},
+{
+"id": "0146",
+"name": "bus",
+"aliases": [
+"coach"
+],
+"glb": "0146-bus.glb",
+"svg": "../svg/0146-bus.svg"
+},
+{
+"id": "0147",
+"name": "bus stop",
+"aliases": [
+"bus bay (OLD)"
+],
+"glb": "0147-bus-stop.glb",
+"svg": "../svg/0147-bus-stop.svg"
+},
+{
+"id": "0148",
+"name": "bush",
+"aliases": [
+"shrub"
+],
+"glb": "0148-bush.glb",
+"svg": "../svg/0148-bush.svg"
+},
+{
+"id": "0149",
+"name": "business",
+"aliases": [
+"economy",
+"commerce",
+"trade"
+],
+"glb": "0149-business.glb",
+"svg": "../svg/0149-business.svg"
+},
+{
+"id": "0150",
+"name": "but",
+"aliases": [
+"except"
+],
+"glb": "0150-but.glb",
+"svg": "../svg/0150-but.svg"
+},
+{
+"id": "0151",
+"name": "butterfly",
+"aliases": [
+"moth"
+],
+"glb": "0151-butterfly.glb",
+"svg": "../svg/0151-butterfly.svg"
+},
+{
+"id": "0152",
+"name": "buttocks",
+"aliases": [
+"bottom",
+"bum",
+"rear",
+"ass"
+],
+"glb": "0152-buttocks.glb",
+"svg": "../svg/0152-buttocks.svg"
+},
+{
+"id": "0153",
+"name": "buttocks and genitals",
+"aliases": [],
+"glb": "0153-buttocks-and-genitals.glb",
+"svg": "../svg/0153-buttocks-and-genitals.svg"
+},
+{
+"id": "0154",
+"name": "by",
+"aliases": [
+"by means of",
+"of"
+],
+"glb": "0154-by.glb",
+"svg": "../svg/0154-by.svg"
+},
+{
+"id": "0155",
+"name": "c (lowercase)",
+"aliases": [],
+"glb": "0155-c-lowercase.glb",
+"svg": "../svg/0155-c-lowercase.svg"
+},
+{
+"id": "0156",
+"name": "C (uppercase)",
+"aliases": [],
+"glb": "0156-c-uppercase.glb",
+"svg": "../svg/0156-c-uppercase.svg"
+},
+{
+"id": "0157",
+"name": "cabbage",
+"aliases": [],
+"glb": "0157-cabbage.glb",
+"svg": "../svg/0157-cabbage.svg"
+},
+{
+"id": "0158",
+"name": "calculation (mathematical",
+"aliases": [
+"in mind)"
+],
+"glb": "0158-calculation-mathematical.glb",
+"svg": "../svg/0158-calculation-mathematical.svg"
+},
+{
+"id": "0159",
+"name": "camel",
+"aliases": [],
+"glb": "0159-camel.glb",
+"svg": "../svg/0159-camel.svg"
+},
+{
+"id": "0160",
+"name": "camera",
+"aliases": [],
+"glb": "0160-camera.glb",
+"svg": "../svg/0160-camera.svg"
+},
+{
+"id": "0161",
+"name": "camper",
+"aliases": [
+"caravan",
+"mobile home"
+],
+"glb": "0161-camper.glb",
+"svg": "../svg/0161-camper.svg"
+},
+{
+"id": "0162",
+"name": "can",
+"aliases": [
+"tin",
+"jar"
+],
+"glb": "0162-can.glb",
+"svg": "../svg/0162-can.svg"
+},
+{
+"id": "0163",
+"name": "candy",
+"aliases": [],
+"glb": "0163-candy.glb",
+"svg": "../svg/0163-candy.svg"
+},
+{
+"id": "0164",
+"name": "cannon",
+"aliases": [
+"gun"
+],
+"glb": "0164-cannon.glb",
+"svg": "../svg/0164-cannon.svg"
+},
+{
+"id": "0165",
+"name": "cap",
+"aliases": [],
+"glb": "0165-cap.glb",
+"svg": "../svg/0165-cap.svg"
+},
+{
+"id": "0166",
+"name": "car",
+"aliases": [
+"automobile",
+"motor vehicle"
+],
+"glb": "0166-car.glb",
+"svg": "../svg/0166-car.svg"
+},
+{
+"id": "0167",
+"name": "card",
+"aliases": [],
+"glb": "0167-card.glb",
+"svg": "../svg/0167-card.svg"
+},
+{
+"id": "0168",
+"name": "carrot",
+"aliases": [
+"vegetable (wedge-shaped)"
+],
+"glb": "0168-carrot.glb",
+"svg": "../svg/0168-carrot.svg"
+},
+{
+"id": "0169",
+"name": "cart",
+"aliases": [
+"carriage"
+],
+"glb": "0169-cart.glb",
+"svg": "../svg/0169-cart.svg"
+},
+{
+"id": "0170",
+"name": "case",
+"aliases": [
+"casing"
+],
+"glb": "0170-case.glb",
+"svg": "../svg/0170-case.svg"
+},
+{
+"id": "0171",
+"name": "cassette",
+"aliases": [
+"audiocassette",
+"videocassette"
+],
+"glb": "0171-cassette.glb",
+"svg": "../svg/0171-cassette.svg"
+},
+{
+"id": "0172",
+"name": "castle",
+"aliases": [
+"palace"
+],
+"glb": "0172-castle.glb",
+"svg": "../svg/0172-castle.svg"
+},
+{
+"id": "0173",
+"name": "cat",
+"aliases": [
+"feline (animal)",
+"felid"
+],
+"glb": "0173-cat.glb",
+"svg": "../svg/0173-cat.svg"
+},
+{
+"id": "0174",
+"name": "causality",
+"aliases": [],
+"glb": "0174-causality.glb",
+"svg": "../svg/0174-causality.svg"
+},
+{
+"id": "0175",
+"name": "cause",
+"aliases": [],
+"glb": "0175-cause.glb",
+"svg": "../svg/0175-cause.svg"
+},
+{
+"id": "0176",
+"name": "cavity",
+"aliases": [
+"caries"
+],
+"glb": "0176-cavity.glb",
+"svg": "../svg/0176-cavity.svg"
+},
+{
+"id": "0177",
+"name": "ceiling",
+"aliases": [],
+"glb": "0177-ceiling.glb",
+"svg": "../svg/0177-ceiling.svg"
+},
+{
+"id": "0178",
+"name": "celeriac",
+"aliases": [
+"celery"
+],
+"glb": "0178-celeriac.glb",
+"svg": "../svg/0178-celeriac.svg"
+},
+{
+"id": "0179",
+"name": "celery",
+"aliases": [],
+"glb": "0179-celery.glb",
+"svg": "../svg/0179-celery.svg"
+},
+{
+"id": "0180",
+"name": "cell",
+"aliases": [],
+"glb": "0180-cell.glb",
+"svg": "../svg/0180-cell.svg"
+},
+{
+"id": "0181",
+"name": "cent",
+"aliases": [],
+"glb": "0181-cent.glb",
+"svg": "../svg/0181-cent.svg"
+},
+{
+"id": "0182",
+"name": "cereal",
+"aliases": [],
+"glb": "0182-cereal.glb",
+"svg": "../svg/0182-cereal.svg"
+},
+{
+"id": "0183",
+"name": "chain",
+"aliases": [],
+"glb": "0183-chain.glb",
+"svg": "../svg/0183-chain.svg"
+},
+{
+"id": "0184",
+"name": "chair",
+"aliases": [
+"seat"
+],
+"glb": "0184-chair.glb",
+"svg": "../svg/0184-chair.svg"
+},
+{
+"id": "0185",
+"name": "chairman",
+"aliases": [],
+"glb": "0185-chairman.glb",
+"svg": "../svg/0185-chairman.svg"
+},
+{
+"id": "0186",
+"name": "change",
+"aliases": [
+"alteration",
+"conversion"
+],
+"glb": "0186-change.glb",
+"svg": "../svg/0186-change.svg"
+},
+{
+"id": "0187",
+"name": "cheek",
+"aliases": [],
+"glb": "0187-cheek.glb",
+"svg": "../svg/0187-cheek.svg"
+},
+{
+"id": "0188",
+"name": "cheese",
+"aliases": [],
+"glb": "0188-cheese.glb",
+"svg": "../svg/0188-cheese.svg"
+},
+{
+"id": "0189",
+"name": "chemical product",
+"aliases": [],
+"glb": "0189-chemical-product.glb",
+"svg": "../svg/0189-chemical-product.svg"
+},
+{
+"id": "0190",
+"name": "cherry (cherries)",
+"aliases": [],
+"glb": "0190-cherry-cherries.glb",
+"svg": "../svg/0190-cherry-cherries.svg"
+},
+{
+"id": "0191",
+"name": "chest",
+"aliases": [],
+"glb": "0191-chest.glb",
+"svg": "../svg/0191-chest.svg"
+},
+{
+"id": "0192",
+"name": "chest of drawers",
+"aliases": [
+"bureau",
+"dresser"
+],
+"glb": "0192-chest-of-drawers.glb",
+"svg": "../svg/0192-chest-of-drawers.svg"
+},
+{
+"id": "0193",
+"name": "child",
+"aliases": [
+"kid",
+"youngster"
+],
+"glb": "0193-child.glb",
+"svg": "../svg/0193-child.svg"
+},
+{
+"id": "0194",
+"name": "chimney",
+"aliases": [],
+"glb": "0194-chimney.glb",
+"svg": "../svg/0194-chimney.svg"
+},
+{
+"id": "0195",
+"name": "chin",
+"aliases": [],
+"glb": "0195-chin.glb",
+"svg": "../svg/0195-chin.svg"
+},
+{
+"id": "0196",
+"name": "choice",
+"aliases": [
+"selection",
+"election"
+],
+"glb": "0196-choice.glb",
+"svg": "../svg/0196-choice.svg"
+},
+{
+"id": "0197",
+"name": "cigarette",
+"aliases": [],
+"glb": "0197-cigarette.glb",
+"svg": "../svg/0197-cigarette.svg"
+},
+{
+"id": "0198",
+"name": "citizen",
+"aliases": [],
+"glb": "0198-citizen.glb",
+"svg": "../svg/0198-citizen.svg"
+},
+{
+"id": "0199",
+"name": "claw (animal)",
+"aliases": [],
+"glb": "0199-claw-animal.glb",
+"svg": "../svg/0199-claw-animal.svg"
+},
+{
+"id": "0200",
+"name": "claw (bird)",
+"aliases": [],
+"glb": "0200-claw-bird.glb",
+"svg": "../svg/0200-claw-bird.svg"
+},
+{
+"id": "0201",
+"name": "claw (shellfish)",
+"aliases": [],
+"glb": "0201-claw-shellfish.glb",
+"svg": "../svg/0201-claw-shellfish.svg"
+},
+{
+"id": "0202",
+"name": "cloth",
+"aliases": [
+"fabric",
+"material",
+"textile",
+"net"
+],
+"glb": "0202-cloth.glb",
+"svg": "../svg/0202-cloth.svg"
+},
+{
+"id": "0203",
+"name": "clothing",
+"aliases": [
+"clothes",
+"garment"
+],
+"glb": "0203-clothing.glb",
+"svg": "../svg/0203-clothing.svg"
+},
+{
+"id": "0204",
+"name": "cloud",
+"aliases": [],
+"glb": "0204-cloud.glb",
+"svg": "../svg/0204-cloud.svg"
+},
+{
+"id": "0205",
+"name": "coarse slang",
+"aliases": [],
+"glb": "0205-coarse-slang.glb",
+"svg": "../svg/0205-coarse-slang.svg"
+},
+{
+"id": "0206",
+"name": "cod",
+"aliases": [
+"codfish"
+],
+"glb": "0206-cod.glb",
+"svg": "../svg/0206-cod.svg"
+},
+{
+"id": "0207",
+"name": "coffin",
+"aliases": [],
+"glb": "0207-coffin.glb",
+"svg": "../svg/0207-coffin.svg"
+},
+{
+"id": "0208",
+"name": "coldness",
+"aliases": [
+"cold"
+],
+"glb": "0208-coldness.glb",
+"svg": "../svg/0208-coldness.svg"
+},
+{
+"id": "0209",
+"name": "colon",
+"aliases": [],
+"glb": "0209-colon.glb",
+"svg": "../svg/0209-colon.svg"
+},
+{
+"id": "0210",
+"name": "colour",
+"aliases": [],
+"glb": "0210-colour.glb",
+"svg": "../svg/0210-colour.svg"
+},
+{
+"id": "0211",
+"name": "comb",
+"aliases": [],
+"glb": "0211-comb.glb",
+"svg": "../svg/0211-comb.svg"
+},
+{
+"id": "0212",
+"name": "combination",
+"aliases": [
+"connection"
+],
+"glb": "0212-combination.glb",
+"svg": "../svg/0212-combination.svg"
+},
+{
+"id": "0213",
+"name": "combine marker",
+"aliases": [],
+"glb": "0213-combine-marker.glb",
+"svg": "../svg/0213-combine-marker.svg"
+},
+{
+"id": "0214",
+"name": "comet",
+"aliases": [],
+"glb": "0214-comet.glb",
+"svg": "../svg/0214-comet.svg"
+},
+{
+"id": "0215",
+"name": "comma",
+"aliases": [],
+"glb": "0215-comma.glb",
+"svg": "../svg/0215-comma.svg"
+},
+{
+"id": "0216",
+"name": "commandments",
+"aliases": [],
+"glb": "0216-commandments.glb",
+"svg": "../svg/0216-commandments.svg"
+},
+{
+"id": "0217",
+"name": "comparative more",
+"aliases": [],
+"glb": "0217-comparative-more.glb",
+"svg": "../svg/0217-comparative-more.svg"
+},
+{
+"id": "0218",
+"name": "compression",
+"aliases": [
+"compressing",
+"squeezing"
+],
+"glb": "0218-compression.glb",
+"svg": "../svg/0218-compression.svg"
+},
+{
+"id": "0219",
+"name": "conception",
+"aliases": [
+"fertilization",
+"fertilized egg"
+],
+"glb": "0219-conception.glb",
+"svg": "../svg/0219-conception.svg"
+},
+{
+"id": "0220",
+"name": "condensation",
+"aliases": [],
+"glb": "0220-condensation.glb",
+"svg": "../svg/0220-condensation.svg"
+},
+{
+"id": "0221",
+"name": "cone",
+"aliases": [],
+"glb": "0221-cone.glb",
+"svg": "../svg/0221-cone.svg"
+},
+{
+"id": "0222",
+"name": "conscience",
+"aliases": [],
+"glb": "0222-conscience.glb",
+"svg": "../svg/0222-conscience.svg"
+},
+{
+"id": "0223",
+"name": "consideration",
+"aliases": [
+"thoughtfulness"
+],
+"glb": "0223-consideration.glb",
+"svg": "../svg/0223-consideration.svg"
+},
+{
+"id": "0224",
+"name": "container",
+"aliases": [
+"basket (high)"
+],
+"glb": "0224-container.glb",
+"svg": "../svg/0224-container.svg"
+},
+{
+"id": "0225",
+"name": "container",
+"aliases": [
+"bowl",
+"holder",
+"pouch",
+"basket"
+],
+"glb": "0225-container.glb",
+"svg": "../svg/0225-container.svg"
+},
+{
+"id": "0226",
+"name": "container (low)",
+"aliases": [],
+"glb": "0226-container-low.glb",
+"svg": "../svg/0226-container-low.svg"
+},
+{
+"id": "0227",
+"name": "continuance",
+"aliases": [
+"continuation"
+],
+"glb": "0227-continuance.glb",
+"svg": "../svg/0227-continuance.svg"
+},
+{
+"id": "0228",
+"name": "corn",
+"aliases": [],
+"glb": "0228-corn.glb",
+"svg": "../svg/0228-corn.svg"
+},
+{
+"id": "0229",
+"name": "corner",
+"aliases": [],
+"glb": "0229-corner.glb",
+"svg": "../svg/0229-corner.svg"
+},
+{
+"id": "0230",
+"name": "corner (room)",
+"aliases": [],
+"glb": "0230-corner-room.glb",
+"svg": "../svg/0230-corner-room.svg"
+},
+{
+"id": "0231",
+"name": "correct thinking",
+"aliases": [],
+"glb": "0231-correct-thinking.glb",
+"svg": "../svg/0231-correct-thinking.svg"
+},
+{
+"id": "0232",
+"name": "couch",
+"aliases": [
+"chesterfield",
+"sofa"
+],
+"glb": "0232-couch.glb",
+"svg": "../svg/0232-couch.svg"
+},
+{
+"id": "0233",
+"name": "country",
+"aliases": [
+"state"
+],
+"glb": "0233-country.glb",
+"svg": "../svg/0233-country.svg"
+},
+{
+"id": "0234",
+"name": "countryside",
+"aliases": [
+"country",
+"nature"
+],
+"glb": "0234-countryside.glb",
+"svg": "../svg/0234-countryside.svg"
+},
+{
+"id": "0235",
+"name": "couple (female)",
+"aliases": [],
+"glb": "0235-couple-female.glb",
+"svg": "../svg/0235-couple-female.svg"
+},
+{
+"id": "0236",
+"name": "couple (heterosexual)",
+"aliases": [],
+"glb": "0236-couple-heterosexual.glb",
+"svg": "../svg/0236-couple-heterosexual.svg"
+},
+{
+"id": "0237",
+"name": "couple (male)",
+"aliases": [],
+"glb": "0237-couple-male.glb",
+"svg": "../svg/0237-couple-male.svg"
+},
+{
+"id": "0238",
+"name": "crab",
+"aliases": [
+"shellfish (with claws)"
+],
+"glb": "0238-crab.glb",
+"svg": "../svg/0238-crab.svg"
+},
+{
+"id": "0239",
+"name": "creation",
+"aliases": [
+"nature"
+],
+"glb": "0239-creation.glb",
+"svg": "../svg/0239-creation.svg"
+},
+{
+"id": "0240",
+"name": "cross",
+"aliases": [
+"Christianity (in combinations)"
+],
+"glb": "0240-cross.glb",
+"svg": "../svg/0240-cross.svg"
+},
+{
+"id": "0241",
+"name": "crossed racquets (OLD)",
+"aliases": [],
+"glb": "0241-crossed-racquets-old.glb",
+"svg": "../svg/0241-crossed-racquets-old.svg"
+},
+{
+"id": "0242",
+"name": "crotch",
+"aliases": [],
+"glb": "0242-crotch.glb",
+"svg": "../svg/0242-crotch.svg"
+},
+{
+"id": "0243",
+"name": "crown",
+"aliases": [],
+"glb": "0243-crown.glb",
+"svg": "../svg/0243-crown.svg"
+},
+{
+"id": "0244",
+"name": "crystal",
+"aliases": [],
+"glb": "0244-crystal.glb",
+"svg": "../svg/0244-crystal.svg"
+},
+{
+"id": "0245",
+"name": "cup",
+"aliases": [],
+"glb": "0245-cup.glb",
+"svg": "../svg/0245-cup.svg"
+},
+{
+"id": "0246",
+"name": "cupboard",
+"aliases": [
+"closet",
+"wardrobe"
+],
+"glb": "0246-cupboard.glb",
+"svg": "../svg/0246-cupboard.svg"
+},
+{
+"id": "0247",
+"name": "currant(s)",
+"aliases": [],
+"glb": "0247-currant-s.glb",
+"svg": "../svg/0247-currant-s.svg"
+},
+{
+"id": "0248",
+"name": "curtain(s)",
+"aliases": [
+"drape(s)"
+],
+"glb": "0248-curtain-s.glb",
+"svg": "../svg/0248-curtain-s.svg"
+},
+{
+"id": "0249",
+"name": "curve",
+"aliases": [
+"curved line"
+],
+"glb": "0249-curve.glb",
+"svg": "../svg/0249-curve.svg"
+},
+{
+"id": "0250",
+"name": "cylinder",
+"aliases": [
+"can"
+],
+"glb": "0250-cylinder.glb",
+"svg": "../svg/0250-cylinder.svg"
+},
+{
+"id": "0251",
+"name": "d (lowercase)",
+"aliases": [],
+"glb": "0251-d-lowercase.glb",
+"svg": "../svg/0251-d-lowercase.svg"
+},
+{
+"id": "0252",
+"name": "D (uppercase)",
+"aliases": [],
+"glb": "0252-d-uppercase.glb",
+"svg": "../svg/0252-d-uppercase.svg"
+},
+{
+"id": "0253",
+"name": "danger",
+"aliases": [],
+"glb": "0253-danger.glb",
+"svg": "../svg/0253-danger.svg"
+},
+{
+"id": "0254",
+"name": "daughter",
+"aliases": [],
+"glb": "0254-daughter.glb",
+"svg": "../svg/0254-daughter.svg"
+},
+{
+"id": "0255",
+"name": "day",
+"aliases": [],
+"glb": "0255-day.glb",
+"svg": "../svg/0255-day.svg"
+},
+{
+"id": "0256",
+"name": "deafness",
+"aliases": [],
+"glb": "0256-deafness.glb",
+"svg": "../svg/0256-deafness.svg"
+},
+{
+"id": "0257",
+"name": "death",
+"aliases": [],
+"glb": "0257-death.glb",
+"svg": "../svg/0257-death.svg"
+},
+{
+"id": "0258",
+"name": "debarkation",
+"aliases": [
+"disembarkation (ashore)"
+],
+"glb": "0258-debarkation.glb",
+"svg": "../svg/0258-debarkation.svg"
+},
+{
+"id": "0259",
+"name": "decision",
+"aliases": [],
+"glb": "0259-decision.glb",
+"svg": "../svg/0259-decision.svg"
+},
+{
+"id": "0260",
+"name": "deck",
+"aliases": [],
+"glb": "0260-deck.glb",
+"svg": "../svg/0260-deck.svg"
+},
+{
+"id": "0261",
+"name": "deer",
+"aliases": [
+"cervine (animal)",
+"cervid"
+],
+"glb": "0261-deer.glb",
+"svg": "../svg/0261-deer.svg"
+},
+{
+"id": "0262",
+"name": "degree",
+"aliases": [],
+"glb": "0262-degree.glb",
+"svg": "../svg/0262-degree.svg"
+},
+{
+"id": "0263",
+"name": "deletion",
+"aliases": [
+"cancellation",
+"destruction"
+],
+"glb": "0263-deletion.glb",
+"svg": "../svg/0263-deletion.svg"
+},
+{
+"id": "0264",
+"name": "depth",
+"aliases": [],
+"glb": "0264-depth.glb",
+"svg": "../svg/0264-depth.svg"
+},
+{
+"id": "0265",
+"name": "detachment",
+"aliases": [
+"separation",
+"breakup"
+],
+"glb": "0265-detachment.glb",
+"svg": "../svg/0265-detachment.svg"
+},
+{
+"id": "0266",
+"name": "development",
+"aliases": [],
+"glb": "0266-development.glb",
+"svg": "../svg/0266-development.svg"
+},
+{
+"id": "0267",
+"name": "devil (1)",
+"aliases": [],
+"glb": "0267-devil-1.glb",
+"svg": "../svg/0267-devil-1.svg"
+},
+{
+"id": "0268",
+"name": "Dharma wheel",
+"aliases": [],
+"glb": "0268-dharma-wheel.glb",
+"svg": "../svg/0268-dharma-wheel.svg"
+},
+{
+"id": "0269",
+"name": "diamond (character)",
+"aliases": [],
+"glb": "0269-diamond-character.glb",
+"svg": "../svg/0269-diamond-character.svg"
+},
+{
+"id": "0270",
+"name": "different",
+"aliases": [
+"other",
+"difference"
+],
+"glb": "0270-different.glb",
+"svg": "../svg/0270-different.svg"
+},
+{
+"id": "0271",
+"name": "difficulty",
+"aliases": [],
+"glb": "0271-difficulty.glb",
+"svg": "../svg/0271-difficulty.svg"
+},
+{
+"id": "0272",
+"name": "digging",
+"aliases": [
+"excavation"
+],
+"glb": "0272-digging.glb",
+"svg": "../svg/0272-digging.svg"
+},
+{
+"id": "0273",
+"name": "digital device",
+"aliases": [],
+"glb": "0273-digital-device.glb",
+"svg": "../svg/0273-digital-device.svg"
+},
+{
+"id": "0274",
+"name": "digital space (limited)",
+"aliases": [],
+"glb": "0274-digital-space-limited.glb",
+"svg": "../svg/0274-digital-space-limited.svg"
+},
+{
+"id": "0275",
+"name": "digital world",
+"aliases": [],
+"glb": "0275-digital-world.glb",
+"svg": "../svg/0275-digital-world.svg"
+},
+{
+"id": "0276",
+"name": "digits (computer)",
+"aliases": [],
+"glb": "0276-digits-computer.glb",
+"svg": "../svg/0276-digits-computer.svg"
+},
+{
+"id": "0277",
+"name": "dinosaur",
+"aliases": [],
+"glb": "0277-dinosaur.glb",
+"svg": "../svg/0277-dinosaur.svg"
+},
+{
+"id": "0278",
+"name": "disc",
+"aliases": [
+"disk"
+],
+"glb": "0278-disc.glb",
+"svg": "../svg/0278-disc.svg"
+},
+{
+"id": "0279",
+"name": "discomfort",
+"aliases": [],
+"glb": "0279-discomfort.glb",
+"svg": "../svg/0279-discomfort.svg"
+},
+{
+"id": "0280",
+"name": "dish",
+"aliases": [
+"plate",
+"platter"
+],
+"glb": "0280-dish.glb",
+"svg": "../svg/0280-dish.svg"
+},
+{
+"id": "0281",
+"name": "dispersion",
+"aliases": [
+"dissemination",
+"scattering",
+"spread",
+"spreading"
+],
+"glb": "0281-dispersion.glb",
+"svg": "../svg/0281-dispersion.svg"
+},
+{
+"id": "0282",
+"name": "disturbance",
+"aliases": [
+"unrest"
+],
+"glb": "0282-disturbance.glb",
+"svg": "../svg/0282-disturbance.svg"
+},
+{
+"id": "0283",
+"name": "division",
+"aliases": [],
+"glb": "0283-division.glb",
+"svg": "../svg/0283-division.svg"
+},
+{
+"id": "0284",
+"name": "dog",
+"aliases": [
+"canine (animal)",
+"canid"
+],
+"glb": "0284-dog.glb",
+"svg": "../svg/0284-dog.svg"
+},
+{
+"id": "0285",
+"name": "dollar",
+"aliases": [],
+"glb": "0285-dollar.glb",
+"svg": "../svg/0285-dollar.svg"
+},
+{
+"id": "0286",
+"name": "dolphin",
+"aliases": [
+"porpoise",
+"water mammal (with tail)"
+],
+"glb": "0286-dolphin.glb",
+"svg": "../svg/0286-dolphin.svg"
+},
+{
+"id": "0287",
+"name": "door",
+"aliases": [],
+"glb": "0287-door.glb",
+"svg": "../svg/0287-door.svg"
+},
+{
+"id": "0288",
+"name": "dot",
+"aliases": [],
+"glb": "0288-dot.glb",
+"svg": "../svg/0288-dot.svg"
+},
+{
+"id": "0289",
+"name": "doubt",
+"aliases": [
+"uncertainty"
+],
+"glb": "0289-doubt.glb",
+"svg": "../svg/0289-doubt.svg"
+},
+{
+"id": "0290",
+"name": "down",
+"aliases": [
+"downward"
+],
+"glb": "0290-down.glb",
+"svg": "../svg/0290-down.svg"
+},
+{
+"id": "0291",
+"name": "downward and backward",
+"aliases": [],
+"glb": "0291-downward-and-backward.glb",
+"svg": "../svg/0291-downward-and-backward.svg"
+},
+{
+"id": "0292",
+"name": "downward and forward",
+"aliases": [],
+"glb": "0292-downward-and-forward.glb",
+"svg": "../svg/0292-downward-and-forward.svg"
+},
+{
+"id": "0293",
+"name": "drawer",
+"aliases": [],
+"glb": "0293-drawer.glb",
+"svg": "../svg/0293-drawer.svg"
+},
+{
+"id": "0294",
+"name": "dreidel top",
+"aliases": [],
+"glb": "0294-dreidel-top.glb",
+"svg": "../svg/0294-dreidel-top.svg"
+},
+{
+"id": "0295",
+"name": "drink",
+"aliases": [
+"beverage"
+],
+"glb": "0295-drink.glb",
+"svg": "../svg/0295-drink.svg"
+},
+{
+"id": "0296",
+"name": "dromedary",
+"aliases": [],
+"glb": "0296-dromedary.glb",
+"svg": "../svg/0296-dromedary.svg"
+},
+{
+"id": "0297",
+"name": "drum (1)",
+"aliases": [],
+"glb": "0297-drum-1.glb",
+"svg": "../svg/0297-drum-1.svg"
+},
+{
+"id": "0298",
+"name": "dryness",
+"aliases": [
+"drought"
+],
+"glb": "0298-dryness.glb",
+"svg": "../svg/0298-dryness.svg"
+},
+{
+"id": "0299",
+"name": "duck",
+"aliases": [
+"bird (water)",
+"waterbird",
+"waterfowl",
+"seabird",
+"seafowl"
+],
+"glb": "0299-duck.glb",
+"svg": "../svg/0299-duck.svg"
+},
+{
+"id": "0300",
+"name": "during",
+"aliases": [
+"while"
+],
+"glb": "0300-during.glb",
+"svg": "../svg/0300-during.svg"
+},
+{
+"id": "0301",
+"name": "e (lowercase)",
+"aliases": [],
+"glb": "0301-e-lowercase.glb",
+"svg": "../svg/0301-e-lowercase.svg"
+},
+{
+"id": "0302",
+"name": "E (uppercase)",
+"aliases": [],
+"glb": "0302-e-uppercase.glb",
+"svg": "../svg/0302-e-uppercase.svg"
+},
+{
+"id": "0303",
+"name": "ear",
+"aliases": [],
+"glb": "0303-ear.glb",
+"svg": "../svg/0303-ear.svg"
+},
+{
+"id": "0304",
+"name": "ear mold",
+"aliases": [],
+"glb": "0304-ear-mold.glb",
+"svg": "../svg/0304-ear-mold.svg"
+},
+{
+"id": "0305",
+"name": "earmuffs (general)",
+"aliases": [],
+"glb": "0305-earmuffs-general.glb",
+"svg": "../svg/0305-earmuffs-general.svg"
+},
+{
+"id": "0306",
+"name": "earth",
+"aliases": [
+"globe",
+"world"
+],
+"glb": "0306-earth.glb",
+"svg": "../svg/0306-earth.svg"
+},
+{
+"id": "0307",
+"name": "earth",
+"aliases": [
+"ground",
+"land"
+],
+"glb": "0307-earth.glb",
+"svg": "../svg/0307-earth.svg"
+},
+{
+"id": "0308",
+"name": "Earth axis",
+"aliases": [
+"axis"
+],
+"glb": "0308-earth-axis.glb",
+"svg": "../svg/0308-earth-axis.svg"
+},
+{
+"id": "0309",
+"name": "ease",
+"aliases": [
+"easiness",
+"simplicity"
+],
+"glb": "0309-ease.glb",
+"svg": "../svg/0309-ease.svg"
+},
+{
+"id": "0310",
+"name": "east",
+"aliases": [],
+"glb": "0310-east.glb",
+"svg": "../svg/0310-east.svg"
+},
+{
+"id": "0311",
+"name": "edge",
+"aliases": [],
+"glb": "0311-edge.glb",
+"svg": "../svg/0311-edge.svg"
+},
+{
+"id": "0312",
+"name": "effect",
+"aliases": [
+"result"
+],
+"glb": "0312-effect.glb",
+"svg": "../svg/0312-effect.svg"
+},
+{
+"id": "0313",
+"name": "egg",
+"aliases": [
+"ovum (2)"
+],
+"glb": "0313-egg.glb",
+"svg": "../svg/0313-egg.svg"
+},
+{
+"id": "0314",
+"name": "eight (digit)",
+"aliases": [
+"8"
+],
+"glb": "0314-eight-digit.glb",
+"svg": "../svg/0314-eight-digit.svg"
+},
+{
+"id": "0315",
+"name": "eight (index number)",
+"aliases": [],
+"glb": "0315-eight-index-number.glb",
+"svg": "../svg/0315-eight-index-number.svg"
+},
+{
+"id": "0316",
+"name": "either",
+"aliases": [],
+"glb": "0316-either.glb",
+"svg": "../svg/0316-either.svg"
+},
+{
+"id": "0317",
+"name": "elbow",
+"aliases": [],
+"glb": "0317-elbow.glb",
+"svg": "../svg/0317-elbow.svg"
+},
+{
+"id": "0318",
+"name": "electric field",
+"aliases": [],
+"glb": "0318-electric-field.glb",
+"svg": "../svg/0318-electric-field.svg"
+},
+{
+"id": "0319",
+"name": "electricity",
+"aliases": [],
+"glb": "0319-electricity.glb",
+"svg": "../svg/0319-electricity.svg"
+},
+{
+"id": "0320",
+"name": "electromagnetic radiation",
+"aliases": [],
+"glb": "0320-electromagnetic-radiation.glb",
+"svg": "../svg/0320-electromagnetic-radiation.svg"
+},
+{
+"id": "0321",
+"name": "embryo",
+"aliases": [],
+"glb": "0321-embryo.glb",
+"svg": "../svg/0321-embryo.svg"
+},
+{
+"id": "0322",
+"name": "emptying",
+"aliases": [
+"voidance",
+"evacuation"
+],
+"glb": "0322-emptying.glb",
+"svg": "../svg/0322-emptying.svg"
+},
+{
+"id": "0323",
+"name": "enclosure",
+"aliases": [],
+"glb": "0323-enclosure.glb",
+"svg": "../svg/0323-enclosure.svg"
+},
+{
+"id": "0324",
+"name": "end",
+"aliases": [
+"arrival",
+"stop"
+],
+"glb": "0324-end.glb",
+"svg": "../svg/0324-end.svg"
+},
+{
+"id": "0325",
+"name": "energy",
+"aliases": [],
+"glb": "0325-energy.glb",
+"svg": "../svg/0325-energy.svg"
+},
+{
+"id": "0326",
+"name": "enter (computer)",
+"aliases": [],
+"glb": "0326-enter-computer.glb",
+"svg": "../svg/0326-enter-computer.svg"
+},
+{
+"id": "0327",
+"name": "environment",
+"aliases": [],
+"glb": "0327-environment.glb",
+"svg": "../svg/0327-environment.svg"
+},
+{
+"id": "0328",
+"name": "environs",
+"aliases": [],
+"glb": "0328-environs.glb",
+"svg": "../svg/0328-environs.svg"
+},
+{
+"id": "0329",
+"name": "equator",
+"aliases": [],
+"glb": "0329-equator.glb",
+"svg": "../svg/0329-equator.svg"
+},
+{
+"id": "0330",
+"name": "erection",
+"aliases": [
+"erect penis"
+],
+"glb": "0330-erection.glb",
+"svg": "../svg/0330-erection.svg"
+},
+{
+"id": "0331",
+"name": "etrog",
+"aliases": [],
+"glb": "0331-etrog.glb",
+"svg": "../svg/0331-etrog.svg"
+},
+{
+"id": "0332",
+"name": "Euro",
+"aliases": [],
+"glb": "0332-euro.glb",
+"svg": "../svg/0332-euro.svg"
+},
+{
+"id": "0333",
+"name": "evaluation",
+"aliases": [
+"value"
+],
+"glb": "0333-evaluation.glb",
+"svg": "../svg/0333-evaluation.svg"
+},
+{
+"id": "0334",
+"name": "evaluation",
+"aliases": [
+"value (half-sized)"
+],
+"glb": "0334-evaluation.glb",
+"svg": "../svg/0334-evaluation.svg"
+},
+{
+"id": "0335",
+"name": "evening",
+"aliases": [],
+"glb": "0335-evening.glb",
+"svg": "../svg/0335-evening.svg"
+},
+{
+"id": "0336",
+"name": "event",
+"aliases": [
+"happening",
+"occasion"
+],
+"glb": "0336-event.glb",
+"svg": "../svg/0336-event.svg"
+},
+{
+"id": "0337",
+"name": "evergreen tree",
+"aliases": [
+"spruce",
+"fir",
+"fir tree"
+],
+"glb": "0337-evergreen-tree.glb",
+"svg": "../svg/0337-evergreen-tree.svg"
+},
+{
+"id": "0338",
+"name": "exchange",
+"aliases": [
+"substitution"
+],
+"glb": "0338-exchange.glb",
+"svg": "../svg/0338-exchange.svg"
+},
+{
+"id": "0339",
+"name": "exclamation mark",
+"aliases": [],
+"glb": "0339-exclamation-mark.glb",
+"svg": "../svg/0339-exclamation-mark.svg"
+},
+{
+"id": "0340",
+"name": "existence",
+"aliases": [
+"being (1)"
+],
+"glb": "0340-existence.glb",
+"svg": "../svg/0340-existence.svg"
+},
+{
+"id": "0341",
+"name": "existence",
+"aliases": [
+"being (2)"
+],
+"glb": "0341-existence.glb",
+"svg": "../svg/0341-existence.svg"
+},
+{
+"id": "0342",
+"name": "expectation",
+"aliases": [
+"anticipation"
+],
+"glb": "0342-expectation.glb",
+"svg": "../svg/0342-expectation.svg"
+},
+{
+"id": "0343",
+"name": "explosion",
+"aliases": [
+"detonation",
+"blowup"
+],
+"glb": "0343-explosion.glb",
+"svg": "../svg/0343-explosion.svg"
+},
+{
+"id": "0344",
+"name": "extinction",
+"aliases": [
+"extinguishing (fire)"
+],
+"glb": "0344-extinction.glb",
+"svg": "../svg/0344-extinction.svg"
+},
+{
+"id": "0345",
+"name": "eye",
+"aliases": [],
+"glb": "0345-eye.glb",
+"svg": "../svg/0345-eye.svg"
+},
+{
+"id": "0346",
+"name": "eye with eyebrow",
+"aliases": [],
+"glb": "0346-eye-with-eyebrow.glb",
+"svg": "../svg/0346-eye-with-eyebrow.svg"
+},
+{
+"id": "0347",
+"name": "eyebrow",
+"aliases": [],
+"glb": "0347-eyebrow.glb",
+"svg": "../svg/0347-eyebrow.svg"
+},
+{
+"id": "0348",
+"name": "eyelid(s)",
+"aliases": [],
+"glb": "0348-eyelid-s.glb",
+"svg": "../svg/0348-eyelid-s.svg"
+},
+{
+"id": "0349",
+"name": "eyelid (lower)",
+"aliases": [],
+"glb": "0349-eyelid-lower.glb",
+"svg": "../svg/0349-eyelid-lower.svg"
+},
+{
+"id": "0350",
+"name": "eyelid (upper)",
+"aliases": [],
+"glb": "0350-eyelid-upper.glb",
+"svg": "../svg/0350-eyelid-upper.svg"
+},
+{
+"id": "0351",
+"name": "f (lowercase)",
+"aliases": [],
+"glb": "0351-f-lowercase.glb",
+"svg": "../svg/0351-f-lowercase.svg"
+},
+{
+"id": "0352",
+"name": "F (uppercase)",
+"aliases": [],
+"glb": "0352-f-uppercase.glb",
+"svg": "../svg/0352-f-uppercase.svg"
+},
+{
+"id": "0353",
+"name": "face",
+"aliases": [],
+"glb": "0353-face.glb",
+"svg": "../svg/0353-face.svg"
+},
+{
+"id": "0354",
+"name": "face with beard",
+"aliases": [],
+"glb": "0354-face-with-beard.glb",
+"svg": "../svg/0354-face-with-beard.svg"
+},
+{
+"id": "0355",
+"name": "face with pimple",
+"aliases": [],
+"glb": "0355-face-with-pimple.glb",
+"svg": "../svg/0355-face-with-pimple.svg"
+},
+{
+"id": "0356",
+"name": "fact",
+"aliases": [],
+"glb": "0356-fact.glb",
+"svg": "../svg/0356-fact.svg"
+},
+{
+"id": "0357",
+"name": "failure",
+"aliases": [],
+"glb": "0357-failure.glb",
+"svg": "../svg/0357-failure.svg"
+},
+{
+"id": "0358",
+"name": "family",
+"aliases": [],
+"glb": "0358-family.glb",
+"svg": "../svg/0358-family.svg"
+},
+{
+"id": "0359",
+"name": "family",
+"aliases": [
+"couple"
+],
+"glb": "0359-family.glb",
+"svg": "../svg/0359-family.svg"
+},
+{
+"id": "0360",
+"name": "family",
+"aliases": [
+"couple (female)"
+],
+"glb": "0360-family.glb",
+"svg": "../svg/0360-family.svg"
+},
+{
+"id": "0361",
+"name": "family",
+"aliases": [
+"couple (male)"
+],
+"glb": "0361-family.glb",
+"svg": "../svg/0361-family.svg"
+},
+{
+"id": "0362",
+"name": "family (cohabiting)",
+"aliases": [],
+"glb": "0362-family-cohabiting.glb",
+"svg": "../svg/0362-family-cohabiting.svg"
+},
+{
+"id": "0363",
+"name": "family (female)",
+"aliases": [],
+"glb": "0363-family-female.glb",
+"svg": "../svg/0363-family-female.svg"
+},
+{
+"id": "0364",
+"name": "family (male)",
+"aliases": [],
+"glb": "0364-family-male.glb",
+"svg": "../svg/0364-family-male.svg"
+},
+{
+"id": "0365",
+"name": "family (traditional)",
+"aliases": [],
+"glb": "0365-family-traditional.glb",
+"svg": "../svg/0365-family-traditional.svg"
+},
+{
+"id": "0366",
+"name": "fan",
+"aliases": [],
+"glb": "0366-fan.glb",
+"svg": "../svg/0366-fan.svg"
+},
+{
+"id": "0367",
+"name": "fantasy",
+"aliases": [
+"phantasy",
+"imagination",
+"illusion"
+],
+"glb": "0367-fantasy.glb",
+"svg": "../svg/0367-fantasy.svg"
+},
+{
+"id": "0368",
+"name": "farm",
+"aliases": [],
+"glb": "0368-farm.glb",
+"svg": "../svg/0368-farm.svg"
+},
+{
+"id": "0369",
+"name": "farness",
+"aliases": [
+"remoteness",
+"farawayness"
+],
+"glb": "0369-farness.glb",
+"svg": "../svg/0369-farness.svg"
+},
+{
+"id": "0370",
+"name": "farness",
+"aliases": [
+"remoteness",
+"farawayness (OLD)"
+],
+"glb": "0370-farness.glb",
+"svg": "../svg/0370-farness.svg"
+},
+{
+"id": "0371",
+"name": "father",
+"aliases": [
+"dad",
+"daddy",
+"papa",
+"pa",
+"pop"
+],
+"glb": "0371-father.glb",
+"svg": "../svg/0371-father.svg"
+},
+{
+"id": "0372",
+"name": "fatness",
+"aliases": [
+"thickness"
+],
+"glb": "0372-fatness.glb",
+"svg": "../svg/0372-fatness.svg"
+},
+{
+"id": "0373",
+"name": "fatness",
+"aliases": [
+"thickness (OLD)"
+],
+"glb": "0373-fatness.glb",
+"svg": "../svg/0373-fatness.svg"
+},
+{
+"id": "0374",
+"name": "feeling",
+"aliases": [
+"emotion",
+"sensation"
+],
+"glb": "0374-feeling.glb",
+"svg": "../svg/0374-feeling.svg"
+},
+{
+"id": "0375",
+"name": "female (gender)",
+"aliases": [],
+"glb": "0375-female-gender.glb",
+"svg": "../svg/0375-female-gender.svg"
+},
+{
+"id": "0376",
+"name": "fence",
+"aliases": [
+"wall"
+],
+"glb": "0376-fence.glb",
+"svg": "../svg/0376-fence.svg"
+},
+{
+"id": "0377",
+"name": "fetus",
+"aliases": [],
+"glb": "0377-fetus.glb",
+"svg": "../svg/0377-fetus.svg"
+},
+{
+"id": "0378",
+"name": "fiber",
+"aliases": [
+"fibre",
+"fibril",
+"filament",
+"strand"
+],
+"glb": "0378-fiber.glb",
+"svg": "../svg/0378-fiber.svg"
+},
+{
+"id": "0379",
+"name": "field",
+"aliases": [],
+"glb": "0379-field.glb",
+"svg": "../svg/0379-field.svg"
+},
+{
+"id": "0380",
+"name": "fight",
+"aliases": [
+"combat"
+],
+"glb": "0380-fight.glb",
+"svg": "../svg/0380-fight.svg"
+},
+{
+"id": "0381",
+"name": "file",
+"aliases": [
+"data file (digital)"
+],
+"glb": "0381-file.glb",
+"svg": "../svg/0381-file.svg"
+},
+{
+"id": "0382",
+"name": "filling",
+"aliases": [
+"fill",
+"fullness"
+],
+"glb": "0382-filling.glb",
+"svg": "../svg/0382-filling.svg"
+},
+{
+"id": "0383",
+"name": "finger",
+"aliases": [],
+"glb": "0383-finger.glb",
+"svg": "../svg/0383-finger.svg"
+},
+{
+"id": "0384",
+"name": "fire",
+"aliases": [],
+"glb": "0384-fire.glb",
+"svg": "../svg/0384-fire.svg"
+},
+{
+"id": "0385",
+"name": "fireplace",
+"aliases": [],
+"glb": "0385-fireplace.glb",
+"svg": "../svg/0385-fireplace.svg"
+},
+{
+"id": "0386",
+"name": "fish (animal)",
+"aliases": [],
+"glb": "0386-fish-animal.glb",
+"svg": "../svg/0386-fish-animal.svg"
+},
+{
+"id": "0387",
+"name": "five (digit)",
+"aliases": [
+"5"
+],
+"glb": "0387-five-digit.glb",
+"svg": "../svg/0387-five-digit.svg"
+},
+{
+"id": "0388",
+"name": "five (index number)",
+"aliases": [],
+"glb": "0388-five-index-number.glb",
+"svg": "../svg/0388-five-index-number.svg"
+},
+{
+"id": "0389",
+"name": "fjord",
+"aliases": [],
+"glb": "0389-fjord.glb",
+"svg": "../svg/0389-fjord.svg"
+},
+{
+"id": "0390",
+"name": "flag",
+"aliases": [],
+"glb": "0390-flag.glb",
+"svg": "../svg/0390-flag.svg"
+},
+{
+"id": "0391",
+"name": "floating container",
+"aliases": [],
+"glb": "0391-floating-container.glb",
+"svg": "../svg/0391-floating-container.svg"
+},
+{
+"id": "0392",
+"name": "floor",
+"aliases": [],
+"glb": "0392-floor.glb",
+"svg": "../svg/0392-floor.svg"
+},
+{
+"id": "0393",
+"name": "floor",
+"aliases": [
+"storey",
+"level",
+"etage"
+],
+"glb": "0393-floor.glb",
+"svg": "../svg/0393-floor.svg"
+},
+{
+"id": "0394",
+"name": "floor covering",
+"aliases": [
+"linoleum"
+],
+"glb": "0394-floor-covering.glb",
+"svg": "../svg/0394-floor-covering.svg"
+},
+{
+"id": "0395",
+"name": "flower",
+"aliases": [],
+"glb": "0395-flower.glb",
+"svg": "../svg/0395-flower.svg"
+},
+{
+"id": "0396",
+"name": "flower",
+"aliases": [
+"bloom",
+"blossom"
+],
+"glb": "0396-flower.glb",
+"svg": "../svg/0396-flower.svg"
+},
+{
+"id": "0397",
+"name": "flower (from bulb)",
+"aliases": [],
+"glb": "0397-flower-from-bulb.glb",
+"svg": "../svg/0397-flower-from-bulb.svg"
+},
+{
+"id": "0398",
+"name": "flute",
+"aliases": [
+"recorder"
+],
+"glb": "0398-flute.glb",
+"svg": "../svg/0398-flute.svg"
+},
+{
+"id": "0399",
+"name": "flute",
+"aliases": [
+"transverse flute"
+],
+"glb": "0399-flute.glb",
+"svg": "../svg/0399-flute.svg"
+},
+{
+"id": "0400",
+"name": "fly",
+"aliases": [
+"flying insect"
+],
+"glb": "0400-fly.glb",
+"svg": "../svg/0400-fly.svg"
+},
+{
+"id": "0401",
+"name": "fog",
+"aliases": [],
+"glb": "0401-fog.glb",
+"svg": "../svg/0401-fog.svg"
+},
+{
+"id": "0402",
+"name": "fold",
+"aliases": [
+"folding",
+"pleating"
+],
+"glb": "0402-fold.glb",
+"svg": "../svg/0402-fold.svg"
+},
+{
+"id": "0403",
+"name": "folder",
+"aliases": [],
+"glb": "0403-folder.glb",
+"svg": "../svg/0403-folder.svg"
+},
+{
+"id": "0404",
+"name": "food",
+"aliases": [],
+"glb": "0404-food.glb",
+"svg": "../svg/0404-food.svg"
+},
+{
+"id": "0405",
+"name": "foot",
+"aliases": [],
+"glb": "0405-foot.glb",
+"svg": "../svg/0405-foot.svg"
+},
+{
+"id": "0406",
+"name": "for (in exchange for)",
+"aliases": [],
+"glb": "0406-for-in-exchange-for.glb",
+"svg": "../svg/0406-for-in-exchange-for.svg"
+},
+{
+"id": "0407",
+"name": "for (the purpose of)",
+"aliases": [
+"in order to"
+],
+"glb": "0407-for-the-purpose-of.glb",
+"svg": "../svg/0407-for-the-purpose-of.svg"
+},
+{
+"id": "0408",
+"name": "forehead",
+"aliases": [],
+"glb": "0408-forehead.glb",
+"svg": "../svg/0408-forehead.svg"
+},
+{
+"id": "0409",
+"name": "forgetting",
+"aliases": [
+"amnesia"
+],
+"glb": "0409-forgetting.glb",
+"svg": "../svg/0409-forgetting.svg"
+},
+{
+"id": "0410",
+"name": "fork",
+"aliases": [],
+"glb": "0410-fork.glb",
+"svg": "../svg/0410-fork.svg"
+},
+{
+"id": "0411",
+"name": "forward",
+"aliases": [],
+"glb": "0411-forward.glb",
+"svg": "../svg/0411-forward.svg"
+},
+{
+"id": "0412",
+"name": "foundation",
+"aliases": [
+"base",
+"fundament"
+],
+"glb": "0412-foundation.glb",
+"svg": "../svg/0412-foundation.svg"
+},
+{
+"id": "0413",
+"name": "foundation (building)",
+"aliases": [],
+"glb": "0413-foundation-building.glb",
+"svg": "../svg/0413-foundation-building.svg"
+},
+{
+"id": "0414",
+"name": "four (digit)",
+"aliases": [
+"4"
+],
+"glb": "0414-four-digit.glb",
+"svg": "../svg/0414-four-digit.svg"
+},
+{
+"id": "0415",
+"name": "four (index number)",
+"aliases": [],
+"glb": "0415-four-index-number.glb",
+"svg": "../svg/0415-four-index-number.svg"
+},
+{
+"id": "0416",
+"name": "freedom",
+"aliases": [
+"liberty"
+],
+"glb": "0416-freedom.glb",
+"svg": "../svg/0416-freedom.svg"
+},
+{
+"id": "0417",
+"name": "freezing",
+"aliases": [
+"hardening",
+"solidifying"
+],
+"glb": "0417-freezing.glb",
+"svg": "../svg/0417-freezing.svg"
+},
+{
+"id": "0418",
+"name": "freighter",
+"aliases": [],
+"glb": "0418-freighter.glb",
+"svg": "../svg/0418-freighter.svg"
+},
+{
+"id": "0419",
+"name": "from",
+"aliases": [],
+"glb": "0419-from.glb",
+"svg": "../svg/0419-from.svg"
+},
+{
+"id": "0420",
+"name": "from sky",
+"aliases": [],
+"glb": "0420-from-sky.glb",
+"svg": "../svg/0420-from-sky.svg"
+},
+{
+"id": "0421",
+"name": "front",
+"aliases": [
+"front of a thing"
+],
+"glb": "0421-front.glb",
+"svg": "../svg/0421-front.svg"
+},
+{
+"id": "0422",
+"name": "fruit",
+"aliases": [],
+"glb": "0422-fruit.glb",
+"svg": "../svg/0422-fruit.svg"
+},
+{
+"id": "0423",
+"name": "fruit (pointed)",
+"aliases": [],
+"glb": "0423-fruit-pointed.glb",
+"svg": "../svg/0423-fruit-pointed.svg"
+},
+{
+"id": "0424",
+"name": "fuel",
+"aliases": [],
+"glb": "0424-fuel.glb",
+"svg": "../svg/0424-fuel.svg"
+},
+{
+"id": "0425",
+"name": "funnel",
+"aliases": [],
+"glb": "0425-funnel.glb",
+"svg": "../svg/0425-funnel.svg"
+},
+{
+"id": "0426",
+"name": "fur",
+"aliases": [
+"coat (animal)",
+"hair (animal)"
+],
+"glb": "0426-fur.glb",
+"svg": "../svg/0426-fur.svg"
+},
+{
+"id": "0427",
+"name": "furred animal",
+"aliases": [],
+"glb": "0427-furred-animal.glb",
+"svg": "../svg/0427-furred-animal.svg"
+},
+{
+"id": "0428",
+"name": "future",
+"aliases": [],
+"glb": "0428-future.glb",
+"svg": "../svg/0428-future.svg"
+},
+{
+"id": "0429",
+"name": "future (uncertain)",
+"aliases": [],
+"glb": "0429-future-uncertain.glb",
+"svg": "../svg/0429-future-uncertain.svg"
+},
+{
+"id": "0430",
+"name": "g (lowercase)",
+"aliases": [],
+"glb": "0430-g-lowercase.glb",
+"svg": "../svg/0430-g-lowercase.svg"
+},
+{
+"id": "0431",
+"name": "G (uppercase)",
+"aliases": [],
+"glb": "0431-g-uppercase.glb",
+"svg": "../svg/0431-g-uppercase.svg"
+},
+{
+"id": "0432",
+"name": "galaxy",
+"aliases": [],
+"glb": "0432-galaxy.glb",
+"svg": "../svg/0432-galaxy.svg"
+},
+{
+"id": "0433",
+"name": "garage",
+"aliases": [],
+"glb": "0433-garage.glb",
+"svg": "../svg/0433-garage.svg"
+},
+{
+"id": "0434",
+"name": "garbage can",
+"aliases": [
+"rubbish bin",
+"trash can"
+],
+"glb": "0434-garbage-can.glb",
+"svg": "../svg/0434-garbage-can.svg"
+},
+{
+"id": "0435",
+"name": "garden",
+"aliases": [],
+"glb": "0435-garden.glb",
+"svg": "../svg/0435-garden.svg"
+},
+{
+"id": "0436",
+"name": "gas",
+"aliases": [],
+"glb": "0436-gas.glb",
+"svg": "../svg/0436-gas.svg"
+},
+{
+"id": "0437",
+"name": "gathering",
+"aliases": [
+"assembly",
+"meeting",
+"conference"
+],
+"glb": "0437-gathering.glb",
+"svg": "../svg/0437-gathering.svg"
+},
+{
+"id": "0438",
+"name": "gender",
+"aliases": [
+"sex"
+],
+"glb": "0438-gender.glb",
+"svg": "../svg/0438-gender.svg"
+},
+{
+"id": "0439",
+"name": "generalization",
+"aliases": [],
+"glb": "0439-generalization.glb",
+"svg": "../svg/0439-generalization.svg"
+},
+{
+"id": "0440",
+"name": "genitals",
+"aliases": [
+"sex organs"
+],
+"glb": "0440-genitals.glb",
+"svg": "../svg/0440-genitals.svg"
+},
+{
+"id": "0441",
+"name": "giraffe",
+"aliases": [],
+"glb": "0441-giraffe.glb",
+"svg": "../svg/0441-giraffe.svg"
+},
+{
+"id": "0442",
+"name": "girl",
+"aliases": [],
+"glb": "0442-girl.glb",
+"svg": "../svg/0442-girl.svg"
+},
+{
+"id": "0443",
+"name": "giving",
+"aliases": [
+"gift"
+],
+"glb": "0443-giving.glb",
+"svg": "../svg/0443-giving.svg"
+},
+{
+"id": "0444",
+"name": "glass",
+"aliases": [
+"drinking glass"
+],
+"glb": "0444-glass.glb",
+"svg": "../svg/0444-glass.svg"
+},
+{
+"id": "0445",
+"name": "glasses",
+"aliases": [
+"eyeglasses"
+],
+"glb": "0445-glasses.glb",
+"svg": "../svg/0445-glasses.svg"
+},
+{
+"id": "0446",
+"name": "goal",
+"aliases": [],
+"glb": "0446-goal.glb",
+"svg": "../svg/0446-goal.svg"
+},
+{
+"id": "0447",
+"name": "goat",
+"aliases": [],
+"glb": "0447-goat.glb",
+"svg": "../svg/0447-goat.svg"
+},
+{
+"id": "0448",
+"name": "goblet",
+"aliases": [
+"wineglass"
+],
+"glb": "0448-goblet.glb",
+"svg": "../svg/0448-goblet.svg"
+},
+{
+"id": "0449",
+"name": "God",
+"aliases": [],
+"glb": "0449-god.glb",
+"svg": "../svg/0449-god.svg"
+},
+{
+"id": "0450",
+"name": "good conscience",
+"aliases": [],
+"glb": "0450-good-conscience.glb",
+"svg": "../svg/0450-good-conscience.svg"
+},
+{
+"id": "0451",
+"name": "goods",
+"aliases": [
+"contents"
+],
+"glb": "0451-goods.glb",
+"svg": "../svg/0451-goods.svg"
+},
+{
+"id": "0452",
+"name": "grace",
+"aliases": [
+"grace of God"
+],
+"glb": "0452-grace.glb",
+"svg": "../svg/0452-grace.svg"
+},
+{
+"id": "0453",
+"name": "grain",
+"aliases": [
+"cereal"
+],
+"glb": "0453-grain.glb",
+"svg": "../svg/0453-grain.svg"
+},
+{
+"id": "0454",
+"name": "grandfather",
+"aliases": [
+"granddad",
+"grandpa"
+],
+"glb": "0454-grandfather.glb",
+"svg": "../svg/0454-grandfather.svg"
+},
+{
+"id": "0455",
+"name": "grandfather (maternal)",
+"aliases": [],
+"glb": "0455-grandfather-maternal.glb",
+"svg": "../svg/0455-grandfather-maternal.svg"
+},
+{
+"id": "0456",
+"name": "grandfather (paternal)",
+"aliases": [],
+"glb": "0456-grandfather-paternal.glb",
+"svg": "../svg/0456-grandfather-paternal.svg"
+},
+{
+"id": "0457",
+"name": "grandmother",
+"aliases": [
+"grandma",
+"granny"
+],
+"glb": "0457-grandmother.glb",
+"svg": "../svg/0457-grandmother.svg"
+},
+{
+"id": "0458",
+"name": "grandmother (maternal)",
+"aliases": [],
+"glb": "0458-grandmother-maternal.glb",
+"svg": "../svg/0458-grandmother-maternal.svg"
+},
+{
+"id": "0459",
+"name": "grandmother (paternal)",
+"aliases": [],
+"glb": "0459-grandmother-paternal.glb",
+"svg": "../svg/0459-grandmother-paternal.svg"
+},
+{
+"id": "0460",
+"name": "grandparent",
+"aliases": [],
+"glb": "0460-grandparent.glb",
+"svg": "../svg/0460-grandparent.svg"
+},
+{
+"id": "0461",
+"name": "grape(s)",
+"aliases": [],
+"glb": "0461-grape-s.glb",
+"svg": "../svg/0461-grape-s.svg"
+},
+{
+"id": "0462",
+"name": "grass",
+"aliases": [],
+"glb": "0462-grass.glb",
+"svg": "../svg/0462-grass.svg"
+},
+{
+"id": "0463",
+"name": "grave",
+"aliases": [],
+"glb": "0463-grave.glb",
+"svg": "../svg/0463-grave.svg"
+},
+{
+"id": "0464",
+"name": "gravity",
+"aliases": [
+"gravitation"
+],
+"glb": "0464-gravity.glb",
+"svg": "../svg/0464-gravity.svg"
+},
+{
+"id": "0465",
+"name": "greater than (relation)",
+"aliases": [],
+"glb": "0465-greater-than-relation.glb",
+"svg": "../svg/0465-greater-than-relation.svg"
+},
+{
+"id": "0466",
+"name": "grid",
+"aliases": [
+"matrix"
+],
+"glb": "0466-grid.glb",
+"svg": "../svg/0466-grid.svg"
+},
+{
+"id": "0467",
+"name": "group of",
+"aliases": [
+"much of",
+"many of",
+"quantity of"
+],
+"glb": "0467-group-of.glb",
+"svg": "../svg/0467-group-of.svg"
+},
+{
+"id": "0468",
+"name": "gun",
+"aliases": [
+"firearm"
+],
+"glb": "0468-gun.glb",
+"svg": "../svg/0468-gun.svg"
+},
+{
+"id": "0469",
+"name": "h (lowercase)",
+"aliases": [],
+"glb": "0469-h-lowercase.glb",
+"svg": "../svg/0469-h-lowercase.svg"
+},
+{
+"id": "0470",
+"name": "H (uppercase)",
+"aliases": [],
+"glb": "0470-h-uppercase.glb",
+"svg": "../svg/0470-h-uppercase.svg"
+},
+{
+"id": "0471",
+"name": "hail",
+"aliases": [],
+"glb": "0471-hail.glb",
+"svg": "../svg/0471-hail.svg"
+},
+{
+"id": "0472",
+"name": "hair",
+"aliases": [],
+"glb": "0472-hair.glb",
+"svg": "../svg/0472-hair.svg"
+},
+{
+"id": "0473",
+"name": "hair (head)",
+"aliases": [],
+"glb": "0473-hair-head.glb",
+"svg": "../svg/0473-hair-head.svg"
+},
+{
+"id": "0474",
+"name": "half",
+"aliases": [
+"one-half"
+],
+"glb": "0474-half.glb",
+"svg": "../svg/0474-half.svg"
+},
+{
+"id": "0475",
+"name": "hammer",
+"aliases": [
+"gavel",
+"mallet"
+],
+"glb": "0475-hammer.glb",
+"svg": "../svg/0475-hammer.svg"
+},
+{
+"id": "0476",
+"name": "hand",
+"aliases": [],
+"glb": "0476-hand.glb",
+"svg": "../svg/0476-hand.svg"
+},
+{
+"id": "0477",
+"name": "handbag",
+"aliases": [
+"shopping bag",
+"carrier bag"
+],
+"glb": "0477-handbag.glb",
+"svg": "../svg/0477-handbag.svg"
+},
+{
+"id": "0478",
+"name": "head",
+"aliases": [],
+"glb": "0478-head.glb",
+"svg": "../svg/0478-head.svg"
+},
+{
+"id": "0479",
+"name": "head and neck",
+"aliases": [],
+"glb": "0479-head-and-neck.glb",
+"svg": "../svg/0479-head-and-neck.svg"
+},
+{
+"id": "0480",
+"name": "head with hair",
+"aliases": [],
+"glb": "0480-head-with-hair.glb",
+"svg": "../svg/0480-head-with-hair.svg"
+},
+{
+"id": "0481",
+"name": "health",
+"aliases": [],
+"glb": "0481-health.glb",
+"svg": "../svg/0481-health.svg"
+},
+{
+"id": "0482",
+"name": "heat",
+"aliases": [],
+"glb": "0482-heat.glb",
+"svg": "../svg/0482-heat.svg"
+},
+{
+"id": "0483",
+"name": "hedgehog",
+"aliases": [],
+"glb": "0483-hedgehog.glb",
+"svg": "../svg/0483-hedgehog.svg"
+},
+{
+"id": "0484",
+"name": "hedgehog (OLD)",
+"aliases": [],
+"glb": "0484-hedgehog-old.glb",
+"svg": "../svg/0484-hedgehog-old.svg"
+},
+{
+"id": "0485",
+"name": "heel",
+"aliases": [],
+"glb": "0485-heel.glb",
+"svg": "../svg/0485-heel.svg"
+},
+{
+"id": "0486",
+"name": "height",
+"aliases": [
+"tallness"
+],
+"glb": "0486-height.glb",
+"svg": "../svg/0486-height.svg"
+},
+{
+"id": "0487",
+"name": "helicopter",
+"aliases": [],
+"glb": "0487-helicopter.glb",
+"svg": "../svg/0487-helicopter.svg"
+},
+{
+"id": "0488",
+"name": "help",
+"aliases": [
+"aid",
+"assistance",
+"support"
+],
+"glb": "0488-help.glb",
+"svg": "../svg/0488-help.svg"
+},
+{
+"id": "0489",
+"name": "here",
+"aliases": [],
+"glb": "0489-here.glb",
+"svg": "../svg/0489-here.svg"
+},
+{
+"id": "0490",
+"name": "hidden thing",
+"aliases": [],
+"glb": "0490-hidden-thing.glb",
+"svg": "../svg/0490-hidden-thing.svg"
+},
+{
+"id": "0491",
+"name": "hip",
+"aliases": [],
+"glb": "0491-hip.glb",
+"svg": "../svg/0491-hip.svg"
+},
+{
+"id": "0492",
+"name": "hippopotamus",
+"aliases": [],
+"glb": "0492-hippopotamus.glb",
+"svg": "../svg/0492-hippopotamus.svg"
+},
+{
+"id": "0493",
+"name": "holding",
+"aliases": [],
+"glb": "0493-holding.glb",
+"svg": "../svg/0493-holding.svg"
+},
+{
+"id": "0494",
+"name": "hole",
+"aliases": [],
+"glb": "0494-hole.glb",
+"svg": "../svg/0494-hole.svg"
+},
+{
+"id": "0495",
+"name": "holiness",
+"aliases": [],
+"glb": "0495-holiness.glb",
+"svg": "../svg/0495-holiness.svg"
+},
+{
+"id": "0496",
+"name": "hoof",
+"aliases": [],
+"glb": "0496-hoof.glb",
+"svg": "../svg/0496-hoof.svg"
+},
+{
+"id": "0497",
+"name": "hook",
+"aliases": [
+"hanger"
+],
+"glb": "0497-hook.glb",
+"svg": "../svg/0497-hook.svg"
+},
+{
+"id": "0498",
+"name": "horizon",
+"aliases": [],
+"glb": "0498-horizon.glb",
+"svg": "../svg/0498-horizon.svg"
+},
+{
+"id": "0499",
+"name": "horizontal-(a)",
+"aliases": [],
+"glb": "0499-horizontal-a.glb",
+"svg": "../svg/0499-horizontal-a.svg"
+},
+{
+"id": "0500",
+"name": "horn(s)",
+"aliases": [],
+"glb": "0500-horn-s.glb",
+"svg": "../svg/0500-horn-s.svg"
+},
+{
+"id": "0501",
+"name": "horn(s)",
+"aliases": [
+"antler(s)"
+],
+"glb": "0501-horn-s.glb",
+"svg": "../svg/0501-horn-s.svg"
+},
+{
+"id": "0502",
+"name": "horse",
+"aliases": [],
+"glb": "0502-horse.glb",
+"svg": "../svg/0502-horse.svg"
+},
+{
+"id": "0503",
+"name": "horse neck",
+"aliases": [],
+"glb": "0503-horse-neck.glb",
+"svg": "../svg/0503-horse-neck.svg"
+},
+{
+"id": "0504",
+"name": "horse rump",
+"aliases": [],
+"glb": "0504-horse-rump.glb",
+"svg": "../svg/0504-horse-rump.svg"
+},
+{
+"id": "0505",
+"name": "house",
+"aliases": [
+"building",
+"dwelling",
+"residence"
+],
+"glb": "0505-house.glb",
+"svg": "../svg/0505-house.svg"
+},
+{
+"id": "0506",
+"name": "hull",
+"aliases": [
+"body"
+],
+"glb": "0506-hull.glb",
+"svg": "../svg/0506-hull.svg"
+},
+{
+"id": "0507",
+"name": "humidity",
+"aliases": [],
+"glb": "0507-humidity.glb",
+"svg": "../svg/0507-humidity.svg"
+},
+{
+"id": "0508",
+"name": "husband",
+"aliases": [],
+"glb": "0508-husband.glb",
+"svg": "../svg/0508-husband.svg"
+},
+{
+"id": "0509",
+"name": "hypodermic needlepoint",
+"aliases": [],
+"glb": "0509-hypodermic-needlepoint.glb",
+"svg": "../svg/0509-hypodermic-needlepoint.svg"
+},
+{
+"id": "0510",
+"name": "hypothesis",
+"aliases": [
+"theory"
+],
+"glb": "0510-hypothesis.glb",
+"svg": "../svg/0510-hypothesis.svg"
+},
+{
+"id": "0511",
+"name": "i (lowercase)",
+"aliases": [],
+"glb": "0511-i-lowercase.glb",
+"svg": "../svg/0511-i-lowercase.svg"
+},
+{
+"id": "0512",
+"name": "I (uppercase)",
+"aliases": [],
+"glb": "0512-i-uppercase.glb",
+"svg": "../svg/0512-i-uppercase.svg"
+},
+{
+"id": "0513",
+"name": "ice",
+"aliases": [],
+"glb": "0513-ice.glb",
+"svg": "../svg/0513-ice.svg"
+},
+{
+"id": "0514",
+"name": "ice cream",
+"aliases": [
+"sherbet",
+"sorbet"
+],
+"glb": "0514-ice-cream.glb",
+"svg": "../svg/0514-ice-cream.svg"
+},
+{
+"id": "0515",
+"name": "ice cream (cone)",
+"aliases": [],
+"glb": "0515-ice-cream-cone.glb",
+"svg": "../svg/0515-ice-cream-cone.svg"
+},
+{
+"id": "0516",
+"name": "ice cream (lollipop)",
+"aliases": [],
+"glb": "0516-ice-cream-lollipop.glb",
+"svg": "../svg/0516-ice-cream-lollipop.svg"
+},
+{
+"id": "0517",
+"name": "ice skates",
+"aliases": [],
+"glb": "0517-ice-skates.glb",
+"svg": "../svg/0517-ice-skates.svg"
+},
+{
+"id": "0518",
+"name": "idea",
+"aliases": [
+"thought"
+],
+"glb": "0518-idea.glb",
+"svg": "../svg/0518-idea.svg"
+},
+{
+"id": "0519",
+"name": "illness",
+"aliases": [
+"disease",
+"sickness (sick person)"
+],
+"glb": "0519-illness.glb",
+"svg": "../svg/0519-illness.svg"
+},
+{
+"id": "0520",
+"name": "importance",
+"aliases": [
+"significance"
+],
+"glb": "0520-importance.glb",
+"svg": "../svg/0520-importance.svg"
+},
+{
+"id": "0521",
+"name": "imprint",
+"aliases": [
+"depression"
+],
+"glb": "0521-imprint.glb",
+"svg": "../svg/0521-imprint.svg"
+},
+{
+"id": "0522",
+"name": "in",
+"aliases": [
+"inside",
+"interior",
+"internal"
+],
+"glb": "0522-in.glb",
+"svg": "../svg/0522-in.svg"
+},
+{
+"id": "0523",
+"name": "incorrect thinking",
+"aliases": [],
+"glb": "0523-incorrect-thinking.glb",
+"svg": "../svg/0523-incorrect-thinking.svg"
+},
+{
+"id": "0524",
+"name": "indicator (action)",
+"aliases": [],
+"glb": "0524-indicator-action.glb",
+"svg": "../svg/0524-indicator-action.svg"
+},
+{
+"id": "0525",
+"name": "indicator (active)",
+"aliases": [],
+"glb": "0525-indicator-active.glb",
+"svg": "../svg/0525-indicator-active.svg"
+},
+{
+"id": "0526",
+"name": "indicator (adverb)",
+"aliases": [],
+"glb": "0526-indicator-adverb.glb",
+"svg": "../svg/0526-indicator-adverb.svg"
+},
+{
+"id": "0527",
+"name": "indicator (conditional)",
+"aliases": [],
+"glb": "0527-indicator-conditional.glb",
+"svg": "../svg/0527-indicator-conditional.svg"
+},
+{
+"id": "0528",
+"name": "indicator (definite form)",
+"aliases": [],
+"glb": "0528-indicator-definite-form.glb",
+"svg": "../svg/0528-indicator-definite-form.svg"
+},
+{
+"id": "0529",
+"name": "indicator (description)",
+"aliases": [],
+"glb": "0529-indicator-description.glb",
+"svg": "../svg/0529-indicator-description.svg"
+},
+{
+"id": "0530",
+"name": "indicator (description after fact)",
+"aliases": [],
+"glb": "0530-indicator-description-after-fact.glb",
+"svg": "../svg/0530-indicator-description-after-fact.svg"
+},
+{
+"id": "0531",
+"name": "indicator (description before fact)",
+"aliases": [],
+"glb": "0531-indicator-description-before-fact.glb",
+"svg": "../svg/0531-indicator-description-before-fact.svg"
+},
+{
+"id": "0532",
+"name": "indicator (future action)",
+"aliases": [],
+"glb": "0532-indicator-future-action.glb",
+"svg": "../svg/0532-indicator-future-action.svg"
+},
+{
+"id": "0533",
+"name": "indicator (future conditional)",
+"aliases": [],
+"glb": "0533-indicator-future-conditional.glb",
+"svg": "../svg/0533-indicator-future-conditional.svg"
+},
+{
+"id": "0534",
+"name": "indicator (future passive)",
+"aliases": [],
+"glb": "0534-indicator-future-passive.glb",
+"svg": "../svg/0534-indicator-future-passive.svg"
+},
+{
+"id": "0535",
+"name": "indicator (future passive conditional)",
+"aliases": [],
+"glb": "0535-indicator-future-passive-conditional.glb",
+"svg": "../svg/0535-indicator-future-passive-conditional.svg"
+},
+{
+"id": "0536",
+"name": "indicator (imperative form)",
+"aliases": [],
+"glb": "0536-indicator-imperative-form.glb",
+"svg": "../svg/0536-indicator-imperative-form.svg"
+},
+{
+"id": "0537",
+"name": "indicator (passive)",
+"aliases": [],
+"glb": "0537-indicator-passive.glb",
+"svg": "../svg/0537-indicator-passive.svg"
+},
+{
+"id": "0538",
+"name": "indicator (past action)",
+"aliases": [],
+"glb": "0538-indicator-past-action.glb",
+"svg": "../svg/0538-indicator-past-action.svg"
+},
+{
+"id": "0539",
+"name": "indicator (past conditional)",
+"aliases": [],
+"glb": "0539-indicator-past-conditional.glb",
+"svg": "../svg/0539-indicator-past-conditional.svg"
+},
+{
+"id": "0540",
+"name": "indicator (past participle 1)",
+"aliases": [],
+"glb": "0540-indicator-past-participle-1.glb",
+"svg": "../svg/0540-indicator-past-participle-1.svg"
+},
+{
+"id": "0541",
+"name": "indicator (past participle 2)",
+"aliases": [],
+"glb": "0541-indicator-past-participle-2.glb",
+"svg": "../svg/0541-indicator-past-participle-2.svg"
+},
+{
+"id": "0542",
+"name": "indicator (past passive)",
+"aliases": [],
+"glb": "0542-indicator-past-passive.glb",
+"svg": "../svg/0542-indicator-past-passive.svg"
+},
+{
+"id": "0543",
+"name": "indicator (past passive conditional)",
+"aliases": [],
+"glb": "0543-indicator-past-passive-conditional.glb",
+"svg": "../svg/0543-indicator-past-passive-conditional.svg"
+},
+{
+"id": "0544",
+"name": "indicator (plural)",
+"aliases": [],
+"glb": "0544-indicator-plural.glb",
+"svg": "../svg/0544-indicator-plural.svg"
+},
+{
+"id": "0545",
+"name": "indicator (present action)",
+"aliases": [],
+"glb": "0545-indicator-present-action.glb",
+"svg": "../svg/0545-indicator-present-action.svg"
+},
+{
+"id": "0546",
+"name": "indicator (present participle)",
+"aliases": [],
+"glb": "0546-indicator-present-participle.glb",
+"svg": "../svg/0546-indicator-present-participle.svg"
+},
+{
+"id": "0547",
+"name": "indicator (present passive conditional)",
+"aliases": [],
+"glb": "0547-indicator-present-passive-conditional.glb",
+"svg": "../svg/0547-indicator-present-passive-conditional.svg"
+},
+{
+"id": "0548",
+"name": "indicator (thing)",
+"aliases": [],
+"glb": "0548-indicator-thing.glb",
+"svg": "../svg/0548-indicator-thing.svg"
+},
+{
+"id": "0549",
+"name": "indicator (things)",
+"aliases": [],
+"glb": "0549-indicator-things.glb",
+"svg": "../svg/0549-indicator-things.svg"
+},
+{
+"id": "0550",
+"name": "indoor (character)",
+"aliases": [],
+"glb": "0550-indoor-character.glb",
+"svg": "../svg/0550-indoor-character.svg"
+},
+{
+"id": "0551",
+"name": "information",
+"aliases": [],
+"glb": "0551-information.glb",
+"svg": "../svg/0551-information.svg"
+},
+{
+"id": "0552",
+"name": "injection",
+"aliases": [
+"inoculation",
+"shot"
+],
+"glb": "0552-injection.glb",
+"svg": "../svg/0552-injection.svg"
+},
+{
+"id": "0553",
+"name": "inlet",
+"aliases": [],
+"glb": "0553-inlet.glb",
+"svg": "../svg/0553-inlet.svg"
+},
+{
+"id": "0554",
+"name": "insect",
+"aliases": [
+"bug"
+],
+"glb": "0554-insect.glb",
+"svg": "../svg/0554-insect.svg"
+},
+{
+"id": "0555",
+"name": "insight",
+"aliases": [],
+"glb": "0555-insight.glb",
+"svg": "../svg/0555-insight.svg"
+},
+{
+"id": "0556",
+"name": "insurance",
+"aliases": [],
+"glb": "0556-insurance.glb",
+"svg": "../svg/0556-insurance.svg"
+},
+{
+"id": "0557",
+"name": "intensity",
+"aliases": [],
+"glb": "0557-intensity.glb",
+"svg": "../svg/0557-intensity.svg"
+},
+{
+"id": "0558",
+"name": "interest",
+"aliases": [],
+"glb": "0558-interest.glb",
+"svg": "../svg/0558-interest.svg"
+},
+{
+"id": "0559",
+"name": "into",
+"aliases": [],
+"glb": "0559-into.glb",
+"svg": "../svg/0559-into.svg"
+},
+{
+"id": "0560",
+"name": "into (backward)",
+"aliases": [],
+"glb": "0560-into-backward.glb",
+"svg": "../svg/0560-into-backward.svg"
+},
+{
+"id": "0561",
+"name": "into (downward)",
+"aliases": [],
+"glb": "0561-into-downward.glb",
+"svg": "../svg/0561-into-downward.svg"
+},
+{
+"id": "0562",
+"name": "into (upward)",
+"aliases": [],
+"glb": "0562-into-upward.glb",
+"svg": "../svg/0562-into-upward.svg"
+},
+{
+"id": "0563",
+"name": "iron",
+"aliases": [
+"smoothing iron"
+],
+"glb": "0563-iron.glb",
+"svg": "../svg/0563-iron.svg"
+},
+{
+"id": "0564",
+"name": "island",
+"aliases": [],
+"glb": "0564-island.glb",
+"svg": "../svg/0564-island.svg"
+},
+{
+"id": "0565",
+"name": "it",
+"aliases": [
+"itself"
+],
+"glb": "0565-it.glb",
+"svg": "../svg/0565-it.svg"
+},
+{
+"id": "0566",
+"name": "j (lowercase)",
+"aliases": [],
+"glb": "0566-j-lowercase.glb",
+"svg": "../svg/0566-j-lowercase.svg"
+},
+{
+"id": "0567",
+"name": "J (uppercase)",
+"aliases": [],
+"glb": "0567-j-uppercase.glb",
+"svg": "../svg/0567-j-uppercase.svg"
+},
+{
+"id": "0568",
+"name": "jellyfish",
+"aliases": [],
+"glb": "0568-jellyfish.glb",
+"svg": "../svg/0568-jellyfish.svg"
+},
+{
+"id": "0569",
+"name": "joint",
+"aliases": [],
+"glb": "0569-joint.glb",
+"svg": "../svg/0569-joint.svg"
+},
+{
+"id": "0570",
+"name": "judgement",
+"aliases": [
+"law (in combinations)"
+],
+"glb": "0570-judgement.glb",
+"svg": "../svg/0570-judgement.svg"
+},
+{
+"id": "0571",
+"name": "jump",
+"aliases": [],
+"glb": "0571-jump.glb",
+"svg": "../svg/0571-jump.svg"
+},
+{
+"id": "0572",
+"name": "jump (backward)",
+"aliases": [],
+"glb": "0572-jump-backward.glb",
+"svg": "../svg/0572-jump-backward.svg"
+},
+{
+"id": "0573",
+"name": "k (lowercase)",
+"aliases": [],
+"glb": "0573-k-lowercase.glb",
+"svg": "../svg/0573-k-lowercase.svg"
+},
+{
+"id": "0574",
+"name": "K (uppercase)",
+"aliases": [],
+"glb": "0574-k-uppercase.glb",
+"svg": "../svg/0574-k-uppercase.svg"
+},
+{
+"id": "0575",
+"name": "keel",
+"aliases": [],
+"glb": "0575-keel.glb",
+"svg": "../svg/0575-keel.svg"
+},
+{
+"id": "0576",
+"name": "key",
+"aliases": [],
+"glb": "0576-key.glb",
+"svg": "../svg/0576-key.svg"
+},
+{
+"id": "0577",
+"name": "keyboard",
+"aliases": [],
+"glb": "0577-keyboard.glb",
+"svg": "../svg/0577-keyboard.svg"
+},
+{
+"id": "0578",
+"name": "kidney",
+"aliases": [],
+"glb": "0578-kidney.glb",
+"svg": "../svg/0578-kidney.svg"
+},
+{
+"id": "0579",
+"name": "kiss",
+"aliases": [],
+"glb": "0579-kiss.glb",
+"svg": "../svg/0579-kiss.svg"
+},
+{
+"id": "0580",
+"name": "kitchen tool",
+"aliases": [
+"utensil"
+],
+"glb": "0580-kitchen-tool.glb",
+"svg": "../svg/0580-kitchen-tool.svg"
+},
+{
+"id": "0581",
+"name": "kite",
+"aliases": [],
+"glb": "0581-kite.glb",
+"svg": "../svg/0581-kite.svg"
+},
+{
+"id": "0582",
+"name": "knee",
+"aliases": [],
+"glb": "0582-knee.glb",
+"svg": "../svg/0582-knee.svg"
+},
+{
+"id": "0583",
+"name": "kneeling (kneeling person)",
+"aliases": [],
+"glb": "0583-kneeling-kneeling-person.glb",
+"svg": "../svg/0583-kneeling-kneeling-person.svg"
+},
+{
+"id": "0584",
+"name": "knife",
+"aliases": [
+"sword"
+],
+"glb": "0584-knife.glb",
+"svg": "../svg/0584-knife.svg"
+},
+{
+"id": "0585",
+"name": "knowledge",
+"aliases": [
+"class (in combinations)"
+],
+"glb": "0585-knowledge.glb",
+"svg": "../svg/0585-knowledge.svg"
+},
+{
+"id": "0586",
+"name": "l (lowercase)",
+"aliases": [],
+"glb": "0586-l-lowercase.glb",
+"svg": "../svg/0586-l-lowercase.svg"
+},
+{
+"id": "0587",
+"name": "L (uppercase)",
+"aliases": [],
+"glb": "0587-l-uppercase.glb",
+"svg": "../svg/0587-l-uppercase.svg"
+},
+{
+"id": "0588",
+"name": "ladder",
+"aliases": [],
+"glb": "0588-ladder.glb",
+"svg": "../svg/0588-ladder.svg"
+},
+{
+"id": "0589",
+"name": "language",
+"aliases": [],
+"glb": "0589-language.glb",
+"svg": "../svg/0589-language.svg"
+},
+{
+"id": "0590",
+"name": "lawn",
+"aliases": [
+"meadow"
+],
+"glb": "0590-lawn.glb",
+"svg": "../svg/0590-lawn.svg"
+},
+{
+"id": "0591",
+"name": "layer",
+"aliases": [
+"level"
+],
+"glb": "0591-layer.glb",
+"svg": "../svg/0591-layer.svg"
+},
+{
+"id": "0592",
+"name": "leader",
+"aliases": [
+"director",
+"guide (1)"
+],
+"glb": "0592-leader.glb",
+"svg": "../svg/0592-leader.svg"
+},
+{
+"id": "0593",
+"name": "leadership",
+"aliases": [
+"guidance"
+],
+"glb": "0593-leadership.glb",
+"svg": "../svg/0593-leadership.svg"
+},
+{
+"id": "0594",
+"name": "leaf",
+"aliases": [],
+"glb": "0594-leaf.glb",
+"svg": "../svg/0594-leaf.svg"
+},
+{
+"id": "0595",
+"name": "left turn",
+"aliases": [
+"left (position or direction)"
+],
+"glb": "0595-left-turn.glb",
+"svg": "../svg/0595-left-turn.svg"
+},
+{
+"id": "0596",
+"name": "leg",
+"aliases": [],
+"glb": "0596-leg.glb",
+"svg": "../svg/0596-leg.svg"
+},
+{
+"id": "0597",
+"name": "leg and foot",
+"aliases": [],
+"glb": "0597-leg-and-foot.glb",
+"svg": "../svg/0597-leg-and-foot.svg"
+},
+{
+"id": "0598",
+"name": "legs and feet",
+"aliases": [],
+"glb": "0598-legs-and-feet.glb",
+"svg": "../svg/0598-legs-and-feet.svg"
+},
+{
+"id": "0599",
+"name": "lemon",
+"aliases": [],
+"glb": "0599-lemon.glb",
+"svg": "../svg/0599-lemon.svg"
+},
+{
+"id": "0600",
+"name": "length",
+"aliases": [
+"longness"
+],
+"glb": "0600-length.glb",
+"svg": "../svg/0600-length.svg"
+},
+{
+"id": "0601",
+"name": "less than (relation)",
+"aliases": [],
+"glb": "0601-less-than-relation.glb",
+"svg": "../svg/0601-less-than-relation.svg"
+},
+{
+"id": "0602",
+"name": "letter",
+"aliases": [
+"mail",
+"post"
+],
+"glb": "0602-letter.glb",
+"svg": "../svg/0602-letter.svg"
+},
+{
+"id": "0603",
+"name": "lettuce",
+"aliases": [
+"leafy vegetable"
+],
+"glb": "0603-lettuce.glb",
+"svg": "../svg/0603-lettuce.svg"
+},
+{
+"id": "0604",
+"name": "lid",
+"aliases": [],
+"glb": "0604-lid.glb",
+"svg": "../svg/0604-lid.svg"
+},
+{
+"id": "0605",
+"name": "life",
+"aliases": [],
+"glb": "0605-life.glb",
+"svg": "../svg/0605-life.svg"
+},
+{
+"id": "0606",
+"name": "light",
+"aliases": [],
+"glb": "0606-light.glb",
+"svg": "../svg/0606-light.svg"
+},
+{
+"id": "0607",
+"name": "lightning",
+"aliases": [],
+"glb": "0607-lightning.glb",
+"svg": "../svg/0607-lightning.svg"
+},
+{
+"id": "0608",
+"name": "limit(s)",
+"aliases": [
+"limitation",
+"restriction"
+],
+"glb": "0608-limit-s.glb",
+"svg": "../svg/0608-limit-s.svg"
+},
+{
+"id": "0609",
+"name": "limit(s)",
+"aliases": [
+"limitation (OLD)"
+],
+"glb": "0609-limit-s.glb",
+"svg": "../svg/0609-limit-s.svg"
+},
+{
+"id": "0610",
+"name": "limited time",
+"aliases": [
+"interval",
+"period",
+"awhile",
+"for a while"
+],
+"glb": "0610-limited-time.glb",
+"svg": "../svg/0610-limited-time.svg"
+},
+{
+"id": "0611",
+"name": "line",
+"aliases": [
+"stripe"
+],
+"glb": "0611-line.glb",
+"svg": "../svg/0611-line.svg"
+},
+{
+"id": "0612",
+"name": "lip(s)",
+"aliases": [],
+"glb": "0612-lip-s.glb",
+"svg": "../svg/0612-lip-s.svg"
+},
+{
+"id": "0613",
+"name": "littleness",
+"aliases": [
+"smallness"
+],
+"glb": "0613-littleness.glb",
+"svg": "../svg/0613-littleness.svg"
+},
+{
+"id": "0614",
+"name": "lollipop",
+"aliases": [
+"sucker"
+],
+"glb": "0614-lollipop.glb",
+"svg": "../svg/0614-lollipop.svg"
+},
+{
+"id": "0615",
+"name": "love",
+"aliases": [
+"affection"
+],
+"glb": "0615-love.glb",
+"svg": "../svg/0615-love.svg"
+},
+{
+"id": "0616",
+"name": "lowness",
+"aliases": [
+"shortness (height)"
+],
+"glb": "0616-lowness.glb",
+"svg": "../svg/0616-lowness.svg"
+},
+{
+"id": "0617",
+"name": "lump(s)",
+"aliases": [],
+"glb": "0617-lump-s.glb",
+"svg": "../svg/0617-lump-s.svg"
+},
+{
+"id": "0618",
+"name": "m (lowercase)",
+"aliases": [],
+"glb": "0618-m-lowercase.glb",
+"svg": "../svg/0618-m-lowercase.svg"
+},
+{
+"id": "0619",
+"name": "M (uppercase)",
+"aliases": [],
+"glb": "0619-m-uppercase.glb",
+"svg": "../svg/0619-m-uppercase.svg"
+},
+{
+"id": "0620",
+"name": "machine",
+"aliases": [
+"appliance",
+"engine",
+"motor"
+],
+"glb": "0620-machine.glb",
+"svg": "../svg/0620-machine.svg"
+},
+{
+"id": "0621",
+"name": "magnetic field",
+"aliases": [],
+"glb": "0621-magnetic-field.glb",
+"svg": "../svg/0621-magnetic-field.svg"
+},
+{
+"id": "0622",
+"name": "magnetism",
+"aliases": [],
+"glb": "0622-magnetism.glb",
+"svg": "../svg/0622-magnetism.svg"
+},
+{
+"id": "0623",
+"name": "make-believe man",
+"aliases": [],
+"glb": "0623-make-believe-man.glb",
+"svg": "../svg/0623-make-believe-man.svg"
+},
+{
+"id": "0624",
+"name": "make-believe person",
+"aliases": [
+"imaginary person"
+],
+"glb": "0624-make-believe-person.glb",
+"svg": "../svg/0624-make-believe-person.svg"
+},
+{
+"id": "0625",
+"name": "make-believe woman",
+"aliases": [],
+"glb": "0625-make-believe-woman.glb",
+"svg": "../svg/0625-make-believe-woman.svg"
+},
+{
+"id": "0626",
+"name": "making",
+"aliases": [
+"production",
+"fashioning"
+],
+"glb": "0626-making.glb",
+"svg": "../svg/0626-making.svg"
+},
+{
+"id": "0627",
+"name": "male genitals (man with penis)",
+"aliases": [],
+"glb": "0627-male-genitals-man-with-penis.glb",
+"svg": "../svg/0627-male-genitals-man-with-penis.svg"
+},
+{
+"id": "0628",
+"name": "man",
+"aliases": [
+"male"
+],
+"glb": "0628-man.glb",
+"svg": "../svg/0628-man.svg"
+},
+{
+"id": "0629",
+"name": "mane (lion etc)",
+"aliases": [],
+"glb": "0629-mane-lion-etc.glb",
+"svg": "../svg/0629-mane-lion-etc.svg"
+},
+{
+"id": "0630",
+"name": "mango",
+"aliases": [],
+"glb": "0630-mango.glb",
+"svg": "../svg/0630-mango.svg"
+},
+{
+"id": "0631",
+"name": "maple-leaf",
+"aliases": [],
+"glb": "0631-maple-leaf.glb",
+"svg": "../svg/0631-maple-leaf.svg"
+},
+{
+"id": "0632",
+"name": "marriage",
+"aliases": [],
+"glb": "0632-marriage.glb",
+"svg": "../svg/0632-marriage.svg"
+},
+{
+"id": "0633",
+"name": "mash",
+"aliases": [
+"mush",
+"pulp (food)"
+],
+"glb": "0633-mash.glb",
+"svg": "../svg/0633-mash.svg"
+},
+{
+"id": "0634",
+"name": "mask (disguise)",
+"aliases": [],
+"glb": "0634-mask-disguise.glb",
+"svg": "../svg/0634-mask-disguise.svg"
+},
+{
+"id": "0635",
+"name": "mast",
+"aliases": [],
+"glb": "0635-mast.glb",
+"svg": "../svg/0635-mast.svg"
+},
+{
+"id": "0636",
+"name": "material",
+"aliases": [
+"raw material",
+"stuff"
+],
+"glb": "0636-material.glb",
+"svg": "../svg/0636-material.svg"
+},
+{
+"id": "0637",
+"name": "mathematics",
+"aliases": [
+"arithmetic",
+"math (2)"
+],
+"glb": "0637-mathematics.glb",
+"svg": "../svg/0637-mathematics.svg"
+},
+{
+"id": "0638",
+"name": "meaning",
+"aliases": [
+"sense",
+"significance"
+],
+"glb": "0638-meaning.glb",
+"svg": "../svg/0638-meaning.svg"
+},
+{
+"id": "0639",
+"name": "measurement",
+"aliases": [
+"measure"
+],
+"glb": "0639-measurement.glb",
+"svg": "../svg/0639-measurement.svg"
+},
+{
+"id": "0640",
+"name": "medicine",
+"aliases": [
+"medical practice"
+],
+"glb": "0640-medicine.glb",
+"svg": "../svg/0640-medicine.svg"
+},
+{
+"id": "0641",
+"name": "meeting",
+"aliases": [
+"encounter"
+],
+"glb": "0641-meeting.glb",
+"svg": "../svg/0641-meeting.svg"
+},
+{
+"id": "0642",
+"name": "meeting and parting",
+"aliases": [],
+"glb": "0642-meeting-and-parting.glb",
+"svg": "../svg/0642-meeting-and-parting.svg"
+},
+{
+"id": "0643",
+"name": "Megillah (Book of Esther)",
+"aliases": [],
+"glb": "0643-megillah-book-of-esther.glb",
+"svg": "../svg/0643-megillah-book-of-esther.svg"
+},
+{
+"id": "0644",
+"name": "melon",
+"aliases": [],
+"glb": "0644-melon.glb",
+"svg": "../svg/0644-melon.svg"
+},
+{
+"id": "0645",
+"name": "membrane",
+"aliases": [
+"drumhead",
+"drum skin"
+],
+"glb": "0645-membrane.glb",
+"svg": "../svg/0645-membrane.svg"
+},
+{
+"id": "0646",
+"name": "memory",
+"aliases": [],
+"glb": "0646-memory.glb",
+"svg": "../svg/0646-memory.svg"
+},
+{
+"id": "0647",
+"name": "menorah",
+"aliases": [],
+"glb": "0647-menorah.glb",
+"svg": "../svg/0647-menorah.svg"
+},
+{
+"id": "0648",
+"name": "mental illness",
+"aliases": [],
+"glb": "0648-mental-illness.glb",
+"svg": "../svg/0648-mental-illness.svg"
+},
+{
+"id": "0649",
+"name": "metal bar",
+"aliases": [],
+"glb": "0649-metal-bar.glb",
+"svg": "../svg/0649-metal-bar.svg"
+},
+{
+"id": "0650",
+"name": "metaphor",
+"aliases": [],
+"glb": "0650-metaphor.glb",
+"svg": "../svg/0650-metaphor.svg"
+},
+{
+"id": "0651",
+"name": "metaphor (winged)",
+"aliases": [],
+"glb": "0651-metaphor-winged.glb",
+"svg": "../svg/0651-metaphor-winged.svg"
+},
+{
+"id": "0652",
+"name": "microwave oven",
+"aliases": [],
+"glb": "0652-microwave-oven.glb",
+"svg": "../svg/0652-microwave-oven.svg"
+},
+{
+"id": "0653",
+"name": "middle",
+"aliases": [
+"centre"
+],
+"glb": "0653-middle.glb",
+"svg": "../svg/0653-middle.svg"
+},
+{
+"id": "0654",
+"name": "mind",
+"aliases": [
+"intellect",
+"reason"
+],
+"glb": "0654-mind.glb",
+"svg": "../svg/0654-mind.svg"
+},
+{
+"id": "0655",
+"name": "mine",
+"aliases": [],
+"glb": "0655-mine.glb",
+"svg": "../svg/0655-mine.svg"
+},
+{
+"id": "0656",
+"name": "minus",
+"aliases": [
+"no",
+"without"
+],
+"glb": "0656-minus.glb",
+"svg": "../svg/0656-minus.svg"
+},
+{
+"id": "0657",
+"name": "miscarriage",
+"aliases": [
+"abortion (general)"
+],
+"glb": "0657-miscarriage.glb",
+"svg": "../svg/0657-miscarriage.svg"
+},
+{
+"id": "0658",
+"name": "mixture",
+"aliases": [],
+"glb": "0658-mixture.glb",
+"svg": "../svg/0658-mixture.svg"
+},
+{
+"id": "0659",
+"name": "money",
+"aliases": [
+"cash"
+],
+"glb": "0659-money.glb",
+"svg": "../svg/0659-money.svg"
+},
+{
+"id": "0660",
+"name": "month",
+"aliases": [],
+"glb": "0660-month.glb",
+"svg": "../svg/0660-month.svg"
+},
+{
+"id": "0661",
+"name": "moon",
+"aliases": [],
+"glb": "0661-moon.glb",
+"svg": "../svg/0661-moon.svg"
+},
+{
+"id": "0662",
+"name": "morning (early)",
+"aliases": [],
+"glb": "0662-morning-early.glb",
+"svg": "../svg/0662-morning-early.svg"
+},
+{
+"id": "0663",
+"name": "mother",
+"aliases": [
+"mom",
+"mommy",
+"mum"
+],
+"glb": "0663-mother.glb",
+"svg": "../svg/0663-mother.svg"
+},
+{
+"id": "0664",
+"name": "mountain",
+"aliases": [],
+"glb": "0664-mountain.glb",
+"svg": "../svg/0664-mountain.svg"
+},
+{
+"id": "0665",
+"name": "mountains with valley",
+"aliases": [],
+"glb": "0665-mountains-with-valley.glb",
+"svg": "../svg/0665-mountains-with-valley.svg"
+},
+{
+"id": "0666",
+"name": "mouth",
+"aliases": [],
+"glb": "0666-mouth.glb",
+"svg": "../svg/0666-mouth.svg"
+},
+{
+"id": "0667",
+"name": "move",
+"aliases": [
+"movement"
+],
+"glb": "0667-move.glb",
+"svg": "../svg/0667-move.svg"
+},
+{
+"id": "0668",
+"name": "mud",
+"aliases": [
+"clay"
+],
+"glb": "0668-mud.glb",
+"svg": "../svg/0668-mud.svg"
+},
+{
+"id": "0669",
+"name": "mug",
+"aliases": [
+"cup"
+],
+"glb": "0669-mug.glb",
+"svg": "../svg/0669-mug.svg"
+},
+{
+"id": "0670",
+"name": "multiplication",
+"aliases": [],
+"glb": "0670-multiplication.glb",
+"svg": "../svg/0670-multiplication.svg"
+},
+{
+"id": "0671",
+"name": "muscle",
+"aliases": [],
+"glb": "0671-muscle.glb",
+"svg": "../svg/0671-muscle.svg"
+},
+{
+"id": "0672",
+"name": "muscle (OLD)",
+"aliases": [],
+"glb": "0672-muscle-old.glb",
+"svg": "../svg/0672-muscle-old.svg"
+},
+{
+"id": "0673",
+"name": "mushroom",
+"aliases": [],
+"glb": "0673-mushroom.glb",
+"svg": "../svg/0673-mushroom.svg"
+},
+{
+"id": "0674",
+"name": "musical instrument (in combinations)",
+"aliases": [],
+"glb": "0674-musical-instrument-in-combinations.glb",
+"svg": "../svg/0674-musical-instrument-in-combinations.svg"
+},
+{
+"id": "0675",
+"name": "musical note",
+"aliases": [
+"music (in combinations)"
+],
+"glb": "0675-musical-note.glb",
+"svg": "../svg/0675-musical-note.svg"
+},
+{
+"id": "0676",
+"name": "must (a)",
+"aliases": [],
+"glb": "0676-must-a.glb",
+"svg": "../svg/0676-must-a.svg"
+},
+{
+"id": "0677",
+"name": "muzzle",
+"aliases": [],
+"glb": "0677-muzzle.glb",
+"svg": "../svg/0677-muzzle.svg"
+},
+{
+"id": "0678",
+"name": "mystery",
+"aliases": [
+"unknown"
+],
+"glb": "0678-mystery.glb",
+"svg": "../svg/0678-mystery.svg"
+},
+{
+"id": "0679",
+"name": "n (lowercase)",
+"aliases": [],
+"glb": "0679-n-lowercase.glb",
+"svg": "../svg/0679-n-lowercase.svg"
+},
+{
+"id": "0680",
+"name": "N (uppercase)",
+"aliases": [],
+"glb": "0680-n-uppercase.glb",
+"svg": "../svg/0680-n-uppercase.svg"
+},
+{
+"id": "0681",
+"name": "nail",
+"aliases": [],
+"glb": "0681-nail.glb",
+"svg": "../svg/0681-nail.svg"
+},
+{
+"id": "0682",
+"name": "name",
+"aliases": [
+"label",
+"term",
+"title"
+],
+"glb": "0682-name.glb",
+"svg": "../svg/0682-name.svg"
+},
+{
+"id": "0683",
+"name": "navel",
+"aliases": [],
+"glb": "0683-navel.glb",
+"svg": "../svg/0683-navel.svg"
+},
+{
+"id": "0684",
+"name": "nearness",
+"aliases": [
+"closeness",
+"proximity"
+],
+"glb": "0684-nearness.glb",
+"svg": "../svg/0684-nearness.svg"
+},
+{
+"id": "0685",
+"name": "neck (body)",
+"aliases": [],
+"glb": "0685-neck-body.glb",
+"svg": "../svg/0685-neck-body.svg"
+},
+{
+"id": "0686",
+"name": "neck (head)",
+"aliases": [],
+"glb": "0686-neck-head.glb",
+"svg": "../svg/0686-neck-head.svg"
+},
+{
+"id": "0687",
+"name": "need (needy person)",
+"aliases": [],
+"glb": "0687-need-needy-person.glb",
+"svg": "../svg/0687-need-needy-person.svg"
+},
+{
+"id": "0688",
+"name": "needle",
+"aliases": [],
+"glb": "0688-needle.glb",
+"svg": "../svg/0688-needle.svg"
+},
+{
+"id": "0689",
+"name": "newness",
+"aliases": [
+"novelty"
+],
+"glb": "0689-newness.glb",
+"svg": "../svg/0689-newness.svg"
+},
+{
+"id": "0690",
+"name": "news",
+"aliases": [],
+"glb": "0690-news.glb",
+"svg": "../svg/0690-news.svg"
+},
+{
+"id": "0691",
+"name": "night",
+"aliases": [],
+"glb": "0691-night.glb",
+"svg": "../svg/0691-night.svg"
+},
+{
+"id": "0692",
+"name": "nine (digit)",
+"aliases": [
+"9"
+],
+"glb": "0692-nine-digit.glb",
+"svg": "../svg/0692-nine-digit.svg"
+},
+{
+"id": "0693",
+"name": "nine (index number)",
+"aliases": [],
+"glb": "0693-nine-index-number.glb",
+"svg": "../svg/0693-nine-index-number.svg"
+},
+{
+"id": "0694",
+"name": "no speech",
+"aliases": [
+"anarthria"
+],
+"glb": "0694-no-speech.glb",
+"svg": "../svg/0694-no-speech.svg"
+},
+{
+"id": "0695",
+"name": "nonsense",
+"aliases": [],
+"glb": "0695-nonsense.glb",
+"svg": "../svg/0695-nonsense.svg"
+},
+{
+"id": "0696",
+"name": "north",
+"aliases": [],
+"glb": "0696-north.glb",
+"svg": "../svg/0696-north.svg"
+},
+{
+"id": "0697",
+"name": "northeast",
+"aliases": [],
+"glb": "0697-northeast.glb",
+"svg": "../svg/0697-northeast.svg"
+},
+{
+"id": "0698",
+"name": "northwest",
+"aliases": [],
+"glb": "0698-northwest.glb",
+"svg": "../svg/0698-northwest.svg"
+},
+{
+"id": "0699",
+"name": "North Pole",
+"aliases": [],
+"glb": "0699-north-pole.glb",
+"svg": "../svg/0699-north-pole.svg"
+},
+{
+"id": "0700",
+"name": "nose",
+"aliases": [],
+"glb": "0700-nose.glb",
+"svg": "../svg/0700-nose.svg"
+},
+{
+"id": "0701",
+"name": "now",
+"aliases": [],
+"glb": "0701-now.glb",
+"svg": "../svg/0701-now.svg"
+},
+{
+"id": "0702",
+"name": "nowhere",
+"aliases": [
+"no place"
+],
+"glb": "0702-nowhere.glb",
+"svg": "../svg/0702-nowhere.svg"
+},
+{
+"id": "0703",
+"name": "nuclear radiation",
+"aliases": [
+"radioactivity"
+],
+"glb": "0703-nuclear-radiation.glb",
+"svg": "../svg/0703-nuclear-radiation.svg"
+},
+{
+"id": "0704",
+"name": "nucleus (atom)",
+"aliases": [],
+"glb": "0704-nucleus-atom.glb",
+"svg": "../svg/0704-nucleus-atom.svg"
+},
+{
+"id": "0705",
+"name": "number",
+"aliases": [],
+"glb": "0705-number.glb",
+"svg": "../svg/0705-number.svg"
+},
+{
+"id": "0706",
+"name": "o (lowercase)",
+"aliases": [],
+"glb": "0706-o-lowercase.glb",
+"svg": "../svg/0706-o-lowercase.svg"
+},
+{
+"id": "0707",
+"name": "O (uppercase)",
+"aliases": [],
+"glb": "0707-o-uppercase.glb",
+"svg": "../svg/0707-o-uppercase.svg"
+},
+{
+"id": "0708",
+"name": "observation",
+"aliases": [],
+"glb": "0708-observation.glb",
+"svg": "../svg/0708-observation.svg"
+},
+{
+"id": "0709",
+"name": "offspring",
+"aliases": [
+"child"
+],
+"glb": "0709-offspring.glb",
+"svg": "../svg/0709-offspring.svg"
+},
+{
+"id": "0710",
+"name": "oil",
+"aliases": [
+"lubricant"
+],
+"glb": "0710-oil.glb",
+"svg": "../svg/0710-oil.svg"
+},
+{
+"id": "0711",
+"name": "olive",
+"aliases": [],
+"glb": "0711-olive.glb",
+"svg": "../svg/0711-olive.svg"
+},
+{
+"id": "0712",
+"name": "on",
+"aliases": [],
+"glb": "0712-on.glb",
+"svg": "../svg/0712-on.svg"
+},
+{
+"id": "0713",
+"name": "one (digit)",
+"aliases": [
+"1"
+],
+"glb": "0713-one-digit.glb",
+"svg": "../svg/0713-one-digit.svg"
+},
+{
+"id": "0714",
+"name": "one (index number)",
+"aliases": [],
+"glb": "0714-one-index-number.glb",
+"svg": "../svg/0714-one-index-number.svg"
+},
+{
+"id": "0715",
+"name": "one third",
+"aliases": [],
+"glb": "0715-one-third.glb",
+"svg": "../svg/0715-one-third.svg"
+},
+{
+"id": "0716",
+"name": "onion",
+"aliases": [
+"vegetable (bulb)"
+],
+"glb": "0716-onion.glb",
+"svg": "../svg/0716-onion.svg"
+},
+{
+"id": "0717",
+"name": "opening",
+"aliases": [],
+"glb": "0717-opening.glb",
+"svg": "../svg/0717-opening.svg"
+},
+{
+"id": "0718",
+"name": "opinion",
+"aliases": [],
+"glb": "0718-opinion.glb",
+"svg": "../svg/0718-opinion.svg"
+},
+{
+"id": "0719",
+"name": "opposing forces",
+"aliases": [
+"counter-forces"
+],
+"glb": "0719-opposing-forces.glb",
+"svg": "../svg/0719-opposing-forces.svg"
+},
+{
+"id": "0720",
+"name": "opposite meaning",
+"aliases": [
+"opposite of",
+"opposite"
+],
+"glb": "0720-opposite-meaning.glb",
+"svg": "../svg/0720-opposite-meaning.svg"
+},
+{
+"id": "0721",
+"name": "opposition",
+"aliases": [
+"counter purpose"
+],
+"glb": "0721-opposition.glb",
+"svg": "../svg/0721-opposition.svg"
+},
+{
+"id": "0722",
+"name": "oppression",
+"aliases": [
+"captivity",
+"slavery"
+],
+"glb": "0722-oppression.glb",
+"svg": "../svg/0722-oppression.svg"
+},
+{
+"id": "0723",
+"name": "or",
+"aliases": [],
+"glb": "0723-or.glb",
+"svg": "../svg/0723-or.svg"
+},
+{
+"id": "0724",
+"name": "orange",
+"aliases": [
+"citrus fruit"
+],
+"glb": "0724-orange.glb",
+"svg": "../svg/0724-orange.svg"
+},
+{
+"id": "0725",
+"name": "organ",
+"aliases": [
+"inner organ",
+"inner body part"
+],
+"glb": "0725-organ.glb",
+"svg": "../svg/0725-organ.svg"
+},
+{
+"id": "0726",
+"name": "out",
+"aliases": [
+"exterior",
+"external",
+"outside"
+],
+"glb": "0726-out.glb",
+"svg": "../svg/0726-out.svg"
+},
+{
+"id": "0727",
+"name": "out of",
+"aliases": [
+"exit (downward)"
+],
+"glb": "0727-out-of.glb",
+"svg": "../svg/0727-out-of.svg"
+},
+{
+"id": "0728",
+"name": "out of",
+"aliases": [
+"exit (forward)"
+],
+"glb": "0728-out-of.glb",
+"svg": "../svg/0728-out-of.svg"
+},
+{
+"id": "0729",
+"name": "out of (backward)",
+"aliases": [],
+"glb": "0729-out-of-backward.glb",
+"svg": "../svg/0729-out-of-backward.svg"
+},
+{
+"id": "0730",
+"name": "out of (upward)",
+"aliases": [],
+"glb": "0730-out-of-upward.glb",
+"svg": "../svg/0730-out-of-upward.svg"
+},
+{
+"id": "0731",
+"name": "out of body (upward)",
+"aliases": [],
+"glb": "0731-out-of-body-upward.glb",
+"svg": "../svg/0731-out-of-body-upward.svg"
+},
+{
+"id": "0732",
+"name": "out of body (downward)",
+"aliases": [
+"elimination",
+"excretion"
+],
+"glb": "0732-out-of-body-downward.glb",
+"svg": "../svg/0732-out-of-body-downward.svg"
+},
+{
+"id": "0733",
+"name": "oval",
+"aliases": [],
+"glb": "0733-oval.glb",
+"svg": "../svg/0733-oval.svg"
+},
+{
+"id": "0734",
+"name": "over",
+"aliases": [
+"above",
+"superior"
+],
+"glb": "0734-over.glb",
+"svg": "../svg/0734-over.svg"
+},
+{
+"id": "0735",
+"name": "ownership",
+"aliases": [
+"possession"
+],
+"glb": "0735-ownership.glb",
+"svg": "../svg/0735-ownership.svg"
+},
+{
+"id": "0736",
+"name": "oyster",
+"aliases": [
+"clam",
+"mussel"
+],
+"glb": "0736-oyster.glb",
+"svg": "../svg/0736-oyster.svg"
+},
+{
+"id": "0737",
+"name": "p (lowercase)",
+"aliases": [],
+"glb": "0737-p-lowercase.glb",
+"svg": "../svg/0737-p-lowercase.svg"
+},
+{
+"id": "0738",
+"name": "P (uppercase)",
+"aliases": [],
+"glb": "0738-p-uppercase.glb",
+"svg": "../svg/0738-p-uppercase.svg"
+},
+{
+"id": "0739",
+"name": "paddle",
+"aliases": [
+"oar"
+],
+"glb": "0739-paddle.glb",
+"svg": "../svg/0739-paddle.svg"
+},
+{
+"id": "0740",
+"name": "paddle (two blades)",
+"aliases": [],
+"glb": "0740-paddle-two-blades.glb",
+"svg": "../svg/0740-paddle-two-blades.svg"
+},
+{
+"id": "0741",
+"name": "pail",
+"aliases": [
+"bucket"
+],
+"glb": "0741-pail.glb",
+"svg": "../svg/0741-pail.svg"
+},
+{
+"id": "0742",
+"name": "palm",
+"aliases": [],
+"glb": "0742-palm.glb",
+"svg": "../svg/0742-palm.svg"
+},
+{
+"id": "0743",
+"name": "pancake",
+"aliases": [
+"crepe",
+"tortilla"
+],
+"glb": "0743-pancake.glb",
+"svg": "../svg/0743-pancake.svg"
+},
+{
+"id": "0744",
+"name": "paper",
+"aliases": [
+"card",
+"page"
+],
+"glb": "0744-paper.glb",
+"svg": "../svg/0744-paper.svg"
+},
+{
+"id": "0745",
+"name": "parachute",
+"aliases": [],
+"glb": "0745-parachute.glb",
+"svg": "../svg/0745-parachute.svg"
+},
+{
+"id": "0746",
+"name": "parallel",
+"aliases": [],
+"glb": "0746-parallel.glb",
+"svg": "../svg/0746-parallel.svg"
+},
+{
+"id": "0747",
+"name": "parcel",
+"aliases": [
+"package"
+],
+"glb": "0747-parcel.glb",
+"svg": "../svg/0747-parcel.svg"
+},
+{
+"id": "0748",
+"name": "parent",
+"aliases": [],
+"glb": "0748-parent.glb",
+"svg": "../svg/0748-parent.svg"
+},
+{
+"id": "0749",
+"name": "park",
+"aliases": [],
+"glb": "0749-park.glb",
+"svg": "../svg/0749-park.svg"
+},
+{
+"id": "0750",
+"name": "part",
+"aliases": [
+"bit",
+"piece",
+"portion",
+"part of"
+],
+"glb": "0750-part.glb",
+"svg": "../svg/0750-part.svg"
+},
+{
+"id": "0751",
+"name": "past",
+"aliases": [],
+"glb": "0751-past.glb",
+"svg": "../svg/0751-past.svg"
+},
+{
+"id": "0752",
+"name": "pate",
+"aliases": [
+"crown (body part)"
+],
+"glb": "0752-pate.glb",
+"svg": "../svg/0752-pate.svg"
+},
+{
+"id": "0753",
+"name": "paw",
+"aliases": [],
+"glb": "0753-paw.glb",
+"svg": "../svg/0753-paw.svg"
+},
+{
+"id": "0754",
+"name": "peace",
+"aliases": [
+"peace of mind",
+"serenity"
+],
+"glb": "0754-peace.glb",
+"svg": "../svg/0754-peace.svg"
+},
+{
+"id": "0755",
+"name": "peach",
+"aliases": [
+"nectarine"
+],
+"glb": "0755-peach.glb",
+"svg": "../svg/0755-peach.svg"
+},
+{
+"id": "0756",
+"name": "pear",
+"aliases": [],
+"glb": "0756-pear.glb",
+"svg": "../svg/0756-pear.svg"
+},
+{
+"id": "0757",
+"name": "pea(s)",
+"aliases": [],
+"glb": "0757-pea-s.glb",
+"svg": "../svg/0757-pea-s.svg"
+},
+{
+"id": "0758",
+"name": "pen",
+"aliases": [
+"pencil"
+],
+"glb": "0758-pen.glb",
+"svg": "../svg/0758-pen.svg"
+},
+{
+"id": "0759",
+"name": "penis",
+"aliases": [],
+"glb": "0759-penis.glb",
+"svg": "../svg/0759-penis.svg"
+},
+{
+"id": "0760",
+"name": "pepper (vegetable)",
+"aliases": [],
+"glb": "0760-pepper-vegetable.glb",
+"svg": "../svg/0760-pepper-vegetable.svg"
+},
+{
+"id": "0761",
+"name": "percent",
+"aliases": [
+"percentage",
+"%"
+],
+"glb": "0761-percent.glb",
+"svg": "../svg/0761-percent.svg"
+},
+{
+"id": "0762",
+"name": "period",
+"aliases": [
+"point",
+"full stop",
+"decimal point"
+],
+"glb": "0762-period.glb",
+"svg": "../svg/0762-period.svg"
+},
+{
+"id": "0763",
+"name": "permission",
+"aliases": [
+"allowance"
+],
+"glb": "0763-permission.glb",
+"svg": "../svg/0763-permission.svg"
+},
+{
+"id": "0764",
+"name": "permission",
+"aliases": [
+"allowance (moral)"
+],
+"glb": "0764-permission.glb",
+"svg": "../svg/0764-permission.svg"
+},
+{
+"id": "0765",
+"name": "perpendicular",
+"aliases": [],
+"glb": "0765-perpendicular.glb",
+"svg": "../svg/0765-perpendicular.svg"
+},
+{
+"id": "0766",
+"name": "person",
+"aliases": [
+"human being",
+"individual",
+"human"
+],
+"glb": "0766-person.glb",
+"svg": "../svg/0766-person.svg"
+},
+{
+"id": "0767",
+"name": "personality",
+"aliases": [],
+"glb": "0767-personality.glb",
+"svg": "../svg/0767-personality.svg"
+},
+{
+"id": "0768",
+"name": "persuasion",
+"aliases": [],
+"glb": "0768-persuasion.glb",
+"svg": "../svg/0768-persuasion.svg"
+},
+{
+"id": "0769",
+"name": "pier (OLD)",
+"aliases": [],
+"glb": "0769-pier-old.glb",
+"svg": "../svg/0769-pier-old.svg"
+},
+{
+"id": "0770",
+"name": "pig",
+"aliases": [],
+"glb": "0770-pig.glb",
+"svg": "../svg/0770-pig.svg"
+},
+{
+"id": "0771",
+"name": "pillow",
+"aliases": [
+"cushion"
+],
+"glb": "0771-pillow.glb",
+"svg": "../svg/0771-pillow.svg"
+},
+{
+"id": "0772",
+"name": "pimple",
+"aliases": [
+"blemish"
+],
+"glb": "0772-pimple.glb",
+"svg": "../svg/0772-pimple.svg"
+},
+{
+"id": "0773",
+"name": "pin",
+"aliases": [],
+"glb": "0773-pin.glb",
+"svg": "../svg/0773-pin.svg"
+},
+{
+"id": "0774",
+"name": "pineapple",
+"aliases": [],
+"glb": "0774-pineapple.glb",
+"svg": "../svg/0774-pineapple.svg"
+},
+{
+"id": "0775",
+"name": "pipe",
+"aliases": [
+"hose",
+"tube (1)"
+],
+"glb": "0775-pipe.glb",
+"svg": "../svg/0775-pipe.svg"
+},
+{
+"id": "0776",
+"name": "pipe",
+"aliases": [
+"hose",
+"tube (2)"
+],
+"glb": "0776-pipe.glb",
+"svg": "../svg/0776-pipe.svg"
+},
+{
+"id": "0777",
+"name": "pipe",
+"aliases": [
+"smoking pipe"
+],
+"glb": "0777-pipe.glb",
+"svg": "../svg/0777-pipe.svg"
+},
+{
+"id": "0778",
+"name": "pipe",
+"aliases": [
+"tube (closed)"
+],
+"glb": "0778-pipe.glb",
+"svg": "../svg/0778-pipe.svg"
+},
+{
+"id": "0779",
+"name": "pit",
+"aliases": [
+"stone"
+],
+"glb": "0779-pit.glb",
+"svg": "../svg/0779-pit.svg"
+},
+{
+"id": "0780",
+"name": "pita",
+"aliases": [],
+"glb": "0780-pita.glb",
+"svg": "../svg/0780-pita.svg"
+},
+{
+"id": "0781",
+"name": "pitch (sound)",
+"aliases": [],
+"glb": "0781-pitch-sound.glb",
+"svg": "../svg/0781-pitch-sound.svg"
+},
+{
+"id": "0782",
+"name": "pitcher",
+"aliases": [
+"jug",
+"kettle",
+"pot"
+],
+"glb": "0782-pitcher.glb",
+"svg": "../svg/0782-pitcher.svg"
+},
+{
+"id": "0783",
+"name": "pizza slice(s)",
+"aliases": [
+"sector(s)",
+"circle sector(s)"
+],
+"glb": "0783-pizza-slice-s.glb",
+"svg": "../svg/0783-pizza-slice-s.svg"
+},
+{
+"id": "0784",
+"name": "place",
+"aliases": [
+"area",
+"location",
+"space"
+],
+"glb": "0784-place.glb",
+"svg": "../svg/0784-place.svg"
+},
+{
+"id": "0785",
+"name": "plan",
+"aliases": [
+"design",
+"method",
+"system"
+],
+"glb": "0785-plan.glb",
+"svg": "../svg/0785-plan.svg"
+},
+{
+"id": "0786",
+"name": "planet",
+"aliases": [],
+"glb": "0786-planet.glb",
+"svg": "../svg/0786-planet.svg"
+},
+{
+"id": "0787",
+"name": "plant",
+"aliases": [],
+"glb": "0787-plant.glb",
+"svg": "../svg/0787-plant.svg"
+},
+{
+"id": "0788",
+"name": "platform",
+"aliases": [
+"stage"
+],
+"glb": "0788-platform.glb",
+"svg": "../svg/0788-platform.svg"
+},
+{
+"id": "0789",
+"name": "pliers",
+"aliases": [
+"tongs",
+"tweezer(s)",
+"pincer(s) (pair of)"
+],
+"glb": "0789-pliers.glb",
+"svg": "../svg/0789-pliers.svg"
+},
+{
+"id": "0790",
+"name": "plough",
+"aliases": [],
+"glb": "0790-plough.glb",
+"svg": "../svg/0790-plough.svg"
+},
+{
+"id": "0791",
+"name": "plum",
+"aliases": [
+"drupe"
+],
+"glb": "0791-plum.glb",
+"svg": "../svg/0791-plum.svg"
+},
+{
+"id": "0792",
+"name": "plus minus",
+"aliases": [],
+"glb": "0792-plus-minus.glb",
+"svg": "../svg/0792-plus-minus.svg"
+},
+{
+"id": "0793",
+"name": "plus sign (low)",
+"aliases": [],
+"glb": "0793-plus-sign-low.glb",
+"svg": "../svg/0793-plus-sign-low.svg"
+},
+{
+"id": "0794",
+"name": "pod",
+"aliases": [
+"seedcase",
+"seedpod"
+],
+"glb": "0794-pod.glb",
+"svg": "../svg/0794-pod.svg"
+},
+{
+"id": "0795",
+"name": "point",
+"aliases": [
+"tip",
+"peak"
+],
+"glb": "0795-point.glb",
+"svg": "../svg/0795-point.svg"
+},
+{
+"id": "0796",
+"name": "pointer (hand)",
+"aliases": [],
+"glb": "0796-pointer-hand.glb",
+"svg": "../svg/0796-pointer-hand.svg"
+},
+{
+"id": "0797",
+"name": "pointer",
+"aliases": [
+"arrowhead"
+],
+"glb": "0797-pointer.glb",
+"svg": "../svg/0797-pointer.svg"
+},
+{
+"id": "0798",
+"name": "pointer",
+"aliases": [
+"arrowhead (small)"
+],
+"glb": "0798-pointer.glb",
+"svg": "../svg/0798-pointer.svg"
+},
+{
+"id": "0799",
+"name": "politics",
+"aliases": [],
+"glb": "0799-politics.glb",
+"svg": "../svg/0799-politics.svg"
+},
+{
+"id": "0800",
+"name": "pool",
+"aliases": [],
+"glb": "0800-pool.glb",
+"svg": "../svg/0800-pool.svg"
+},
+{
+"id": "0801",
+"name": "portability",
+"aliases": [],
+"glb": "0801-portability.glb",
+"svg": "../svg/0801-portability.svg"
+},
+{
+"id": "0802",
+"name": "position",
+"aliases": [],
+"glb": "0802-position.glb",
+"svg": "../svg/0802-position.svg"
+},
+{
+"id": "0803",
+"name": "postcard",
+"aliases": [],
+"glb": "0803-postcard.glb",
+"svg": "../svg/0803-postcard.svg"
+},
+{
+"id": "0804",
+"name": "pot",
+"aliases": [
+"kettle",
+"boiler"
+],
+"glb": "0804-pot.glb",
+"svg": "../svg/0804-pot.svg"
+},
+{
+"id": "0805",
+"name": "pot",
+"aliases": [
+"pan"
+],
+"glb": "0805-pot.glb",
+"svg": "../svg/0805-pot.svg"
+},
+{
+"id": "0806",
+"name": "potty",
+"aliases": [
+"chamber pot",
+"bedpan"
+],
+"glb": "0806-potty.glb",
+"svg": "../svg/0806-potty.svg"
+},
+{
+"id": "0807",
+"name": "pound sterling",
+"aliases": [],
+"glb": "0807-pound-sterling.glb",
+"svg": "../svg/0807-pound-sterling.svg"
+},
+{
+"id": "0808",
+"name": "powder",
+"aliases": [
+"dust"
+],
+"glb": "0808-powder.glb",
+"svg": "../svg/0808-powder.svg"
+},
+{
+"id": "0809",
+"name": "power (physics)",
+"aliases": [],
+"glb": "0809-power-physics.glb",
+"svg": "../svg/0809-power-physics.svg"
+},
+{
+"id": "0810",
+"name": "present",
+"aliases": [],
+"glb": "0810-present.glb",
+"svg": "../svg/0810-present.svg"
+},
+{
+"id": "0811",
+"name": "pressure",
+"aliases": [],
+"glb": "0811-pressure.glb",
+"svg": "../svg/0811-pressure.svg"
+},
+{
+"id": "0812",
+"name": "projectile",
+"aliases": [
+"rocket",
+"spacecraft"
+],
+"glb": "0812-projectile.glb",
+"svg": "../svg/0812-projectile.svg"
+},
+{
+"id": "0813",
+"name": "projector",
+"aliases": [],
+"glb": "0813-projector.glb",
+"svg": "../svg/0813-projector.svg"
+},
+{
+"id": "0814",
+"name": "prone board",
+"aliases": [
+"scooter-board"
+],
+"glb": "0814-prone-board.glb",
+"svg": "../svg/0814-prone-board.svg"
+},
+{
+"id": "0815",
+"name": "propeller",
+"aliases": [
+"rotor (blades)"
+],
+"glb": "0815-propeller.glb",
+"svg": "../svg/0815-propeller.svg"
+},
+{
+"id": "0816",
+"name": "protected water",
+"aliases": [],
+"glb": "0816-protected-water.glb",
+"svg": "../svg/0816-protected-water.svg"
+},
+{
+"id": "0817",
+"name": "protection",
+"aliases": [
+"shelter"
+],
+"glb": "0817-protection.glb",
+"svg": "../svg/0817-protection.svg"
+},
+{
+"id": "0818",
+"name": "protection with pointer",
+"aliases": [],
+"glb": "0818-protection-with-pointer.glb",
+"svg": "../svg/0818-protection-with-pointer.svg"
+},
+{
+"id": "0819",
+"name": "pubic hair",
+"aliases": [],
+"glb": "0819-pubic-hair.glb",
+"svg": "../svg/0819-pubic-hair.svg"
+},
+{
+"id": "0820",
+"name": "public room",
+"aliases": [],
+"glb": "0820-public-room.glb",
+"svg": "../svg/0820-public-room.svg"
+},
+{
+"id": "0821",
+"name": "pudding",
+"aliases": [
+"cream"
+],
+"glb": "0821-pudding.glb",
+"svg": "../svg/0821-pudding.svg"
+},
+{
+"id": "0822",
+"name": "puddle",
+"aliases": [
+"pool",
+"water (ground level)"
+],
+"glb": "0822-puddle.glb",
+"svg": "../svg/0822-puddle.svg"
+},
+{
+"id": "0823",
+"name": "pull",
+"aliases": [
+"pulling"
+],
+"glb": "0823-pull.glb",
+"svg": "../svg/0823-pull.svg"
+},
+{
+"id": "0824",
+"name": "purpose",
+"aliases": [],
+"glb": "0824-purpose.glb",
+"svg": "../svg/0824-purpose.svg"
+},
+{
+"id": "0825",
+"name": "push",
+"aliases": [
+"pushing"
+],
+"glb": "0825-push.glb",
+"svg": "../svg/0825-push.svg"
+},
+{
+"id": "0826",
+"name": "pyramid",
+"aliases": [],
+"glb": "0826-pyramid.glb",
+"svg": "../svg/0826-pyramid.svg"
+},
+{
+"id": "0827",
+"name": "q (lowercase)",
+"aliases": [],
+"glb": "0827-q-lowercase.glb",
+"svg": "../svg/0827-q-lowercase.svg"
+},
+{
+"id": "0828",
+"name": "Q (uppercase)",
+"aliases": [],
+"glb": "0828-q-uppercase.glb",
+"svg": "../svg/0828-q-uppercase.svg"
+},
+{
+"id": "0829",
+"name": "quarter",
+"aliases": [
+"one quarter"
+],
+"glb": "0829-quarter.glb",
+"svg": "../svg/0829-quarter.svg"
+},
+{
+"id": "0830",
+"name": "question",
+"aliases": [],
+"glb": "0830-question.glb",
+"svg": "../svg/0830-question.svg"
+},
+{
+"id": "0831",
+"name": "question mark",
+"aliases": [],
+"glb": "0831-question-mark.glb",
+"svg": "../svg/0831-question-mark.svg"
+},
+{
+"id": "0832",
+"name": "quill(s)",
+"aliases": [
+"spine(s)"
+],
+"glb": "0832-quill-s.glb",
+"svg": "../svg/0832-quill-s.svg"
+},
+{
+"id": "0833",
+"name": "r (lowercase)",
+"aliases": [],
+"glb": "0833-r-lowercase.glb",
+"svg": "../svg/0833-r-lowercase.svg"
+},
+{
+"id": "0834",
+"name": "R (uppercase)",
+"aliases": [],
+"glb": "0834-r-uppercase.glb",
+"svg": "../svg/0834-r-uppercase.svg"
+},
+{
+"id": "0835",
+"name": "race",
+"aliases": [
+"competition",
+"contest"
+],
+"glb": "0835-race.glb",
+"svg": "../svg/0835-race.svg"
+},
+{
+"id": "0836",
+"name": "racket",
+"aliases": [
+"racquet"
+],
+"glb": "0836-racket.glb",
+"svg": "../svg/0836-racket.svg"
+},
+{
+"id": "0837",
+"name": "rain",
+"aliases": [],
+"glb": "0837-rain.glb",
+"svg": "../svg/0837-rain.svg"
+},
+{
+"id": "0838",
+"name": "raised wavy line",
+"aliases": [],
+"glb": "0838-raised-wavy-line.glb",
+"svg": "../svg/0838-raised-wavy-line.svg"
+},
+{
+"id": "0839",
+"name": "ramp",
+"aliases": [],
+"glb": "0839-ramp.glb",
+"svg": "../svg/0839-ramp.svg"
+},
+{
+"id": "0840",
+"name": "raspberry",
+"aliases": [
+"blackberry",
+"compound berry"
+],
+"glb": "0840-raspberry.glb",
+"svg": "../svg/0840-raspberry.svg"
+},
+{
+"id": "0841",
+"name": "reality",
+"aliases": [],
+"glb": "0841-reality.glb",
+"svg": "../svg/0841-reality.svg"
+},
+{
+"id": "0842",
+"name": "rear",
+"aliases": [
+"back of a thing"
+],
+"glb": "0842-rear.glb",
+"svg": "../svg/0842-rear.svg"
+},
+{
+"id": "0843",
+"name": "receiver",
+"aliases": [
+"dish"
+],
+"glb": "0843-receiver.glb",
+"svg": "../svg/0843-receiver.svg"
+},
+{
+"id": "0844",
+"name": "getting",
+"aliases": [
+"acquiring",
+"receiving"
+],
+"glb": "0844-getting.glb",
+"svg": "../svg/0844-getting.svg"
+},
+{
+"id": "0845",
+"name": "reclining",
+"aliases": [
+"lying (person lying down)"
+],
+"glb": "0845-reclining.glb",
+"svg": "../svg/0845-reclining.svg"
+},
+{
+"id": "0846",
+"name": "recording disk",
+"aliases": [],
+"glb": "0846-recording-disk.glb",
+"svg": "../svg/0846-recording-disk.svg"
+},
+{
+"id": "0847",
+"name": "reed",
+"aliases": [],
+"glb": "0847-reed.glb",
+"svg": "../svg/0847-reed.svg"
+},
+{
+"id": "0848",
+"name": "reflection",
+"aliases": [],
+"glb": "0848-reflection.glb",
+"svg": "../svg/0848-reflection.svg"
+},
+{
+"id": "0849",
+"name": "reflection (mental)",
+"aliases": [
+"consideration"
+],
+"glb": "0849-reflection-mental.glb",
+"svg": "../svg/0849-reflection-mental.svg"
+},
+{
+"id": "0850",
+"name": "relative",
+"aliases": [
+"relation"
+],
+"glb": "0850-relative.glb",
+"svg": "../svg/0850-relative.svg"
+},
+{
+"id": "0851",
+"name": "relay",
+"aliases": [],
+"glb": "0851-relay.glb",
+"svg": "../svg/0851-relay.svg"
+},
+{
+"id": "0852",
+"name": "religion",
+"aliases": [
+"naturalism"
+],
+"glb": "0852-religion.glb",
+"svg": "../svg/0852-religion.svg"
+},
+{
+"id": "0853",
+"name": "religion (God based)",
+"aliases": [],
+"glb": "0853-religion-god-based.glb",
+"svg": "../svg/0853-religion-god-based.svg"
+},
+{
+"id": "0854",
+"name": "repetition",
+"aliases": [
+"copying",
+"duplication",
+"replication"
+],
+"glb": "0854-repetition.glb",
+"svg": "../svg/0854-repetition.svg"
+},
+{
+"id": "0855",
+"name": "responsibility",
+"aliases": [],
+"glb": "0855-responsibility.glb",
+"svg": "../svg/0855-responsibility.svg"
+},
+{
+"id": "0856",
+"name": "rest",
+"aliases": [
+"comfort"
+],
+"glb": "0856-rest.glb",
+"svg": "../svg/0856-rest.svg"
+},
+{
+"id": "0857",
+"name": "rhinoceros",
+"aliases": [],
+"glb": "0857-rhinoceros.glb",
+"svg": "../svg/0857-rhinoceros.svg"
+},
+{
+"id": "0858",
+"name": "rice",
+"aliases": [],
+"glb": "0858-rice.glb",
+"svg": "../svg/0858-rice.svg"
+},
+{
+"id": "0859",
+"name": "ride",
+"aliases": [
+"drive"
+],
+"glb": "0859-ride.glb",
+"svg": "../svg/0859-ride.svg"
+},
+{
+"id": "0860",
+"name": "right turn",
+"aliases": [
+"right (position or direction)"
+],
+"glb": "0860-right-turn.glb",
+"svg": "../svg/0860-right-turn.svg"
+},
+{
+"id": "0861",
+"name": "ring",
+"aliases": [],
+"glb": "0861-ring.glb",
+"svg": "../svg/0861-ring.svg"
+},
+{
+"id": "0862",
+"name": "river",
+"aliases": [
+"stream",
+"current"
+],
+"glb": "0862-river.glb",
+"svg": "../svg/0862-river.svg"
+},
+{
+"id": "0863",
+"name": "road (1)",
+"aliases": [],
+"glb": "0863-road-1.glb",
+"svg": "../svg/0863-road-1.svg"
+},
+{
+"id": "0864",
+"name": "road and car",
+"aliases": [],
+"glb": "0864-road-and-car.glb",
+"svg": "../svg/0864-road-and-car.svg"
+},
+{
+"id": "0865",
+"name": "roll",
+"aliases": [
+"bun"
+],
+"glb": "0865-roll.glb",
+"svg": "../svg/0865-roll.svg"
+},
+{
+"id": "0866",
+"name": "roller skates",
+"aliases": [],
+"glb": "0866-roller-skates.glb",
+"svg": "../svg/0866-roller-skates.svg"
+},
+{
+"id": "0867",
+"name": "rolling pin",
+"aliases": [],
+"glb": "0867-rolling-pin.glb",
+"svg": "../svg/0867-rolling-pin.svg"
+},
+{
+"id": "0868",
+"name": "room",
+"aliases": [],
+"glb": "0868-room.glb",
+"svg": "../svg/0868-room.svg"
+},
+{
+"id": "0869",
+"name": "root",
+"aliases": [],
+"glb": "0869-root.glb",
+"svg": "../svg/0869-root.svg"
+},
+{
+"id": "0870",
+"name": "root(s)",
+"aliases": [
+"rootage",
+"root system"
+],
+"glb": "0870-root-s.glb",
+"svg": "../svg/0870-root-s.svg"
+},
+{
+"id": "0871",
+"name": "rotation",
+"aliases": [
+"circulation",
+"orbit",
+"lap",
+"circle",
+"round"
+],
+"glb": "0871-rotation.glb",
+"svg": "../svg/0871-rotation.svg"
+},
+{
+"id": "0872",
+"name": "row house",
+"aliases": [
+"attached houses"
+],
+"glb": "0872-row-house.glb",
+"svg": "../svg/0872-row-house.svg"
+},
+{
+"id": "0873",
+"name": "rudder",
+"aliases": [],
+"glb": "0873-rudder.glb",
+"svg": "../svg/0873-rudder.svg"
+},
+{
+"id": "0874",
+"name": "rugby ball",
+"aliases": [
+"football (N.A.)"
+],
+"glb": "0874-rugby-ball.glb",
+"svg": "../svg/0874-rugby-ball.svg"
+},
+{
+"id": "0875",
+"name": "ruin",
+"aliases": [
+"wreck",
+"wreckage (building) (1)"
+],
+"glb": "0875-ruin.glb",
+"svg": "../svg/0875-ruin.svg"
+},
+{
+"id": "0876",
+"name": "s (lowercase)",
+"aliases": [],
+"glb": "0876-s-lowercase.glb",
+"svg": "../svg/0876-s-lowercase.svg"
+},
+{
+"id": "0877",
+"name": "S (uppercase)",
+"aliases": [],
+"glb": "0877-s-uppercase.glb",
+"svg": "../svg/0877-s-uppercase.svg"
+},
+{
+"id": "0878",
+"name": "sack",
+"aliases": [
+"bag"
+],
+"glb": "0878-sack.glb",
+"svg": "../svg/0878-sack.svg"
+},
+{
+"id": "0879",
+"name": "sail",
+"aliases": [],
+"glb": "0879-sail.glb",
+"svg": "../svg/0879-sail.svg"
+},
+{
+"id": "0880",
+"name": "sail (OLD)",
+"aliases": [],
+"glb": "0880-sail-old.glb",
+"svg": "../svg/0880-sail-old.svg"
+},
+{
+"id": "0881",
+"name": "sailboat",
+"aliases": [
+"sailing boat",
+"yacht"
+],
+"glb": "0881-sailboat.glb",
+"svg": "../svg/0881-sailboat.svg"
+},
+{
+"id": "0882",
+"name": "sailboat (OLD)",
+"aliases": [],
+"glb": "0882-sailboat-old.glb",
+"svg": "../svg/0882-sailboat-old.svg"
+},
+{
+"id": "0883",
+"name": "salad",
+"aliases": [],
+"glb": "0883-salad.glb",
+"svg": "../svg/0883-salad.svg"
+},
+{
+"id": "0884",
+"name": "same",
+"aliases": [
+"equal",
+"equality"
+],
+"glb": "0884-same.glb",
+"svg": "../svg/0884-same.svg"
+},
+{
+"id": "0885",
+"name": "satellite",
+"aliases": [],
+"glb": "0885-satellite.glb",
+"svg": "../svg/0885-satellite.svg"
+},
+{
+"id": "0886",
+"name": "sauce",
+"aliases": [
+"gravy",
+"relish",
+"dressing"
+],
+"glb": "0886-sauce.glb",
+"svg": "../svg/0886-sauce.svg"
+},
+{
+"id": "0887",
+"name": "saucepan",
+"aliases": [],
+"glb": "0887-saucepan.glb",
+"svg": "../svg/0887-saucepan.svg"
+},
+{
+"id": "0888",
+"name": "saw",
+"aliases": [],
+"glb": "0888-saw.glb",
+"svg": "../svg/0888-saw.svg"
+},
+{
+"id": "0889",
+"name": "scale",
+"aliases": [
+"measurement"
+],
+"glb": "0889-scale.glb",
+"svg": "../svg/0889-scale.svg"
+},
+{
+"id": "0890",
+"name": "science",
+"aliases": [
+"body of learning"
+],
+"glb": "0890-science.glb",
+"svg": "../svg/0890-science.svg"
+},
+{
+"id": "0891",
+"name": "scissors",
+"aliases": [],
+"glb": "0891-scissors.glb",
+"svg": "../svg/0891-scissors.svg"
+},
+{
+"id": "0892",
+"name": "screw",
+"aliases": [],
+"glb": "0892-screw.glb",
+"svg": "../svg/0892-screw.svg"
+},
+{
+"id": "0893",
+"name": "seal",
+"aliases": [],
+"glb": "0893-seal.glb",
+"svg": "../svg/0893-seal.svg"
+},
+{
+"id": "0894",
+"name": "seat",
+"aliases": [
+"sitting (sitting person)"
+],
+"glb": "0894-seat.glb",
+"svg": "../svg/0894-seat.svg"
+},
+{
+"id": "0895",
+"name": "seaweed",
+"aliases": [],
+"glb": "0895-seaweed.glb",
+"svg": "../svg/0895-seaweed.svg"
+},
+{
+"id": "0896",
+"name": "secret",
+"aliases": [],
+"glb": "0896-secret.glb",
+"svg": "../svg/0896-secret.svg"
+},
+{
+"id": "0897",
+"name": "seed",
+"aliases": [],
+"glb": "0897-seed.glb",
+"svg": "../svg/0897-seed.svg"
+},
+{
+"id": "0898",
+"name": "seesaw",
+"aliases": [
+"teeter-totter",
+"teeter board"
+],
+"glb": "0898-seesaw.glb",
+"svg": "../svg/0898-seesaw.svg"
+},
+{
+"id": "0899",
+"name": "selfishness",
+"aliases": [
+"egoism"
+],
+"glb": "0899-selfishness.glb",
+"svg": "../svg/0899-selfishness.svg"
+},
+{
+"id": "0900",
+"name": "semi-detached house",
+"aliases": [],
+"glb": "0900-semi-detached-house.glb",
+"svg": "../svg/0900-semi-detached-house.svg"
+},
+{
+"id": "0901",
+"name": "seven (digit)",
+"aliases": [
+"7"
+],
+"glb": "0901-seven-digit.glb",
+"svg": "../svg/0901-seven-digit.svg"
+},
+{
+"id": "0902",
+"name": "seven (index number)",
+"aliases": [],
+"glb": "0902-seven-index-number.glb",
+"svg": "../svg/0902-seven-index-number.svg"
+},
+{
+"id": "0903",
+"name": "shallowness",
+"aliases": [],
+"glb": "0903-shallowness.glb",
+"svg": "../svg/0903-shallowness.svg"
+},
+{
+"id": "0904",
+"name": "shamrock",
+"aliases": [
+"clover"
+],
+"glb": "0904-shamrock.glb",
+"svg": "../svg/0904-shamrock.svg"
+},
+{
+"id": "0905",
+"name": "shekel (character)",
+"aliases": [],
+"glb": "0905-shekel-character.glb",
+"svg": "../svg/0905-shekel-character.svg"
+},
+{
+"id": "0906",
+"name": "shelf",
+"aliases": [],
+"glb": "0906-shelf.glb",
+"svg": "../svg/0906-shelf.svg"
+},
+{
+"id": "0907",
+"name": "shell",
+"aliases": [
+"crust"
+],
+"glb": "0907-shell.glb",
+"svg": "../svg/0907-shell.svg"
+},
+{
+"id": "0908",
+"name": "shellfish (without claws)",
+"aliases": [],
+"glb": "0908-shellfish-without-claws.glb",
+"svg": "../svg/0908-shellfish-without-claws.svg"
+},
+{
+"id": "0909",
+"name": "shine",
+"aliases": [],
+"glb": "0909-shine.glb",
+"svg": "../svg/0909-shine.svg"
+},
+{
+"id": "0910",
+"name": "shortness (distance",
+"aliases": [
+"length)"
+],
+"glb": "0910-shortness-distance.glb",
+"svg": "../svg/0910-shortness-distance.svg"
+},
+{
+"id": "0911",
+"name": "shoulder",
+"aliases": [],
+"glb": "0911-shoulder.glb",
+"svg": "../svg/0911-shoulder.svg"
+},
+{
+"id": "0912",
+"name": "shovel",
+"aliases": [
+"spade"
+],
+"glb": "0912-shovel.glb",
+"svg": "../svg/0912-shovel.svg"
+},
+{
+"id": "0913",
+"name": "shower",
+"aliases": [],
+"glb": "0913-shower.glb",
+"svg": "../svg/0913-shower.svg"
+},
+{
+"id": "0914",
+"name": "shuttlecock",
+"aliases": [
+"birdie (badminton)"
+],
+"glb": "0914-shuttlecock.glb",
+"svg": "../svg/0914-shuttlecock.svg"
+},
+{
+"id": "0915",
+"name": "side (body)",
+"aliases": [],
+"glb": "0915-side-body.glb",
+"svg": "../svg/0915-side-body.svg"
+},
+{
+"id": "0916",
+"name": "side (enclosure)",
+"aliases": [],
+"glb": "0916-side-enclosure.glb",
+"svg": "../svg/0916-side-enclosure.svg"
+},
+{
+"id": "0917",
+"name": "sieve",
+"aliases": [
+"colander",
+"strainer"
+],
+"glb": "0917-sieve.glb",
+"svg": "../svg/0917-sieve.svg"
+},
+{
+"id": "0918",
+"name": "signal",
+"aliases": [
+"broadcast",
+"transmitting"
+],
+"glb": "0918-signal.glb",
+"svg": "../svg/0918-signal.svg"
+},
+{
+"id": "0919",
+"name": "single father",
+"aliases": [],
+"glb": "0919-single-father.glb",
+"svg": "../svg/0919-single-father.svg"
+},
+{
+"id": "0920",
+"name": "single mother",
+"aliases": [],
+"glb": "0920-single-mother.glb",
+"svg": "../svg/0920-single-mother.svg"
+},
+{
+"id": "0921",
+"name": "single parent",
+"aliases": [],
+"glb": "0921-single-parent.glb",
+"svg": "../svg/0921-single-parent.svg"
+},
+{
+"id": "0922",
+"name": "single parent family",
+"aliases": [],
+"glb": "0922-single-parent-family.glb",
+"svg": "../svg/0922-single-parent-family.svg"
+},
+{
+"id": "0923",
+"name": "sitski",
+"aliases": [
+"sit ski"
+],
+"glb": "0923-sitski.glb",
+"svg": "../svg/0923-sitski.svg"
+},
+{
+"id": "0924",
+"name": "six (digit)",
+"aliases": [
+"6"
+],
+"glb": "0924-six-digit.glb",
+"svg": "../svg/0924-six-digit.svg"
+},
+{
+"id": "0925",
+"name": "six (index number)",
+"aliases": [],
+"glb": "0925-six-index-number.glb",
+"svg": "../svg/0925-six-index-number.svg"
+},
+{
+"id": "0926",
+"name": "skateboard",
+"aliases": [],
+"glb": "0926-skateboard.glb",
+"svg": "../svg/0926-skateboard.svg"
+},
+{
+"id": "0927",
+"name": "ski",
+"aliases": [
+"runner (sled etc)"
+],
+"glb": "0927-ski.glb",
+"svg": "../svg/0927-ski.svg"
+},
+{
+"id": "0928",
+"name": "sky",
+"aliases": [],
+"glb": "0928-sky.glb",
+"svg": "../svg/0928-sky.svg"
+},
+{
+"id": "0929",
+"name": "slang",
+"aliases": [],
+"glb": "0929-slang.glb",
+"svg": "../svg/0929-slang.svg"
+},
+{
+"id": "0930",
+"name": "sled",
+"aliases": [
+"sledge",
+"sleigh",
+"toboggan"
+],
+"glb": "0930-sled.glb",
+"svg": "../svg/0930-sled.svg"
+},
+{
+"id": "0931",
+"name": "sleep",
+"aliases": [],
+"glb": "0931-sleep.glb",
+"svg": "../svg/0931-sleep.svg"
+},
+{
+"id": "0932",
+"name": "smell",
+"aliases": [
+"odour"
+],
+"glb": "0932-smell.glb",
+"svg": "../svg/0932-smell.svg"
+},
+{
+"id": "0933",
+"name": "smoking (cigarette)",
+"aliases": [],
+"glb": "0933-smoking-cigarette.glb",
+"svg": "../svg/0933-smoking-cigarette.svg"
+},
+{
+"id": "0934",
+"name": "smoking (pipe)",
+"aliases": [],
+"glb": "0934-smoking-pipe.glb",
+"svg": "../svg/0934-smoking-pipe.svg"
+},
+{
+"id": "0935",
+"name": "snail",
+"aliases": [],
+"glb": "0935-snail.glb",
+"svg": "../svg/0935-snail.svg"
+},
+{
+"id": "0936",
+"name": "snake",
+"aliases": [],
+"glb": "0936-snake.glb",
+"svg": "../svg/0936-snake.svg"
+},
+{
+"id": "0937",
+"name": "snow",
+"aliases": [],
+"glb": "0937-snow.glb",
+"svg": "../svg/0937-snow.svg"
+},
+{
+"id": "0938",
+"name": "snowflake",
+"aliases": [],
+"glb": "0938-snowflake.glb",
+"svg": "../svg/0938-snowflake.svg"
+},
+{
+"id": "0939",
+"name": "snowshoe",
+"aliases": [],
+"glb": "0939-snowshoe.glb",
+"svg": "../svg/0939-snowshoe.svg"
+},
+{
+"id": "0940",
+"name": "solid thing",
+"aliases": [],
+"glb": "0940-solid-thing.glb",
+"svg": "../svg/0940-solid-thing.svg"
+},
+{
+"id": "0941",
+"name": "somersault",
+"aliases": [],
+"glb": "0941-somersault.glb",
+"svg": "../svg/0941-somersault.svg"
+},
+{
+"id": "0942",
+"name": "son",
+"aliases": [],
+"glb": "0942-son.glb",
+"svg": "../svg/0942-son.svg"
+},
+{
+"id": "0943",
+"name": "soprano",
+"aliases": [],
+"glb": "0943-soprano.glb",
+"svg": "../svg/0943-soprano.svg"
+},
+{
+"id": "0944",
+"name": "sound",
+"aliases": [],
+"glb": "0944-sound.glb",
+"svg": "../svg/0944-sound.svg"
+},
+{
+"id": "0945",
+"name": "soup",
+"aliases": [
+"broth"
+],
+"glb": "0945-soup.glb",
+"svg": "../svg/0945-soup.svg"
+},
+{
+"id": "0946",
+"name": "south",
+"aliases": [],
+"glb": "0946-south.glb",
+"svg": "../svg/0946-south.svg"
+},
+{
+"id": "0947",
+"name": "southeast",
+"aliases": [],
+"glb": "0947-southeast.glb",
+"svg": "../svg/0947-southeast.svg"
+},
+{
+"id": "0948",
+"name": "southwest",
+"aliases": [],
+"glb": "0948-southwest.glb",
+"svg": "../svg/0948-southwest.svg"
+},
+{
+"id": "0949",
+"name": "South Pole",
+"aliases": [],
+"glb": "0949-south-pole.glb",
+"svg": "../svg/0949-south-pole.svg"
+},
+{
+"id": "0950",
+"name": "space",
+"aliases": [
+"dimension"
+],
+"glb": "0950-space.glb",
+"svg": "../svg/0950-space.svg"
+},
+{
+"id": "0951",
+"name": "sperm",
+"aliases": [],
+"glb": "0951-sperm.glb",
+"svg": "../svg/0951-sperm.svg"
+},
+{
+"id": "0952",
+"name": "sperm destruction",
+"aliases": [],
+"glb": "0952-sperm-destruction.glb",
+"svg": "../svg/0952-sperm-destruction.svg"
+},
+{
+"id": "0953",
+"name": "spider",
+"aliases": [],
+"glb": "0953-spider.glb",
+"svg": "../svg/0953-spider.svg"
+},
+{
+"id": "0954",
+"name": "spiral",
+"aliases": [],
+"glb": "0954-spiral.glb",
+"svg": "../svg/0954-spiral.svg"
+},
+{
+"id": "0955",
+"name": "spirit",
+"aliases": [],
+"glb": "0955-spirit.glb",
+"svg": "../svg/0955-spirit.svg"
+},
+{
+"id": "0956",
+"name": "spitting",
+"aliases": [],
+"glb": "0956-spitting.glb",
+"svg": "../svg/0956-spitting.svg"
+},
+{
+"id": "0957",
+"name": "spoon",
+"aliases": [],
+"glb": "0957-spoon.glb",
+"svg": "../svg/0957-spoon.svg"
+},
+{
+"id": "0958",
+"name": "sport",
+"aliases": [],
+"glb": "0958-sport.glb",
+"svg": "../svg/0958-sport.svg"
+},
+{
+"id": "0959",
+"name": "sport stick",
+"aliases": [],
+"glb": "0959-sport-stick.glb",
+"svg": "../svg/0959-sport-stick.svg"
+},
+{
+"id": "0960",
+"name": "sport stick and ball",
+"aliases": [
+"bandy stick"
+],
+"glb": "0960-sport-stick-and-ball.glb",
+"svg": "../svg/0960-sport-stick-and-ball.svg"
+},
+{
+"id": "0961",
+"name": "sport stick and puck",
+"aliases": [
+"hockey stick"
+],
+"glb": "0961-sport-stick-and-puck.glb",
+"svg": "../svg/0961-sport-stick-and-puck.svg"
+},
+{
+"id": "0962",
+"name": "spouse",
+"aliases": [
+"cohabitant",
+"partner"
+],
+"glb": "0962-spouse.glb",
+"svg": "../svg/0962-spouse.svg"
+},
+{
+"id": "0963",
+"name": "spray",
+"aliases": [
+"vaporization"
+],
+"glb": "0963-spray.glb",
+"svg": "../svg/0963-spray.svg"
+},
+{
+"id": "0964",
+"name": "spread",
+"aliases": [
+"paste"
+],
+"glb": "0964-spread.glb",
+"svg": "../svg/0964-spread.svg"
+},
+{
+"id": "0965",
+"name": "square (oblique)",
+"aliases": [],
+"glb": "0965-square-oblique.glb",
+"svg": "../svg/0965-square-oblique.svg"
+},
+{
+"id": "0966",
+"name": "square (public)",
+"aliases": [],
+"glb": "0966-square-public.glb",
+"svg": "../svg/0966-square-public.svg"
+},
+{
+"id": "0967",
+"name": "squash",
+"aliases": [
+"pumpkin"
+],
+"glb": "0967-squash.glb",
+"svg": "../svg/0967-squash.svg"
+},
+{
+"id": "0968",
+"name": "stairs",
+"aliases": [
+"steps"
+],
+"glb": "0968-stairs.glb",
+"svg": "../svg/0968-stairs.svg"
+},
+{
+"id": "0969",
+"name": "stamp",
+"aliases": [],
+"glb": "0969-stamp.glb",
+"svg": "../svg/0969-stamp.svg"
+},
+{
+"id": "0970",
+"name": "stander (wheeled)",
+"aliases": [],
+"glb": "0970-stander-wheeled.glb",
+"svg": "../svg/0970-stander-wheeled.svg"
+},
+{
+"id": "0971",
+"name": "standing (standing person)",
+"aliases": [],
+"glb": "0971-standing-standing-person.glb",
+"svg": "../svg/0971-standing-standing-person.svg"
+},
+{
+"id": "0972",
+"name": "star",
+"aliases": [],
+"glb": "0972-star.glb",
+"svg": "../svg/0972-star.svg"
+},
+{
+"id": "0973",
+"name": "star of David",
+"aliases": [],
+"glb": "0973-star-of-david.glb",
+"svg": "../svg/0973-star-of-david.svg"
+},
+{
+"id": "0974",
+"name": "state of mind",
+"aliases": [],
+"glb": "0974-state-of-mind.glb",
+"svg": "../svg/0974-state-of-mind.svg"
+},
+{
+"id": "0975",
+"name": "stave",
+"aliases": [
+"staff"
+],
+"glb": "0975-stave.glb",
+"svg": "../svg/0975-stave.svg"
+},
+{
+"id": "0976",
+"name": "steam",
+"aliases": [],
+"glb": "0976-steam.glb",
+"svg": "../svg/0976-steam.svg"
+},
+{
+"id": "0977",
+"name": "steam bath",
+"aliases": [],
+"glb": "0977-steam-bath.glb",
+"svg": "../svg/0977-steam-bath.svg"
+},
+{
+"id": "0978",
+"name": "steering wheel",
+"aliases": [],
+"glb": "0978-steering-wheel.glb",
+"svg": "../svg/0978-steering-wheel.svg"
+},
+{
+"id": "0979",
+"name": "stem",
+"aliases": [
+"stalk"
+],
+"glb": "0979-stem.glb",
+"svg": "../svg/0979-stem.svg"
+},
+{
+"id": "0980",
+"name": "step",
+"aliases": [
+"stair"
+],
+"glb": "0980-step.glb",
+"svg": "../svg/0980-step.svg"
+},
+{
+"id": "0981",
+"name": "stepfather",
+"aliases": [],
+"glb": "0981-stepfather.glb",
+"svg": "../svg/0981-stepfather.svg"
+},
+{
+"id": "0982",
+"name": "stepmother",
+"aliases": [],
+"glb": "0982-stepmother.glb",
+"svg": "../svg/0982-stepmother.svg"
+},
+{
+"id": "0983",
+"name": "stepparent",
+"aliases": [
+"step-parent"
+],
+"glb": "0983-stepparent.glb",
+"svg": "../svg/0983-stepparent.svg"
+},
+{
+"id": "0984",
+"name": "stern",
+"aliases": [],
+"glb": "0984-stern.glb",
+"svg": "../svg/0984-stern.svg"
+},
+{
+"id": "0985",
+"name": "stomach",
+"aliases": [
+"abdomen",
+"belly"
+],
+"glb": "0985-stomach.glb",
+"svg": "../svg/0985-stomach.svg"
+},
+{
+"id": "0986",
+"name": "stone",
+"aliases": [
+"rock"
+],
+"glb": "0986-stone.glb",
+"svg": "../svg/0986-stone.svg"
+},
+{
+"id": "0987",
+"name": "stop",
+"aliases": [
+"platform (vehicle) (OLD)"
+],
+"glb": "0987-stop.glb",
+"svg": "../svg/0987-stop.svg"
+},
+{
+"id": "0988",
+"name": "store",
+"aliases": [
+"shop"
+],
+"glb": "0988-store.glb",
+"svg": "../svg/0988-store.svg"
+},
+{
+"id": "0989",
+"name": "stove",
+"aliases": [
+"furnace",
+"heater",
+"oven"
+],
+"glb": "0989-stove.glb",
+"svg": "../svg/0989-stove.svg"
+},
+{
+"id": "0990",
+"name": "stovetop",
+"aliases": [],
+"glb": "0990-stovetop.glb",
+"svg": "../svg/0990-stovetop.svg"
+},
+{
+"id": "0991",
+"name": "strawberry",
+"aliases": [],
+"glb": "0991-strawberry.glb",
+"svg": "../svg/0991-strawberry.svg"
+},
+{
+"id": "0992",
+"name": "street",
+"aliases": [],
+"glb": "0992-street.glb",
+"svg": "../svg/0992-street.svg"
+},
+{
+"id": "0993",
+"name": "street and building",
+"aliases": [],
+"glb": "0993-street-and-building.glb",
+"svg": "../svg/0993-street-and-building.svg"
+},
+{
+"id": "0994",
+"name": "strength",
+"aliases": [],
+"glb": "0994-strength.glb",
+"svg": "../svg/0994-strength.svg"
+},
+{
+"id": "0995",
+"name": "string",
+"aliases": [],
+"glb": "0995-string.glb",
+"svg": "../svg/0995-string.svg"
+},
+{
+"id": "0996",
+"name": "string (for musical instrument)",
+"aliases": [],
+"glb": "0996-string-for-musical-instrument.glb",
+"svg": "../svg/0996-string-for-musical-instrument.svg"
+},
+{
+"id": "0997",
+"name": "structure",
+"aliases": [
+"construction"
+],
+"glb": "0997-structure.glb",
+"svg": "../svg/0997-structure.svg"
+},
+{
+"id": "0998",
+"name": "substance",
+"aliases": [],
+"glb": "0998-substance.glb",
+"svg": "../svg/0998-substance.svg"
+},
+{
+"id": "0999",
+"name": "subtraction",
+"aliases": [
+"loss"
+],
+"glb": "0999-subtraction.glb",
+"svg": "../svg/0999-subtraction.svg"
+},
+{
+"id": "1000",
+"name": "success",
+"aliases": [],
+"glb": "1000-success.glb",
+"svg": "../svg/1000-success.svg"
+},
+{
+"id": "1001",
+"name": "sun",
+"aliases": [],
+"glb": "1001-sun.glb",
+"svg": "../svg/1001-sun.svg"
+},
+{
+"id": "1002",
+"name": "superlative most",
+"aliases": [],
+"glb": "1002-superlative-most.glb",
+"svg": "../svg/1002-superlative-most.svg"
+},
+{
+"id": "1003",
+"name": "supernatural-(noun)",
+"aliases": [],
+"glb": "1003-supernatural-noun.glb",
+"svg": "../svg/1003-supernatural-noun.svg"
+},
+{
+"id": "1004",
+"name": "swamp",
+"aliases": [
+"bog",
+"marsh"
+],
+"glb": "1004-swamp.glb",
+"svg": "../svg/1004-swamp.svg"
+},
+{
+"id": "1005",
+"name": "swan",
+"aliases": [],
+"glb": "1005-swan.glb",
+"svg": "../svg/1005-swan.svg"
+},
+{
+"id": "1006",
+"name": "swing",
+"aliases": [
+"swinging"
+],
+"glb": "1006-swing.glb",
+"svg": "../svg/1006-swing.svg"
+},
+{
+"id": "1007",
+"name": "t (lowercase)",
+"aliases": [],
+"glb": "1007-t-lowercase.glb",
+"svg": "../svg/1007-t-lowercase.svg"
+},
+{
+"id": "1008",
+"name": "T (uppercase)",
+"aliases": [],
+"glb": "1008-t-uppercase.glb",
+"svg": "../svg/1008-t-uppercase.svg"
+},
+{
+"id": "1009",
+"name": "table",
+"aliases": [],
+"glb": "1009-table.glb",
+"svg": "../svg/1009-table.svg"
+},
+{
+"id": "1010",
+"name": "tabletop",
+"aliases": [],
+"glb": "1010-tabletop.glb",
+"svg": "../svg/1010-tabletop.svg"
+},
+{
+"id": "1011",
+"name": "tadpole",
+"aliases": [],
+"glb": "1011-tadpole.glb",
+"svg": "../svg/1011-tadpole.svg"
+},
+{
+"id": "1012",
+"name": "tail",
+"aliases": [],
+"glb": "1012-tail.glb",
+"svg": "../svg/1012-tail.svg"
+},
+{
+"id": "1013",
+"name": "tank",
+"aliases": [],
+"glb": "1013-tank.glb",
+"svg": "../svg/1013-tank.svg"
+},
+{
+"id": "1014",
+"name": "taste",
+"aliases": [],
+"glb": "1014-taste.glb",
+"svg": "../svg/1014-taste.svg"
+},
+{
+"id": "1015",
+"name": "tax",
+"aliases": [],
+"glb": "1015-tax.glb",
+"svg": "../svg/1015-tax.svg"
+},
+{
+"id": "1016",
+"name": "teenager",
+"aliases": [
+"adolescent",
+"youth"
+],
+"glb": "1016-teenager.glb",
+"svg": "../svg/1016-teenager.svg"
+},
+{
+"id": "1017",
+"name": "teeth",
+"aliases": [],
+"glb": "1017-teeth.glb",
+"svg": "../svg/1017-teeth.svg"
+},
+{
+"id": "1018",
+"name": "temperature",
+"aliases": [],
+"glb": "1018-temperature.glb",
+"svg": "../svg/1018-temperature.svg"
+},
+{
+"id": "1019",
+"name": "tenor",
+"aliases": [],
+"glb": "1019-tenor.glb",
+"svg": "../svg/1019-tenor.svg"
+},
+{
+"id": "1020",
+"name": "that (conj)",
+"aliases": [],
+"glb": "1020-that-conj.glb",
+"svg": "../svg/1020-that-conj.svg"
+},
+{
+"id": "1021",
+"name": "that (there)",
+"aliases": [],
+"glb": "1021-that-there.glb",
+"svg": "../svg/1021-that-there.svg"
+},
+{
+"id": "1022",
+"name": "thawing",
+"aliases": [
+"melting"
+],
+"glb": "1022-thawing.glb",
+"svg": "../svg/1022-thawing.svg"
+},
+{
+"id": "1023",
+"name": "the",
+"aliases": [],
+"glb": "1023-the.glb",
+"svg": "../svg/1023-the.svg"
+},
+{
+"id": "1024",
+"name": "then",
+"aliases": [
+"so",
+"later"
+],
+"glb": "1024-then.glb",
+"svg": "../svg/1024-then.svg"
+},
+{
+"id": "1025",
+"name": "therapy",
+"aliases": [],
+"glb": "1025-therapy.glb",
+"svg": "../svg/1025-therapy.svg"
+},
+{
+"id": "1026",
+"name": "there",
+"aliases": [],
+"glb": "1026-there.glb",
+"svg": "../svg/1026-there.svg"
+},
+{
+"id": "1027",
+"name": "therefore",
+"aliases": [
+"so",
+"so that"
+],
+"glb": "1027-therefore.glb",
+"svg": "../svg/1027-therefore.svg"
+},
+{
+"id": "1028",
+"name": "thing",
+"aliases": [
+"object"
+],
+"glb": "1028-thing.glb",
+"svg": "../svg/1028-thing.svg"
+},
+{
+"id": "1029",
+"name": "thinness",
+"aliases": [
+"narrowness"
+],
+"glb": "1029-thinness.glb",
+"svg": "../svg/1029-thinness.svg"
+},
+{
+"id": "1030",
+"name": "this",
+"aliases": [],
+"glb": "1030-this.glb",
+"svg": "../svg/1030-this.svg"
+},
+{
+"id": "1031",
+"name": "three (digit)",
+"aliases": [
+"3"
+],
+"glb": "1031-three-digit.glb",
+"svg": "../svg/1031-three-digit.svg"
+},
+{
+"id": "1032",
+"name": "three (index number)",
+"aliases": [],
+"glb": "1032-three-index-number.glb",
+"svg": "../svg/1032-three-index-number.svg"
+},
+{
+"id": "1033",
+"name": "three Danish waters (OLD)",
+"aliases": [],
+"glb": "1033-three-danish-waters-old.glb",
+"svg": "../svg/1033-three-danish-waters-old.svg"
+},
+{
+"id": "1034",
+"name": "three quarters",
+"aliases": [],
+"glb": "1034-three-quarters.glb",
+"svg": "../svg/1034-three-quarters.svg"
+},
+{
+"id": "1035",
+"name": "through",
+"aliases": [],
+"glb": "1035-through.glb",
+"svg": "../svg/1035-through.svg"
+},
+{
+"id": "1036",
+"name": "thumb",
+"aliases": [],
+"glb": "1036-thumb.glb",
+"svg": "../svg/1036-thumb.svg"
+},
+{
+"id": "1037",
+"name": "tile",
+"aliases": [],
+"glb": "1037-tile.glb",
+"svg": "../svg/1037-tile.svg"
+},
+{
+"id": "1038",
+"name": "time",
+"aliases": [],
+"glb": "1038-time.glb",
+"svg": "../svg/1038-time.svg"
+},
+{
+"id": "1039",
+"name": "tire",
+"aliases": [
+"tyre"
+],
+"glb": "1039-tire.glb",
+"svg": "../svg/1039-tire.svg"
+},
+{
+"id": "1040",
+"name": "to",
+"aliases": [
+"toward",
+"towards"
+],
+"glb": "1040-to.glb",
+"svg": "../svg/1040-to.svg"
+},
+{
+"id": "1041",
+"name": "toe",
+"aliases": [],
+"glb": "1041-toe.glb",
+"svg": "../svg/1041-toe.svg"
+},
+{
+"id": "1042",
+"name": "toilet",
+"aliases": [],
+"glb": "1042-toilet.glb",
+"svg": "../svg/1042-toilet.svg"
+},
+{
+"id": "1043",
+"name": "tool",
+"aliases": [
+"instrument"
+],
+"glb": "1043-tool.glb",
+"svg": "../svg/1043-tool.svg"
+},
+{
+"id": "1044",
+"name": "tooth",
+"aliases": [],
+"glb": "1044-tooth.glb",
+"svg": "../svg/1044-tooth.svg"
+},
+{
+"id": "1045",
+"name": "top",
+"aliases": [],
+"glb": "1045-top.glb",
+"svg": "../svg/1045-top.svg"
+},
+{
+"id": "1046",
+"name": "top",
+"aliases": [
+"top of a thing"
+],
+"glb": "1046-top.glb",
+"svg": "../svg/1046-top.svg"
+},
+{
+"id": "1047",
+"name": "Torah",
+"aliases": [],
+"glb": "1047-torah.glb",
+"svg": "../svg/1047-torah.svg"
+},
+{
+"id": "1048",
+"name": "tower",
+"aliases": [],
+"glb": "1048-tower.glb",
+"svg": "../svg/1048-tower.svg"
+},
+{
+"id": "1049",
+"name": "track",
+"aliases": [],
+"glb": "1049-track.glb",
+"svg": "../svg/1049-track.svg"
+},
+{
+"id": "1050",
+"name": "tractor",
+"aliases": [],
+"glb": "1050-tractor.glb",
+"svg": "../svg/1050-tractor.svg"
+},
+{
+"id": "1051",
+"name": "trailer",
+"aliases": [
+"container transport"
+],
+"glb": "1051-trailer.glb",
+"svg": "../svg/1051-trailer.svg"
+},
+{
+"id": "1052",
+"name": "transport",
+"aliases": [
+"transportation"
+],
+"glb": "1052-transport.glb",
+"svg": "../svg/1052-transport.svg"
+},
+{
+"id": "1053",
+"name": "tray",
+"aliases": [],
+"glb": "1053-tray.glb",
+"svg": "../svg/1053-tray.svg"
+},
+{
+"id": "1054",
+"name": "tree",
+"aliases": [],
+"glb": "1054-tree.glb",
+"svg": "../svg/1054-tree.svg"
+},
+{
+"id": "1055",
+"name": "tree or wood destruction",
+"aliases": [],
+"glb": "1055-tree-or-wood-destruction.glb",
+"svg": "../svg/1055-tree-or-wood-destruction.svg"
+},
+{
+"id": "1056",
+"name": "trip",
+"aliases": [
+"journey",
+"travel",
+"voyage"
+],
+"glb": "1056-trip.glb",
+"svg": "../svg/1056-trip.svg"
+},
+{
+"id": "1057",
+"name": "truck",
+"aliases": [
+"lorry"
+],
+"glb": "1057-truck.glb",
+"svg": "../svg/1057-truck.svg"
+},
+{
+"id": "1058",
+"name": "trumpet",
+"aliases": [
+"horn",
+"cornet (1)"
+],
+"glb": "1058-trumpet.glb",
+"svg": "../svg/1058-trumpet.svg"
+},
+{
+"id": "1059",
+"name": "trunk",
+"aliases": [
+"tree trunk",
+"bole"
+],
+"glb": "1059-trunk.glb",
+"svg": "../svg/1059-trunk.svg"
+},
+{
+"id": "1060",
+"name": "truth",
+"aliases": [],
+"glb": "1060-truth.glb",
+"svg": "../svg/1060-truth.svg"
+},
+{
+"id": "1061",
+"name": "turn",
+"aliases": [
+"turning"
+],
+"glb": "1061-turn.glb",
+"svg": "../svg/1061-turn.svg"
+},
+{
+"id": "1062",
+"name": "turnip",
+"aliases": [
+"rutabaga",
+"vegetable (large-leafed)"
+],
+"glb": "1062-turnip.glb",
+"svg": "../svg/1062-turnip.svg"
+},
+{
+"id": "1063",
+"name": "turtle",
+"aliases": [
+"tortoise"
+],
+"glb": "1063-turtle.glb",
+"svg": "../svg/1063-turtle.svg"
+},
+{
+"id": "1064",
+"name": "two (digit)",
+"aliases": [
+"2"
+],
+"glb": "1064-two-digit.glb",
+"svg": "../svg/1064-two-digit.svg"
+},
+{
+"id": "1065",
+"name": "two (index number)",
+"aliases": [],
+"glb": "1065-two-index-number.glb",
+"svg": "../svg/1065-two-index-number.svg"
+},
+{
+"id": "1066",
+"name": "two thirds",
+"aliases": [],
+"glb": "1066-two-thirds.glb",
+"svg": "../svg/1066-two-thirds.svg"
+},
+{
+"id": "1067",
+"name": "type",
+"aliases": [
+"kind",
+"sort"
+],
+"glb": "1067-type.glb",
+"svg": "../svg/1067-type.svg"
+},
+{
+"id": "1068",
+"name": "u (lowercase)",
+"aliases": [],
+"glb": "1068-u-lowercase.glb",
+"svg": "../svg/1068-u-lowercase.svg"
+},
+{
+"id": "1069",
+"name": "U (uppercase)",
+"aliases": [],
+"glb": "1069-u-uppercase.glb",
+"svg": "../svg/1069-u-uppercase.svg"
+},
+{
+"id": "1070",
+"name": "umbrella",
+"aliases": [],
+"glb": "1070-umbrella.glb",
+"svg": "../svg/1070-umbrella.svg"
+},
+{
+"id": "1071",
+"name": "uncle",
+"aliases": [],
+"glb": "1071-uncle.glb",
+"svg": "../svg/1071-uncle.svg"
+},
+{
+"id": "1072",
+"name": "under",
+"aliases": [
+"below",
+"inferior"
+],
+"glb": "1072-under.glb",
+"svg": "../svg/1072-under.svg"
+},
+{
+"id": "1073",
+"name": "under (ground level)",
+"aliases": [],
+"glb": "1073-under-ground-level.glb",
+"svg": "../svg/1073-under-ground-level.svg"
+},
+{
+"id": "1074",
+"name": "understanding",
+"aliases": [
+"comprehension"
+],
+"glb": "1074-understanding.glb",
+"svg": "../svg/1074-understanding.svg"
+},
+{
+"id": "1075",
+"name": "unfolding",
+"aliases": [],
+"glb": "1075-unfolding.glb",
+"svg": "../svg/1075-unfolding.svg"
+},
+{
+"id": "1076",
+"name": "unicorn",
+"aliases": [],
+"glb": "1076-unicorn.glb",
+"svg": "../svg/1076-unicorn.svg"
+},
+{
+"id": "1077",
+"name": "Union Jack pattern",
+"aliases": [],
+"glb": "1077-union-jack-pattern.glb",
+"svg": "../svg/1077-union-jack-pattern.svg"
+},
+{
+"id": "1078",
+"name": "until",
+"aliases": [
+"till",
+"to"
+],
+"glb": "1078-until.glb",
+"svg": "../svg/1078-until.svg"
+},
+{
+"id": "1079",
+"name": "up",
+"aliases": [
+"upward"
+],
+"glb": "1079-up.glb",
+"svg": "../svg/1079-up.svg"
+},
+{
+"id": "1080",
+"name": "up and down",
+"aliases": [],
+"glb": "1080-up-and-down.glb",
+"svg": "../svg/1080-up-and-down.svg"
+},
+{
+"id": "1081",
+"name": "upward and backward",
+"aliases": [],
+"glb": "1081-upward-and-backward.glb",
+"svg": "../svg/1081-upward-and-backward.svg"
+},
+{
+"id": "1082",
+"name": "upward and forward",
+"aliases": [],
+"glb": "1082-upward-and-forward.glb",
+"svg": "../svg/1082-upward-and-forward.svg"
+},
+{
+"id": "1083",
+"name": "usage",
+"aliases": [
+"use"
+],
+"glb": "1083-usage.glb",
+"svg": "../svg/1083-usage.svg"
+},
+{
+"id": "1084",
+"name": "uterus",
+"aliases": [
+"womb"
+],
+"glb": "1084-uterus.glb",
+"svg": "../svg/1084-uterus.svg"
+},
+{
+"id": "1085",
+"name": "v (lowercase)",
+"aliases": [],
+"glb": "1085-v-lowercase.glb",
+"svg": "../svg/1085-v-lowercase.svg"
+},
+{
+"id": "1086",
+"name": "V (uppercase)",
+"aliases": [],
+"glb": "1086-v-uppercase.glb",
+"svg": "../svg/1086-v-uppercase.svg"
+},
+{
+"id": "1087",
+"name": "vagina",
+"aliases": [],
+"glb": "1087-vagina.glb",
+"svg": "../svg/1087-vagina.svg"
+},
+{
+"id": "1088",
+"name": "valley",
+"aliases": [],
+"glb": "1088-valley.glb",
+"svg": "../svg/1088-valley.svg"
+},
+{
+"id": "1089",
+"name": "vase",
+"aliases": [
+"urn",
+"trophy cup"
+],
+"glb": "1089-vase.glb",
+"svg": "../svg/1089-vase.svg"
+},
+{
+"id": "1090",
+"name": "vegetable (above ground)",
+"aliases": [],
+"glb": "1090-vegetable-above-ground.glb",
+"svg": "../svg/1090-vegetable-above-ground.svg"
+},
+{
+"id": "1091",
+"name": "vegetable (below ground)",
+"aliases": [],
+"glb": "1091-vegetable-below-ground.glb",
+"svg": "../svg/1091-vegetable-below-ground.svg"
+},
+{
+"id": "1092",
+"name": "vegetable (oval-shaped)",
+"aliases": [],
+"glb": "1092-vegetable-oval-shaped.glb",
+"svg": "../svg/1092-vegetable-oval-shaped.svg"
+},
+{
+"id": "1093",
+"name": "vehicle",
+"aliases": [
+"carriage",
+"railway car"
+],
+"glb": "1093-vehicle.glb",
+"svg": "../svg/1093-vehicle.svg"
+},
+{
+"id": "1094",
+"name": "vehicle (long)",
+"aliases": [],
+"glb": "1094-vehicle-long.glb",
+"svg": "../svg/1094-vehicle-long.svg"
+},
+{
+"id": "1095",
+"name": "vertical-(a)",
+"aliases": [],
+"glb": "1095-vertical-a.glb",
+"svg": "../svg/1095-vertical-a.svg"
+},
+{
+"id": "1096",
+"name": "view of life",
+"aliases": [],
+"glb": "1096-view-of-life.glb",
+"svg": "../svg/1096-view-of-life.svg"
+},
+{
+"id": "1097",
+"name": "visit",
+"aliases": [],
+"glb": "1097-visit.glb",
+"svg": "../svg/1097-visit.svg"
+},
+{
+"id": "1098",
+"name": "w (lowercase)",
+"aliases": [],
+"glb": "1098-w-lowercase.glb",
+"svg": "../svg/1098-w-lowercase.svg"
+},
+{
+"id": "1099",
+"name": "W (uppercase)",
+"aliases": [],
+"glb": "1099-w-uppercase.glb",
+"svg": "../svg/1099-w-uppercase.svg"
+},
+{
+"id": "1100",
+"name": "wagon",
+"aliases": [
+"cart",
+"truck"
+],
+"glb": "1100-wagon.glb",
+"svg": "../svg/1100-wagon.svg"
+},
+{
+"id": "1101",
+"name": "waist",
+"aliases": [],
+"glb": "1101-waist.glb",
+"svg": "../svg/1101-waist.svg"
+},
+{
+"id": "1102",
+"name": "wakefulness",
+"aliases": [
+"alertness"
+],
+"glb": "1102-wakefulness.glb",
+"svg": "../svg/1102-wakefulness.svg"
+},
+{
+"id": "1103",
+"name": "wall",
+"aliases": [],
+"glb": "1103-wall.glb",
+"svg": "../svg/1103-wall.svg"
+},
+{
+"id": "1104",
+"name": "wand",
+"aliases": [],
+"glb": "1104-wand.glb",
+"svg": "../svg/1104-wand.svg"
+},
+{
+"id": "1105",
+"name": "war",
+"aliases": [],
+"glb": "1105-war.glb",
+"svg": "../svg/1105-war.svg"
+},
+{
+"id": "1106",
+"name": "waste",
+"aliases": [
+"garbage",
+"rubbish",
+"trash"
+],
+"glb": "1106-waste.glb",
+"svg": "../svg/1106-waste.svg"
+},
+{
+"id": "1107",
+"name": "water",
+"aliases": [
+"fluid",
+"liquid"
+],
+"glb": "1107-water.glb",
+"svg": "../svg/1107-water.svg"
+},
+{
+"id": "1108",
+"name": "water animal (big tail)",
+"aliases": [],
+"glb": "1108-water-animal-big-tail.glb",
+"svg": "../svg/1108-water-animal-big-tail.svg"
+},
+{
+"id": "1109",
+"name": "water creature",
+"aliases": [],
+"glb": "1109-water-creature.glb",
+"svg": "../svg/1109-water-creature.svg"
+},
+{
+"id": "1110",
+"name": "water flower",
+"aliases": [
+"water lily"
+],
+"glb": "1110-water-flower.glb",
+"svg": "../svg/1110-water-flower.svg"
+},
+{
+"id": "1111",
+"name": "water on ground (flooding)",
+"aliases": [],
+"glb": "1111-water-on-ground-flooding.glb",
+"svg": "../svg/1111-water-on-ground-flooding.svg"
+},
+{
+"id": "1112",
+"name": "water snake",
+"aliases": [],
+"glb": "1112-water-snake.glb",
+"svg": "../svg/1112-water-snake.svg"
+},
+{
+"id": "1113",
+"name": "wave",
+"aliases": [],
+"glb": "1113-wave.glb",
+"svg": "../svg/1113-wave.svg"
+},
+{
+"id": "1114",
+"name": "weakness (weak person)",
+"aliases": [],
+"glb": "1114-weakness-weak-person.glb",
+"svg": "../svg/1114-weakness-weak-person.svg"
+},
+{
+"id": "1115",
+"name": "weather",
+"aliases": [],
+"glb": "1115-weather.glb",
+"svg": "../svg/1115-weather.svg"
+},
+{
+"id": "1116",
+"name": "weight",
+"aliases": [],
+"glb": "1116-weight.glb",
+"svg": "../svg/1116-weight.svg"
+},
+{
+"id": "1117",
+"name": "west",
+"aliases": [],
+"glb": "1117-west.glb",
+"svg": "../svg/1117-west.svg"
+},
+{
+"id": "1118",
+"name": "what",
+"aliases": [
+"question mark (small)"
+],
+"glb": "1118-what.glb",
+"svg": "../svg/1118-what.svg"
+},
+{
+"id": "1119",
+"name": "wheel",
+"aliases": [],
+"glb": "1119-wheel.glb",
+"svg": "../svg/1119-wheel.svg"
+},
+{
+"id": "1120",
+"name": "wheelchair",
+"aliases": [],
+"glb": "1120-wheelchair.glb",
+"svg": "../svg/1120-wheelchair.svg"
+},
+{
+"id": "1121",
+"name": "where",
+"aliases": [],
+"glb": "1121-where.glb",
+"svg": "../svg/1121-where.svg"
+},
+{
+"id": "1122",
+"name": "where-(question)",
+"aliases": [],
+"glb": "1122-where-question.glb",
+"svg": "../svg/1122-where-question.svg"
+},
+{
+"id": "1123",
+"name": "who",
+"aliases": [
+"that",
+"which-(relative)"
+],
+"glb": "1123-who.glb",
+"svg": "../svg/1123-who.svg"
+},
+{
+"id": "1124",
+"name": "wicket",
+"aliases": [],
+"glb": "1124-wicket.glb",
+"svg": "../svg/1124-wicket.svg"
+},
+{
+"id": "1125",
+"name": "wideness",
+"aliases": [
+"broadness"
+],
+"glb": "1125-wideness.glb",
+"svg": "../svg/1125-wideness.svg"
+},
+{
+"id": "1126",
+"name": "wife",
+"aliases": [],
+"glb": "1126-wife.glb",
+"svg": "../svg/1126-wife.svg"
+},
+{
+"id": "1127",
+"name": "wind",
+"aliases": [],
+"glb": "1127-wind.glb",
+"svg": "../svg/1127-wind.svg"
+},
+{
+"id": "1128",
+"name": "window",
+"aliases": [],
+"glb": "1128-window.glb",
+"svg": "../svg/1128-window.svg"
+},
+{
+"id": "1129",
+"name": "wing(s)",
+"aliases": [],
+"glb": "1129-wing-s.glb",
+"svg": "../svg/1129-wing-s.svg"
+},
+{
+"id": "1130",
+"name": "wish",
+"aliases": [
+"desire"
+],
+"glb": "1130-wish.glb",
+"svg": "../svg/1130-wish.svg"
+},
+{
+"id": "1131",
+"name": "with",
+"aliases": [],
+"glb": "1131-with.glb",
+"svg": "../svg/1131-with.svg"
+},
+{
+"id": "1132",
+"name": "wok",
+"aliases": [
+"wok pan"
+],
+"glb": "1132-wok.glb",
+"svg": "../svg/1132-wok.svg"
+},
+{
+"id": "1133",
+"name": "woman",
+"aliases": [
+"female"
+],
+"glb": "1133-woman.glb",
+"svg": "../svg/1133-woman.svg"
+},
+{
+"id": "1134",
+"name": "woman (below waist)",
+"aliases": [],
+"glb": "1134-woman-below-waist.glb",
+"svg": "../svg/1134-woman-below-waist.svg"
+},
+{
+"id": "1135",
+"name": "work",
+"aliases": [
+"employment",
+"job"
+],
+"glb": "1135-work.glb",
+"svg": "../svg/1135-work.svg"
+},
+{
+"id": "1136",
+"name": "world",
+"aliases": [],
+"glb": "1136-world.glb",
+"svg": "../svg/1136-world.svg"
+},
+{
+"id": "1137",
+"name": "worm",
+"aliases": [],
+"glb": "1137-worm.glb",
+"svg": "../svg/1137-worm.svg"
+},
+{
+"id": "1138",
+"name": "wrist",
+"aliases": [],
+"glb": "1138-wrist.glb",
+"svg": "../svg/1138-wrist.svg"
+},
+{
+"id": "1139",
+"name": "x (lowercase)",
+"aliases": [],
+"glb": "1139-x-lowercase.glb",
+"svg": "../svg/1139-x-lowercase.svg"
+},
+{
+"id": "1140",
+"name": "X (uppercase)",
+"aliases": [],
+"glb": "1140-x-uppercase.glb",
+"svg": "../svg/1140-x-uppercase.svg"
+},
+{
+"id": "1141",
+"name": "y (lowercase)",
+"aliases": [],
+"glb": "1141-y-lowercase.glb",
+"svg": "../svg/1141-y-lowercase.svg"
+},
+{
+"id": "1142",
+"name": "Y (uppercase)",
+"aliases": [],
+"glb": "1142-y-uppercase.glb",
+"svg": "../svg/1142-y-uppercase.svg"
+},
+{
+"id": "1143",
+"name": "yard",
+"aliases": [],
+"glb": "1143-yard.glb",
+"svg": "../svg/1143-yard.svg"
+},
+{
+"id": "1144",
+"name": "year",
+"aliases": [],
+"glb": "1144-year.glb",
+"svg": "../svg/1144-year.svg"
+},
+{
+"id": "1145",
+"name": "yen",
+"aliases": [],
+"glb": "1145-yen.glb",
+"svg": "../svg/1145-yen.svg"
+},
+{
+"id": "1146",
+"name": "z (lowercase)",
+"aliases": [],
+"glb": "1146-z-lowercase.glb",
+"svg": "../svg/1146-z-lowercase.svg"
+},
+{
+"id": "1147",
+"name": "Z (uppercase)",
+"aliases": [],
+"glb": "1147-z-uppercase.glb",
+"svg": "../svg/1147-z-uppercase.svg"
+},
+{
+"id": "1148",
+"name": "zero (digit)",
+"aliases": [
+"0"
+],
+"glb": "1148-zero-digit.glb",
+"svg": "../svg/1148-zero-digit.svg"
+},
+{
+"id": "1149",
+"name": "zero (index number)",
+"aliases": [],
+"glb": "1149-zero-index-number.glb",
+"svg": "../svg/1149-zero-index-number.svg"
+},
+{
+"id": "1150",
+"name": "zigzag line",
+"aliases": [],
+"glb": "1150-zigzag-line.glb",
+"svg": "../svg/1150-zigzag-line.svg"
+}
+]

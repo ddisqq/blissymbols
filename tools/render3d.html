@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>3D renderer</title>
+<style>html,body{margin:0;background:#fff}canvas{display:block}</style>
+<script type="importmap">
+{ "imports": {
+    "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+    "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+} }
+</script>
+</head><body>
+<script type="module">
+// Used by tools/render_poem_3d.js to make the static 3D pictures. Same lighting and camera as 3d/viewer.html.
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+
+const W = 480, H = 360;
+const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('c'), antialias: true, preserveDrawingBuffer: true });
+renderer.setPixelRatio(2);
+renderer.setSize(W, H, false);
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0xffffff);
+const camera = new THREE.PerspectiveCamera(35, W / H, 0.01, 1000);
+scene.add(new THREE.HemisphereLight(0xffffff, 0x8890a0, 1.6));
+const key = new THREE.DirectionalLight(0xffffff, 1.6); key.position.set(2, 3, 4); scene.add(key);
+const fill = new THREE.DirectionalLight(0xffffff, 0.5); fill.position.set(-3, -1, -2); scene.add(fill);
+const ink = new THREE.MeshStandardMaterial({ color: 0x1a1a1c, roughness: 0.55, metalness: 0.05 });
+const loader = new GLTFLoader();
+let current = null;
+
+window.renderModel = (url) => new Promise((resolve, reject) => {
+  loader.load(url, (gltf) => {
+    if (current) scene.remove(current);
+    current = gltf.scene;
+    current.traverse((o) => { if (o.isMesh) o.material = ink; });
+    scene.add(current);
+    const box = new THREE.Box3().setFromObject(current);
+    const size = box.getSize(new THREE.Vector3());
+    const centre = box.getCenter(new THREE.Vector3());
+    current.position.sub(centre);
+    const radius = Math.max(size.x, size.y, size.z, 0.5) * 0.62;
+    const dist = radius / Math.tan((camera.fov * Math.PI) / 360);
+    camera.position.set(dist * 0.62, dist * 0.42, dist * 1.15);
+    camera.lookAt(0, 0, 0);
+    camera.near = dist / 100; camera.far = dist * 100; camera.updateProjectionMatrix();
+    renderer.render(scene, camera);
+    resolve(true);
+  }, undefined, (e) => reject(e));
+});
+window.ready = true;
+</script>
+<canvas id="c"></canvas>
+</body></html>

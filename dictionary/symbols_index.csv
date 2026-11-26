@@ -1,0 +1,1151 @@
+id,primary_name,all_names,database_key,width_units,height_units,drawing_parts,used_in_headwords,svg,glb_3d,mesh_triangles,mesh_extent_x,mesh_extent_y,mesh_extent_z,mesh_watertight
+0001,a,a | an | any,"a,an,any",32,144,1,6,svg/0001-a.svg,3d/0001-a.glb,36,0.312,0.312,0.125,True
+0002,a_(lowercase),a_(lowercase),a_(lowercase),32,128,1,0,svg/0002-a-lowercase.svg,3d/0002-a-lowercase.glb,216,0.353,0.376,0.125,True
+0003,A_(uppercase),A_(uppercase),A_(uppercase),40,128,1,7,svg/0003-a-uppercase.svg,3d/0003-a-uppercase.glb,44,0.456,0.473,0.125,True
+0004,ability,ability | capability | capacity | potential,"ability,capability,capacity,potential",160,128,3,14,svg/0004-ability.svg,3d/0004-ability.glb,128,1.341,1.062,0.125,True
+0005,ability_(half_sized),ability_(half_sized),ability_(half_sized),160,128,3,4,svg/0005-ability-half-sized.svg,3d/0005-ability-half-sized.glb,128,0.841,0.592,0.125,True
+0006,about,about | concerning | in_relation_to | of | on,"about,concerning,in_relation_to,of,on",32,160,2,8,svg/0006-about.svg,3d/0006-about.glb,52,0.312,0.562,0.125,True
+0007,account,account,account,128,192,4,0,svg/0007-account.svg,3d/0007-account.glb,256,1.062,1.062,0.125,True
+0008,across,across,across,64,160,3,3,svg/0008-across.svg,3d/0008-across.glb,160,0.562,0.81,0.125,True
+0009,action,action | act | deed,"action,act,deed",128,192,2,1,svg/0009-action.svg,3d/0009-action.glb,68,1.061,1.062,0.125,True
+0010,activity,activity | male_gender_(in_combinations),"activity,male_gender_(in_combinations)",64,128,2,229,svg/0010-activity.svg,3d/0010-activity.glb,68,0.561,0.562,0.125,True
+0011,addition,addition | gain,"addition,gain",128,192,2,50,svg/0011-addition.svg,3d/0011-addition.glb,92,1.062,1.062,0.125,True
+0012,adult,adult | grownup,"adult,grownup",64,192,4,3,svg/0012-adult.svg,3d/0012-adult.glb,332,0.562,1.062,0.125,True
+0013,after,after | behind,"after,behind",32,128,2,24,svg/0013-after.svg,3d/0013-after.glb,96,0.343,1.062,0.125,True
+0014,again,again,again,32,128,2,0,svg/0014-again.svg,3d/0014-again.glb,120,0.373,0.123,0.125,True
+0015,against,against | opposed_to,"against,opposed_to",64,160,4,9,svg/0015-against.svg,3d/0015-against.glb,112,0.562,0.562,0.125,True
+0016,ago,ago | then_(past),"ago,then_(past)",16,128,1,5,svg/0016-ago.svg,3d/0016-ago.glb,100,0.186,0.561,0.125,True
+0017,agreement,agreement,agreement,128,160,6,10,svg/0017-agreement.svg,3d/0017-agreement.glb,144,1.061,1.06,0.125,True
+0018,air,air | atmosphere,"air,atmosphere",128,192,3,6,svg/0018-air.svg,3d/0018-air.glb,96,1.062,1.062,0.125,True
+0019,airplane,airplane | aeroplane | plane,"airplane,aeroplane,plane",128,192,5,28,svg/0019-airplane.svg,3d/0019-airplane.glb,444,1.061,1.062,0.125,True
+0020,alcoholic_drink,alcoholic_drink | alcoholic_beverage | liquor,"alcoholic_drink,alcoholic_beverage,liquor",128,192,4,15,svg/0020-alcoholic-drink.svg,3d/0020-alcoholic-drink.glb,104,1.062,1.062,0.125,True
+0021,all,all | every | everything | total | whole,"all,every,everything,total,whole",128,192,6,22,svg/0021-all.svg,3d/0021-all.glb,108,1.062,1.062,0.125,True
+0022,alphabet,alphabet | letters_(lowercase),"alphabet,letters_(lowercase)",128,128,3,12,svg/0022-alphabet.svg,3d/0022-alphabet.glb,556,1.065,0.505,0.125,True
+0023,alphabet,alphabet | letters_(uppercase),"alphabet,letters_(uppercase)",160,128,3,0,svg/0023-alphabet.svg,3d/0023-alphabet.glb,416,1.45,0.486,0.125,True
+0024,alternation,alternation,alternation,128,160,5,3,svg/0024-alternation.svg,3d/0024-alternation.glb,124,1.062,0.562,0.125,True
+0025,although,although,although,96,224,6,0,svg/0025-although.svg,3d/0025-although.glb,168,0.812,1.562,0.125,True
+0026,alto,alto,alto,112,192,7,3,svg/0026-alto.svg,3d/0026-alto.glb,256,0.937,1.062,0.125,True
+0027,and,and | also | plus | too,"and,also,plus,too",64,160,2,47,svg/0027-and.svg,3d/0027-and.glb,92,0.562,0.562,0.125,True
+0028,angel_(1),angel_(1),angel_(1),128,192,4,1,svg/0028-angel-1.svg,3d/0028-angel-1.glb,244,1.058,1.062,0.125,True
+0029,angle,angle,angle,128,192,2,3,svg/0029-angle.svg,3d/0029-angle.glb,60,1.062,1.062,0.125,True
+0030,angle_(right),angle_(right) | right_angle,"angle_(right),right_angle",128,192,4,2,svg/0030-angle-right.svg,3d/0030-angle-right.glb,88,1.062,1.062,0.125,True
+0031,animal,animal | beast,"animal,beast",128,128,5,91,svg/0031-animal.svg,3d/0031-animal.glb,132,1.062,0.562,0.125,True
+0032,animal_(bovine,animal_(bovine | ovine) | bovid | bovine,"animal_(bovine,ovine),bovid,bovine",128,160,6,23,svg/0032-animal-bovine.svg,3d/0032-animal-bovine.glb,280,1.062,0.812,0.125,True
+0033,animal_(bushy_tailed),animal_(bushy_tailed),animal_(bushy_tailed),144,256,7,1,svg/0033-animal-bushy-tailed.svg,3d/0033-animal-bushy-tailed.glb,284,1.187,1.562,0.125,True
+0034,animal_(water),animal_(water),animal_(water),128,128,7,2,svg/0034-animal-water.svg,3d/0034-animal-water.glb,292,1.062,0.937,0.125,True
+0035,ankle,ankle,ankle,112,192,5,1,svg/0035-ankle.svg,3d/0035-ankle.glb,120,0.938,1.312,0.125,True
+0036,answer,answer | reply,"answer,reply",128,192,7,5,svg/0036-answer.svg,3d/0036-answer.glb,272,1.062,1.062,0.125,True
+0037,anywhere,anywhere | anyplace | someplace | somewhere,"anywhere,anyplace,someplace,somewhere",128,144,2,0,svg/0037-anywhere.svg,3d/0037-anywhere.glb,72,1.062,0.688,0.125,True
+0038,apostrophe,apostrophe,apostrophe,8,192,2,4,svg/0038-apostrophe.svg,3d/0038-apostrophe.glb,60,0.123,0.186,0.125,True
+0039,apple,apple,apple,128,192,4,1,svg/0039-apple.svg,3d/0039-apple.glb,452,1.062,1.061,0.125,True
+0040,arm,arm,arm,64,192,2,11,svg/0040-arm.svg,3d/0040-arm.glb,52,0.562,0.562,0.125,True
+0041,armchair,armchair,armchair,64,192,4,0,svg/0041-armchair.svg,3d/0041-armchair.glb,116,0.562,1.062,0.125,True
+0042,around,around,around,64,192,2,6,svg/0042-around.svg,3d/0042-around.glb,224,0.593,1.062,0.125,True
+0043,arrow_(bent),arrow_(bent),arrow_(bent),64,192,4,0,svg/0043-arrow-bent.svg,3d/0043-arrow-bent.glb,100,0.562,1.062,0.125,True
+0044,ascending_and_descending,ascending_and_descending,ascending_and_descending,128,192,5,3,svg/0044-ascending-and-descending.svg,3d/0044-ascending-and-descending.glb,132,1.062,1.062,0.125,True
+0045,asparagus,asparagus,asparagus,128,192,4,0,svg/0045-asparagus.svg,3d/0045-asparagus.glb,240,1.062,1.562,0.125,True
+0046,at,at,at,64,160,3,0,svg/0046-at.svg,3d/0046-at.glb,112,0.594,0.562,0.125,True
+0047,atom,atom,atom,128,192,4,5,svg/0047-atom.svg,3d/0047-atom.glb,436,1.062,1.312,0.125,True
+0048,attachment,attachment | appendix | annex,"attachment,appendix,annex",128,192,4,42,svg/0048-attachment.svg,3d/0048-attachment.glb,164,1.062,1.062,0.125,True
+0049,attic,attic,attic,160,192,8,0,svg/0049-attic.svg,3d/0049-attic.glb,136,1.312,1.062,0.125,True
+0050,aunt,aunt,aunt,256,192,12,0,svg/0050-aunt.svg,3d/0050-aunt.glb,348,2.062,1.062,0.125,True
+0051,avocado,avocado,avocado,112,256,8,0,svg/0051-avocado.svg,3d/0051-avocado.glb,484,0.937,1.562,0.125,True
+0052,away,away | at_a_distance | off,"away,at_a_distance,off",160,160,6,0,svg/0052-away.svg,3d/0052-away.glb,272,1.312,0.844,0.125,True
+0053,away,away | at_a_distance | off_(OLD),"away,at_a_distance,off_(OLD)",160,160,3,0,svg/0053-away.svg,3d/0053-away.glb,88,1.312,0.562,0.125,True
+0054,b_(lowercase),b_(lowercase),b_(lowercase),32,128,1,0,svg/0054-b-lowercase.svg,3d/0054-b-lowercase.glb,164,0.309,0.505,0.125,True
+0055,B_(uppercase),B_(uppercase),B_(uppercase),40,128,1,0,svg/0055-b-uppercase.svg,3d/0055-b-uppercase.glb,184,0.365,0.473,0.125,True
+0056,baby,baby | infant,"baby,infant",128,128,4,13,svg/0056-baby.svg,3d/0056-baby.glb,352,1.062,0.562,0.125,True
+0057,baby_boy,baby_boy,baby_boy,128,128,3,0,svg/0057-baby-boy.svg,3d/0057-baby-boy.glb,300,1.062,0.562,0.125,True
+0058,baby_girl,baby_girl,baby_girl,128,128,4,0,svg/0058-baby-girl.svg,3d/0058-baby-girl.glb,300,1.062,0.562,0.125,True
+0059,back_(body),back_(body),back_(body),112,192,4,4,svg/0059-back-body.svg,3d/0059-back-body.glb,104,0.938,1.062,0.125,True
+0060,back_and_forth,back_and_forth | backward_and_forward | to_and_fro,"back_and_forth,backward_and_forward,to_and_fro",128,160,6,30,svg/0060-back-and-forth.svg,3d/0060-back-and-forth.glb,168,1.062,1.06,0.125,True
+0061,backward,backward | back,"backward,back",128,160,3,13,svg/0061-backward.svg,3d/0061-backward.glb,84,1.062,0.561,0.125,True
+0062,bad_conscience,bad_conscience,bad_conscience,128,256,3,4,svg/0062-bad-conscience.svg,3d/0062-bad-conscience.glb,372,1.062,1.062,0.125,True
+0063,badge,badge | shield,"badge,shield",128,192,4,1,svg/0063-badge.svg,3d/0063-badge.glb,184,1.062,1.062,0.125,True
+0064,baggage,baggage | bag | luggage | suitcase,"baggage,bag,luggage,suitcase",128,160,5,3,svg/0064-baggage.svg,3d/0064-baggage.glb,196,1.062,0.812,0.125,True
+0065,ball,ball,ball,64,128,2,34,svg/0065-ball.svg,3d/0065-ball.glb,252,0.562,0.562,0.125,True
+0066,ball_field,ball_field,ball_field,128,128,3,4,svg/0066-ball-field.svg,3d/0066-ball-field.glb,280,1.06,0.562,0.125,True
+0067,balloon,balloon,balloon,128,256,2,0,svg/0067-balloon.svg,3d/0067-balloon.glb,360,1.062,1.562,0.125,True
+0068,balloon_(hot_air),balloon_(hot_air),balloon_(hot_air),128,256,4,1,svg/0068-balloon-hot-air.svg,3d/0068-balloon-hot-air.glb,344,1.062,1.312,0.125,True
+0069,banana,banana,banana,64,256,3,0,svg/0069-banana.svg,3d/0069-banana.glb,376,0.562,1.561,0.125,True
+0070,bar,bar | cake,"bar,cake",128,160,8,3,svg/0070-bar.svg,3d/0070-bar.glb,120,1.062,0.562,0.125,True
+0071,barred_window,barred_window,barred_window,128,192,8,5,svg/0071-barred-window.svg,3d/0071-barred-window.glb,200,1.062,1.062,0.125,True
+0072,barrier_(contraceptive),barrier_(contraceptive),barrier_(contraceptive),192,192,5,2,svg/0072-barrier-contraceptive.svg,3d/0072-barrier-contraceptive.glb,332,1.562,1.061,0.125,True
+0073,basement,basement | cellar,"basement,cellar",176,192,8,0,svg/0073-basement.svg,3d/0073-basement.glb,148,1.438,1.437,0.125,True
+0074,bass,bass,bass,112,192,7,6,svg/0074-bass.svg,3d/0074-bass.glb,256,0.938,1.312,0.125,True
+0075,bat_(animal),bat_(animal),bat_(animal),128,192,7,1,svg/0075-bat-animal.svg,3d/0075-bat-animal.glb,308,1.062,1.062,0.125,True
+0076,bath,bath | washing,"bath,washing",128,144,3,16,svg/0076-bath.svg,3d/0076-bath.glb,284,1.06,0.687,0.125,True
+0077,beach,beach | bank | coast | shore,"beach,bank,coast,shore",256,80,3,4,svg/0077-beach.svg,3d/0077-beach.glb,168,2.062,0.312,0.125,True
+0078,bean,bean,bean,96,192,3,15,svg/0078-bean.svg,3d/0078-bean.glb,560,0.811,1.062,0.125,True
+0079,bear's_head,bear's_head,bear's_head,160,192,6,4,svg/0079-bear-s-head.svg,3d/0079-bear-s-head.glb,684,1.312,1.062,0.125,True
+0080,beard,beard,beard,144,192,10,5,svg/0080-beard.svg,3d/0080-beard.glb,756,1.188,1.562,0.125,True
+0081,bed,bed,bed,128,192,4,5,svg/0081-bed.svg,3d/0081-bed.glb,116,1.062,1.061,0.125,True
+0082,beetle,beetle,beetle,192,192,8,1,svg/0082-beetle.svg,3d/0082-beetle.glb,288,1.559,1.061,0.125,True
+0083,before,before | in_front_of | prior_to,"before,in_front_of,prior_to",32,128,2,24,svg/0083-before.svg,3d/0083-before.glb,96,0.343,1.062,0.125,True
+0084,beginning,beginning | start,"beginning,start",128,192,4,9,svg/0084-beginning.svg,3d/0084-beginning.glb,120,1.062,1.062,0.125,True
+0085,belief_(supernatural),belief_(supernatural),belief_(supernatural),128,256,8,0,svg/0085-belief-supernatural.svg,3d/0085-belief-supernatural.glb,600,1.062,1.562,0.125,True
+0086,belongs_to,belongs_to | of_(possessive),"belongs_to,of_(possessive)",64,96,2,25,svg/0086-belongs-to.svg,3d/0086-belongs-to.glb,92,0.562,0.562,0.125,True
+0087,berry,berry,berry,128,160,2,3,svg/0087-berry.svg,3d/0087-berry.glb,352,1.062,0.812,0.125,True
+0088,between,between,between,64,192,3,6,svg/0088-between.svg,3d/0088-between.glb,132,0.562,1.062,0.125,True
+0089,bigness,bigness | largeness,"bigness,largeness",64,192,3,38,svg/0089-bigness.svg,3d/0089-bigness.glb,100,0.562,1.062,0.125,True
+0090,biochemical_product,biochemical_product | organic_compound,"biochemical_product,organic_compound",192,192,7,2,svg/0090-biochemical-product.svg,3d/0090-biochemical-product.glb,348,1.562,1.062,0.125,False
+0091,bird,bird,bird,128,192,4,30,svg/0091-bird.svg,3d/0091-bird.glb,232,1.061,0.812,0.125,True
+0092,bird_of_prey,bird_of_prey | raptor,"bird_of_prey,raptor",128,192,6,0,svg/0092-bird-of-prey.svg,3d/0092-bird-of-prey.glb,360,1.061,0.812,0.125,True
+0093,birth,birth,birth,128,192,5,18,svg/0093-birth.svg,3d/0093-birth.glb,196,1.062,0.811,0.125,True
+0094,birth,birth | giving_birth | parturition | delivery,"birth,giving_birth,parturition,delivery",192,192,12,4,svg/0094-birth.svg,3d/0094-birth.glb,732,1.562,1.562,0.125,True
+0095,blindness,blindness,blindness,128,192,3,1,svg/0095-blindness.svg,3d/0095-blindness.glb,344,1.062,1.062,0.125,True
+0096,bliss-name,bliss-name,bliss-name,128,192,4,1,svg/0096-bliss-name.svg,3d/0096-bliss-name.glb,344,1.062,1.062,0.125,True
+0097,blissymbol,blissymbol | Bliss-word,"blissymbol,Bliss-word",128,192,3,7,svg/0097-blissymbol.svg,3d/0097-blissymbol.glb,80,1.062,1.062,0.125,True
+0098,block,block | brick,"block,brick",96,192,9,4,svg/0098-block.svg,3d/0098-block.glb,104,0.812,0.812,0.125,True
+0099,board,board,board,160,96,4,5,svg/0099-board.svg,3d/0099-board.glb,148,1.31,0.311,0.125,True
+0100,board_(material),board_(material),board_(material),128,128,5,0,svg/0100-board-material.svg,3d/0100-board-material.glb,128,1.062,0.562,0.125,True
+0101,boarding,boarding | embarkation_(to_sea),"boarding,embarkation_(to_sea)",256,160,6,1,svg/0101-boarding.svg,3d/0101-boarding.glb,256,2.062,0.937,0.125,True
+0102,boat,boat | ship,"boat,ship",128,192,3,41,svg/0102-boat.svg,3d/0102-boat.glb,184,1.061,1.061,0.125,True
+0103,body_with_mane,body_with_mane,body_with_mane,192,224,7,0,svg/0103-body-with-mane.svg,3d/0103-body-with-mane.glb,444,1.562,1.312,0.125,True
+0104,body_with_navel,body_with_navel,body_with_navel,192,192,5,0,svg/0104-body-with-navel.svg,3d/0104-body-with-navel.glb,332,1.562,1.062,0.125,True
+0105,body_with_pubic_hair,body_with_pubic_hair,body_with_pubic_hair,192,192,7,0,svg/0105-body-with-pubic-hair.svg,3d/0105-body-with-pubic-hair.glb,448,1.562,1.312,0.125,True
+0106,body,body | trunk,"body,trunk",192,192,4,32,svg/0106-body.svg,3d/0106-body.glb,272,1.562,1.062,0.125,True
+0107,bone,bone,bone,0,192,3,15,svg/0107-bone.svg,3d/0107-bone.glb,156,0.125,1.124,0.125,True
+0108,bones_with_joint,bones_with_joint,bones_with_joint,128,192,5,6,svg/0108-bones-with-joint.svg,3d/0108-bones-with-joint.glb,256,1.124,1.125,0.125,True
+0109,book,book,book,128,192,5,30,svg/0109-book.svg,3d/0109-book.glb,80,1.062,1.062,0.125,True
+0110,boom,boom,boom,80,192,5,0,svg/0110-boom.svg,3d/0110-boom.glb,128,0.688,1.062,0.125,True
+0111,bottle,bottle | flask,"bottle,flask",64,192,2,5,svg/0111-bottle.svg,3d/0111-bottle.glb,280,0.562,1.062,0.125,True
+0112,bottleneck,bottleneck | bottle_opening,"bottleneck,bottle_opening",80,224,4,1,svg/0112-bottleneck.svg,3d/0112-bottleneck.glb,336,0.687,1.312,0.125,True
+0113,bottom,bottom | base,"bottom,base",128,192,6,0,svg/0113-bottom.svg,3d/0113-bottom.glb,120,1.062,1.438,0.125,True
+0114,bottom,bottom | bottom_of_a_thing,"bottom,bottom_of_a_thing",64,160,6,1,svg/0114-bottom.svg,3d/0114-bottom.glb,120,0.562,0.938,0.125,True
+0115,bow,bow | arc,"bow,arc",128,128,1,1,svg/0115-bow.svg,3d/0115-bow.glb,164,1.062,0.562,0.125,True
+0116,bow,bow | fore,"bow,fore",176,192,5,0,svg/0116-bow.svg,3d/0116-bow.glb,240,1.438,1.061,0.125,True
+0117,bow_(knot),bow_(knot),bow_(knot),128,160,4,0,svg/0117-bow-knot.svg,3d/0117-bow-knot.glb,536,1.062,0.812,0.125,True
+0118,bow_(musical_instrument),bow_(musical_instrument),bow_(musical_instrument),176,192,5,0,svg/0118-bow-musical-instrument.svg,3d/0118-bow-musical-instrument.glb,248,1.438,1.062,0.125,True
+0119,bow_and_arrow,bow_and_arrow,bow_and_arrow,128,192,4,2,svg/0119-bow-and-arrow.svg,3d/0119-bow-and-arrow.glb,268,1.061,1.062,0.125,True
+0120,bow_and_string_(musical),bow_and_string_(musical),bow_and_string_(musical),128,192,3,5,svg/0120-bow-and-string-musical.svg,3d/0120-bow-and-string-musical.glb,192,1.062,1.062,0.125,True
+0121,box,box | cube,"box,cube",192,256,9,1,svg/0121-box.svg,3d/0121-box.glb,104,1.562,1.562,0.125,True
+0122,boy,boy | lad,"boy,lad",64,192,3,3,svg/0122-boy.svg,3d/0122-boy.glb,304,0.562,1.062,0.125,True
+0123,brain_signal,brain_signal,brain_signal,128,192,4,3,svg/0123-brain-signal.svg,3d/0123-brain-signal.glb,280,1.062,1.062,0.125,True
+0124,branch,branch,branch,176,192,5,1,svg/0124-branch.svg,3d/0124-branch.glb,252,1.437,1.062,0.125,True
+0125,bread,bread | loaf_of_bread | loaf,"bread,loaf_of_bread,loaf",160,128,4,20,svg/0125-bread.svg,3d/0125-bread.glb,180,1.312,0.562,0.125,True
+0126,bread_surface,bread_surface,bread_surface,160,176,8,4,svg/0126-bread-surface.svg,3d/0126-bread-surface.glb,292,1.312,1.312,0.125,True
+0127,break,break | fracture | damage,"break,fracture,damage",128,128,2,8,svg/0127-break.svg,3d/0127-break.glb,48,1.062,0.562,0.125,True
+0128,breast(s),breast(s),breast(s),192,192,8,2,svg/0128-breast-s.svg,3d/0128-breast-s.glb,364,1.562,1.062,0.125,True
+0129,bridge,bridge | overpass,"bridge,overpass",256,128,3,4,svg/0129-bridge.svg,3d/0129-bridge.glb,188,2.062,0.562,0.125,True
+0130,broom,broom,broom,128,192,4,2,svg/0130-broom.svg,3d/0130-broom.glb,140,1.06,1.062,0.125,True
+0131,brush,brush,brush,128,192,4,9,svg/0131-brush.svg,3d/0131-brush.glb,140,1.06,1.062,0.125,True
+0132,bubble,bubble,bubble,112,192,6,1,svg/0132-bubble.svg,3d/0132-bubble.glb,404,0.937,1.062,0.125,True
+0133,buffalo,buffalo | bison,"buffalo,bison",128,160,7,1,svg/0133-buffalo.svg,3d/0133-buffalo.glb,372,1.062,0.812,0.125,False
+0134,building_with_attic,building_with_attic,building_with_attic,128,192,6,0,svg/0134-building-with-attic.svg,3d/0134-building-with-attic.glb,76,1.06,1.062,0.125,True
+0135,building_with_cellar,building_with_cellar,building_with_cellar,128,192,6,0,svg/0135-building-with-cellar.svg,3d/0135-building-with-cellar.glb,84,1.06,1.312,0.125,True
+0136,building_with_chimney,building_with_chimney,building_with_chimney,128,192,5,0,svg/0136-building-with-chimney.svg,3d/0136-building-with-chimney.glb,84,1.06,1.062,0.125,True
+0137,building_with_foundation,building_with_foundation,building_with_foundation,128,192,5,0,svg/0137-building-with-foundation.svg,3d/0137-building-with-foundation.glb,92,1.06,1.312,0.125,True
+0138,building_with_storey,building_with_storey,building_with_storey,128,192,6,0,svg/0138-building-with-storey.svg,3d/0138-building-with-storey.glb,84,1.06,1.062,0.125,True
+0139,building_with_yard_and_fence,building_with_yard_and_fence,building_with_yard_and_fence,256,192,6,0,svg/0139-building-with-yard-and-fence.svg,3d/0139-building-with-yard-and-fence.glb,100,2.062,1.062,0.125,True
+0140,buildings_with_courtyard,buildings_with_courtyard,buildings_with_courtyard,384,192,11,0,svg/0140-buildings-with-courtyard.svg,3d/0140-buildings-with-courtyard.glb,120,3.06,1.062,0.125,True
+0141,bulb_(flower),bulb_(flower),bulb_(flower),144,192,8,0,svg/0141-bulb-flower.svg,3d/0141-bulb-flower.glb,712,1.187,1.562,0.125,True
+0142,bulb_(plant),bulb_(plant),bulb_(plant),128,64,4,0,svg/0142-bulb-plant.svg,3d/0142-bulb-plant.glb,384,1.062,0.562,0.125,True
+0143,bulbous_plant,bulbous_plant,bulbous_plant,128,192,6,0,svg/0143-bulbous-plant.svg,3d/0143-bulbous-plant.glb,656,1.061,1.562,0.125,True
+0144,bump,bump | press | pressing,"bump,press,pressing",128,192,4,10,svg/0144-bump.svg,3d/0144-bump.glb,136,1.062,1.062,0.125,True
+0145,bun_(food),bun_(food),bun_(food),96,128,5,3,svg/0145-bun-food.svg,3d/0145-bun-food.glb,184,0.811,0.562,0.125,True
+0146,bus,bus | coach,"bus,coach",192,176,12,7,svg/0146-bus.svg,3d/0146-bus.glb,800,1.562,0.937,0.125,False
+0147,bus_stop,bus_stop | bus_bay_(OLD),"bus_stop,bus_bay_(OLD)",352,176,16,0,svg/0147-bus-stop.svg,3d/0147-bus-stop.glb,844,2.812,0.937,0.125,False
+0148,bush,bush | shrub,"bush,shrub",128,160,3,0,svg/0148-bush.svg,3d/0148-bush.glb,204,1.062,0.812,0.125,True
+0149,business,business | economy | commerce | trade,"business,economy,commerce,trade",128,192,4,9,svg/0149-business.svg,3d/0149-business.glb,608,1.062,1.061,0.125,True
+0150,but,but | except,"but,except",64,160,2,1,svg/0150-but.svg,3d/0150-but.glb,76,0.562,0.561,0.125,True
+0151,butterfly,butterfly | moth,"butterfly,moth",128,192,4,2,svg/0151-butterfly.svg,3d/0151-butterfly.glb,428,1.062,1.062,0.125,True
+0152,buttocks,buttocks | bottom | bum | rear | ass,"buttocks,bottom,bum,rear,ass",112,192,4,11,svg/0152-buttocks.svg,3d/0152-buttocks.glb,104,0.938,1.062,0.125,True
+0153,buttocks_and_genitals,buttocks_and_genitals,buttocks_and_genitals,112,192,6,1,svg/0153-buttocks-and-genitals.svg,3d/0153-buttocks-and-genitals.glb,168,0.938,1.062,0.125,True
+0154,by,by | by_means_of | of,"by,by_means_of,of",32,160,2,3,svg/0154-by.svg,3d/0154-by.glb,56,0.312,0.562,0.125,True
+0155,c_(lowercase),c_(lowercase),c_(lowercase),32,128,1,0,svg/0155-c-lowercase.svg,3d/0155-c-lowercase.glb,148,0.296,0.376,0.125,True
+0156,C_(uppercase),C_(uppercase),C_(uppercase),40,128,1,0,svg/0156-c-uppercase.svg,3d/0156-c-uppercase.glb,196,0.434,0.486,0.125,True
+0157,cabbage,cabbage,cabbage,128,160,4,5,svg/0157-cabbage.svg,3d/0157-cabbage.glb,376,1.062,0.812,0.125,True
+0158,calculation_(mathematical,calculation_(mathematical | in_mind),"calculation_(mathematical,in_mind)",128,192,3,2,svg/0158-calculation-mathematical.svg,3d/0158-calculation-mathematical.glb,328,1.062,0.934,0.125,True
+0159,camel,camel,camel,224,192,9,0,svg/0159-camel.svg,3d/0159-camel.glb,372,1.812,1.061,0.125,False
+0160,camera,camera,camera,128,192,7,5,svg/0160-camera.svg,3d/0160-camera.glb,604,1.062,1.062,0.125,False
+0161,camper,camper | caravan | mobile_home,"camper,caravan,mobile_home",128,256,11,0,svg/0161-camper.svg,3d/0161-camper.glb,544,1.062,1.562,0.125,False
+0162,can,can | tin | jar,"can,tin,jar",64,208,5,5,svg/0162-can.svg,3d/0162-can.glb,248,0.562,1.311,0.125,True
+0163,candy,candy,candy,128,160,10,3,svg/0163-candy.svg,3d/0163-candy.glb,184,1.062,0.562,0.125,True
+0164,cannon,cannon | gun,"cannon,gun",128,192,4,1,svg/0164-cannon.svg,3d/0164-cannon.glb,288,1.062,1.062,0.125,True
+0165,cap,cap,cap,192,192,2,0,svg/0165-cap.svg,3d/0165-cap.glb,164,1.562,0.562,0.125,True
+0166,car,car | automobile | motor_vehicle,"car,automobile,motor_vehicle",128,176,9,17,svg/0166-car.svg,3d/0166-car.glb,572,1.062,0.938,0.125,False
+0167,card,card,card,128,160,4,11,svg/0167-card.svg,3d/0167-card.glb,64,1.062,0.562,0.125,True
+0168,carrot,carrot | vegetable_(wedge-shaped),"carrot,vegetable_(wedge-shaped)",128,128,4,2,svg/0168-carrot.svg,3d/0168-carrot.glb,176,1.062,1.061,0.125,True
+0169,cart,cart | carriage,"cart,carriage",128,192,10,4,svg/0169-cart.svg,3d/0169-cart.glb,392,1.062,1.062,0.125,True
+0170,case,case | casing,"case,casing",128,192,8,0,svg/0170-case.svg,3d/0170-case.glb,128,1.062,1.062,0.125,True
+0171,cassette,cassette | audiocassette | videocassette,"cassette,audiocassette,videocassette",224,192,7,0,svg/0171-cassette.svg,3d/0171-cassette.glb,576,1.812,1.062,0.125,True
+0172,castle,castle | palace,"castle,palace",256,224,11,4,svg/0172-castle.svg,3d/0172-castle.glb,180,2.062,1.312,0.125,True
+0173,cat,cat | feline_(animal) | felid,"cat,feline_(animal),felid",160,128,8,14,svg/0173-cat.svg,3d/0173-cat.glb,356,1.312,0.562,0.125,True
+0174,causality,causality,causality,128,192,4,8,svg/0174-causality.svg,3d/0174-causality.glb,196,1.062,1.062,0.125,True
+0175,cause,cause,cause,64,192,3,50,svg/0175-cause.svg,3d/0175-cause.glb,56,0.562,1.062,0.125,True
+0176,cavity,cavity | caries,"cavity,caries",128,128,6,0,svg/0176-cavity.svg,3d/0176-cavity.glb,160,1.062,0.562,0.125,True
+0177,ceiling,ceiling,ceiling,128,192,5,0,svg/0177-ceiling.svg,3d/0177-ceiling.glb,128,1.062,1.062,0.125,True
+0178,celeriac,celeriac | celery,"celeriac,celery",128,192,6,0,svg/0178-celeriac.svg,3d/0178-celeriac.glb,436,1.061,1.562,0.125,True
+0179,celery,celery,celery,128,192,6,0,svg/0179-celery.svg,3d/0179-celery.glb,288,1.061,1.562,0.125,True
+0180,cell,cell,cell,128,192,3,13,svg/0180-cell.svg,3d/0180-cell.glb,508,1.062,1.062,0.125,True
+0181,cent,cent,cent,64,192,4,0,svg/0181-cent.svg,3d/0181-cent.glb,344,0.562,1.31,0.125,True
+0182,cereal,cereal,cereal,256,128,5,0,svg/0182-cereal.svg,3d/0182-cereal.glb,240,2.062,0.56,0.125,True
+0183,chain,chain,chain,160,160,3,1,svg/0183-chain.svg,3d/0183-chain.glb,720,1.312,0.562,0.125,True
+0184,chair,chair | seat,"chair,seat",64,192,3,6,svg/0184-chair.svg,3d/0184-chair.glb,80,0.562,1.062,0.125,True
+0185,chairman,chairman,chairman,288,192,9,1,svg/0185-chairman.svg,3d/0185-chairman.glb,360,2.312,1.062,0.125,True
+0186,change,change | alteration | conversion,"change,alteration,conversion",128,192,4,13,svg/0186-change.svg,3d/0186-change.glb,420,1.062,1.062,0.125,True
+0187,cheek,cheek,cheek,176,192,7,1,svg/0187-cheek.svg,3d/0187-cheek.glb,512,1.438,1.062,0.125,True
+0188,cheese,cheese,cheese,64,128,3,6,svg/0188-cheese.svg,3d/0188-cheese.glb,108,0.562,0.562,0.125,True
+0189,chemical_product,chemical_product,chemical_product,160,192,6,34,svg/0189-chemical-product.svg,3d/0189-chemical-product.glb,116,1.312,1.062,0.125,True
+0190,cherry_(cherries),cherry_(cherries),cherry_(cherries),128,192,8,0,svg/0190-cherry-cherries.svg,3d/0190-cherry-cherries.glb,872,1.062,1.061,0.125,True
+0191,chest,chest,chest,192,192,6,6,svg/0191-chest.svg,3d/0191-chest.glb,324,1.562,1.062,0.125,True
+0192,chest_of_drawers,chest_of_drawers | bureau | dresser,"chest_of_drawers,bureau,dresser",128,192,7,0,svg/0192-chest-of-drawers.svg,3d/0192-chest-of-drawers.glb,204,1.062,1.062,0.125,True
+0193,child,child | kid | youngster,"child,kid,youngster",64,192,4,26,svg/0193-child.svg,3d/0193-child.glb,336,0.562,1.062,0.125,True
+0194,chimney,chimney,chimney,176,224,7,0,svg/0194-chimney.svg,3d/0194-chimney.glb,140,1.438,1.312,0.125,True
+0195,chin,chin,chin,128,192,7,0,svg/0195-chin.svg,3d/0195-chin.glb,508,1.062,1.438,0.125,True
+0196,choice,choice | selection | election,"choice,selection,election",64,192,5,19,svg/0196-choice.svg,3d/0196-choice.glb,396,0.562,1.062,0.125,True
+0197,cigarette,cigarette,cigarette,176,192,6,0,svg/0197-cigarette.svg,3d/0197-cigarette.glb,456,1.436,1.437,0.125,True
+0198,citizen,citizen,citizen,128,192,4,4,svg/0198-citizen.svg,3d/0198-citizen.glb,92,1.062,1.062,0.125,False
+0199,claw_(animal),claw_(animal),claw_(animal),208,128,10,0,svg/0199-claw-animal.svg,3d/0199-claw-animal.glb,416,1.688,0.812,0.125,True
+0200,claw_(bird),claw_(bird),claw_(bird),160,192,8,0,svg/0200-claw-bird.svg,3d/0200-claw-bird.glb,420,1.312,1.062,0.125,True
+0201,claw_(shellfish),claw_(shellfish),claw_(shellfish),176,192,8,0,svg/0201-claw-shellfish.svg,3d/0201-claw-shellfish.glb,692,1.437,1.062,0.125,True
+0202,cloth,cloth | fabric | material | textile | net,"cloth,fabric,material,textile,net",128,192,4,61,svg/0202-cloth.svg,3d/0202-cloth.glb,236,1.062,1.062,0.125,False
+0203,clothing,clothing | clothes | garment,"clothing,clothes,garment",128,192,6,53,svg/0203-clothing.svg,3d/0203-clothing.glb,324,1.062,1.062,0.125,False
+0204,cloud,cloud,cloud,128,208,3,4,svg/0204-cloud.svg,3d/0204-cloud.glb,172,1.062,0.311,0.125,True
+0205,coarse_slang,coarse_slang,coarse_slang,128,192,3,0,svg/0205-coarse-slang.svg,3d/0205-coarse-slang.glb,356,1.062,1.062,0.125,True
+0206,cod,cod | codfish,"cod,codfish",160,128,3,0,svg/0206-cod.svg,3d/0206-cod.glb,456,1.312,0.562,0.125,True
+0207,coffin,coffin,coffin,192,160,6,2,svg/0207-coffin.svg,3d/0207-coffin.glb,116,1.562,0.812,0.125,True
+0208,coldness,coldness | cold,"coldness,cold",192,160,10,6,svg/0208-coldness.svg,3d/0208-coldness.glb,364,1.562,0.562,0.125,True
+0209,colon,colon,colon,0,96,2,0,svg/0209-colon.svg,3d/0209-colon.glb,120,0.123,0.373,0.125,True
+0210,colour,colour,colour,64,160,3,67,svg/0210-colour.svg,3d/0210-colour.glb,352,0.562,0.812,0.125,True
+0211,comb,comb,comb,128,128,4,2,svg/0211-comb.svg,3d/0211-comb.glb,104,1.062,0.562,0.125,True
+0212,combination,combination | connection,"combination,connection",96,160,2,25,svg/0212-combination.svg,3d/0212-combination.glb,456,0.812,0.562,0.125,True
+0213,combine_marker,combine_marker,combine_marker,48,,2,0,svg/0213-combine-marker.svg,3d/0213-combine-marker.glb,248,0.438,0.312,0.125,True
+0214,comet,comet,comet,80,192,4,0,svg/0214-comet.svg,3d/0214-comet.glb,300,0.686,1.31,0.125,True
+0215,comma,comma,comma,8,64,2,15,svg/0215-comma.svg,3d/0215-comma.glb,60,0.123,0.186,0.125,True
+0216,commandments,commandments,commandments,128,192,6,4,svg/0216-commandments.svg,3d/0216-commandments.glb,240,1.062,1.062,0.125,True
+0217,comparative_more,comparative_more,comparative_more,64,192,3,10,svg/0217-comparative-more.svg,3d/0217-comparative-more.glb,96,0.562,0.562,0.125,True
+0218,compression,compression | compressing | squeezing,"compression,compressing,squeezing",320,160,10,1,svg/0218-compression.svg,3d/0218-compression.glb,248,2.561,0.562,0.125,True
+0219,conception,conception | fertilization | fertilized_egg,"conception,fertilization,fertilized_egg",224,192,5,15,svg/0219-conception.svg,3d/0219-conception.glb,560,1.811,1.062,0.125,True
+0220,condensation,condensation,condensation,224,192,9,1,svg/0220-condensation.svg,3d/0220-condensation.glb,580,1.844,1.124,0.125,True
+0221,cone,cone,cone,128,192,3,0,svg/0221-cone.svg,3d/0221-cone.glb,164,1.062,1.062,0.125,True
+0222,conscience,conscience,conscience,128,256,2,0,svg/0222-conscience.svg,3d/0222-conscience.glb,328,1.062,1.062,0.125,True
+0223,consideration,consideration | thoughtfulness,"consideration,thoughtfulness",128,192,5,2,svg/0223-consideration.svg,3d/0223-consideration.glb,328,1.062,1.062,0.125,True
+0224,container,container | basket_(high),"container,basket_(high)",128,192,1,2,svg/0224-container.svg,3d/0224-container.glb,164,1.062,0.562,0.125,True
+0225,container,container | bowl | holder | pouch | basket,"container,bowl,holder,pouch,basket",128,128,1,33,svg/0225-container.svg,3d/0225-container.glb,164,1.062,0.562,0.125,True
+0226,container_(low),container_(low),container_(low),128,64,1,2,svg/0226-container-low.svg,3d/0226-container-low.glb,164,1.062,0.562,0.125,True
+0227,continuance,continuance | continuation,"continuance,continuation",192,160,4,4,svg/0227-continuance.svg,3d/0227-continuance.glb,112,1.562,0.812,0.125,True
+0228,corn,corn,corn,128,192,9,5,svg/0228-corn.svg,3d/0228-corn.glb,548,1.061,1.562,0.125,True
+0229,corner,corner,corner,176,192,6,3,svg/0229-corner.svg,3d/0229-corner.glb,124,1.438,1.062,0.125,True
+0230,corner_(room),corner_(room),corner_(room),176,192,5,0,svg/0230-corner-room.svg,3d/0230-corner-room.glb,132,1.437,1.312,0.125,True
+0231,correct_thinking,correct_thinking,correct_thinking,128,192,3,13,svg/0231-correct-thinking.svg,3d/0231-correct-thinking.glb,256,1.062,0.812,0.125,True
+0232,couch,couch | chesterfield | sofa,"couch,chesterfield,sofa",192,192,4,1,svg/0232-couch.svg,3d/0232-couch.glb,104,1.562,1.062,0.125,True
+0233,country,country | state,"country,state",128,192,5,90,svg/0233-country.svg,3d/0233-country.glb,112,1.062,1.062,0.125,True
+0234,countryside,countryside | country | nature,"countryside,country,nature",128,192,4,6,svg/0234-countryside.svg,3d/0234-countryside.glb,228,1.062,1.06,0.125,True
+0235,couple_(female),couple_(female),couple_(female),128,192,7,4,svg/0235-couple-female.svg,3d/0235-couple-female.glb,124,1.061,1.062,0.125,True
+0236,couple_(heterosexual),couple_(heterosexual),couple_(heterosexual),128,192,7,4,svg/0236-couple-heterosexual.svg,3d/0236-couple-heterosexual.glb,136,1.061,1.062,0.125,True
+0237,couple_(male),couple_(male),couple_(male),128,192,6,4,svg/0237-couple-male.svg,3d/0237-couple-male.glb,136,1.062,1.062,0.125,True
+0238,crab,crab | shellfish_(with_claws),"crab,shellfish_(with_claws)",128,192,6,4,svg/0238-crab.svg,3d/0238-crab.glb,632,1.062,1.062,0.125,True
+0239,creation,creation | nature,"creation,nature",128,192,3,13,svg/0239-creation.svg,3d/0239-creation.glb,68,1.061,1.062,0.125,True
+0240,cross,cross | Christianity_(in_combinations),"cross,Christianity_(in_combinations)",64,192,2,49,svg/0240-cross.svg,3d/0240-cross.glb,104,0.56,1.062,0.125,True
+0241,crossed_racquets_(OLD),crossed_racquets_(OLD),crossed_racquets_(OLD),192,192,8,8,svg/0241-crossed-racquets-old.svg,3d/0241-crossed-racquets-old.glb,596,1.562,1.062,0.125,True
+0242,crotch,crotch,crotch,192,192,6,0,svg/0242-crotch.svg,3d/0242-crotch.glb,328,1.562,1.438,0.125,True
+0243,crown,crown,crown,128,192,7,17,svg/0243-crown.svg,3d/0243-crown.glb,120,1.062,0.562,0.125,True
+0244,crystal,crystal,crystal,64,192,8,4,svg/0244-crystal.svg,3d/0244-crystal.glb,100,0.562,1.062,0.125,True
+0245,cup,cup,cup,96,128,4,0,svg/0245-cup.svg,3d/0245-cup.glb,188,0.812,0.562,0.125,True
+0246,cupboard,cupboard | closet | wardrobe,"cupboard,closet,wardrobe",128,192,7,4,svg/0246-cupboard.svg,3d/0246-cupboard.glb,200,1.062,1.062,0.125,True
+0247,currant(s),currant(s),currant(s),128,160,4,0,svg/0247-currant-s.svg,3d/0247-currant-s.glb,640,1.06,1.062,0.125,True
+0248,curtain(s),curtain(s) | drape(s),"curtain(s),drape(s)",128,192,5,0,svg/0248-curtain-s.svg,3d/0248-curtain-s.glb,220,1.062,1.062,0.125,True
+0249,curve,curve | curved_line,"curve,curved_line",64,192,1,2,svg/0249-curve.svg,3d/0249-curve.glb,164,0.562,1.062,0.125,True
+0250,cylinder,cylinder | can,"cylinder,can",64,192,4,9,svg/0250-cylinder.svg,3d/0250-cylinder.glb,376,0.562,1.062,0.125,True
+0251,d_(lowercase),d_(lowercase),d_(lowercase),32,128,1,0,svg/0251-d-lowercase.svg,3d/0251-d-lowercase.glb,168,0.309,0.504,0.125,True
+0252,D_(uppercase),D_(uppercase),D_(uppercase),40,128,1,3,svg/0252-d-uppercase.svg,3d/0252-d-uppercase.glb,124,0.407,0.473,0.125,True
+0253,danger,danger,danger,128,192,5,10,svg/0253-danger.svg,3d/0253-danger.glb,164,1.061,1.062,0.125,True
+0254,daughter,daughter,daughter,128,192,5,8,svg/0254-daughter.svg,3d/0254-daughter.glb,120,1.062,1.062,0.125,True
+0255,day,day,day,128,192,2,100,svg/0255-day.svg,3d/0255-day.glb,296,1.062,1.062,0.125,True
+0256,deafness,deafness,deafness,128,192,3,1,svg/0256-deafness.svg,3d/0256-deafness.glb,256,1.062,1.062,0.125,True
+0257,death,death,death,128,192,3,35,svg/0257-death.svg,3d/0257-death.glb,348,1.062,1.062,0.125,True
+0258,debarkation,debarkation | disembarkation_(ashore),"debarkation,disembarkation_(ashore)",256,160,6,2,svg/0258-debarkation.svg,3d/0258-debarkation.glb,256,2.062,0.937,0.125,True
+0259,decision,decision,decision,128,192,5,10,svg/0259-decision.svg,3d/0259-decision.glb,252,1.062,1.061,0.125,True
+0260,deck,deck,deck,144,192,5,0,svg/0260-deck.svg,3d/0260-deck.glb,236,1.188,1.061,0.125,True
+0261,deer,deer | cervine_(animal) | cervid,"deer,cervine_(animal),cervid",128,192,6,4,svg/0261-deer.svg,3d/0261-deer.glb,300,1.062,1.062,0.125,True
+0262,degree,degree,degree,32,192,1,4,svg/0262-degree.svg,3d/0262-degree.glb,128,0.306,0.306,0.125,True
+0263,deletion,deletion | cancellation | destruction,"deletion,cancellation,destruction",128,192,1,17,svg/0263-deletion.svg,3d/0263-deletion.glb,36,1.062,1.062,0.125,True
+0264,depth,depth,depth,64,192,4,1,svg/0264-depth.svg,3d/0264-depth.glb,116,0.56,1.062,0.125,True
+0265,detachment,detachment | separation | breakup,"detachment,separation,breakup",128,192,3,1,svg/0265-detachment.svg,3d/0265-detachment.glb,108,1.062,1.062,0.125,True
+0266,development,development,development,192,192,7,2,svg/0266-development.svg,3d/0266-development.glb,492,1.562,1.062,0.125,True
+0267,devil_(1),devil_(1),devil_(1),64,224,3,1,svg/0267-devil-1.svg,3d/0267-devil-1.glb,204,0.561,1.312,0.125,True
+0268,Dharma_wheel,Dharma_wheel,Dharma_wheel,128,192,3,5,svg/0268-dharma-wheel.svg,3d/0268-dharma-wheel.glb,300,1.062,1.062,0.125,True
+0269,diamond_(character),diamond_(character),diamond_(character),64,192,4,1,svg/0269-diamond-character.svg,3d/0269-diamond-character.glb,72,0.562,1.062,0.125,True
+0270,different,different | other | difference,"different,other,difference",128,192,3,5,svg/0270-different.svg,3d/0270-different.glb,112,1.061,1.061,0.125,True
+0271,difficulty,difficulty,difficulty,128,192,5,11,svg/0271-difficulty.svg,3d/0271-difficulty.glb,160,1.062,1.06,0.125,True
+0272,digging,digging | excavation,"digging,excavation",128,192,5,2,svg/0272-digging.svg,3d/0272-digging.glb,236,1.061,1.062,0.125,True
+0273,digital_device,digital_device,digital_device,128,192,6,8,svg/0273-digital-device.svg,3d/0273-digital-device.glb,232,1.062,1.062,0.125,True
+0274,digital_space_(limited),digital_space_(limited),digital_space_(limited),128,192,4,2,svg/0274-digital-space-limited.svg,3d/0274-digital-space-limited.glb,236,1.062,1.062,0.125,True
+0275,digital_world,digital_world,digital_world,128,192,4,4,svg/0275-digital-world.svg,3d/0275-digital-world.glb,236,1.062,1.062,0.125,True
+0276,digits_(computer),digits_(computer),digits_(computer),32,160,2,48,svg/0276-digits-computer.svg,3d/0276-digits-computer.glb,164,0.312,0.687,0.125,True
+0277,dinosaur,dinosaur,dinosaur,224,192,7,4,svg/0277-dinosaur.svg,3d/0277-dinosaur.glb,172,1.811,1.062,0.125,True
+0278,disc,disc | disk,"disc,disk",96,128,2,21,svg/0278-disc.svg,3d/0278-disc.glb,356,0.812,0.562,0.125,True
+0279,discomfort,discomfort,discomfort,128,192,6,5,svg/0279-discomfort.svg,3d/0279-discomfort.glb,436,1.062,1.062,0.125,True
+0280,dish,dish | plate | platter,"dish,plate,platter",256,128,3,1,svg/0280-dish.svg,3d/0280-dish.glb,64,2.062,0.562,0.125,True
+0281,dispersion,dispersion | dissemination | scattering | spread | spreading,"dispersion,dissemination,scattering,spread,spreading",192,224,12,13,svg/0281-dispersion.svg,3d/0281-dispersion.glb,336,1.562,1.562,0.125,True
+0282,disturbance,disturbance | unrest,"disturbance,unrest",128,192,7,2,svg/0282-disturbance.svg,3d/0282-disturbance.glb,420,1.062,1.062,0.125,False
+0283,division,division,division,128,160,3,4,svg/0283-division.svg,3d/0283-division.glb,156,1.062,0.624,0.125,True
+0284,dog,dog | canine_(animal) | canid,"dog,canine_(animal),canid",160,192,6,12,svg/0284-dog.svg,3d/0284-dog.glb,252,1.312,1.062,0.125,False
+0285,dollar,dollar,dollar,64,224,5,0,svg/0285-dollar.svg,3d/0285-dollar.glb,468,0.562,1.561,0.125,True
+0286,dolphin,dolphin | porpoise | water_mammal_(with_tail),"dolphin,porpoise,water_mammal_(with_tail)",160,128,4,3,svg/0286-dolphin.svg,3d/0286-dolphin.glb,440,1.312,0.81,0.125,True
+0287,door,door,door,128,192,3,2,svg/0287-door.svg,3d/0287-door.glb,76,1.062,1.062,0.125,True
+0288,dot,dot,dot,0,128,1,34,svg/0288-dot.svg,3d/0288-dot.glb,60,0.125,0.125,0.125,True
+0289,doubt,doubt | uncertainty,"doubt,uncertainty",128,192,4,13,svg/0289-doubt.svg,3d/0289-doubt.glb,380,1.062,0.843,0.125,True
+0290,down,down | downward,"down,downward",64,192,3,52,svg/0290-down.svg,3d/0290-down.glb,84,0.562,1.062,0.125,True
+0291,downward_and_backward,downward_and_backward,downward_and_backward,128,192,3,0,svg/0291-downward-and-backward.svg,3d/0291-downward-and-backward.glb,84,1.062,1.062,0.125,True
+0292,downward_and_forward,downward_and_forward,downward_and_forward,128,192,3,9,svg/0292-downward-and-forward.svg,3d/0292-downward-and-forward.glb,84,1.062,1.062,0.125,True
+0293,drawer,drawer,drawer,176,192,9,0,svg/0293-drawer.svg,3d/0293-drawer.glb,264,1.438,1.062,0.125,True
+0294,dreidel_top,dreidel_top,dreidel_top,64,160,4,0,svg/0294-dreidel-top.svg,3d/0294-dreidel-top.glb,88,0.562,0.812,0.125,True
+0295,drink,drink | beverage,"drink,beverage",128,160,4,27,svg/0295-drink.svg,3d/0295-drink.glb,440,1.061,0.812,0.125,True
+0296,dromedary,dromedary,dromedary,224,192,8,0,svg/0296-dromedary.svg,3d/0296-dromedary.glb,280,1.812,1.061,0.125,True
+0297,drum_(1),drum_(1),drum_(1),128,128,4,2,svg/0297-drum-1.svg,3d/0297-drum-1.glb,204,1.062,0.562,0.125,True
+0298,dryness,dryness | drought,"dryness,drought",128,192,3,23,svg/0298-dryness.svg,3d/0298-dryness.glb,212,1.062,1.062,0.125,True
+0299,duck,duck | bird_(water) | waterbird | waterfowl | seabird | seafowl,"duck,bird_(water),waterbird,waterfowl,seabird,seafowl",128,192,6,6,svg/0299-duck.svg,3d/0299-duck.glb,392,1.062,1.437,0.125,True
+0300,during,during | while,"during,while",128,224,6,0,svg/0300-during.svg,3d/0300-during.glb,408,1.06,1.344,0.125,True
+0301,e_(lowercase),e_(lowercase),e_(lowercase),32,128,1,0,svg/0301-e-lowercase.svg,3d/0301-e-lowercase.glb,176,0.323,0.375,0.125,True
+0302,E_(uppercase),E_(uppercase),E_(uppercase),32,128,1,3,svg/0302-e-uppercase.svg,3d/0302-e-uppercase.glb,44,0.373,0.473,0.125,True
+0303,ear,ear,ear,64,192,2,47,svg/0303-ear.svg,3d/0303-ear.glb,224,0.562,1.062,0.125,True
+0304,ear_mold,ear_mold,ear_mold,96,192,6,0,svg/0304-ear-mold.svg,3d/0304-ear-mold.glb,252,0.81,1.062,0.125,False
+0305,earmuffs_(general),earmuffs_(general),earmuffs_(general),192,192,3,2,svg/0305-earmuffs-general.svg,3d/0305-earmuffs-general.glb,692,1.562,1.062,0.125,True
+0306,earth,earth | globe | world,"earth,globe,world",128,192,2,12,svg/0306-earth.svg,3d/0306-earth.glb,324,1.062,1.062,0.125,True
+0307,earth,earth | ground | land,"earth,ground,land",128,64,1,28,svg/0307-earth.svg,3d/0307-earth.glb,36,1.062,0.062,0.125,True
+0308,Earth_axis,Earth_axis | axis,"Earth_axis,axis",128,192,4,1,svg/0308-earth-axis.svg,3d/0308-earth-axis.glb,368,1.062,1.062,0.125,True
+0309,ease,ease | easiness | simplicity,"ease,easiness,simplicity",128,192,5,1,svg/0309-ease.svg,3d/0309-ease.glb,160,1.062,1.06,0.125,True
+0310,east,east,east,128,192,3,9,svg/0310-east.svg,3d/0310-east.glb,308,1.062,1.062,0.125,True
+0311,edge,edge,edge,160,176,5,0,svg/0311-edge.svg,3d/0311-edge.glb,128,1.312,0.938,0.125,True
+0312,effect,effect | result,"effect,result",64,192,5,16,svg/0312-effect.svg,3d/0312-effect.glb,96,0.561,1.062,0.125,True
+0313,egg,egg | ovum_(2),"egg,ovum_(2)",128,192,3,13,svg/0313-egg.svg,3d/0313-egg.glb,416,1.062,1.062,0.125,True
+0314,eight_(digit),eight_(digit) | 8,"eight_(digit),8",32,128,2,2,svg/0314-eight-digit.svg,3d/0314-eight-digit.glb,256,0.312,0.562,0.125,True
+0315,eight_(index_number),eight_(index_number),eight_(index_number),16,96,2,0,svg/0315-eight-index-number.svg,3d/0315-eight-index-number.glb,180,0.188,0.311,0.125,True
+0316,either,either,either,32,160,3,2,svg/0316-either.svg,3d/0316-either.glb,112,0.344,0.562,0.125,True
+0317,elbow,elbow,elbow,112,192,4,2,svg/0317-elbow.svg,3d/0317-elbow.glb,104,0.938,0.812,0.125,True
+0318,electric_field,electric_field,electric_field,160,192,7,0,svg/0318-electric-field.svg,3d/0318-electric-field.glb,200,1.312,1.062,0.125,True
+0319,electricity,electricity,electricity,64,192,3,57,svg/0319-electricity.svg,3d/0319-electricity.glb,88,0.562,1.062,0.125,True
+0320,electromagnetic_radiation,electromagnetic_radiation,electromagnetic_radiation,256,160,3,0,svg/0320-electromagnetic-radiation.svg,3d/0320-electromagnetic-radiation.glb,84,2.061,0.561,0.125,True
+0321,embryo,embryo,embryo,192,192,6,0,svg/0321-embryo.svg,3d/0321-embryo.glb,524,1.562,1.062,0.125,True
+0322,emptying,emptying | voidance | evacuation,"emptying,voidance,evacuation",224,160,4,2,svg/0322-emptying.svg,3d/0322-emptying.glb,376,1.811,0.811,0.125,True
+0323,enclosure,enclosure,enclosure,128,192,4,37,svg/0323-enclosure.svg,3d/0323-enclosure.glb,64,1.062,1.062,0.125,True
+0324,end,end | arrival | stop,"end,arrival,stop",128,192,4,52,svg/0324-end.svg,3d/0324-end.glb,140,1.062,1.062,0.125,True
+0325,energy,energy,energy,256,192,4,12,svg/0325-energy.svg,3d/0325-energy.glb,356,2.061,1.062,0.125,True
+0326,enter_(computer),enter_(computer),enter_(computer),128,192,4,0,svg/0326-enter-computer.svg,3d/0326-enter-computer.glb,100,1.062,0.812,0.125,True
+0327,environment,environment,environment,128,192,4,2,svg/0327-environment.svg,3d/0327-environment.glb,232,1.062,1.062,0.125,True
+0328,environs,environs,environs,64,64,1,0,svg/0328-environs.svg,3d/0328-environs.glb,36,0.562,0.062,0.125,True
+0329,equator,equator,equator,160,208,4,3,svg/0329-equator.svg,3d/0329-equator.glb,372,1.312,1.187,0.125,True
+0330,erection,erection | erect_penis,"erection,erect_penis",64,192,3,3,svg/0330-erection.svg,3d/0330-erection.glb,92,0.562,1.062,0.125,True
+0331,etrog,etrog,etrog,64,224,3,0,svg/0331-etrog.svg,3d/0331-etrog.glb,276,0.562,1.312,0.125,True
+0332,Euro,Euro,Euro,96,192,5,0,svg/0332-euro.svg,3d/0332-euro.glb,372,0.812,1.062,0.125,True
+0333,evaluation,evaluation | value,"evaluation,value",128,192,2,16,svg/0333-evaluation.svg,3d/0333-evaluation.glb,68,1.061,1.062,0.125,True
+0334,evaluation,evaluation | value_(half-sized),"evaluation,value_(half-sized)",64,128,2,0,svg/0334-evaluation.svg,3d/0334-evaluation.glb,68,0.561,0.562,0.125,True
+0335,evening,evening,evening,128,128,3,6,svg/0335-evening.svg,3d/0335-evening.glb,164,1.062,0.562,0.125,True
+0336,event,event | happening | occasion,"event,happening,occasion",64,160,3,45,svg/0336-event.svg,3d/0336-event.glb,288,0.562,0.812,0.125,True
+0337,evergreen_tree,evergreen_tree | spruce | fir | fir_tree,"evergreen_tree,spruce,fir,fir_tree",128,192,5,2,svg/0337-evergreen-tree.svg,3d/0337-evergreen-tree.glb,360,1.062,1.061,0.125,True
+0338,exchange,exchange | substitution,"exchange,substitution",128,192,6,28,svg/0338-exchange.svg,3d/0338-exchange.glb,292,1.062,1.062,0.125,True
+0339,exclamation_mark,exclamation_mark,exclamation_mark,0,192,2,0,svg/0339-exclamation-mark.svg,3d/0339-exclamation-mark.glb,96,0.123,1.093,0.125,True
+0340,existence,existence | being_(1),"existence,being_(1)",128,192,4,0,svg/0340-existence.svg,3d/0340-existence.glb,336,1.062,1.062,0.125,True
+0341,existence,existence | being_(2),"existence,being_(2)",64,160,2,26,svg/0341-existence.svg,3d/0341-existence.glb,252,0.562,0.562,0.125,True
+0342,expectation,expectation | anticipation,"expectation,anticipation",128,192,5,5,svg/0342-expectation.svg,3d/0342-expectation.glb,528,1.062,1.062,0.125,True
+0343,explosion,explosion | detonation | blowup,"explosion,detonation,blowup",192,224,16,6,svg/0343-explosion.svg,3d/0343-explosion.glb,352,1.562,1.562,0.125,True
+0344,extinction,extinction | extinguishing_(fire),"extinction,extinguishing_(fire)",128,192,3,3,svg/0344-extinction.svg,3d/0344-extinction.glb,204,1.062,1.062,0.125,True
+0345,eye,eye,eye,64,160,2,129,svg/0345-eye.svg,3d/0345-eye.glb,316,0.562,0.562,0.125,True
+0346,eye_with_eyebrow,eye_with_eyebrow,eye_with_eyebrow,64,160,3,0,svg/0346-eye-with-eyebrow.svg,3d/0346-eye-with-eyebrow.glb,352,0.562,0.812,0.125,True
+0347,eyebrow,eyebrow,eyebrow,112,224,5,1,svg/0347-eyebrow.svg,3d/0347-eyebrow.glb,408,0.937,1.062,0.125,True
+0348,eyelid(s),eyelid(s),eyelid(s),64,208,6,1,svg/0348-eyelid-s.svg,3d/0348-eyelid-s.glb,424,0.562,1.312,0.125,True
+0349,eyelid_(lower),eyelid_(lower),eyelid_(lower),64,160,4,1,svg/0349-eyelid-lower.svg,3d/0349-eyelid-lower.glb,368,0.562,0.938,0.125,True
+0350,eyelid_(upper),eyelid_(upper),eyelid_(upper),64,208,4,1,svg/0350-eyelid-upper.svg,3d/0350-eyelid-upper.glb,368,0.562,0.938,0.125,True
+0351,f_(lowercase),f_(lowercase),f_(lowercase),24,128,1,0,svg/0351-f-lowercase.svg,3d/0351-f-lowercase.glb,84,0.182,0.496,0.125,True
+0352,F_(uppercase),F_(uppercase),F_(uppercase),32,128,1,0,svg/0352-f-uppercase.svg,3d/0352-f-uppercase.glb,36,0.336,0.473,0.125,True
+0353,face,face,face,128,192,5,9,svg/0353-face.svg,3d/0353-face.glb,452,1.062,1.062,0.125,True
+0354,face_with_beard,face_with_beard,face_with_beard,128,192,8,0,svg/0354-face-with-beard.svg,3d/0354-face-with-beard.glb,700,1.062,1.312,0.125,True
+0355,face_with_pimple,face_with_pimple,face_with_pimple,128,192,6,0,svg/0355-face-with-pimple.svg,3d/0355-face-with-pimple.glb,512,1.062,1.062,0.125,True
+0356,fact,fact,fact,128,192,4,2,svg/0356-fact.svg,3d/0356-fact.glb,460,1.062,1.062,0.125,True
+0357,failure,failure,failure,192,224,10,1,svg/0357-failure.svg,3d/0357-failure.glb,316,1.562,1.56,0.125,True
+0358,family,family,family,192,192,12,3,svg/0358-family.svg,3d/0358-family.glb,340,1.562,1.062,0.125,True
+0359,family,family | couple,"family,couple",192,192,9,0,svg/0359-family.svg,3d/0359-family.glb,184,1.562,1.062,0.125,True
+0360,family,family | couple_(female),"family,couple_(female)",192,192,10,0,svg/0360-family.svg,3d/0360-family.glb,188,1.559,1.062,0.125,True
+0361,family,family | couple_(male),"family,couple_(male)",192,192,8,0,svg/0361-family.svg,3d/0361-family.glb,196,1.562,1.062,0.125,True
+0362,family_(cohabiting),family_(cohabiting),family_(cohabiting),192,192,6,1,svg/0362-family-cohabiting.svg,3d/0362-family-cohabiting.glb,200,1.561,1.062,0.125,True
+0363,family_(female),family_(female),family_(female),192,192,13,0,svg/0363-family-female.svg,3d/0363-family-female.glb,332,1.562,1.062,0.125,True
+0364,family_(male),family_(male),family_(male),192,192,11,0,svg/0364-family-male.svg,3d/0364-family-male.glb,348,1.562,1.062,0.125,True
+0365,family_(traditional),family_(traditional),family_(traditional),320,192,11,0,svg/0365-family-traditional.svg,3d/0365-family-traditional.glb,220,2.559,1.062,0.125,True
+0366,fan,fan,fan,128,192,3,1,svg/0366-fan.svg,3d/0366-fan.glb,160,1.062,1.062,0.125,True
+0367,fantasy,fantasy | phantasy | imagination | illusion,"fantasy,phantasy,imagination,illusion",128,256,3,7,svg/0367-fantasy.svg,3d/0367-fantasy.glb,280,1.06,0.562,0.125,True
+0368,farm,farm,farm,128,192,5,2,svg/0368-farm.svg,3d/0368-farm.glb,244,1.062,1.062,0.125,True
+0369,farness,farness | remoteness | farawayness,"farness,remoteness,farawayness",128,160,5,7,svg/0369-farness.svg,3d/0369-farness.glb,252,1.062,0.844,0.125,True
+0370,farness,farness | remoteness | farawayness_(OLD),"farness,remoteness,farawayness_(OLD)",128,160,2,5,svg/0370-farness.svg,3d/0370-farness.glb,72,1.062,0.562,0.125,True
+0371,father,father | dad | daddy | papa | pa | pop,"father,dad,daddy,papa,pa,pop",128,192,5,6,svg/0371-father.svg,3d/0371-father.glb,128,1.061,1.061,0.125,True
+0372,fatness,fatness | thickness,"fatness,thickness",192,192,9,2,svg/0372-fatness.svg,3d/0372-fatness.glb,392,1.562,1.093,0.125,True
+0373,fatness,fatness | thickness_(OLD),"fatness,thickness_(OLD)",192,192,6,1,svg/0373-fatness.svg,3d/0373-fatness.glb,212,1.562,1.062,0.125,True
+0374,feeling,feeling | emotion | sensation,"feeling,emotion,sensation",128,192,4,307,svg/0374-feeling.svg,3d/0374-feeling.glb,408,1.062,1.062,0.125,True
+0375,female_(gender),female_(gender),female_(gender),64,128,3,9,svg/0375-female-gender.svg,3d/0375-female-gender.glb,68,0.561,0.562,0.125,True
+0376,fence,fence | wall,"fence,wall",304,192,8,1,svg/0376-fence.svg,3d/0376-fence.glb,164,2.438,1.062,0.125,True
+0377,fetus,fetus,fetus,192,192,8,4,svg/0377-fetus.svg,3d/0377-fetus.glb,624,1.562,1.062,0.125,True
+0378,fiber,fiber | fibre | fibril | filament | strand,"fiber,fibre,fibril,filament,strand",128,192,2,7,svg/0378-fiber.svg,3d/0378-fiber.glb,176,1.062,1.061,0.125,True
+0379,field,field,field,128,128,3,1,svg/0379-field.svg,3d/0379-field.glb,208,1.062,0.562,0.125,True
+0380,fight,fight | combat,"fight,combat",128,192,4,10,svg/0380-fight.svg,3d/0380-fight.glb,140,1.062,1.062,0.125,True
+0381,file,file | data_file_(digital),"file,data_file_(digital)",128,160,3,9,svg/0381-file.svg,3d/0381-file.glb,336,1.062,0.812,0.125,True
+0382,filling,filling | fill | fullness,"filling,fill,fullness",128,128,2,18,svg/0382-filling.svg,3d/0382-filling.glb,152,1.062,0.562,0.125,True
+0383,finger,finger,finger,112,224,4,15,svg/0383-finger.svg,3d/0383-finger.glb,120,0.937,1.312,0.125,True
+0384,fire,fire,fire,32,192,2,77,svg/0384-fire.svg,3d/0384-fire.glb,160,0.311,1.062,0.125,True
+0385,fireplace,fireplace,fireplace,128,192,5,2,svg/0385-fireplace.svg,3d/0385-fireplace.glb,224,1.062,1.062,0.125,True
+0386,fish_(animal),fish_(animal),fish_(animal),128,128,2,30,svg/0386-fish-animal.svg,3d/0386-fish-animal.glb,412,1.062,0.562,0.125,True
+0387,five_(digit),five_(digit) | 5,"five_(digit),5",32,128,5,11,svg/0387-five-digit.svg,3d/0387-five-digit.glb,152,0.312,0.562,0.125,True
+0388,five_(index_number),five_(index_number),five_(index_number),16,96,5,3,svg/0388-five-index-number.svg,3d/0388-five-index-number.glb,136,0.188,0.312,0.125,True
+0389,fjord,fjord,fjord,256,192,5,2,svg/0389-fjord.svg,3d/0389-fjord.glb,200,2.061,1.187,0.125,True
+0390,flag,flag,flag,64,192,4,0,svg/0390-flag.svg,3d/0390-flag.glb,84,0.56,1.062,0.125,True
+0391,floating_container,floating_container,floating_container,128,128,3,3,svg/0391-floating-container.svg,3d/0391-floating-container.glb,308,1.062,0.687,0.125,True
+0392,floor,floor,floor,128,192,5,1,svg/0392-floor.svg,3d/0392-floor.glb,132,1.062,1.438,0.125,True
+0393,floor,floor | storey | level | etage,"floor,storey,level,etage",176,192,8,9,svg/0393-floor.svg,3d/0393-floor.glb,148,1.438,1.187,0.125,True
+0394,floor_covering,floor_covering | linoleum,"floor_covering,linoleum",128,192,5,3,svg/0394-floor-covering.svg,3d/0394-floor-covering.glb,128,1.062,1.062,0.125,True
+0395,flower,flower,flower,64,192,2,24,svg/0395-flower.svg,3d/0395-flower.glb,284,0.562,1.062,0.125,True
+0396,flower,flower | bloom | blossom,"flower,bloom,blossom",112,192,4,2,svg/0396-flower.svg,3d/0396-flower.glb,340,0.937,1.062,0.125,True
+0397,flower_(from_bulb),flower_(from_bulb),flower_(from_bulb),144,192,8,0,svg/0397-flower-from-bulb.svg,3d/0397-flower-from-bulb.glb,716,1.187,1.562,0.125,True
+0398,flute,flute | recorder,"flute,recorder",64,192,5,7,svg/0398-flute.svg,3d/0398-flute.glb,400,0.562,1.312,0.125,True
+0399,flute,flute | transverse_flute,"flute,transverse_flute",160,128,5,1,svg/0399-flute.svg,3d/0399-flute.glb,400,1.312,0.562,0.125,True
+0400,fly,fly | flying_insect,"fly,flying_insect",192,192,8,2,svg/0400-fly.svg,3d/0400-fly.glb,308,1.562,1.062,0.125,True
+0401,fog,fog,fog,128,192,3,1,svg/0401-fog.svg,3d/0401-fog.glb,196,1.062,0.687,0.125,True
+0402,fold,fold | folding | pleating,"fold,folding,pleating",128,192,5,4,svg/0402-fold.svg,3d/0402-fold.glb,180,1.062,1.062,0.125,True
+0403,folder,folder,folder,128,160,5,0,svg/0403-folder.svg,3d/0403-folder.glb,180,1.062,0.812,0.125,True
+0404,food,food,food,64,160,2,151,svg/0404-food.svg,3d/0404-food.glb,292,0.562,0.812,0.125,True
+0405,foot,foot,foot,192,192,6,10,svg/0405-foot.svg,3d/0405-foot.glb,160,1.562,1.062,0.125,True
+0406,for_(in_exchange_for),for_(in_exchange_for),for_(in_exchange_for),64,192,4,17,svg/0406-for-in-exchange-for.svg,3d/0406-for-in-exchange-for.glb,104,0.562,1.061,0.125,True
+0407,for_(the_purpose_of),for_(the_purpose_of) | in_order_to,"for_(the_purpose_of),in_order_to",64,160,4,19,svg/0407-for-the-purpose-of.svg,3d/0407-for-the-purpose-of.glb,104,0.562,0.562,0.125,True
+0408,forehead,forehead,forehead,128,208,7,1,svg/0408-forehead.svg,3d/0408-forehead.glb,536,1.062,1.187,0.125,True
+0409,forgetting,forgetting | amnesia,"forgetting,amnesia",192,192,7,3,svg/0409-forgetting.svg,3d/0409-forgetting.glb,324,1.562,1.062,0.125,True
+0410,fork,fork,fork,128,192,4,1,svg/0410-fork.svg,3d/0410-fork.glb,132,1.061,1.062,0.125,True
+0411,forward,forward,forward,128,160,3,74,svg/0411-forward.svg,3d/0411-forward.glb,84,1.062,0.562,0.125,True
+0412,foundation,foundation | base | fundament,"foundation,base,fundament",128,128,3,9,svg/0412-foundation.svg,3d/0412-foundation.glb,76,1.062,0.562,0.125,True
+0413,foundation_(building),foundation_(building),foundation_(building),176,192,7,0,svg/0413-foundation-building.svg,3d/0413-foundation-building.glb,152,1.438,1.437,0.125,True
+0414,four_(digit),four_(digit) | 4,"four_(digit),4",32,128,3,19,svg/0414-four-digit.svg,3d/0414-four-digit.glb,92,0.312,0.561,0.125,True
+0415,four_(index_number),four_(index_number),four_(index_number),16,96,3,3,svg/0415-four-index-number.svg,3d/0415-four-index-number.glb,92,0.188,0.311,0.125,True
+0416,freedom,freedom | liberty,"freedom,liberty",128,192,7,8,svg/0416-freedom.svg,3d/0416-freedom.glb,432,1.062,1.062,0.125,True
+0417,freezing,freezing | hardening | solidifying,"freezing,hardening,solidifying",160,160,6,1,svg/0417-freezing.svg,3d/0417-freezing.glb,256,1.312,0.562,0.125,True
+0418,freighter,freighter,freighter,128,192,5,3,svg/0418-freighter.svg,3d/0418-freighter.glb,204,1.061,1.061,0.125,True
+0419,from,from,from,64,160,3,0,svg/0419-from.svg,3d/0419-from.glb,88,0.562,0.562,0.125,True
+0420,from_sky,from_sky,from_sky,128,192,4,2,svg/0420-from-sky.svg,3d/0420-from-sky.glb,120,1.062,1.062,0.125,True
+0421,front,front | front_of_a_thing,"front,front_of_a_thing",112,160,6,0,svg/0421-front.svg,3d/0421-front.glb,124,0.937,0.562,0.125,True
+0422,fruit,fruit,fruit,96,192,2,14,svg/0422-fruit.svg,3d/0422-fruit.glb,344,0.812,1.062,0.125,True
+0423,fruit_(pointed),fruit_(pointed),fruit_(pointed),96,192,4,1,svg/0423-fruit-pointed.svg,3d/0423-fruit-pointed.glb,152,0.81,1.061,0.125,True
+0424,fuel,fuel,fuel,256,192,8,6,svg/0424-fuel.svg,3d/0424-fuel.glb,408,2.062,1.062,0.125,False
+0425,funnel,funnel,funnel,144,192,4,0,svg/0425-funnel.svg,3d/0425-funnel.glb,104,1.187,1.062,0.125,True
+0426,fur,fur | coat_(animal) | hair_(animal),"fur,coat_(animal),hair_(animal)",144,192,10,1,svg/0426-fur.svg,3d/0426-fur.glb,392,1.187,1.062,0.125,True
+0427,furred_animal,furred_animal,furred_animal,128,160,8,0,svg/0427-furred-animal.svg,3d/0427-furred-animal.glb,332,1.062,0.812,0.125,True
+0428,future,future,future,32,192,1,25,svg/0428-future.svg,3d/0428-future.glb,168,0.312,1.061,0.125,True
+0429,future_(uncertain),future_(uncertain),future_(uncertain),64,192,4,18,svg/0429-future-uncertain.svg,3d/0429-future-uncertain.glb,360,0.559,1.062,0.125,True
+0430,g_(lowercase),g_(lowercase),g_(lowercase),32,128,1,0,svg/0430-g-lowercase.svg,3d/0430-g-lowercase.glb,252,0.309,0.511,0.125,True
+0431,G_(uppercase),G_(uppercase),G_(uppercase),40,128,1,0,svg/0431-g-uppercase.svg,3d/0431-g-uppercase.glb,196,0.448,0.486,0.125,True
+0432,galaxy,galaxy,galaxy,128,192,4,2,svg/0432-galaxy.svg,3d/0432-galaxy.glb,400,1.062,1.062,0.125,True
+0433,garage,garage,garage,128,192,11,1,svg/0433-garage.svg,3d/0433-garage.glb,504,1.06,1.062,0.125,False
+0434,garbage_can,garbage_can | rubbish_bin | trash_can,"garbage_can,rubbish_bin,trash_can",128,192,6,1,svg/0434-garbage-can.svg,3d/0434-garbage-can.glb,304,1.062,1.062,0.125,False
+0435,garden,garden,garden,128,192,3,7,svg/0435-garden.svg,3d/0435-garden.glb,316,1.061,1.062,0.125,True
+0436,gas,gas,gas,64,192,4,17,svg/0436-gas.svg,3d/0436-gas.glb,344,0.562,1.062,0.125,True
+0437,gathering,gathering | assembly | meeting | conference,"gathering,assembly,meeting,conference",192,224,12,21,svg/0437-gathering.svg,3d/0437-gathering.glb,340,1.562,1.562,0.125,True
+0438,gender,gender | sex,"gender,sex",128,128,5,13,svg/0438-gender.svg,3d/0438-gender.glb,112,1.062,0.562,0.125,True
+0439,generalization,generalization,generalization,64,192,3,49,svg/0439-generalization.svg,3d/0439-generalization.glb,348,0.562,1.062,0.125,True
+0440,genitals,genitals | sex_organs,"genitals,sex_organs",64,192,4,24,svg/0440-genitals.svg,3d/0440-genitals.glb,108,0.562,1.062,0.125,True
+0441,giraffe,giraffe,giraffe,192,256,7,0,svg/0441-giraffe.svg,3d/0441-giraffe.glb,176,1.562,1.562,0.125,True
+0442,girl,girl,girl,64,192,4,4,svg/0442-girl.svg,3d/0442-girl.glb,304,0.562,1.062,0.125,True
+0443,giving,giving | gift,"giving,gift",128,192,4,43,svg/0443-giving.svg,3d/0443-giving.glb,236,1.062,1.062,0.125,True
+0444,glass,glass | drinking_glass,"glass,drinking_glass",64,192,3,8,svg/0444-glass.svg,3d/0444-glass.glb,76,0.562,1.062,0.125,True
+0445,glasses,glasses | eyeglasses,"glasses,eyeglasses",192,160,5,3,svg/0445-glasses.svg,3d/0445-glasses.glb,724,1.562,0.562,0.125,True
+0446,goal,goal,goal,128,192,5,0,svg/0446-goal.svg,3d/0446-goal.glb,328,1.062,1.062,0.125,True
+0447,goat,goat,goat,160,160,7,0,svg/0447-goat.svg,3d/0447-goat.glb,340,1.312,0.812,0.125,True
+0448,goblet,goblet | wineglass,"goblet,wineglass",128,192,5,1,svg/0448-goblet.svg,3d/0448-goblet.glb,112,1.062,1.062,0.125,True
+0449,God,God,God,128,256,7,62,svg/0449-god.svg,3d/0449-god.glb,136,1.059,1.562,0.125,True
+0450,good_conscience,good_conscience,good_conscience,128,256,4,1,svg/0450-good-conscience.svg,3d/0450-good-conscience.glb,436,1.062,1.312,0.125,True
+0451,goods,goods | contents,"goods,contents",128,160,5,9,svg/0451-goods.svg,3d/0451-goods.glb,236,1.062,0.812,0.125,True
+0452,grace,grace | grace_of_God,"grace,grace_of_God",224,256,11,0,svg/0452-grace.svg,3d/0452-grace.glb,248,1.812,1.562,0.125,True
+0453,grain,grain | cereal,"grain,cereal",128,128,2,22,svg/0453-grain.svg,3d/0453-grain.glb,208,1.062,0.562,0.125,True
+0454,grandfather,grandfather | granddad | grandpa,"grandfather,granddad,grandpa",256,192,9,0,svg/0454-grandfather.svg,3d/0454-grandfather.glb,216,2.061,1.062,0.125,True
+0455,grandfather_(maternal),grandfather_(maternal),grandfather_(maternal),256,192,11,0,svg/0455-grandfather-maternal.svg,3d/0455-grandfather-maternal.glb,216,2.061,1.062,0.125,True
+0456,grandfather_(paternal),grandfather_(paternal),grandfather_(paternal),256,192,10,0,svg/0456-grandfather-paternal.svg,3d/0456-grandfather-paternal.glb,224,2.061,1.062,0.125,True
+0457,grandmother,grandmother | grandma | granny,"grandmother,grandma,granny",256,192,10,0,svg/0457-grandmother.svg,3d/0457-grandmother.glb,212,2.061,1.062,0.125,True
+0458,grandmother_(maternal),grandmother_(maternal),grandmother_(maternal),256,192,12,0,svg/0458-grandmother-maternal.svg,3d/0458-grandmother-maternal.glb,216,2.061,1.062,0.125,True
+0459,grandmother_(paternal),grandmother_(paternal),grandmother_(paternal),256,192,11,0,svg/0459-grandmother-paternal.svg,3d/0459-grandmother-paternal.glb,220,2.061,1.062,0.125,True
+0460,grandparent,grandparent,grandparent,256,192,8,1,svg/0460-grandparent.svg,3d/0460-grandparent.glb,216,2.061,1.062,0.125,True
+0461,grape(s),grape(s),grape(s),128,192,4,9,svg/0461-grape-s.svg,3d/0461-grape-s.glb,800,1.062,1.312,0.125,True
+0462,grass,grass,grass,64,128,1,10,svg/0462-grass.svg,3d/0462-grass.glb,104,0.562,0.562,0.125,True
+0463,grave,grave,grave,128,64,3,8,svg/0463-grave.svg,3d/0463-grave.glb,88,1.062,0.562,0.125,True
+0464,gravity,gravity | gravitation,"gravity,gravitation",64,160,7,0,svg/0464-gravity.svg,3d/0464-gravity.glb,144,0.561,1.062,0.125,True
+0465,greater_than_(relation),greater_than_(relation),greater_than_(relation),64,192,2,1,svg/0465-greater-than-relation.svg,3d/0465-greater-than-relation.glb,52,0.562,1.062,0.125,True
+0466,grid,grid | matrix,"grid,matrix",128,192,10,2,svg/0466-grid.svg,3d/0466-grid.glb,316,1.062,1.062,0.125,True
+0467,group_of,group_of | much_of | many_of | quantity_of,"group_of,much_of,many_of,quantity_of",64,128,2,226,svg/0467-group-of.svg,3d/0467-group-of.glb,92,0.562,0.562,0.125,True
+0468,gun,gun | firearm,"gun,firearm",192,128,2,8,svg/0468-gun.svg,3d/0468-gun.glb,168,1.562,0.312,0.125,True
+0469,h_(lowercase),h_(lowercase),h_(lowercase),32,128,1,0,svg/0469-h-lowercase.svg,3d/0469-h-lowercase.glb,88,0.29,0.498,0.125,True
+0470,H_(uppercase),H_(uppercase),H_(uppercase),32,128,1,4,svg/0470-h-uppercase.svg,3d/0470-h-uppercase.glb,44,0.384,0.473,0.125,True
+0471,hail,hail,hail,128,192,9,0,svg/0471-hail.svg,3d/0471-hail.glb,340,1.061,1.06,0.125,True
+0472,hair,hair,hair,72,160,3,11,svg/0472-hair.svg,3d/0472-hair.glb,252,0.624,0.312,0.125,True
+0473,hair_(head),hair_(head),hair_(head),144,256,8,8,svg/0473-hair-head.svg,3d/0473-hair-head.glb,640,1.188,1.562,0.125,True
+0474,half,half | one-half,"half,one-half",128,192,7,0,svg/0474-half.svg,3d/0474-half.glb,276,1.062,1.062,0.125,True
+0475,hammer,hammer | gavel | mallet,"hammer,gavel,mallet",128,192,2,13,svg/0475-hammer.svg,3d/0475-hammer.glb,76,1.061,1.061,0.125,True
+0476,hand,hand,hand,64,192,2,81,svg/0476-hand.svg,3d/0476-hand.glb,64,0.562,1.062,0.125,True
+0477,handbag,handbag | shopping_bag | carrier_bag,"handbag,shopping_bag,carrier_bag",128,160,3,0,svg/0477-handbag.svg,3d/0477-handbag.glb,296,1.062,0.81,0.125,False
+0478,head,head,head,128,192,3,11,svg/0478-head.svg,3d/0478-head.glb,332,1.062,1.062,0.125,True
+0479,head_and_neck,head_and_neck,head_and_neck,128,192,5,0,svg/0479-head-and-neck.svg,3d/0479-head-and-neck.glb,392,1.062,1.312,0.125,True
+0480,head_with_hair,head_with_hair,head_with_hair,128,224,6,0,svg/0480-head-with-hair.svg,3d/0480-head-with-hair.glb,580,1.062,1.312,0.125,True
+0481,health,health,health,64,192,3,12,svg/0481-health.svg,3d/0481-health.glb,92,0.562,1.061,0.125,True
+0482,heat,heat,heat,128,192,6,12,svg/0482-heat.svg,3d/0482-heat.glb,272,1.062,1.062,0.125,True
+0483,hedgehog,hedgehog,hedgehog,128,160,8,1,svg/0483-hedgehog.svg,3d/0483-hedgehog.glb,236,1.062,0.812,0.125,True
+0484,hedgehog_(OLD),hedgehog_(OLD),hedgehog_(OLD),192,192,8,1,svg/0484-hedgehog-old.svg,3d/0484-hedgehog-old.glb,196,1.562,1.062,0.125,False
+0485,heel,heel,heel,240,192,6,2,svg/0485-heel.svg,3d/0485-heel.glb,156,1.937,1.312,0.125,True
+0486,height,height | tallness,"height,tallness",64,192,2,11,svg/0486-height.svg,3d/0486-height.glb,72,0.562,1.062,0.125,True
+0487,helicopter,helicopter,helicopter,128,192,6,0,svg/0487-helicopter.svg,3d/0487-helicopter.glb,388,1.062,1.062,0.125,True
+0488,help,help | aid | assistance | support,"help,aid,assistance,support",96,192,3,61,svg/0488-help.svg,3d/0488-help.glb,96,0.809,1.062,0.125,True
+0489,here,here,here,96,160,4,0,svg/0489-here.svg,3d/0489-here.glb,172,0.844,0.562,0.125,True
+0490,hidden_thing,hidden_thing,hidden_thing,128,96,5,2,svg/0490-hidden-thing.svg,3d/0490-hidden-thing.glb,144,1.06,0.56,0.125,False
+0491,hip,hip,hip,192,224,6,0,svg/0491-hip.svg,3d/0491-hip.glb,160,1.562,1.312,0.125,True
+0492,hippopotamus,hippopotamus,hippopotamus,224,192,9,0,svg/0492-hippopotamus.svg,3d/0492-hippopotamus.glb,328,1.812,1.437,0.125,True
+0493,holding,holding,holding,64,128,3,5,svg/0493-holding.svg,3d/0493-holding.glb,128,0.562,0.562,0.125,True
+0494,hole,hole,hole,256,64,3,6,svg/0494-hole.svg,3d/0494-hole.glb,188,2.062,0.562,0.125,True
+0495,holiness,holiness,holiness,64,192,2,24,svg/0495-holiness.svg,3d/0495-holiness.glb,200,0.561,0.562,0.125,True
+0496,hoof,hoof,hoof,224,192,9,4,svg/0496-hoof.svg,3d/0496-hoof.glb,224,1.812,1.312,0.125,True
+0497,hook,hook | hanger,"hook,hanger",192,128,3,3,svg/0497-hook.svg,3d/0497-hook.glb,68,1.562,0.312,0.125,True
+0498,horizon,horizon,horizon,176,128,4,0,svg/0498-horizon.svg,3d/0498-horizon.glb,212,1.438,0.812,0.125,True
+0499,horizontal-(a),horizontal-(a),horizontal-(a),128,192,6,1,svg/0499-horizontal-a.svg,3d/0499-horizontal-a.glb,144,1.062,1.438,0.125,True
+0500,horn(s),horn(s),horn(s),176,192,8,0,svg/0500-horn-s.svg,3d/0500-horn-s.glb,336,1.438,1.062,0.125,True
+0501,horn(s),horn(s) | antler(s),"horn(s),antler(s)",64,192,1,3,svg/0501-horn-s.svg,3d/0501-horn-s.glb,160,0.562,0.312,0.125,True
+0502,horse,horse,horse,224,192,7,61,svg/0502-horse.svg,3d/0502-horse.glb,160,1.812,1.061,0.125,True
+0503,horse_neck,horse_neck,horse_neck,224,208,9,1,svg/0503-horse-neck.svg,3d/0503-horse-neck.glb,216,1.812,1.186,0.125,True
+0504,horse_rump,horse_rump,horse_rump,272,192,9,1,svg/0504-horse-rump.svg,3d/0504-horse-rump.glb,216,2.188,1.061,0.125,False
+0505,house,house | building | dwelling | residence,"house,building,dwelling,residence",128,192,5,123,svg/0505-house.svg,3d/0505-house.glb,64,1.06,1.062,0.125,True
+0506,hull,hull | body,"hull,body",128,192,5,1,svg/0506-hull.svg,3d/0506-hull.glb,216,1.061,1.061,0.125,True
+0507,humidity,humidity,humidity,160,192,5,1,svg/0507-humidity.svg,3d/0507-humidity.glb,264,1.312,1.062,0.125,True
+0508,husband,husband,husband,160,192,5,3,svg/0508-husband.svg,3d/0508-husband.glb,132,1.312,1.062,0.125,True
+0509,hypodermic_needlepoint,hypodermic_needlepoint,hypodermic_needlepoint,304,160,9,1,svg/0509-hypodermic-needlepoint.svg,3d/0509-hypodermic-needlepoint.glb,220,2.438,0.562,0.125,True
+0510,hypothesis,hypothesis | theory,"hypothesis,theory",128,192,6,8,svg/0510-hypothesis.svg,3d/0510-hypothesis.glb,276,1.061,1.062,0.125,True
+0511,i_(lowercase),i_(lowercase),i_(lowercase),24,128,1,0,svg/0511-i-lowercase.svg,3d/0511-i-lowercase.glb,24,0.06,0.498,0.125,True
+0512,I_(uppercase),I_(uppercase),I_(uppercase),24,128,1,0,svg/0512-i-uppercase.svg,3d/0512-i-uppercase.glb,12,0.064,0.473,0.125,True
+0513,ice,ice,ice,128,160,6,26,svg/0513-ice.svg,3d/0513-ice.glb,252,1.061,0.562,0.125,True
+0514,ice_cream,ice_cream | sherbet | sorbet,"ice_cream,sherbet,sorbet",96,192,6,1,svg/0514-ice-cream.svg,3d/0514-ice-cream.glb,228,0.81,1.06,0.125,True
+0515,ice_cream_(cone),ice_cream_(cone),ice_cream_(cone),64,160,4,0,svg/0515-ice-cream-cone.svg,3d/0515-ice-cream-cone.glb,172,0.558,0.811,0.125,True
+0516,ice_cream_(lollipop),ice_cream_(lollipop),ice_cream_(lollipop),64,192,5,1,svg/0516-ice-cream-lollipop.svg,3d/0516-ice-cream-lollipop.glb,184,0.56,1.059,0.125,True
+0517,ice_skates,ice_skates,ice_skates,192,192,6,4,svg/0517-ice-skates.svg,3d/0517-ice-skates.glb,260,1.56,1.562,0.125,True
+0518,idea,idea | thought,"idea,thought",128,192,4,1,svg/0518-idea.svg,3d/0518-idea.glb,236,1.062,1.062,0.125,True
+0519,illness,illness | disease | sickness_(sick_person),"illness,disease,sickness_(sick_person)",128,128,3,35,svg/0519-illness.svg,3d/0519-illness.glb,76,1.062,0.562,0.125,True
+0520,importance,importance | significance,"importance,significance",128,192,5,11,svg/0520-importance.svg,3d/0520-importance.glb,364,1.062,0.842,0.125,True
+0521,imprint,imprint | depression,"imprint,depression",128,128,3,12,svg/0521-imprint.svg,3d/0521-imprint.glb,208,1.062,0.562,0.125,True
+0522,in,in | inside | interior | internal,"in,inside,interior,internal",128,192,5,6,svg/0522-in.svg,3d/0522-in.glb,124,1.062,1.062,0.125,True
+0523,incorrect_thinking,incorrect_thinking,incorrect_thinking,128,192,2,7,svg/0523-incorrect-thinking.svg,3d/0523-incorrect-thinking.glb,200,1.062,0.562,0.125,True
+0524,indicator_(action),indicator_(action),indicator_(action),32,,2,639,svg/0524-indicator-action.svg,3d/0524-indicator-action.glb,68,0.311,0.312,0.125,True
+0525,indicator_(active),indicator_(active),indicator_(active),32,,2,0,svg/0525-indicator-active.svg,3d/0525-indicator-active.glb,68,0.312,0.311,0.125,True
+0526,indicator_(adverb),indicator_(adverb),indicator_(adverb),64,,4,0,svg/0526-indicator-adverb.svg,3d/0526-indicator-adverb.glb,136,0.562,0.312,0.125,True
+0527,indicator_(conditional),indicator_(conditional),indicator_(conditional),16,,3,1,svg/0527-indicator-conditional.svg,3d/0527-indicator-conditional.glb,168,0.187,0.343,0.125,True
+0528,indicator_(definite_form),indicator_(definite_form),indicator_(definite_form),32,,1,0,svg/0528-indicator-definite-form.svg,3d/0528-indicator-definite-form.glb,36,0.312,0.312,0.125,True
+0529,indicator_(description),indicator_(description),indicator_(description),32,,2,423,svg/0529-indicator-description.svg,3d/0529-indicator-description.glb,68,0.311,0.312,0.125,True
+0530,indicator_(description_after_fact),indicator_(description_after_fact),indicator_(description_after_fact),48,,3,21,svg/0530-indicator-description-after-fact.svg,3d/0530-indicator-description-after-fact.glb,128,0.467,0.342,0.125,True
+0531,indicator_(description_before_fact),indicator_(description_before_fact),indicator_(description_before_fact),48,,3,14,svg/0531-indicator-description-before-fact.svg,3d/0531-indicator-description-before-fact.glb,128,0.466,0.342,0.125,True
+0532,indicator_(future_action),indicator_(future_action),indicator_(future_action),8,,1,0,svg/0532-indicator-future-action.svg,3d/0532-indicator-future-action.glb,80,0.124,0.312,0.125,True
+0533,indicator_(future_conditional),indicator_(future_conditional),indicator_(future_conditional),32,,4,0,svg/0533-indicator-future-conditional.svg,3d/0533-indicator-future-conditional.glb,252,0.312,0.344,0.125,True
+0534,indicator_(future_passive),indicator_(future_passive),indicator_(future_passive),48,,3,0,svg/0534-indicator-future-passive.svg,3d/0534-indicator-future-passive.glb,144,0.436,0.312,0.125,True
+0535,indicator_(future_passive_conditional),indicator_(future_passive_conditional),indicator_(future_passive_conditional),80,,6,0,svg/0535-indicator-future-passive-conditional.svg,3d/0535-indicator-future-passive-conditional.glb,308,0.686,0.344,0.125,True
+0536,indicator_(imperative_form),indicator_(imperative_form),indicator_(imperative_form),0,,2,0,svg/0536-indicator-imperative-form.svg,3d/0536-indicator-imperative-form.glb,96,0.125,0.344,0.125,True
+0537,indicator_(passive),indicator_(passive),indicator_(passive),32,,2,1,svg/0537-indicator-passive.svg,3d/0537-indicator-passive.glb,60,0.311,0.31,0.125,True
+0538,indicator_(past_action),indicator_(past_action),indicator_(past_action),8,,1,0,svg/0538-indicator-past-action.svg,3d/0538-indicator-past-action.glb,80,0.124,0.312,0.125,True
+0539,indicator_(past_conditional),indicator_(past_conditional),indicator_(past_conditional),40,,4,0,svg/0539-indicator-past-conditional.svg,3d/0539-indicator-past-conditional.glb,252,0.375,0.344,0.125,True
+0540,indicator_(past_participle_1),indicator_(past_participle_1),indicator_(past_participle_1),48,,3,0,svg/0540-indicator-past-participle-1.svg,3d/0540-indicator-past-participle-1.glb,152,0.436,0.312,0.125,True
+0541,indicator_(past_participle_2),indicator_(past_participle_2),indicator_(past_participle_2),16,,2,0,svg/0541-indicator-past-participle-2.svg,3d/0541-indicator-past-participle-2.glb,144,0.217,0.342,0.125,True
+0542,indicator_(past_passive),indicator_(past_passive),indicator_(past_passive),56,,3,0,svg/0542-indicator-past-passive.svg,3d/0542-indicator-past-passive.glb,144,0.498,0.312,0.125,True
+0543,indicator_(past_passive_conditional),indicator_(past_passive_conditional),indicator_(past_passive_conditional),88,,6,0,svg/0543-indicator-past-passive-conditional.svg,3d/0543-indicator-past-passive-conditional.glb,308,0.748,0.343,0.125,True
+0544,indicator_(plural),indicator_(plural),indicator_(plural),32,,2,38,svg/0544-indicator-plural.svg,3d/0544-indicator-plural.glb,92,0.312,0.312,0.125,True
+0545,indicator_(present_action),indicator_(present_action),indicator_(present_action),32,,2,0,svg/0545-indicator-present-action.svg,3d/0545-indicator-present-action.glb,168,0.312,0.312,0.125,True
+0546,indicator_(present_participle),indicator_(present_participle),indicator_(present_participle),80,,4,0,svg/0546-indicator-present-participle.svg,3d/0546-indicator-present-participle.glb,236,0.686,0.312,0.125,True
+0547,indicator_(present_passive_conditional),indicator_(present_passive_conditional),indicator_(present_passive_conditional),64,,5,0,svg/0547-indicator-present-passive-conditional.svg,3d/0547-indicator-present-passive-conditional.glb,228,0.561,0.343,0.125,True
+0548,indicator_(thing),indicator_(thing),indicator_(thing),32,,4,244,svg/0548-indicator-thing.svg,3d/0548-indicator-thing.glb,64,0.312,0.312,0.125,True
+0549,indicator_(things),indicator_(things),indicator_(things),80,,6,0,svg/0549-indicator-things.svg,3d/0549-indicator-things.glb,156,0.687,0.312,0.125,True
+0550,indoor_(character),indoor_(character),indoor_(character),128,192,6,2,svg/0550-indoor-character.svg,3d/0550-indoor-character.glb,124,1.06,1.062,0.125,True
+0551,information,information,information,128,192,4,21,svg/0551-information.svg,3d/0551-information.glb,244,1.062,1.062,0.125,True
+0552,injection,injection | inoculation | shot,"injection,inoculation,shot",256,160,7,1,svg/0552-injection.svg,3d/0552-injection.glb,160,2.062,0.562,0.125,True
+0553,inlet,inlet,inlet,384,80,4,0,svg/0553-inlet.svg,3d/0553-inlet.glb,176,3.062,0.312,0.125,True
+0554,insect,insect | bug,"insect,bug",192,128,6,11,svg/0554-insect.svg,3d/0554-insect.glb,144,1.559,0.561,0.125,True
+0555,insight,insight,insight,128,192,4,1,svg/0555-insight.svg,3d/0555-insight.glb,388,1.062,1.062,0.125,True
+0556,insurance,insurance,insurance,128,192,6,1,svg/0556-insurance.svg,3d/0556-insurance.glb,388,1.062,1.062,0.125,True
+0557,intensity,intensity,intensity,0,160,2,312,svg/0557-intensity.svg,3d/0557-intensity.glb,96,0.123,0.593,0.125,True
+0558,interest,interest,interest,128,192,3,6,svg/0558-interest.svg,3d/0558-interest.glb,260,1.062,0.843,0.125,True
+0559,into,into,into,192,192,7,20,svg/0559-into.svg,3d/0559-into.glb,176,1.562,1.06,0.125,True
+0560,into_(backward),into_(backward),into_(backward),192,192,7,0,svg/0560-into-backward.svg,3d/0560-into-backward.glb,168,1.562,1.062,0.125,True
+0561,into_(downward),into_(downward),into_(downward),128,256,7,0,svg/0561-into-downward.svg,3d/0561-into-downward.glb,172,1.062,1.562,0.125,True
+0562,into_(upward),into_(upward),into_(upward),128,192,7,0,svg/0562-into-upward.svg,3d/0562-into-upward.glb,176,1.058,1.562,0.125,True
+0563,iron,iron | smoothing_iron,"iron,smoothing_iron",128,160,5,2,svg/0563-iron.svg,3d/0563-iron.glb,216,1.06,0.812,0.125,True
+0564,island,island,island,384,80,5,1,svg/0564-island.svg,3d/0564-island.glb,308,3.062,0.312,0.125,True
+0565,it,it | itself,"it,itself",0,128,1,3,svg/0565-it.svg,3d/0565-it.glb,36,0.062,0.562,0.125,True
+0566,j_(lowercase),j_(lowercase),j_(lowercase),24,128,1,0,svg/0566-j-lowercase.svg,3d/0566-j-lowercase.glb,56,0.123,0.639,0.125,True
+0567,J_(uppercase),J_(uppercase),J_(uppercase),32,128,1,0,svg/0567-j-uppercase.svg,3d/0567-j-uppercase.glb,88,0.282,0.479,0.125,True
+0568,jellyfish,jellyfish,jellyfish,128,128,6,0,svg/0568-jellyfish.svg,3d/0568-jellyfish.glb,364,1.062,0.812,0.125,True
+0569,joint,joint,joint,176,192,7,1,svg/0569-joint.svg,3d/0569-joint.glb,312,1.468,1.344,0.125,True
+0570,judgement,judgement | law_(in_combinations),"judgement,law_(in_combinations)",128,192,5,52,svg/0570-judgement.svg,3d/0570-judgement.glb,268,1.062,1.062,0.125,True
+0571,jump,jump,jump,160,128,3,22,svg/0571-jump.svg,3d/0571-jump.glb,204,1.312,0.561,0.125,True
+0572,jump_(backward),jump_(backward),jump_(backward),160,128,3,1,svg/0572-jump-backward.svg,3d/0572-jump-backward.glb,212,1.312,0.562,0.125,True
+0573,k_(lowercase),k_(lowercase),k_(lowercase),32,128,1,0,svg/0573-k-lowercase.svg,3d/0573-k-lowercase.glb,44,0.298,0.498,0.125,True
+0574,K_(uppercase),K_(uppercase),K_(uppercase),40,128,1,0,svg/0574-k-uppercase.svg,3d/0574-k-uppercase.glb,44,0.394,0.473,0.125,True
+0575,keel,keel,keel,128,192,5,0,svg/0575-keel.svg,3d/0575-keel.glb,240,1.061,1.438,0.125,True
+0576,key,key,key,128,128,3,2,svg/0576-key.svg,3d/0576-key.glb,172,1.062,0.562,0.125,True
+0577,keyboard,keyboard,keyboard,128,160,7,6,svg/0577-keyboard.svg,3d/0577-keyboard.glb,112,1.062,0.562,0.125,True
+0578,kidney,kidney,kidney,96,192,3,2,svg/0578-kidney.svg,3d/0578-kidney.glb,400,0.812,1.062,0.125,True
+0579,kiss,kiss,kiss,128,160,2,1,svg/0579-kiss.svg,3d/0579-kiss.glb,484,1.062,0.562,0.125,True
+0580,kitchen_tool,kitchen_tool | utensil,"kitchen_tool,utensil",96,192,3,5,svg/0580-kitchen-tool.svg,3d/0580-kitchen-tool.glb,336,0.812,1.061,0.125,True
+0581,kite,kite,kite,128,256,5,2,svg/0581-kite.svg,3d/0581-kite.glb,144,1.061,1.562,0.125,True
+0582,knee,knee,knee,112,192,5,1,svg/0582-knee.svg,3d/0582-knee.glb,124,0.938,1.312,0.125,True
+0583,kneeling_(kneeling_person),kneeling_(kneeling_person),kneeling_(kneeling_person),64,192,3,2,svg/0583-kneeling-kneeling-person.svg,3d/0583-kneeling-kneeling-person.glb,72,0.562,1.062,0.125,True
+0584,knife,knife | sword,"knife,sword",128,192,2,44,svg/0584-knife.svg,3d/0584-knife.glb,92,1.062,1.062,0.125,True
+0585,knowledge,knowledge | class_(in_combinations),"knowledge,class_(in_combinations)",128,192,4,88,svg/0585-knowledge.svg,3d/0585-knowledge.glb,216,1.062,1.062,0.125,True
+0586,l_(lowercase),l_(lowercase),l_(lowercase),24,128,1,0,svg/0586-l-lowercase.svg,3d/0586-l-lowercase.glb,12,0.06,0.498,0.125,True
+0587,L_(uppercase),L_(uppercase),L_(uppercase),32,128,1,4,svg/0587-l-uppercase.svg,3d/0587-l-uppercase.glb,20,0.303,0.473,0.125,True
+0588,ladder,ladder,ladder,64,192,4,1,svg/0588-ladder.svg,3d/0588-ladder.glb,128,0.562,1.062,0.125,True
+0589,language,language,language,96,192,3,59,svg/0589-language.svg,3d/0589-language.glb,432,0.812,1.062,0.125,True
+0590,lawn,lawn | meadow,"lawn,meadow",128,128,2,6,svg/0590-lawn.svg,3d/0590-lawn.glb,136,1.062,0.562,0.125,True
+0591,layer,layer | level,"layer,level",64,160,3,2,svg/0591-layer.svg,3d/0591-layer.glb,108,0.562,0.562,0.125,True
+0592,leader,leader | director | guide_(1),"leader,director,guide_(1)",192,192,6,16,svg/0592-leader.svg,3d/0592-leader.glb,276,1.562,1.062,0.125,True
+0593,leadership,leadership | guidance,"leadership,guidance",192,192,4,40,svg/0593-leadership.svg,3d/0593-leadership.glb,224,1.562,0.812,0.125,True
+0594,leaf,leaf,leaf,64,192,3,12,svg/0594-leaf.svg,3d/0594-leaf.glb,224,0.562,1.062,0.125,True
+0595,left_turn,left_turn | left_(position_or_direction),"left_turn,left_(position_or_direction)",64,192,2,3,svg/0595-left-turn.svg,3d/0595-left-turn.glb,52,0.562,1.062,0.125,True
+0596,leg,leg,leg,192,192,6,5,svg/0596-leg.svg,3d/0596-leg.glb,160,1.562,1.062,0.125,True
+0597,leg_and_foot,leg_and_foot,leg_and_foot,224,192,8,6,svg/0597-leg-and-foot.svg,3d/0597-leg-and-foot.glb,220,1.812,1.062,0.125,True
+0598,legs_and_feet,legs_and_feet,legs_and_feet,192,192,4,39,svg/0598-legs-and-feet.svg,3d/0598-legs-and-feet.glb,104,1.562,1.062,0.125,True
+0599,lemon,lemon,lemon,96,256,3,1,svg/0599-lemon.svg,3d/0599-lemon.glb,320,0.812,1.561,0.125,True
+0600,length,length | longness,"length,longness",128,160,3,18,svg/0600-length.svg,3d/0600-length.glb,100,1.062,0.562,0.125,True
+0601,less_than_(relation),less_than_(relation),less_than_(relation),64,192,2,0,svg/0601-less-than-relation.svg,3d/0601-less-than-relation.glb,56,0.562,1.062,0.125,True
+0602,letter,letter | mail | post,"letter,mail,post",128,192,6,7,svg/0602-letter.svg,3d/0602-letter.glb,92,1.062,1.062,0.125,True
+0603,lettuce,lettuce | leafy_vegetable,"lettuce,leafy_vegetable",128,128,3,0,svg/0603-lettuce.svg,3d/0603-lettuce.glb,212,1.062,0.562,0.125,True
+0604,lid,lid,lid,128,192,2,1,svg/0604-lid.svg,3d/0604-lid.glb,164,1.062,0.312,0.125,False
+0605,life,life,life,128,192,2,42,svg/0605-life.svg,3d/0605-life.glb,268,1.062,1.062,0.125,True
+0606,light,light,light,128,192,3,27,svg/0606-light.svg,3d/0606-light.glb,572,1.062,1.062,0.125,True
+0607,lightning,lightning,lightning,128,192,4,4,svg/0607-lightning.svg,3d/0607-lightning.glb,120,1.062,1.062,0.125,True
+0608,limit(s),limit(s) | limitation | restriction,"limit(s),limitation,restriction",128,192,5,38,svg/0608-limit-s.svg,3d/0608-limit-s.glb,252,1.062,1.094,0.125,True
+0609,limit(s),limit(s) | limitation_(OLD),"limit(s),limitation_(OLD)",128,192,2,21,svg/0609-limit-s.svg,3d/0609-limit-s.glb,72,1.062,1.062,0.125,True
+0610,limited_time,limited_time | interval | period | awhile | for_a_while,"limited_time,interval,period,awhile,for_a_while",128,192,5,42,svg/0610-limited-time.svg,3d/0610-limited-time.glb,344,1.06,1.062,0.125,True
+0611,line,line | stripe,"line,stripe",0,192,1,100,svg/0611-line.svg,3d/0611-line.glb,36,0.062,1.062,0.125,True
+0612,lip(s),lip(s),lip(s),64,208,5,1,svg/0612-lip-s.svg,3d/0612-lip-s.glb,364,0.562,1.312,0.125,True
+0613,littleness,littleness | smallness,"littleness,smallness",64,128,3,76,svg/0613-littleness.svg,3d/0613-littleness.glb,104,0.562,0.562,0.125,True
+0614,lollipop,lollipop | sucker,"lollipop,sucker",64,192,5,0,svg/0614-lollipop.svg,3d/0614-lollipop.glb,96,0.561,1.062,0.125,True
+0615,love,love | affection,"love,affection",256,192,8,16,svg/0615-love.svg,3d/0615-love.glb,524,2.062,1.062,0.125,True
+0616,lowness,lowness | shortness_(height),"lowness,shortness_(height)",64,128,2,9,svg/0616-lowness.svg,3d/0616-lowness.glb,72,0.562,0.562,0.125,True
+0617,lump(s),lump(s),lump(s),64,160,4,7,svg/0617-lump-s.svg,3d/0617-lump-s.glb,240,0.625,0.625,0.125,True
+0618,m_(lowercase),m_(lowercase),m_(lowercase),48,128,1,0,svg/0618-m-lowercase.svg,3d/0618-m-lowercase.glb,168,0.482,0.37,0.125,True
+0619,M_(uppercase),M_(uppercase),M_(uppercase),40,128,1,1,svg/0619-m-uppercase.svg,3d/0619-m-uppercase.glb,64,0.46,0.473,0.125,True
+0620,machine,machine | appliance | engine | motor,"machine,appliance,engine,motor",128,192,4,55,svg/0620-machine.svg,3d/0620-machine.glb,472,1.062,1.062,0.125,True
+0621,magnetic_field,magnetic_field,magnetic_field,224,208,13,0,svg/0621-magnetic-field.svg,3d/0621-magnetic-field.glb,544,1.812,1.309,0.125,True
+0622,magnetism,magnetism,magnetism,128,208,9,3,svg/0622-magnetism.svg,3d/0622-magnetism.glb,432,1.062,1.309,0.125,True
+0623,make-believe_man,make-believe_man,make-believe_man,128,256,5,6,svg/0623-make-believe-man.svg,3d/0623-make-believe-man.glb,348,1.062,1.561,0.125,True
+0624,make-believe_person,make-believe_person | imaginary_person,"make-believe_person,imaginary_person",128,256,4,36,svg/0624-make-believe-person.svg,3d/0624-make-believe-person.glb,340,1.062,1.562,0.125,True
+0625,make-believe_woman,make-believe_woman,make-believe_woman,128,256,6,5,svg/0625-make-believe-woman.svg,3d/0625-make-believe-woman.glb,340,1.062,1.562,0.125,True
+0626,making,making | production | fashioning,"making,production,fashioning",128,128,3,61,svg/0626-making.svg,3d/0626-making.glb,56,1.062,0.562,0.125,True
+0627,male_genitals_(man_with_penis),male_genitals_(man_with_penis),male_genitals_(man_with_penis),64,192,3,3,svg/0627-male-genitals-man-with-penis.svg,3d/0627-male-genitals-man-with-penis.glb,84,0.562,1.062,0.125,True
+0628,man,man | male,"man,male",64,192,3,45,svg/0628-man.svg,3d/0628-man.glb,76,0.561,1.061,0.125,True
+0629,mane_(lion_etc),mane_(lion_etc),mane_(lion_etc),192,256,9,3,svg/0629-mane-lion-etc.svg,3d/0629-mane-lion-etc.glb,504,1.562,1.562,0.125,True
+0630,mango,mango,mango,80,256,6,0,svg/0630-mango.svg,3d/0630-mango.glb,496,0.687,1.561,0.125,True
+0631,maple-leaf,maple-leaf,maple-leaf,128,192,10,3,svg/0631-maple-leaf.svg,3d/0631-maple-leaf.glb,192,1.062,1.062,0.125,True
+0632,marriage,marriage,marriage,128,192,4,12,svg/0632-marriage.svg,3d/0632-marriage.glb,508,1.062,1.062,0.125,True
+0633,mash,mash | mush | pulp_(food),"mash,mush,pulp_(food)",320,160,8,1,svg/0633-mash.svg,3d/0633-mash.glb,448,2.562,0.812,0.125,True
+0634,mask_(disguise),mask_(disguise),mask_(disguise),128,192,7,1,svg/0634-mask-disguise.svg,3d/0634-mask-disguise.glb,636,1.062,1.062,0.125,True
+0635,mast,mast,mast,112,192,5,1,svg/0635-mast.svg,3d/0635-mast.glb,132,0.938,1.062,0.125,True
+0636,material,material | raw_material | stuff,"material,raw_material,stuff",64,160,5,20,svg/0636-material.svg,3d/0636-material.glb,104,0.562,0.812,0.125,True
+0637,mathematics,mathematics | arithmetic | math_(2),"mathematics,arithmetic,math_(2)",128,192,6,1,svg/0637-mathematics.svg,3d/0637-mathematics.glb,412,1.062,1.062,0.125,True
+0638,meaning,meaning | sense | significance,"meaning,sense,significance",128,192,3,9,svg/0638-meaning.svg,3d/0638-meaning.glb,520,1.062,1.062,0.125,True
+0639,measurement,measurement | measure,"measurement,measure",128,160,4,20,svg/0639-measurement.svg,3d/0639-measurement.glb,156,1.062,0.562,0.125,True
+0640,medicine,medicine | medical_practice,"medicine,medical_practice",32,192,3,58,svg/0640-medicine.svg,3d/0640-medicine.glb,180,0.312,1.062,0.125,True
+0641,meeting,meeting | encounter,"meeting,encounter",288,160,6,10,svg/0641-meeting.svg,3d/0641-meeting.glb,172,2.312,0.562,0.125,True
+0642,meeting_and_parting,meeting_and_parting,meeting_and_parting,288,192,12,1,svg/0642-meeting-and-parting.svg,3d/0642-meeting-and-parting.glb,352,2.312,1.062,0.125,True
+0643,Megillah_(Book_of_Esther),Megillah_(Book_of_Esther),Megillah_(Book_of_Esther),64,224,6,2,svg/0643-megillah-book-of-esther.svg,3d/0643-megillah-book-of-esther.glb,120,0.562,1.562,0.125,True
+0644,melon,melon,melon,128,256,3,0,svg/0644-melon.svg,3d/0644-melon.glb,596,1.062,1.562,0.125,True
+0645,membrane,membrane | drumhead | drum_skin,"membrane,drumhead,drum_skin",128,192,6,1,svg/0645-membrane.svg,3d/0645-membrane.glb,256,1.062,0.938,0.125,True
+0646,memory,memory,memory,128,192,5,5,svg/0646-memory.svg,3d/0646-memory.glb,276,1.062,1.062,0.125,True
+0647,menorah,menorah,menorah,256,224,11,0,svg/0647-menorah.svg,3d/0647-menorah.glb,344,2.062,1.312,0.125,True
+0648,mental_illness,mental_illness,mental_illness,128,192,4,1,svg/0648-mental-illness.svg,3d/0648-mental-illness.glb,260,1.062,1.062,0.125,True
+0649,metal_bar,metal_bar,metal_bar,128,160,5,27,svg/0649-metal-bar.svg,3d/0649-metal-bar.glb,80,1.062,0.562,0.125,True
+0650,metaphor,metaphor,metaphor,64,256,3,1,svg/0650-metaphor.svg,3d/0650-metaphor.glb,312,0.562,1.562,0.125,True
+0651,metaphor_(winged),metaphor_(winged),metaphor_(winged),128,256,5,4,svg/0651-metaphor-winged.svg,3d/0651-metaphor-winged.glb,480,1.06,1.562,0.125,True
+0652,microwave_oven,microwave_oven,microwave_oven,256,192,7,1,svg/0652-microwave-oven.svg,3d/0652-microwave-oven.glb,200,2.062,1.062,0.125,True
+0653,middle,middle | centre,"middle,centre",128,192,6,6,svg/0653-middle.svg,3d/0653-middle.glb,120,1.062,1.062,0.125,True
+0654,mind,mind | intellect | reason,"mind,intellect,reason",128,192,1,44,svg/0654-mind.svg,3d/0654-mind.glb,164,1.062,0.562,0.125,True
+0655,mine,mine,mine,128,192,4,0,svg/0655-mine.svg,3d/0655-mine.glb,120,1.062,1.062,0.125,True
+0656,minus,minus | no | without,"minus,no,without",64,128,1,175,svg/0656-minus.svg,3d/0656-minus.glb,36,0.562,0.062,0.125,True
+0657,miscarriage,miscarriage | abortion_(general),"miscarriage,abortion_(general)",224,192,6,2,svg/0657-miscarriage.svg,3d/0657-miscarriage.glb,616,1.811,1.062,0.125,True
+0658,mixture,mixture,mixture,192,192,6,21,svg/0658-mixture.svg,3d/0658-mixture.glb,404,1.562,1.06,0.125,True
+0659,money,money | cash,"money,cash",64,192,3,68,svg/0659-money.svg,3d/0659-money.glb,476,0.562,1.062,0.125,True
+0660,month,month,month,64,192,2,33,svg/0660-month.svg,3d/0660-month.glb,164,0.561,1.061,0.125,True
+0661,moon,moon,moon,64,192,2,13,svg/0661-moon.svg,3d/0661-moon.glb,260,0.562,1.062,0.125,True
+0662,morning_(early),morning_(early),morning_(early),128,128,2,5,svg/0662-morning-early.svg,3d/0662-morning-early.glb,156,1.062,0.562,0.125,True
+0663,mother,mother | mom | mommy | mum,"mother,mom,mommy,mum",128,192,6,7,svg/0663-mother.svg,3d/0663-mother.glb,120,1.061,1.062,0.125,True
+0664,mountain,mountain,mountain,128,192,3,20,svg/0664-mountain.svg,3d/0664-mountain.glb,60,1.062,1.062,0.125,True
+0665,mountains_with_valley,mountains_with_valley,mountains_with_valley,384,192,5,0,svg/0665-mountains-with-valley.svg,3d/0665-mountains-with-valley.glb,96,3.062,1.062,0.125,True
+0666,mouth,mouth,mouth,64,160,1,201,svg/0666-mouth.svg,3d/0666-mouth.glb,256,0.562,0.562,0.125,True
+0667,move,move | movement,"move,movement",64,128,4,7,svg/0667-move.svg,3d/0667-move.glb,296,0.562,0.562,0.125,True
+0668,mud,mud | clay,"mud,clay",192,80,3,1,svg/0668-mud.svg,3d/0668-mud.glb,180,1.562,0.311,0.125,True
+0669,mug,mug | cup,"mug,cup",96,192,4,4,svg/0669-mug.svg,3d/0669-mug.glb,200,0.809,1.062,0.125,True
+0670,multiplication,multiplication,multiplication,128,192,2,6,svg/0670-multiplication.svg,3d/0670-multiplication.glb,92,1.062,1.062,0.125,True
+0671,muscle,muscle,muscle,64,192,3,19,svg/0671-muscle.svg,3d/0671-muscle.glb,160,0.562,0.562,0.125,True
+0672,muscle_(OLD),muscle_(OLD),muscle_(OLD),112,192,5,0,svg/0672-muscle-old.svg,3d/0672-muscle-old.glb,216,0.937,0.812,0.125,True
+0673,mushroom,mushroom,mushroom,64,160,3,0,svg/0673-mushroom.svg,3d/0673-mushroom.glb,192,0.561,0.812,0.125,True
+0674,musical_instrument_(in_combinations),musical_instrument_(in_combinations),musical_instrument_(in_combinations),96,192,6,61,svg/0674-musical-instrument-in-combinations.svg,3d/0674-musical-instrument-in-combinations.glb,348,0.812,1.062,0.125,False
+0675,musical_note,musical_note | music_(in_combinations),"musical_note,music_(in_combinations)",64,192,2,53,svg/0675-musical-note.svg,3d/0675-musical-note.glb,268,0.562,1.062,0.125,True
+0676,must_(a),must_(a),must_(a),128,192,4,13,svg/0676-must-a.svg,3d/0676-must-a.glb,216,1.062,1.062,0.125,True
+0677,muzzle,muzzle,muzzle,272,192,9,1,svg/0677-muzzle.svg,3d/0677-muzzle.glb,224,2.188,1.061,0.125,True
+0678,mystery,mystery | unknown,"mystery,unknown",128,192,7,5,svg/0678-mystery.svg,3d/0678-mystery.glb,424,1.062,1.062,0.125,True
+0679,n_(lowercase),n_(lowercase),n_(lowercase),32,128,1,0,svg/0679-n-lowercase.svg,3d/0679-n-lowercase.glb,92,0.292,0.369,0.125,True
+0680,N_(uppercase),N_(uppercase),N_(uppercase),40,128,1,0,svg/0680-n-uppercase.svg,3d/0680-n-uppercase.glb,36,0.384,0.473,0.125,True
+0681,nail,nail,nail,64,192,2,3,svg/0681-nail.svg,3d/0681-nail.glb,68,0.561,1.062,0.125,True
+0682,name,name | label | term | title,"name,label,term,title",128,192,2,11,svg/0682-name.svg,3d/0682-name.glb,300,1.062,1.062,0.125,True
+0683,navel,navel,navel,192,192,7,0,svg/0683-navel.svg,3d/0683-navel.glb,392,1.562,1.062,0.125,True
+0684,nearness,nearness | closeness | proximity,"nearness,closeness,proximity",64,160,2,20,svg/0684-nearness.svg,3d/0684-nearness.glb,72,0.562,0.562,0.125,True
+0685,neck_(body),neck_(body),neck_(body),192,240,6,2,svg/0685-neck-body.svg,3d/0685-neck-body.glb,324,1.562,1.438,0.125,True
+0686,neck_(head),neck_(head),neck_(head),128,192,7,5,svg/0686-neck-head.svg,3d/0686-neck-head.glb,452,1.062,1.562,0.125,True
+0687,need_(needy_person),need_(needy_person),need_(needy_person),96,192,2,19,svg/0687-need-needy-person.svg,3d/0687-need-needy-person.glb,76,0.811,1.061,0.125,True
+0688,needle,needle,needle,32,192,2,4,svg/0688-needle.svg,3d/0688-needle.glb,152,0.312,1.062,0.125,True
+0689,newness,newness | novelty,"newness,novelty",192,192,5,8,svg/0689-newness.svg,3d/0689-newness.glb,356,1.562,1.062,0.125,True
+0690,news,news,news,96,192,4,4,svg/0690-news.svg,3d/0690-news.glb,496,0.81,1.062,0.125,True
+0691,night,night,night,128,192,3,16,svg/0691-night.svg,3d/0691-night.glb,296,1.061,1.062,0.125,True
+0692,nine_(digit),nine_(digit) | 9,"nine_(digit),9",32,128,3,1,svg/0692-nine-digit.svg,3d/0692-nine-digit.glb,228,0.312,0.562,0.125,True
+0693,nine_(index_number),nine_(index_number),nine_(index_number),16,96,3,0,svg/0693-nine-index-number.svg,3d/0693-nine-index-number.glb,176,0.186,0.312,0.125,True
+0694,no_speech,no_speech | anarthria,"no_speech,anarthria",128,192,2,1,svg/0694-no-speech.svg,3d/0694-no-speech.glb,300,1.062,1.062,0.125,True
+0695,nonsense,nonsense,nonsense,128,192,4,1,svg/0695-nonsense.svg,3d/0695-nonsense.glb,576,1.062,1.062,0.125,True
+0696,north,north,north,128,192,3,33,svg/0696-north.svg,3d/0696-north.glb,308,1.062,1.062,0.125,True
+0697,northeast,northeast,northeast,128,192,3,0,svg/0697-northeast.svg,3d/0697-northeast.glb,308,1.062,1.062,0.125,True
+0698,northwest,northwest,northwest,128,192,3,0,svg/0698-northwest.svg,3d/0698-northwest.glb,312,1.062,1.062,0.125,True
+0699,North_Pole,North_Pole,North_Pole,176,224,4,0,svg/0699-north-pole.svg,3d/0699-north-pole.glb,368,1.438,1.312,0.125,True
+0700,nose,nose,nose,64,192,2,27,svg/0700-nose.svg,3d/0700-nose.glb,64,0.56,1.061,0.125,True
+0701,now,now,now,64,128,2,7,svg/0701-now.svg,3d/0701-now.glb,200,0.562,0.562,0.125,True
+0702,nowhere,nowhere | no_place,"nowhere,no_place",128,128,2,0,svg/0702-nowhere.svg,3d/0702-nowhere.glb,72,1.062,0.562,0.125,True
+0703,nuclear_radiation,nuclear_radiation | radioactivity,"nuclear_radiation,radioactivity",224,192,10,0,svg/0703-nuclear-radiation.svg,3d/0703-nuclear-radiation.glb,604,1.812,1.312,0.125,True
+0704,nucleus_(atom),nucleus_(atom),nucleus_(atom),128,192,6,3,svg/0704-nucleus-atom.svg,3d/0704-nucleus-atom.glb,484,1.062,1.312,0.125,True
+0705,number,number,number,160,192,4,19,svg/0705-number.svg,3d/0705-number.glb,252,1.31,1.062,0.125,False
+0706,o_(lowercase),o_(lowercase),o_(lowercase),32,128,1,0,svg/0706-o-lowercase.svg,3d/0706-o-lowercase.glb,172,0.324,0.376,0.125,True
+0707,O_(uppercase),O_(uppercase),O_(uppercase),40,128,1,3,svg/0707-o-uppercase.svg,3d/0707-o-uppercase.glb,232,0.467,0.486,0.125,True
+0708,observation,observation,observation,128,192,3,13,svg/0708-observation.svg,3d/0708-observation.glb,480,1.062,0.812,0.125,True
+0709,offspring,offspring | child,"offspring,child",128,192,7,10,svg/0709-offspring.svg,3d/0709-offspring.glb,164,1.062,1.062,0.125,True
+0710,oil,oil | lubricant,"oil,lubricant",128,144,4,16,svg/0710-oil.svg,3d/0710-oil.glb,320,1.062,0.811,0.125,True
+0711,olive,olive,olive,80,192,3,0,svg/0711-olive.svg,3d/0711-olive.glb,236,0.687,1.062,0.125,True
+0712,on,on,on,64,96,3,1,svg/0712-on.svg,3d/0712-on.glb,100,0.561,0.312,0.125,True
+0713,one_(digit),one_(digit) | 1,"one_(digit),1",32,128,3,81,svg/0713-one-digit.svg,3d/0713-one-digit.glb,92,0.31,0.562,0.125,True
+0714,one_(index_number),one_(index_number),one_(index_number),16,96,3,3,svg/0714-one-index-number.svg,3d/0714-one-index-number.glb,84,0.185,0.311,0.125,True
+0715,one_third,one_third,one_third,128,192,6,0,svg/0715-one-third.svg,3d/0715-one-third.glb,376,1.062,1.061,0.125,True
+0716,onion,onion | vegetable_(bulb),"onion,vegetable_(bulb)",128,128,5,4,svg/0716-onion.svg,3d/0716-onion.glb,484,1.062,1.062,0.125,True
+0717,opening,opening,opening,128,192,3,25,svg/0717-opening.svg,3d/0717-opening.glb,76,1.062,1.062,0.125,True
+0718,opinion,opinion,opinion,128,192,2,9,svg/0718-opinion.svg,3d/0718-opinion.glb,420,1.062,0.812,0.125,True
+0719,opposing_forces,opposing_forces | counter-forces,"opposing_forces,counter-forces",128,224,6,8,svg/0719-opposing-forces.svg,3d/0719-opposing-forces.glb,168,1.062,1.56,0.125,True
+0720,opposite_meaning,opposite_meaning | opposite_of | opposite,"opposite_meaning,opposite_of,opposite",64,192,3,42,svg/0720-opposite-meaning.svg,3d/0720-opposite-meaning.glb,88,0.562,1.062,0.125,True
+0721,opposition,opposition | counter_purpose,"opposition,counter_purpose",128,192,4,11,svg/0721-opposition.svg,3d/0721-opposition.glb,112,1.062,1.062,0.125,True
+0722,oppression,oppression | captivity | slavery,"oppression,captivity,slavery",128,192,8,3,svg/0722-oppression.svg,3d/0722-oppression.glb,368,1.062,1.062,0.125,False
+0723,or,or,or,32,160,3,2,svg/0723-or.svg,3d/0723-or.glb,116,0.344,0.562,0.125,True
+0724,orange,orange | citrus_fruit,"orange,citrus_fruit",96,192,4,3,svg/0724-orange.svg,3d/0724-orange.glb,452,0.812,1.062,0.125,True
+0725,organ,organ | inner_organ | inner_body_part,"organ,inner_organ,inner_body_part",128,192,5,24,svg/0725-organ.svg,3d/0725-organ.glb,276,1.061,1.062,0.125,True
+0726,out,out | exterior | external | outside,"out,exterior,external,outside",160,192,5,6,svg/0726-out.svg,3d/0726-out.glb,124,1.343,1.062,0.125,True
+0727,out_of,out_of | exit_(downward),"out_of,exit_(downward)",128,192,7,1,svg/0727-out-of.svg,3d/0727-out-of.glb,168,1.058,1.562,0.125,True
+0728,out_of,out_of | exit_(forward),"out_of,exit_(forward)",192,192,7,16,svg/0728-out-of.svg,3d/0728-out-of.glb,168,1.562,1.062,0.125,True
+0729,out_of_(backward),out_of_(backward),out_of_(backward),192,192,7,0,svg/0729-out-of-backward.svg,3d/0729-out-of-backward.glb,168,1.562,1.06,0.125,True
+0730,out_of_(upward),out_of_(upward),out_of_(upward),128,256,7,0,svg/0730-out-of-upward.svg,3d/0730-out-of-upward.glb,168,1.06,1.562,0.125,True
+0731,out_of_body_(upward),out_of_body_(upward),out_of_body_(upward),192,256,7,2,svg/0731-out-of-body-upward.svg,3d/0731-out-of-body-upward.glb,324,1.562,1.561,0.125,True
+0732,out_of_body_(downward),out_of_body_(downward) | elimination | excretion,"out_of_body_(downward),elimination,excretion",192,192,7,0,svg/0732-out-of-body-downward.svg,3d/0732-out-of-body-downward.glb,332,1.561,1.562,0.125,True
+0733,oval,oval,oval,64,192,4,3,svg/0733-oval.svg,3d/0733-oval.glb,252,0.561,1.062,0.125,True
+0734,over,over | above | superior,"over,above,superior",128,160,2,13,svg/0734-over.svg,3d/0734-over.glb,96,1.062,0.343,0.125,True
+0735,ownership,ownership | possession,"ownership,possession",128,192,3,4,svg/0735-ownership.svg,3d/0735-ownership.glb,136,1.062,1.062,0.125,True
+0736,oyster,oyster | clam | mussel,"oyster,clam,mussel",128,128,5,1,svg/0736-oyster.svg,3d/0736-oyster.glb,376,1.062,0.937,0.125,True
+0737,p_(lowercase),p_(lowercase),p_(lowercase),32,128,1,0,svg/0737-p-lowercase.svg,3d/0737-p-lowercase.glb,164,0.309,0.512,0.125,True
+0738,P_(uppercase),P_(uppercase),P_(uppercase),40,128,1,0,svg/0738-p-uppercase.svg,3d/0738-p-uppercase.glb,112,0.365,0.473,0.125,True
+0739,paddle,paddle | oar,"paddle,oar",176,192,7,4,svg/0739-paddle.svg,3d/0739-paddle.glb,280,1.437,1.312,0.125,True
+0740,paddle_(two_blades),paddle_(two_blades),paddle_(two_blades),208,224,11,1,svg/0740-paddle-two-blades.svg,3d/0740-paddle-two-blades.glb,340,1.686,1.561,0.125,True
+0741,pail,pail | bucket,"pail,bucket",128,160,5,1,svg/0741-pail.svg,3d/0741-pail.glb,188,1.062,0.812,0.125,False
+0742,palm,palm,palm,128,192,3,2,svg/0742-palm.svg,3d/0742-palm.glb,276,1.062,1.062,0.125,True
+0743,pancake,pancake | crepe | tortilla,"pancake,crepe,tortilla",256,128,4,1,svg/0743-pancake.svg,3d/0743-pancake.glb,96,2.062,0.56,0.125,True
+0744,paper,paper | card | page,"paper,card,page",64,192,4,93,svg/0744-paper.svg,3d/0744-paper.glb,64,0.562,1.062,0.125,True
+0745,parachute,parachute,parachute,128,256,5,4,svg/0745-parachute.svg,3d/0745-parachute.glb,248,1.061,1.562,0.125,True
+0746,parallel,parallel,parallel,32,192,2,0,svg/0746-parallel.svg,3d/0746-parallel.glb,72,0.312,1.062,0.125,True
+0747,parcel,parcel | package,"parcel,package",192,192,8,0,svg/0747-parcel.svg,3d/0747-parcel.glb,132,1.562,1.062,0.125,True
+0748,parent,parent,parent,128,192,4,7,svg/0748-parent.svg,3d/0748-parent.glb,116,1.061,1.062,0.125,True
+0749,park,park,park,224,192,6,2,svg/0749-park.svg,3d/0749-park.glb,468,1.81,1.062,0.125,True
+0750,part,part | bit | piece | portion | part_of,"part,bit,piece,portion,part_of",64,160,3,51,svg/0750-part.svg,3d/0750-part.glb,156,0.562,0.624,0.125,True
+0751,past,past,past,32,192,1,29,svg/0751-past.svg,3d/0751-past.glb,168,0.312,1.061,0.125,True
+0752,pate,pate | crown_(body_part),"pate,crown_(body_part)",128,240,5,0,svg/0752-pate.svg,3d/0752-pate.glb,384,1.062,1.438,0.125,True
+0753,paw,paw,paw,176,128,7,0,svg/0753-paw.svg,3d/0753-paw.glb,192,1.438,0.812,0.125,True
+0754,peace,peace | peace_of_mind | serenity,"peace,peace_of_mind,serenity",128,192,6,6,svg/0754-peace.svg,3d/0754-peace.glb,428,1.062,1.062,0.125,False
+0755,peach,peach | nectarine,"peach,nectarine",128,192,7,2,svg/0755-peach.svg,3d/0755-peach.glb,564,1.062,1.061,0.125,True
+0756,pear,pear,pear,112,256,6,0,svg/0756-pear.svg,3d/0756-pear.glb,364,0.937,1.562,0.125,True
+0757,pea(s),pea(s),pea(s),96,192,4,0,svg/0757-pea-s.svg,3d/0757-pea-s.glb,560,0.811,1.062,0.125,True
+0758,pen,pen | pencil,"pen,pencil",128,192,1,24,svg/0758-pen.svg,3d/0758-pen.glb,36,1.062,1.062,0.125,True
+0759,penis,penis,penis,80,192,5,0,svg/0759-penis.svg,3d/0759-penis.glb,140,0.688,1.062,0.125,True
+0760,pepper_(vegetable),pepper_(vegetable),pepper_(vegetable),96,256,7,0,svg/0760-pepper-vegetable.svg,3d/0760-pepper-vegetable.glb,396,0.812,1.561,0.125,True
+0761,percent,percent | percentage | %,"percent,percentage,%",64,192,3,0,svg/0761-percent.svg,3d/0761-percent.glb,292,0.562,1.061,0.125,True
+0762,period,period | point | full_stop | decimal_point,"period,point,full_stop,decimal_point",0,64,1,14,svg/0762-period.svg,3d/0762-period.glb,60,0.125,0.125,0.125,True
+0763,permission,permission | allowance,"permission,allowance",128,192,5,10,svg/0763-permission.svg,3d/0763-permission.glb,248,1.062,1.062,0.125,True
+0764,permission,permission | allowance_(moral),"permission,allowance_(moral)",128,256,6,7,svg/0764-permission.svg,3d/0764-permission.glb,420,1.062,1.562,0.125,True
+0765,perpendicular,perpendicular,perpendicular,128,192,2,0,svg/0765-perpendicular.svg,3d/0765-perpendicular.glb,72,1.062,1.062,0.125,True
+0766,person,person | human_being | individual | human,"person,human_being,individual,human",64,192,2,351,svg/0766-person.svg,3d/0766-person.glb,64,0.562,1.062,0.125,True
+0767,personality,personality,personality,160,192,6,2,svg/0767-personality.svg,3d/0767-personality.glb,172,1.312,1.062,0.125,True
+0768,persuasion,persuasion,persuasion,192,192,7,2,svg/0768-persuasion.svg,3d/0768-persuasion.glb,316,1.562,1.312,0.125,True
+0769,pier_(OLD),pier_(OLD),pier_(OLD),288,192,9,0,svg/0769-pier-old.svg,3d/0769-pier-old.glb,408,2.312,1.186,0.125,True
+0770,pig,pig,pig,192,192,7,9,svg/0770-pig.svg,3d/0770-pig.glb,356,1.562,1.062,0.125,False
+0771,pillow,pillow | cushion,"pillow,cushion",160,240,6,1,svg/0771-pillow.svg,3d/0771-pillow.glb,168,1.312,1.437,0.125,True
+0772,pimple,pimple | blemish,"pimple,blemish",176,192,8,1,svg/0772-pimple.svg,3d/0772-pimple.glb,572,1.438,1.062,0.125,True
+0773,pin,pin,pin,64,128,2,2,svg/0773-pin.svg,3d/0773-pin.glb,80,0.562,0.562,0.125,True
+0774,pineapple,pineapple,pineapple,128,256,7,0,svg/0774-pineapple.svg,3d/0774-pineapple.glb,448,1.058,1.562,0.125,True
+0775,pipe,pipe | hose | tube_(1),"pipe,hose,tube_(1)",160,128,3,1,svg/0775-pipe.svg,3d/0775-pipe.glb,280,1.312,0.562,0.125,True
+0776,pipe,pipe | hose | tube_(2),"pipe,hose,tube_(2)",64,192,3,23,svg/0776-pipe.svg,3d/0776-pipe.glb,288,0.562,1.312,0.125,True
+0777,pipe,pipe | smoking_pipe,"pipe,smoking_pipe",240,192,8,0,svg/0777-pipe.svg,3d/0777-pipe.glb,536,1.938,1.062,0.125,True
+0778,pipe,pipe | tube_(closed),"pipe,tube_(closed)",64,192,4,0,svg/0778-pipe.svg,3d/0778-pipe.glb,276,0.562,1.312,0.125,True
+0779,pit,pit | stone,"pit,stone",16,128,2,1,svg/0779-pit.svg,3d/0779-pit.glb,108,0.185,0.312,0.125,True
+0780,pita,pita,pita,160,128,5,0,svg/0780-pita.svg,3d/0780-pita.glb,216,1.312,0.562,0.125,True
+0781,pitch_(sound),pitch_(sound),pitch_(sound),112,192,7,0,svg/0781-pitch-sound.svg,3d/0781-pitch-sound.glb,256,0.937,1.062,0.125,True
+0782,pitcher,pitcher | jug | kettle | pot,"pitcher,jug,kettle,pot",160,192,5,1,svg/0782-pitcher.svg,3d/0782-pitcher.glb,228,1.312,1.062,0.125,True
+0783,pizza_slice(s),pizza_slice(s) | sector(s) | circle_sector(s),"pizza_slice(s),sector(s),circle_sector(s)",128,192,4,1,svg/0783-pizza-slice-s.svg,3d/0783-pizza-slice-s.glb,324,1.062,1.062,0.125,True
+0784,place,place | area | location | space,"place,area,location,space",128,96,3,44,svg/0784-place.svg,3d/0784-place.glb,104,1.061,0.312,0.125,True
+0785,plan,plan | design | method | system,"plan,design,method,system",128,192,4,65,svg/0785-plan.svg,3d/0785-plan.glb,228,1.062,1.062,0.125,True
+0786,planet,planet,planet,192,192,2,16,svg/0786-planet.svg,3d/0786-planet.glb,316,1.562,1.062,0.125,False
+0787,plant,plant,plant,96,192,3,21,svg/0787-plant.svg,3d/0787-plant.glb,368,0.812,1.062,0.125,True
+0788,platform,platform | stage,"platform,stage",192,128,4,9,svg/0788-platform.svg,3d/0788-platform.glb,88,1.562,0.562,0.125,True
+0789,pliers,pliers | tongs | tweezer(s) | pincer(s)_(pair_of),"pliers,tongs,tweezer(s),pincer(s)_(pair_of)",128,192,4,3,svg/0789-pliers.svg,3d/0789-pliers.glb,332,1.062,1.062,0.125,True
+0790,plough,plough,plough,128,192,3,1,svg/0790-plough.svg,3d/0790-plough.glb,108,1.062,1.062,0.125,True
+0791,plum,plum | drupe,"plum,drupe",96,192,4,3,svg/0791-plum.svg,3d/0791-plum.glb,452,0.812,1.062,0.125,True
+0792,plus_minus,plus_minus,plus_minus,64,160,3,2,svg/0792-plus-minus.svg,3d/0792-plus-minus.glb,128,0.562,0.812,0.125,True
+0793,plus_sign_(low),plus_sign_(low),plus_sign_(low),64,128,2,2,svg/0793-plus-sign-low.svg,3d/0793-plus-sign-low.glb,92,0.562,0.562,0.125,True
+0794,pod,pod | seedcase | seedpod,"pod,seedcase,seedpod",96,192,2,4,svg/0794-pod.svg,3d/0794-pod.glb,304,0.812,1.062,0.125,True
+0795,point,point | tip | peak,"point,tip,peak",176,224,4,9,svg/0795-point.svg,3d/0795-point.glb,148,1.438,1.312,0.125,True
+0796,pointer_(hand),pointer_(hand),pointer_(hand),128,128,2,8,svg/0796-pointer-hand.svg,3d/0796-pointer-hand.glb,60,1.062,0.562,0.125,True
+0797,pointer,pointer | arrowhead,"pointer,arrowhead",62,160,2,0,svg/0797-pointer.svg,3d/0797-pointer.glb,52,0.562,0.312,0.125,True
+0798,pointer,pointer | arrowhead_(small),"pointer,arrowhead_(small)",32,144,2,0,svg/0798-pointer.svg,3d/0798-pointer.glb,52,0.312,0.187,0.125,True
+0799,politics,politics,politics,192,192,5,1,svg/0799-politics.svg,3d/0799-politics.glb,480,1.562,0.812,0.125,True
+0800,pool,pool,pool,128,144,5,3,svg/0800-pool.svg,3d/0800-pool.glb,188,1.062,0.687,0.125,True
+0801,portability,portability,portability,192,160,4,9,svg/0801-portability.svg,3d/0801-portability.glb,224,1.562,0.812,0.125,True
+0802,position,position,position,96,192,3,2,svg/0802-position.svg,3d/0802-position.glb,112,0.844,1.062,0.125,True
+0803,postcard,postcard,postcard,128,192,6,0,svg/0803-postcard.svg,3d/0803-postcard.glb,100,1.062,1.062,0.125,True
+0804,pot,pot | kettle | boiler,"pot,kettle,boiler",192,192,5,3,svg/0804-pot.svg,3d/0804-pot.glb,300,1.562,1.062,0.125,True
+0805,pot,pot | pan,"pot,pan",192,192,4,5,svg/0805-pot.svg,3d/0805-pot.glb,88,1.562,1.062,0.125,True
+0806,potty,potty | chamber_pot | bedpan,"potty,chamber_pot,bedpan",144,128,2,0,svg/0806-potty.svg,3d/0806-potty.glb,248,1.186,0.562,0.125,True
+0807,pound_sterling,pound_sterling,pound_sterling,80,176,5,0,svg/0807-pound-sterling.svg,3d/0807-pound-sterling.glb,252,0.685,0.874,0.125,True
+0808,powder,powder | dust,"powder,dust",64,128,3,44,svg/0808-powder.svg,3d/0808-powder.glb,180,0.625,0.624,0.125,True
+0809,power_(physics),power_(physics),power_(physics),256,192,5,0,svg/0809-power-physics.svg,3d/0809-power-physics.glb,176,2.061,1.06,0.125,True
+0810,present,present,present,96,192,2,0,svg/0810-present.svg,3d/0810-present.glb,304,0.812,1.062,0.125,True
+0811,pressure,pressure,pressure,128,192,10,5,svg/0811-pressure.svg,3d/0811-pressure.glb,188,1.062,1.062,0.125,True
+0812,projectile,projectile | rocket | spacecraft,"projectile,rocket,spacecraft",64,192,6,6,svg/0812-projectile.svg,3d/0812-projectile.glb,84,0.562,1.062,0.125,True
+0813,projector,projector,projector,192,192,10,5,svg/0813-projector.svg,3d/0813-projector.glb,680,1.562,1.062,0.125,False
+0814,prone_board,prone_board | scooter-board,"prone_board,scooter-board",160,160,10,0,svg/0814-prone-board.svg,3d/0814-prone-board.glb,632,1.31,0.812,0.125,False
+0815,propeller,propeller | rotor_(blades),"propeller,rotor_(blades)",128,192,3,2,svg/0815-propeller.svg,3d/0815-propeller.glb,136,1.062,0.562,0.125,True
+0816,protected_water,protected_water,protected_water,128,192,4,1,svg/0816-protected-water.svg,3d/0816-protected-water.glb,212,1.062,1.187,0.125,True
+0817,protection,protection | shelter,"protection,shelter",128,192,2,109,svg/0817-protection.svg,3d/0817-protection.glb,52,1.062,0.562,0.125,True
+0818,protection_with_pointer,protection_with_pointer,protection_with_pointer,176,192,4,2,svg/0818-protection-with-pointer.svg,3d/0818-protection-with-pointer.glb,108,1.438,0.812,0.125,True
+0819,pubic_hair,pubic_hair,pubic_hair,192,192,9,0,svg/0819-pubic-hair.svg,3d/0819-pubic-hair.glb,508,1.562,1.562,0.125,True
+0820,public_room,public_room,public_room,256,192,3,13,svg/0820-public-room.svg,3d/0820-public-room.glb,76,2.062,1.062,0.125,True
+0821,pudding,pudding | cream,"pudding,cream",256,128,4,4,svg/0821-pudding.svg,3d/0821-pudding.glb,212,2.062,0.562,0.125,True
+0822,puddle,puddle | pool | water_(ground_level),"puddle,pool,water_(ground_level)",128,80,2,29,svg/0822-puddle.svg,3d/0822-puddle.glb,160,1.062,0.311,0.125,True
+0823,pull,pull | pulling,"pull,pulling",128,160,7,2,svg/0823-pull.svg,3d/0823-pull.glb,140,1.062,0.562,0.125,True
+0824,purpose,purpose,purpose,128,192,4,24,svg/0824-purpose.svg,3d/0824-purpose.glb,104,1.062,1.062,0.125,True
+0825,push,push | pushing,"push,pushing",192,160,7,2,svg/0825-push.svg,3d/0825-push.glb,152,1.562,0.562,0.125,True
+0826,pyramid,pyramid,pyramid,192,192,5,1,svg/0826-pyramid.svg,3d/0826-pyramid.glb,76,1.56,1.061,0.125,True
+0827,q_(lowercase),q_(lowercase),q_(lowercase),32,128,1,0,svg/0827-q-lowercase.svg,3d/0827-q-lowercase.glb,164,0.309,0.513,0.125,True
+0828,Q_(uppercase),Q_(uppercase),Q_(uppercase),40,128,1,0,svg/0828-q-uppercase.svg,3d/0828-q-uppercase.glb,268,0.469,0.609,0.125,True
+0829,quarter,quarter | one_quarter,"quarter,one_quarter",128,192,7,0,svg/0829-quarter.svg,3d/0829-quarter.glb,228,1.062,1.062,0.125,True
+0830,question,question,question,128,192,6,14,svg/0830-question.svg,3d/0830-question.glb,288,1.062,1.062,0.125,True
+0831,question_mark,question_mark,question_mark,64,192,4,0,svg/0831-question-mark.svg,3d/0831-question-mark.glb,292,0.56,1.094,0.125,True
+0832,quill(s),quill(s) | spine(s),"quill(s),spine(s)",96,160,3,3,svg/0832-quill-s.svg,3d/0832-quill-s.glb,108,0.812,0.312,0.125,True
+0833,r_(lowercase),r_(lowercase),r_(lowercase),24,128,1,0,svg/0833-r-lowercase.svg,3d/0833-r-lowercase.glb,56,0.172,0.369,0.125,True
+0834,R_(uppercase),R_(uppercase),R_(uppercase),40,128,1,3,svg/0834-r-uppercase.svg,3d/0834-r-uppercase.glb,120,0.408,0.473,0.125,True
+0835,race,race | competition | contest,"race,competition,contest",192,160,6,16,svg/0835-race.svg,3d/0835-race.glb,168,1.562,1.062,0.125,True
+0836,racket,racket | racquet,"racket,racquet",128,192,4,8,svg/0836-racket.svg,3d/0836-racket.glb,288,1.062,1.062,0.125,True
+0837,rain,rain,rain,128,192,5,9,svg/0837-rain.svg,3d/0837-rain.glb,260,1.062,1.062,0.125,True
+0838,raised_wavy_line,raised_wavy_line,raised_wavy_line,32,256,2,0,svg/0838-raised-wavy-line.svg,3d/0838-raised-wavy-line.glb,160,0.311,1.062,0.125,True
+0839,ramp,ramp,ramp,192,128,2,0,svg/0839-ramp.svg,3d/0839-ramp.glb,48,1.561,0.562,0.125,True
+0840,raspberry,raspberry | blackberry | compound_berry,"raspberry,blackberry,compound_berry",128,160,4,2,svg/0840-raspberry.svg,3d/0840-raspberry.glb,488,1.059,0.809,0.125,True
+0841,reality,reality,reality,128,192,3,0,svg/0841-reality.svg,3d/0841-reality.glb,308,1.062,1.062,0.125,True
+0842,rear,rear | back_of_a_thing,"rear,back_of_a_thing",112,160,6,2,svg/0842-rear.svg,3d/0842-rear.glb,116,0.938,0.562,0.125,True
+0843,receiver,receiver | dish,"receiver,dish",64,128,1,2,svg/0843-receiver.svg,3d/0843-receiver.glb,104,0.562,0.562,0.125,True
+0844,getting,getting | acquiring | receiving,"getting,acquiring,receiving",128,192,4,45,svg/0844-getting.svg,3d/0844-getting.glb,244,1.062,1.062,0.125,True
+0845,reclining,reclining | lying_(person_lying_down),"reclining,lying_(person_lying_down)",128,128,2,4,svg/0845-reclining.svg,3d/0845-reclining.glb,52,1.062,0.562,0.125,True
+0846,recording_disk,recording_disk,recording_disk,128,192,2,8,svg/0846-recording-disk.svg,3d/0846-recording-disk.glb,316,1.062,1.062,0.125,True
+0847,reed,reed,reed,96,128,4,11,svg/0847-reed.svg,3d/0847-reed.glb,188,0.812,0.562,0.125,True
+0848,reflection,reflection,reflection,64,192,5,2,svg/0848-reflection.svg,3d/0848-reflection.glb,144,0.562,1.062,0.125,True
+0849,reflection_(mental),reflection_(mental) | consideration,"reflection_(mental),consideration",128,192,6,2,svg/0849-reflection-mental.svg,3d/0849-reflection-mental.glb,324,1.061,1.062,0.125,True
+0850,relative,relative | relation,"relative,relation",256,192,6,1,svg/0850-relative.svg,3d/0850-relative.glb,180,2.061,1.062,0.125,True
+0851,relay,relay,relay,256,192,6,1,svg/0851-relay.svg,3d/0851-relay.glb,212,2.062,1.062,0.125,True
+0852,religion,religion | naturalism,"religion,naturalism",128,192,7,14,svg/0852-religion.svg,3d/0852-religion.glb,428,1.061,1.062,0.125,True
+0853,religion_(God_based),religion_(God_based),religion_(God_based),128,256,11,32,svg/0853-religion-god-based.svg,3d/0853-religion-god-based.glb,548,1.06,1.562,0.125,False
+0854,repetition,repetition | copying | duplication | replication,"repetition,copying,duplication,replication",64,192,2,17,svg/0854-repetition.svg,3d/0854-repetition.glb,72,0.562,1.062,0.125,True
+0855,responsibility,responsibility,responsibility,128,256,6,1,svg/0855-responsibility.svg,3d/0855-responsibility.glb,500,1.062,1.562,0.125,True
+0856,rest,rest | comfort,"rest,comfort",128,192,5,15,svg/0856-rest.svg,3d/0856-rest.glb,424,1.062,1.062,0.125,True
+0857,rhinoceros,rhinoceros,rhinoceros,256,192,8,0,svg/0857-rhinoceros.svg,3d/0857-rhinoceros.glb,216,2.062,1.061,0.125,True
+0858,rice,rice,rice,160,128,4,3,svg/0858-rice.svg,3d/0858-rice.glb,380,1.312,0.687,0.125,True
+0859,ride,ride | drive,"ride,drive",128,192,6,5,svg/0859-ride.svg,3d/0859-ride.glb,148,1.062,1.312,0.125,True
+0860,right_turn,right_turn | right_(position_or_direction),"right_turn,right_(position_or_direction)",64,192,2,3,svg/0860-right-turn.svg,3d/0860-right-turn.glb,60,0.562,1.062,0.125,True
+0861,ring,ring,ring,128,192,2,10,svg/0861-ring.svg,3d/0861-ring.glb,512,1.062,1.062,0.125,True
+0862,river,river | stream | current,"river,stream,current",128,160,5,13,svg/0862-river.svg,3d/0862-river.glb,244,1.062,0.937,0.125,True
+0863,road_(1),road_(1),road_(1),256,176,12,0,svg/0863-road-1.svg,3d/0863-road-1.glb,640,2.062,0.937,0.125,False
+0864,road_and_car,road_and_car,road_and_car,256,176,10,0,svg/0864-road-and-car.svg,3d/0864-road-and-car.glb,588,2.062,0.938,0.125,False
+0865,roll,roll | bun,"roll,bun",96,128,4,9,svg/0865-roll.svg,3d/0865-roll.glb,176,0.811,0.562,0.125,True
+0866,roller_skates,roller_skates,roller_skates,192,192,10,1,svg/0866-roller-skates.svg,3d/0866-roller-skates.glb,600,1.562,1.562,0.125,True
+0867,rolling_pin,rolling_pin,rolling_pin,192,128,6,0,svg/0867-rolling-pin.svg,3d/0867-rolling-pin.glb,120,1.562,0.562,0.125,True
+0868,room,room,room,128,192,3,43,svg/0868-room.svg,3d/0868-room.glb,76,1.062,1.062,0.125,True
+0869,root,root,root,128,64,2,0,svg/0869-root.svg,3d/0869-root.glb,124,1.061,0.562,0.125,True
+0870,root(s),root(s) | rootage | root_system,"root(s),rootage,root_system",128,64,3,4,svg/0870-root-s.svg,3d/0870-root-s.glb,200,1.061,0.562,0.125,True
+0871,rotation,rotation | circulation | orbit | lap | circle | round,"rotation,circulation,orbit,lap,circle,round",160,192,4,19,svg/0871-rotation.svg,3d/0871-rotation.glb,296,1.312,1.061,0.125,True
+0872,row_house,row_house | attached_houses,"row_house,attached_houses",256,192,10,0,svg/0872-row-house.svg,3d/0872-row-house.glb,136,2.062,1.062,0.125,True
+0873,rudder,rudder,rudder,128,192,4,0,svg/0873-rudder.svg,3d/0873-rudder.glb,224,1.062,1.062,0.125,True
+0874,rugby_ball,rugby_ball | football_(N.A.),"rugby_ball,football_(N.A.)",128,128,3,1,svg/0874-rugby-ball.svg,3d/0874-rugby-ball.glb,224,1.062,0.562,0.125,True
+0875,ruin,ruin | wreck | wreckage_(building)_(1),"ruin,wreck,wreckage_(building)_(1)",128,192,6,3,svg/0875-ruin.svg,3d/0875-ruin.glb,112,1.062,1.062,0.125,True
+0876,s_(lowercase),s_(lowercase),s_(lowercase),32,128,1,0,svg/0876-s-lowercase.svg,3d/0876-s-lowercase.glb,196,0.299,0.374,0.125,True
+0877,S_(uppercase),S_(uppercase),S_(uppercase),40,128,1,1,svg/0877-s-uppercase.svg,3d/0877-s-uppercase.glb,232,0.395,0.486,0.125,True
+0878,sack,sack | bag,"sack,bag",128,192,3,4,svg/0878-sack.svg,3d/0878-sack.glb,208,1.062,1.061,0.125,True
+0879,sail,sail,sail,64,192,3,3,svg/0879-sail.svg,3d/0879-sail.glb,72,0.562,1.062,0.125,True
+0880,sail_(OLD),sail_(OLD),sail_(OLD),64,192,3,0,svg/0880-sail-old.svg,3d/0880-sail-old.glb,76,0.562,1.062,0.125,True
+0881,sailboat,sailboat | sailing_boat | yacht,"sailboat,sailing_boat,yacht",128,192,4,2,svg/0881-sailboat.svg,3d/0881-sailboat.glb,192,1.061,1.061,0.125,True
+0882,sailboat_(OLD),sailboat_(OLD),sailboat_(OLD),128,192,4,0,svg/0882-sailboat-old.svg,3d/0882-sailboat-old.glb,184,1.062,1.062,0.125,False
+0883,salad,salad,salad,256,128,5,4,svg/0883-salad.svg,3d/0883-salad.glb,232,2.062,0.56,0.125,True
+0884,same,same | equal | equality,"same,equal,equality",64,160,2,32,svg/0884-same.svg,3d/0884-same.glb,72,0.562,0.562,0.125,True
+0885,satellite,satellite,satellite,128,160,2,7,svg/0885-satellite.svg,3d/0885-satellite.glb,300,1.062,0.562,0.125,False
+0886,sauce,sauce | gravy | relish | dressing,"sauce,gravy,relish,dressing",128,160,6,12,svg/0886-sauce.svg,3d/0886-sauce.glb,504,1.061,0.812,0.125,True
+0887,saucepan,saucepan,saucepan,128,192,4,0,svg/0887-saucepan.svg,3d/0887-saucepan.glb,84,1.062,1.062,0.125,True
+0888,saw,saw,saw,192,192,5,0,svg/0888-saw.svg,3d/0888-saw.glb,100,1.562,1.562,0.125,True
+0889,scale,scale | measurement,"scale,measurement",64,192,4,23,svg/0889-scale.svg,3d/0889-scale.glb,156,0.562,1.062,0.125,True
+0890,science,science | body_of_learning,"science,body_of_learning",128,192,4,52,svg/0890-science.svg,3d/0890-science.glb,244,1.062,1.062,0.125,True
+0891,scissors,scissors,scissors,128,192,3,1,svg/0891-scissors.svg,3d/0891-scissors.glb,520,1.062,1.062,0.125,True
+0892,screw,screw,screw,96,192,4,2,svg/0892-screw.svg,3d/0892-screw.glb,232,0.812,1.062,0.125,True
+0893,seal,seal,seal,240,160,7,0,svg/0893-seal.svg,3d/0893-seal.glb,676,1.937,1.06,0.125,True
+0894,seat,seat | sitting_(sitting_person),"seat,sitting_(sitting_person)",64,192,3,6,svg/0894-seat.svg,3d/0894-seat.glb,72,0.562,1.062,0.125,True
+0895,seaweed,seaweed,seaweed,128,128,3,2,svg/0895-seaweed.svg,3d/0895-seaweed.glb,256,1.062,0.686,0.125,True
+0896,secret,secret,secret,128,192,5,9,svg/0896-secret.svg,3d/0896-secret.glb,320,1.062,1.062,0.125,True
+0897,seed,seed,seed,128,64,3,10,svg/0897-seed.svg,3d/0897-seed.glb,156,1.062,0.344,0.125,True
+0898,seesaw,seesaw | teeter-totter | teeter_board,"seesaw,teeter-totter,teeter_board",128,160,4,0,svg/0898-seesaw.svg,3d/0898-seesaw.glb,96,1.061,0.812,0.125,True
+0899,selfishness,selfishness | egoism,"selfishness,egoism",128,192,5,3,svg/0899-selfishness.svg,3d/0899-selfishness.glb,280,1.062,1.062,0.125,True
+0900,semi-detached_house,semi-detached_house,semi-detached_house,128,192,6,0,svg/0900-semi-detached-house.svg,3d/0900-semi-detached-house.glb,76,1.06,1.062,0.125,True
+0901,seven_(digit),seven_(digit) | 7,"seven_(digit),7",32,128,2,18,svg/0901-seven-digit.svg,3d/0901-seven-digit.glb,60,0.31,0.562,0.125,True
+0902,seven_(index_number),seven_(index_number),seven_(index_number),16,96,2,3,svg/0902-seven-index-number.svg,3d/0902-seven-index-number.glb,56,0.185,0.311,0.125,True
+0903,shallowness,shallowness,shallowness,64,128,4,1,svg/0903-shallowness.svg,3d/0903-shallowness.glb,120,0.562,0.562,0.125,True
+0904,shamrock,shamrock | clover,"shamrock,clover",128,192,5,4,svg/0904-shamrock.svg,3d/0904-shamrock.glb,836,1.062,1.562,0.125,True
+0905,shekel_(character),shekel_(character),shekel_(character),64,128,4,1,svg/0905-shekel-character.svg,3d/0905-shekel-character.glb,104,0.562,0.562,0.125,True
+0906,shelf,shelf,shelf,128,192,4,0,svg/0906-shelf.svg,3d/0906-shelf.glb,96,1.062,1.062,0.125,True
+0907,shell,shell | crust,"shell,crust",176,192,10,5,svg/0907-shell.svg,3d/0907-shell.glb,188,1.438,1.062,0.125,True
+0908,shellfish_(without_claws),shellfish_(without_claws),shellfish_(without_claws),128,192,4,3,svg/0908-shellfish-without-claws.svg,3d/0908-shellfish-without-claws.glb,412,1.062,1.062,0.125,True
+0909,shine,shine,shine,64,192,7,4,svg/0909-shine.svg,3d/0909-shine.glb,180,0.562,1.062,0.125,True
+0910,shortness_(distance,shortness_(distance | length),"shortness_(distance,length)",64,160,3,6,svg/0910-shortness-distance.svg,3d/0910-shortness-distance.glb,104,0.562,0.562,0.125,True
+0911,shoulder,shoulder,shoulder,192,240,6,2,svg/0911-shoulder.svg,3d/0911-shoulder.glb,324,1.562,1.438,0.125,True
+0912,shovel,shovel | spade,"shovel,spade",64,192,4,0,svg/0912-shovel.svg,3d/0912-shovel.glb,208,0.562,1.062,0.125,True
+0913,shower,shower,shower,128,192,8,2,svg/0913-shower.svg,3d/0913-shower.glb,332,1.062,1.062,0.125,True
+0914,shuttlecock,shuttlecock | birdie_(badminton),"shuttlecock,birdie_(badminton)",128,192,4,2,svg/0914-shuttlecock.svg,3d/0914-shuttlecock.glb,428,1.061,1.062,0.125,True
+0915,side_(body),side_(body),side_(body),240,192,6,1,svg/0915-side-body.svg,3d/0915-side-body.glb,332,1.937,1.062,0.125,True
+0916,side_(enclosure),side_(enclosure),side_(enclosure),176,192,6,0,svg/0916-side-enclosure.svg,3d/0916-side-enclosure.glb,124,1.438,1.062,0.125,True
+0917,sieve,sieve | colander | strainer,"sieve,colander,strainer",128,128,4,2,svg/0917-sieve.svg,3d/0917-sieve.glb,272,1.062,1.062,0.125,True
+0918,signal,signal | broadcast | transmitting,"signal,broadcast,transmitting",48,192,3,22,svg/0918-signal.svg,3d/0918-signal.glb,332,0.437,1.062,0.125,True
+0919,single_father,single_father,single_father,256,192,7,0,svg/0919-single-father.svg,3d/0919-single-father.glb,164,2.061,1.061,0.125,True
+0920,single_mother,single_mother,single_mother,256,192,8,0,svg/0920-single-mother.svg,3d/0920-single-mother.glb,156,2.061,1.062,0.125,True
+0921,single_parent,single_parent,single_parent,256,192,6,0,svg/0921-single-parent.svg,3d/0921-single-parent.glb,156,2.061,1.062,0.125,True
+0922,single_parent_family,single_parent_family,single_parent_family,256,192,9,0,svg/0922-single-parent-family.svg,3d/0922-single-parent-family.glb,308,2.061,1.062,0.125,True
+0923,sitski,sitski | sit_ski,"sitski,sit_ski",192,192,5,2,svg/0923-sitski.svg,3d/0923-sitski.glb,172,1.562,1.062,0.125,True
+0924,six_(digit),six_(digit) | 6,"six_(digit),6",32,128,3,7,svg/0924-six-digit.svg,3d/0924-six-digit.glb,232,0.312,0.559,0.125,True
+0925,six_(index_number),six_(index_number),six_(index_number),16,96,3,3,svg/0925-six-index-number.svg,3d/0925-six-index-number.glb,180,0.187,0.31,0.125,True
+0926,skateboard,skateboard,skateboard,192,192,8,0,svg/0926-skateboard.svg,3d/0926-skateboard.glb,596,1.562,1.062,0.125,False
+0927,ski,ski | runner_(sled_etc),"ski,runner_(sled_etc)",192,128,2,15,svg/0927-ski.svg,3d/0927-ski.glb,116,1.562,0.562,0.125,True
+0928,sky,sky,sky,128,192,1,9,svg/0928-sky.svg,3d/0928-sky.glb,36,1.062,0.062,0.125,True
+0929,slang,slang,slang,128,192,5,2,svg/0929-slang.svg,3d/0929-slang.glb,596,1.062,1.062,0.125,True
+0930,sled,sled | sledge | sleigh | toboggan,"sled,sledge,sleigh,toboggan",192,128,5,8,svg/0930-sled.svg,3d/0930-sled.glb,160,1.562,0.562,0.125,True
+0931,sleep,sleep,sleep,128,192,6,16,svg/0931-sleep.svg,3d/0931-sleep.glb,380,1.062,1.062,0.125,True
+0932,smell,smell | odour,"smell,odour",64,192,3,12,svg/0932-smell.svg,3d/0932-smell.glb,100,0.562,1.311,0.125,True
+0933,smoking_(cigarette),smoking_(cigarette),smoking_(cigarette),176,192,4,4,svg/0933-smoking-cigarette.svg,3d/0933-smoking-cigarette.glb,400,1.436,1.062,0.125,True
+0934,smoking_(pipe),smoking_(pipe),smoking_(pipe),192,192,6,0,svg/0934-smoking-pipe.svg,3d/0934-smoking-pipe.glb,476,1.562,1.062,0.125,True
+0935,snail,snail,snail,192,128,3,1,svg/0935-snail.svg,3d/0935-snail.glb,176,1.561,0.562,0.125,True
+0936,snake,snake,snake,192,128,3,8,svg/0936-snake.svg,3d/0936-snake.glb,368,1.562,0.562,0.125,True
+0937,snow,snow,snow,128,192,5,25,svg/0937-snow.svg,3d/0937-snow.glb,328,1.062,1.312,0.125,True
+0938,snowflake,snowflake,snowflake,128,192,7,0,svg/0938-snowflake.svg,3d/0938-snowflake.glb,388,1.062,1.312,0.125,True
+0939,snowshoe,snowshoe,snowshoe,64,192,4,1,svg/0939-snowshoe.svg,3d/0939-snowshoe.glb,256,0.562,1.562,0.125,True
+0940,solid_thing,solid_thing,solid_thing,128,192,6,0,svg/0940-solid-thing.svg,3d/0940-solid-thing.glb,112,1.06,1.062,0.125,True
+0941,somersault,somersault,somersault,160,192,5,1,svg/0941-somersault.svg,3d/0941-somersault.glb,340,1.312,1.062,0.125,True
+0942,son,son,son,128,192,4,9,svg/0942-son.svg,3d/0942-son.glb,120,1.062,1.062,0.125,True
+0943,soprano,soprano,soprano,112,224,7,5,svg/0943-soprano.svg,3d/0943-soprano.glb,256,0.937,1.312,0.125,True
+0944,sound,sound,sound,64,192,3,30,svg/0944-sound.svg,3d/0944-sound.glb,256,0.562,1.062,0.125,True
+0945,soup,soup | broth,"soup,broth",256,144,5,0,svg/0945-soup.svg,3d/0945-soup.glb,220,2.062,0.684,0.125,True
+0946,south,south,south,128,192,3,4,svg/0946-south.svg,3d/0946-south.glb,308,1.062,1.062,0.125,True
+0947,southeast,southeast,southeast,128,192,3,0,svg/0947-southeast.svg,3d/0947-southeast.glb,308,1.062,1.062,0.125,True
+0948,southwest,southwest,southwest,128,192,3,0,svg/0948-southwest.svg,3d/0948-southwest.glb,308,1.062,1.062,0.125,True
+0949,South_Pole,South_Pole,South_Pole,176,192,4,2,svg/0949-south-pole.svg,3d/0949-south-pole.glb,372,1.438,1.312,0.125,True
+0950,space,space | dimension,"space,dimension",128,192,3,1,svg/0950-space.svg,3d/0950-space.glb,80,1.062,1.062,0.125,True
+0951,sperm,sperm,sperm,192,144,4,8,svg/0951-sperm.svg,3d/0951-sperm.glb,300,1.562,0.311,0.125,True
+0952,sperm_destruction,sperm_destruction,sperm_destruction,224,192,5,1,svg/0952-sperm-destruction.svg,3d/0952-sperm-destruction.glb,344,1.812,1.061,0.125,True
+0953,spider,spider,spider,128,160,3,5,svg/0953-spider.svg,3d/0953-spider.glb,488,1.062,0.812,0.125,True
+0954,spiral,spiral,spiral,128,192,6,8,svg/0954-spiral.svg,3d/0954-spiral.glb,528,1.062,1.062,0.125,True
+0955,spirit,spirit,spirit,128,192,6,5,svg/0955-spirit.svg,3d/0955-spirit.glb,592,1.062,1.062,0.125,True
+0956,spitting,spitting,spitting,160,160,4,1,svg/0956-spitting.svg,3d/0956-spitting.glb,380,1.312,0.812,0.125,True
+0957,spoon,spoon,spoon,128,192,2,9,svg/0957-spoon.svg,3d/0957-spoon.glb,280,1.062,1.062,0.125,True
+0958,sport,sport,sport,64,192,5,131,svg/0958-sport.svg,3d/0958-sport.glb,124,0.562,1.062,0.125,True
+0959,sport_stick,sport_stick,sport_stick,128,192,2,0,svg/0959-sport-stick.svg,3d/0959-sport-stick.glb,52,1.061,1.061,0.125,True
+0960,sport_stick_and_ball,sport_stick_and_ball | bandy_stick,"sport_stick_and_ball,bandy_stick",160,192,4,6,svg/0960-sport-stick-and-ball.svg,3d/0960-sport-stick-and-ball.glb,276,1.311,1.061,0.125,True
+0961,sport_stick_and_puck,sport_stick_and_puck | hockey_stick,"sport_stick_and_puck,hockey_stick",192,192,4,3,svg/0961-sport-stick-and-puck.svg,3d/0961-sport-stick-and-puck.glb,376,1.56,1.061,0.125,True
+0962,spouse,spouse | cohabitant | partner,"spouse,cohabitant,partner",160,192,4,4,svg/0962-spouse.svg,3d/0962-spouse.glb,128,1.311,1.062,0.125,True
+0963,spray,spray | vaporization,"spray,vaporization",224,192,9,3,svg/0963-spray.svg,3d/0963-spray.glb,580,1.844,1.124,0.125,True
+0964,spread,spread | paste,"spread,paste",64,160,4,15,svg/0964-spread.svg,3d/0964-spread.glb,356,0.562,0.812,0.125,True
+0965,square_(oblique),square_(oblique),square_(oblique),128,192,4,0,svg/0965-square-oblique.svg,3d/0965-square-oblique.glb,64,1.062,1.062,0.125,True
+0966,square_(public),square_(public),square_(public),384,192,11,0,svg/0966-square-public.svg,3d/0966-square-public.glb,172,3.06,1.062,0.125,True
+0967,squash,squash | pumpkin,"squash,pumpkin",128,192,4,0,svg/0967-squash.svg,3d/0967-squash.glb,644,1.062,1.562,0.125,True
+0968,stairs,stairs | steps,"stairs,steps",128,192,4,3,svg/0968-stairs.svg,3d/0968-stairs.glb,92,1.062,1.062,0.125,True
+0969,stamp,stamp,stamp,128,192,4,0,svg/0969-stamp.svg,3d/0969-stamp.glb,88,1.062,1.062,0.125,True
+0970,stander_(wheeled),stander_(wheeled),stander_(wheeled),96,192,5,0,svg/0970-stander-wheeled.svg,3d/0970-stander-wheeled.glb,312,0.812,1.062,0.125,True
+0971,standing_(standing_person),standing_(standing_person),standing_(standing_person),64,192,2,2,svg/0971-standing-standing-person.svg,3d/0971-standing-standing-person.glb,52,0.562,1.062,0.125,True
+0972,star,star,star,32,160,3,43,svg/0972-star.svg,3d/0972-star.glb,148,0.312,0.562,0.125,True
+0973,star_of_David,star_of_David,star_of_David,128,192,6,15,svg/0973-star-of-david.svg,3d/0973-star-of-david.glb,236,1.062,1.312,0.125,False
+0974,state_of_mind,state_of_mind,state_of_mind,128,192,3,6,svg/0974-state-of-mind.svg,3d/0974-state-of-mind.glb,416,1.062,0.812,0.125,True
+0975,stave,stave | staff,"stave,staff",64,192,5,1,svg/0975-stave.svg,3d/0975-stave.glb,188,0.562,1.062,0.125,True
+0976,steam,steam,steam,128,192,5,5,svg/0976-steam.svg,3d/0976-steam.glb,268,1.062,1.062,0.125,True
+0977,steam_bath,steam_bath,steam_bath,128,192,8,4,svg/0977-steam-bath.svg,3d/0977-steam-bath.glb,328,1.062,1.062,0.125,False
+0978,steering_wheel,steering_wheel,steering_wheel,160,208,11,0,svg/0978-steering-wheel.svg,3d/0978-steering-wheel.glb,636,1.312,1.187,0.125,False
+0979,stem,stem | stalk,"stem,stalk",80,192,4,2,svg/0979-stem.svg,3d/0979-stem.glb,340,0.688,1.062,0.125,True
+0980,step,step | stair,"step,stair",144,192,6,0,svg/0980-step.svg,3d/0980-step.glb,148,1.187,1.062,0.125,True
+0981,stepfather,stepfather,stepfather,288,192,11,0,svg/0981-stepfather.svg,3d/0981-stepfather.glb,224,2.311,1.062,0.125,True
+0982,stepmother,stepmother,stepmother,256,192,11,0,svg/0982-stepmother.svg,3d/0982-stepmother.glb,216,2.062,1.062,0.125,True
+0983,stepparent,stepparent | step-parent,"stepparent,step-parent",288,192,8,2,svg/0983-stepparent.svg,3d/0983-stepparent.glb,224,2.311,1.062,0.125,True
+0984,stern,stern,stern,176,192,5,0,svg/0984-stern.svg,3d/0984-stern.glb,236,1.436,1.061,0.125,True
+0985,stomach,stomach | abdomen | belly,"stomach,abdomen,belly",192,192,6,1,svg/0985-stomach.svg,3d/0985-stomach.glb,328,1.562,1.062,0.125,True
+0986,stone,stone | rock,"stone,rock",64,128,3,36,svg/0986-stone.svg,3d/0986-stone.glb,60,0.562,0.562,0.125,True
+0987,stop,stop | platform_(vehicle)_(OLD),"stop,platform_(vehicle)_(OLD)",288,128,11,0,svg/0987-stop.svg,3d/0987-stop.glb,572,2.312,0.562,0.125,False
+0988,store,store | shop,"store,shop",256,192,7,23,svg/0988-store.svg,3d/0988-store.glb,628,2.062,1.062,0.125,True
+0989,stove,stove | furnace | heater | oven,"stove,furnace,heater,oven",128,192,6,3,svg/0989-stove.svg,3d/0989-stove.glb,204,1.062,1.062,0.125,True
+0990,stovetop,stovetop,stovetop,128,240,8,0,svg/0990-stovetop.svg,3d/0990-stovetop.glb,256,1.062,1.438,0.125,True
+0991,strawberry,strawberry,strawberry,128,160,5,1,svg/0991-strawberry.svg,3d/0991-strawberry.glb,536,1.062,0.812,0.125,True
+0992,street,street,street,256,192,7,1,svg/0992-street.svg,3d/0992-street.glb,144,2.062,1.062,0.125,True
+0993,street_and_building,street_and_building,street_and_building,256,192,5,0,svg/0993-street-and-building.svg,3d/0993-street-and-building.glb,88,2.062,1.062,0.125,True
+0994,strength,strength,strength,64,192,4,13,svg/0994-strength.svg,3d/0994-strength.glb,180,0.562,1.061,0.125,True
+0995,string,string,string,48,192,3,10,svg/0995-string.svg,3d/0995-string.glb,92,0.438,1.062,0.125,True
+0996,string_(for_musical_instrument),string_(for_musical_instrument),string_(for_musical_instrument),128,192,5,0,svg/0996-string-for-musical-instrument.svg,3d/0996-string-for-musical-instrument.glb,248,1.062,1.062,0.125,True
+0997,structure,structure | construction,"structure,construction",128,192,8,6,svg/0997-structure.svg,3d/0997-structure.glb,400,1.123,1.123,0.125,True
+0998,substance,substance,substance,64,160,6,2,svg/0998-substance.svg,3d/0998-substance.glb,164,0.562,0.812,0.125,True
+0999,subtraction,subtraction | loss,"subtraction,loss",128,128,1,24,svg/0999-subtraction.svg,3d/0999-subtraction.glb,36,1.062,0.062,0.125,True
+1000,success,success,success,192,224,9,1,svg/1000-success.svg,3d/1000-success.glb,260,1.562,1.56,0.125,True
+1001,sun,sun,sun,128,192,1,37,svg/1001-sun.svg,3d/1001-sun.glb,256,1.062,1.062,0.125,True
+1002,superlative_most,superlative_most,superlative_most,64,192,3,9,svg/1002-superlative-most.svg,3d/1002-superlative-most.glb,100,0.562,0.562,0.125,True
+1003,supernatural-(noun),supernatural-(noun),supernatural-(noun),128,256,4,5,svg/1003-supernatural-noun.svg,3d/1003-supernatural-noun.glb,240,1.062,1.562,0.125,True
+1004,swamp,swamp | bog | marsh,"swamp,bog,marsh",128,80,3,2,svg/1004-swamp.svg,3d/1004-swamp.glb,168,1.062,0.311,0.125,True
+1005,swan,swan,swan,160,192,6,0,svg/1005-swan.svg,3d/1005-swan.glb,440,1.312,1.185,0.125,True
+1006,swing,swing | swinging,"swing,swinging",192,128,5,7,svg/1006-swing.svg,3d/1006-swing.glb,248,1.561,0.562,0.125,True
+1007,t_(lowercase),t_(lowercase),t_(lowercase),24,128,1,0,svg/1007-t-lowercase.svg,3d/1007-t-lowercase.glb,76,0.176,0.449,0.125,True
+1008,T_(uppercase),T_(uppercase),T_(uppercase),32,128,1,6,svg/1008-t-uppercase.svg,3d/1008-t-uppercase.glb,28,0.389,0.473,0.125,True
+1009,table,table,table,128,128,3,20,svg/1009-table.svg,3d/1009-table.glb,76,1.062,0.562,0.125,True
+1010,tabletop,tabletop,tabletop,128,160,5,2,svg/1010-tabletop.svg,3d/1010-tabletop.glb,128,1.062,0.938,0.125,True
+1011,tadpole,tadpole,tadpole,128,144,3,0,svg/1011-tadpole.svg,3d/1011-tadpole.glb,216,1.062,0.311,0.125,True
+1012,tail,tail,tail,208,192,8,0,svg/1012-tail.svg,3d/1012-tail.glb,308,1.687,1.062,0.125,False
+1013,tank,tank,tank,240,256,16,1,svg/1013-tank.svg,3d/1013-tank.glb,1048,1.937,1.562,0.125,False
+1014,taste,taste,taste,64,192,3,57,svg/1014-taste.svg,3d/1014-taste.glb,328,0.562,1.062,0.125,True
+1015,tax,tax,tax,192,192,7,4,svg/1015-tax.svg,3d/1015-tax.glb,656,1.562,1.062,0.125,True
+1016,teenager,teenager | adolescent | youth,"teenager,adolescent,youth",64,192,5,2,svg/1016-teenager.svg,3d/1016-teenager.glb,356,0.562,1.062,0.125,True
+1017,teeth,teeth,teeth,128,128,5,31,svg/1017-teeth.svg,3d/1017-teeth.glb,100,1.062,0.562,0.125,True
+1018,temperature,temperature,temperature,64,192,5,7,svg/1018-temperature.svg,3d/1018-temperature.glb,216,0.562,1.343,0.125,True
+1019,tenor,tenor,tenor,112,192,7,3,svg/1019-tenor.svg,3d/1019-tenor.glb,256,0.938,1.062,0.125,True
+1020,that_(conj),that_(conj),that_(conj),64,160,2,0,svg/1020-that-conj.svg,3d/1020-that-conj.glb,76,0.562,0.562,0.125,True
+1021,that_(there),that_(there),that_(there),48,144,2,1,svg/1021-that-there.svg,3d/1021-that-there.glb,96,0.467,0.467,0.125,True
+1022,thawing,thawing | melting,"thawing,melting",160,160,6,1,svg/1022-thawing.svg,3d/1022-thawing.glb,264,1.311,0.562,0.125,True
+1023,the,the,the,32,144,1,1,svg/1023-the.svg,3d/1023-the.glb,36,0.312,0.312,0.125,True
+1024,then,then | so | later,"then,so,later",16,128,1,7,svg/1024-then.svg,3d/1024-then.glb,100,0.186,0.561,0.125,True
+1025,therapy,therapy,therapy,192,192,4,25,svg/1025-therapy.svg,3d/1025-therapy.glb,144,1.561,1.062,0.125,True
+1026,there,there,there,96,160,4,0,svg/1026-there.svg,3d/1026-there.glb,176,0.843,0.562,0.125,True
+1027,therefore,therefore | so | so_that,"therefore,so,so_that",32,160,3,2,svg/1027-therefore.svg,3d/1027-therefore.glb,56,0.312,0.562,0.125,True
+1028,thing,thing | object,"thing,object",64,160,4,110,svg/1028-thing.svg,3d/1028-thing.glb,64,0.562,0.562,0.125,True
+1029,thinness,thinness | narrowness,"thinness,narrowness",128,192,6,7,svg/1029-thinness.svg,3d/1029-thinness.glb,212,1.062,1.062,0.125,True
+1030,this,this,this,48,160,2,1,svg/1030-this.svg,3d/1030-this.glb,96,0.468,0.468,0.125,True
+1031,three_(digit),three_(digit) | 3,"three_(digit),3",32,128,2,41,svg/1031-three-digit.svg,3d/1031-three-digit.glb,240,0.312,0.559,0.125,True
+1032,three_(index_number),three_(index_number),three_(index_number),16,96,2,3,svg/1032-three-index-number.svg,3d/1032-three-index-number.glb,188,0.187,0.312,0.125,True
+1033,three_Danish_waters_(OLD),three_Danish_waters_(OLD),three_Danish_waters_(OLD),128,208,6,2,svg/1033-three-danish-waters-old.svg,3d/1033-three-danish-waters-old.glb,480,1.062,1.311,0.125,True
+1034,three_quarters,three_quarters,three_quarters,128,192,6,0,svg/1034-three-quarters.svg,3d/1034-three-quarters.glb,380,1.062,1.062,0.125,True
+1035,through,through,through,128,192,4,30,svg/1035-through.svg,3d/1035-through.glb,140,1.062,1.062,0.125,True
+1036,thumb,thumb,thumb,112,192,4,0,svg/1036-thumb.svg,3d/1036-thumb.glb,116,0.938,1.062,0.125,True
+1037,tile,tile,tile,64,192,5,1,svg/1037-tile.svg,3d/1037-tile.glb,84,0.562,1.062,0.125,True
+1038,time,time,time,128,192,3,56,svg/1038-time.svg,3d/1038-time.glb,284,1.062,1.062,0.125,True
+1039,tire,tire | tyre,"tire,tyre",112,128,5,0,svg/1039-tire.svg,3d/1039-tire.glb,324,0.938,0.562,0.125,True
+1040,to,to | toward | towards,"to,toward,towards",64,160,3,8,svg/1040-to.svg,3d/1040-to.glb,88,0.562,0.562,0.125,True
+1041,toe,toe,toe,240,192,6,2,svg/1041-toe.svg,3d/1041-toe.glb,164,1.937,1.312,0.125,True
+1042,toilet,toilet,toilet,128,192,5,2,svg/1042-toilet.svg,3d/1042-toilet.glb,268,1.062,1.187,0.125,True
+1043,tool,tool | instrument,"tool,instrument",96,192,6,52,svg/1043-tool.svg,3d/1043-tool.glb,164,0.81,1.06,0.125,True
+1044,tooth,tooth,tooth,64,128,3,0,svg/1044-tooth.svg,3d/1044-tooth.glb,64,0.56,0.561,0.125,True
+1045,top,top,top,128,240,6,0,svg/1045-top.svg,3d/1045-top.glb,116,1.062,1.438,0.125,True
+1046,top,top | top_of_a_thing,"top,top_of_a_thing",64,208,6,0,svg/1046-top.svg,3d/1046-top.glb,116,0.562,0.938,0.125,True
+1047,Torah,Torah,Torah,128,224,8,4,svg/1047-torah.svg,3d/1047-torah.glb,180,1.061,1.562,0.125,True
+1048,tower,tower,tower,64,224,5,6,svg/1048-tower.svg,3d/1048-tower.glb,72,0.562,1.312,0.125,True
+1049,track,track,track,128,128,4,3,svg/1049-track.svg,3d/1049-track.glb,116,1.062,0.562,0.125,False
+1050,tractor,tractor,tractor,192,192,9,0,svg/1050-tractor.svg,3d/1050-tractor.glb,616,1.562,1.062,0.125,True
+1051,trailer,trailer | container_transport,"trailer,container_transport",128,256,10,1,svg/1051-trailer.svg,3d/1051-trailer.glb,544,1.062,1.562,0.125,False
+1052,transport,transport | transportation,"transport,transportation",64,192,7,5,svg/1052-transport.svg,3d/1052-transport.glb,316,0.562,1.062,0.125,True
+1053,tray,tray,tray,192,96,5,2,svg/1053-tray.svg,3d/1053-tray.glb,104,1.562,0.312,0.125,True
+1054,tree,tree,tree,128,192,3,32,svg/1054-tree.svg,3d/1054-tree.glb,196,1.062,1.062,0.125,True
+1055,tree_or_wood_destruction,tree_or_wood_destruction,tree_or_wood_destruction,128,192,4,1,svg/1055-tree-or-wood-destruction.svg,3d/1055-tree-or-wood-destruction.glb,284,1.062,1.062,0.125,True
+1056,trip,trip | journey | travel | voyage,"trip,journey,travel,voyage",128,128,4,6,svg/1056-trip.svg,3d/1056-trip.glb,300,1.062,0.562,0.125,True
+1057,truck,truck | lorry,"truck,lorry",192,192,15,3,svg/1057-truck.svg,3d/1057-truck.glb,832,1.562,1.062,0.125,False
+1058,trumpet,trumpet | horn | cornet_(1),"trumpet,horn,cornet_(1)",192,192,4,8,svg/1058-trumpet.svg,3d/1058-trumpet.glb,324,1.562,1.061,0.125,True
+1059,trunk,trunk | tree_trunk | bole,"trunk,tree_trunk,bole",128,192,5,8,svg/1059-trunk.svg,3d/1059-trunk.glb,240,1.062,1.062,0.125,True
+1060,truth,truth,truth,128,192,7,14,svg/1060-truth.svg,3d/1060-truth.glb,452,1.062,1.062,0.125,True
+1061,turn,turn | turning,"turn,turning",64,192,3,3,svg/1061-turn.svg,3d/1061-turn.glb,204,0.561,1.312,0.125,True
+1062,turnip,turnip | rutabaga | vegetable_(large-leafed),"turnip,rutabaga,vegetable_(large-leafed)",128,192,5,2,svg/1062-turnip.svg,3d/1062-turnip.glb,492,1.062,1.561,0.125,True
+1063,turtle,turtle | tortoise,"turtle,tortoise",192,192,7,0,svg/1063-turtle.svg,3d/1063-turtle.glb,296,1.562,1.062,0.125,False
+1064,two_(digit),two_(digit) | 2,"two_(digit),2",32,128,3,119,svg/1064-two-digit.svg,3d/1064-two-digit.glb,140,0.312,0.562,0.125,True
+1065,two_(index_number),two_(index_number),two_(index_number),16,96,3,3,svg/1065-two-index-number.svg,3d/1065-two-index-number.glb,128,0.187,0.312,0.125,True
+1066,two_thirds,two_thirds,two_thirds,128,192,6,0,svg/1066-two-thirds.svg,3d/1066-two-thirds.glb,428,1.062,1.061,0.125,True
+1067,type,type | kind | sort,"type,kind,sort",128,192,4,8,svg/1067-type.svg,3d/1067-type.glb,328,1.062,0.843,0.125,True
+1068,u_(lowercase),u_(lowercase),u_(lowercase),32,128,1,0,svg/1068-u-lowercase.svg,3d/1068-u-lowercase.glb,92,0.292,0.369,0.125,True
+1069,U_(uppercase),U_(uppercase),U_(uppercase),40,128,1,6,svg/1069-u-uppercase.svg,3d/1069-u-uppercase.glb,116,0.39,0.478,0.125,True
+1070,umbrella,umbrella,umbrella,128,192,4,0,svg/1070-umbrella.svg,3d/1070-umbrella.glb,200,1.061,1.061,0.125,True
+1071,uncle,uncle,uncle,256,192,11,0,svg/1071-uncle.svg,3d/1071-uncle.glb,348,2.062,1.062,0.125,True
+1072,under,under | below | inferior,"under,below,inferior",128,128,2,18,svg/1072-under.svg,3d/1072-under.glb,96,1.062,0.343,0.125,True
+1073,under_(ground_level),under_(ground_level),under_(ground_level),128,64,2,4,svg/1073-under-ground-level.svg,3d/1073-under-ground-level.glb,96,1.062,0.343,0.125,True
+1074,understanding,understanding | comprehension,"understanding,comprehension",192,192,7,7,svg/1074-understanding.svg,3d/1074-understanding.glb,268,1.562,1.062,0.125,True
+1075,unfolding,unfolding,unfolding,128,192,5,1,svg/1075-unfolding.svg,3d/1075-unfolding.glb,188,1.062,1.062,0.125,True
+1076,unicorn,unicorn,unicorn,240,208,8,0,svg/1076-unicorn.svg,3d/1076-unicorn.glb,196,1.937,1.187,0.125,True
+1077,Union_Jack_pattern,Union_Jack_pattern,Union_Jack_pattern,128,192,8,1,svg/1077-union-jack-pattern.svg,3d/1077-union-jack-pattern.glb,160,1.062,1.062,0.125,True
+1078,until,until | till | to,"until,till,to",32,160,3,0,svg/1078-until.svg,3d/1078-until.glb,96,0.312,0.562,0.125,True
+1079,up,up | upward,"up,upward",64,192,3,122,svg/1079-up.svg,3d/1079-up.glb,84,0.562,1.062,0.125,True
+1080,up_and_down,up_and_down,up_and_down,128,192,6,32,svg/1080-up-and-down.svg,3d/1080-up-and-down.glb,168,1.062,1.062,0.125,True
+1081,upward_and_backward,upward_and_backward,upward_and_backward,128,192,3,0,svg/1081-upward-and-backward.svg,3d/1081-upward-and-backward.glb,84,1.062,1.062,0.125,True
+1082,upward_and_forward,upward_and_forward,upward_and_forward,128,192,3,2,svg/1082-upward-and-forward.svg,3d/1082-upward-and-forward.glb,84,1.062,1.062,0.125,True
+1083,usage,usage | use,"usage,use",128,192,7,9,svg/1083-usage.svg,3d/1083-usage.glb,280,1.062,1.062,0.125,True
+1084,uterus,uterus | womb,"uterus,womb",192,192,7,8,svg/1084-uterus.svg,3d/1084-uterus.glb,340,1.562,1.062,0.125,True
+1085,v_(lowercase),v_(lowercase),v_(lowercase),32,128,1,0,svg/1085-v-lowercase.svg,3d/1085-v-lowercase.glb,24,0.339,0.363,0.125,True
+1086,V_(uppercase),V_(uppercase),V_(uppercase),40,128,1,0,svg/1086-v-uppercase.svg,3d/1086-v-uppercase.glb,32,0.453,0.473,0.125,True
+1087,vagina,vagina,vagina,192,192,10,2,svg/1087-vagina.svg,3d/1087-vagina.glb,416,1.562,1.312,0.125,True
+1088,valley,valley,valley,384,192,7,0,svg/1088-valley.svg,3d/1088-valley.glb,152,3.062,1.062,0.125,True
+1089,vase,vase | urn | trophy_cup,"vase,urn,trophy_cup",128,192,5,1,svg/1089-vase.svg,3d/1089-vase.glb,316,1.061,1.062,0.125,True
+1090,vegetable_(above_ground),vegetable_(above_ground),vegetable_(above_ground),128,128,3,6,svg/1090-vegetable-above-ground.svg,3d/1090-vegetable-above-ground.glb,380,1.061,1.062,0.125,True
+1091,vegetable_(below_ground),vegetable_(below_ground),vegetable_(below_ground),128,128,3,6,svg/1091-vegetable-below-ground.svg,3d/1091-vegetable-below-ground.glb,380,1.062,1.062,0.125,True
+1092,vegetable_(oval-shaped),vegetable_(oval-shaped),vegetable_(oval-shaped),128,192,6,2,svg/1092-vegetable-oval-shaped.svg,3d/1092-vegetable-oval-shaped.glb,368,1.061,1.562,0.125,True
+1093,vehicle,vehicle | carriage | railway_car,"vehicle,carriage,railway_car",128,128,7,22,svg/1093-vehicle.svg,3d/1093-vehicle.glb,516,1.062,0.562,0.125,False
+1094,vehicle_(long),vehicle_(long),vehicle_(long),192,128,10,1,svg/1094-vehicle-long.svg,3d/1094-vehicle-long.glb,744,1.562,0.562,0.125,False
+1095,vertical-(a),vertical-(a),vertical-(a),176,192,6,1,svg/1095-vertical-a.svg,3d/1095-vertical-a.glb,144,1.438,1.062,0.125,True
+1096,view_of_life,view_of_life,view_of_life,128,192,3,6,svg/1096-view-of-life.svg,3d/1096-view-of-life.glb,232,1.062,1.062,0.125,True
+1097,visit,visit,visit,192,192,8,8,svg/1097-visit.svg,3d/1097-visit.glb,152,1.56,1.062,0.125,True
+1098,w_(lowercase),w_(lowercase),w_(lowercase),40,128,1,0,svg/1098-w-lowercase.svg,3d/1098-w-lowercase.glb,48,0.499,0.363,0.125,True
+1099,W_(uppercase),W_(uppercase),W_(uppercase),40,128,1,0,svg/1099-w-uppercase.svg,3d/1099-w-uppercase.glb,56,0.644,0.473,0.125,True
+1100,wagon,wagon | cart | truck,"wagon,cart,truck",192,192,8,3,svg/1100-wagon.svg,3d/1100-wagon.glb,528,1.562,1.062,0.125,False
+1101,waist,waist,waist,288,192,8,4,svg/1101-waist.svg,3d/1101-waist.glb,384,2.312,1.062,0.125,True
+1102,wakefulness,wakefulness | alertness,"wakefulness,alertness",128,192,5,16,svg/1102-wakefulness.svg,3d/1102-wakefulness.glb,392,1.062,1.062,0.125,True
+1103,wall,wall,wall,176,192,5,1,svg/1103-wall.svg,3d/1103-wall.glb,132,1.437,1.062,0.125,True
+1104,wand,wand,wand,32,192,3,4,svg/1104-wand.svg,3d/1104-wand.glb,152,0.312,1.062,0.125,True
+1105,war,war,war,192,192,4,17,svg/1105-war.svg,3d/1105-war.glb,204,1.562,1.062,0.125,True
+1106,waste,waste | garbage | rubbish | trash,"waste,garbage,rubbish,trash",128,192,5,24,svg/1106-waste.svg,3d/1106-waste.glb,120,1.061,1.061,0.125,True
+1107,water,water | fluid | liquid,"water,fluid,liquid",128,144,2,99,svg/1107-water.svg,3d/1107-water.glb,160,1.062,0.311,0.125,True
+1108,water_animal_(big_tail),water_animal_(big_tail),water_animal_(big_tail),192,128,9,1,svg/1108-water-animal-big-tail.svg,3d/1108-water-animal-big-tail.glb,440,1.56,0.937,0.125,True
+1109,water_creature,water_creature,water_creature,128,128,3,7,svg/1109-water-creature.svg,3d/1109-water-creature.glb,284,1.062,0.687,0.125,True
+1110,water_flower,water_flower | water_lily,"water_flower,water_lily",128,192,4,0,svg/1110-water-flower.svg,3d/1110-water-flower.glb,396,1.061,1.062,0.125,True
+1111,water_on_ground_(flooding),water_on_ground_(flooding),water_on_ground_(flooding),128,144,3,4,svg/1111-water-on-ground-flooding.svg,3d/1111-water-on-ground-flooding.glb,196,1.062,0.687,0.125,True
+1112,water_snake,water_snake,water_snake,192,128,5,0,svg/1112-water-snake.svg,3d/1112-water-snake.glb,536,1.562,0.937,0.125,True
+1113,wave,wave,wave,128,128,4,9,svg/1113-wave.svg,3d/1113-wave.glb,212,1.062,0.687,0.125,True
+1114,weakness_(weak_person),weakness_(weak_person),weakness_(weak_person),64,192,3,2,svg/1114-weakness-weak-person.svg,3d/1114-weakness-weak-person.glb,76,0.562,1.062,0.125,True
+1115,weather,weather,weather,128,192,6,5,svg/1115-weather.svg,3d/1115-weather.glb,452,1.062,1.062,0.125,True
+1116,weight,weight,weight,128,128,4,12,svg/1116-weight.svg,3d/1116-weight.glb,96,1.062,0.562,0.125,True
+1117,west,west,west,128,192,3,5,svg/1117-west.svg,3d/1117-west.glb,312,1.062,1.062,0.125,True
+1118,what,what | question_mark_(small),"what,question_mark_(small)",32,160,3,23,svg/1118-what.svg,3d/1118-what.glb,208,0.309,0.593,0.125,True
+1119,wheel,wheel,wheel,64,128,3,28,svg/1119-wheel.svg,3d/1119-wheel.glb,268,0.562,0.562,0.125,True
+1120,wheelchair,wheelchair,wheelchair,64,192,6,4,svg/1120-wheelchair.svg,3d/1120-wheelchair.glb,304,0.562,1.062,0.125,False
+1121,where,where,where,128,128,5,0,svg/1121-where.svg,3d/1121-where.glb,160,1.062,0.594,0.125,True
+1122,where-(question),where-(question),where-(question),128,160,4,0,svg/1122-where-question.svg,3d/1122-where-question.glb,244,1.062,0.812,0.125,True
+1123,who,who | that | which-(relative),"who,that,which-(relative)",40,128,4,7,svg/1123-who.svg,3d/1123-who.glb,120,0.374,0.187,0.125,True
+1124,wicket,wicket,wicket,64,192,4,1,svg/1124-wicket.svg,3d/1124-wicket.glb,104,0.562,1.062,0.125,True
+1125,wideness,wideness | broadness,"wideness,broadness",128,192,6,2,svg/1125-wideness.svg,3d/1125-wideness.glb,208,1.062,1.062,0.125,True
+1126,wife,wife,wife,160,192,6,5,svg/1126-wife.svg,3d/1126-wife.glb,120,1.31,1.062,0.125,True
+1127,wind,wind,wind,192,192,6,29,svg/1127-wind.svg,3d/1127-wind.glb,204,1.562,1.062,0.125,True
+1128,window,window,window,128,192,6,0,svg/1128-window.svg,3d/1128-window.glb,116,1.062,1.062,0.125,True
+1129,wing(s),wing(s),wing(s),128,192,2,7,svg/1129-wing-s.svg,3d/1129-wing-s.glb,180,1.061,0.562,0.125,True
+1130,wish,wish | desire,"wish,desire",128,192,3,9,svg/1130-wish.svg,3d/1130-wish.glb,312,1.062,1.062,0.125,True
+1131,with,with,with,64,224,2,2,svg/1131-with.svg,3d/1131-with.glb,92,0.562,0.562,0.125,True
+1132,wok,wok | wok_pan,"wok,wok_pan",192,192,2,1,svg/1132-wok.svg,3d/1132-wok.glb,208,1.561,1.062,0.125,True
+1133,woman,woman | female,"woman,female",64,192,4,35,svg/1133-woman.svg,3d/1133-woman.glb,68,0.559,1.062,0.125,True
+1134,woman_(below_waist),woman_(below_waist),woman_(below_waist),96,192,6,1,svg/1134-woman-below-waist.svg,3d/1134-woman-below-waist.glb,128,0.81,1.062,0.125,True
+1135,work,work | employment | job,"work,employment,job",64,192,4,76,svg/1135-work.svg,3d/1135-work.glb,136,0.561,1.062,0.125,True
+1136,world,world,world,128,192,2,2,svg/1136-world.svg,3d/1136-world.glb,72,1.062,1.062,0.125,True
+1137,worm,worm,worm,192,64,4,5,svg/1137-worm.svg,3d/1137-worm.glb,356,1.562,0.562,0.125,True
+1138,wrist,wrist,wrist,64,224,4,1,svg/1138-wrist.svg,3d/1138-wrist.glb,108,0.562,0.812,0.125,True
+1139,x_(lowercase),x_(lowercase),x_(lowercase),32,128,1,0,svg/1139-x-lowercase.svg,3d/1139-x-lowercase.glb,44,0.329,0.363,0.125,True
+1140,X_(uppercase),X_(uppercase),X_(uppercase),40,128,1,0,svg/1140-x-uppercase.svg,3d/1140-x-uppercase.glb,44,0.429,0.473,0.125,True
+1141,y_(lowercase),y_(lowercase),y_(lowercase),32,128,1,0,svg/1141-y-lowercase.svg,3d/1141-y-lowercase.glb,60,0.341,0.505,0.125,True
+1142,Y_(uppercase),Y_(uppercase),Y_(uppercase),40,128,1,0,svg/1142-y-uppercase.svg,3d/1142-y-uppercase.glb,32,0.428,0.473,0.125,True
+1143,yard,yard,yard,256,192,8,0,svg/1143-yard.svg,3d/1143-yard.glb,160,2.062,1.062,0.125,True
+1144,year,year,year,160,192,3,28,svg/1144-year.svg,3d/1144-year.glb,300,1.312,1.062,0.125,True
+1145,yen,yen,yen,64,192,5,0,svg/1145-yen.svg,3d/1145-yen.glb,184,0.561,1.062,0.125,True
+1146,z_(lowercase),z_(lowercase),z_(lowercase),32,128,1,0,svg/1146-z-lowercase.svg,3d/1146-z-lowercase.glb,36,0.282,0.363,0.125,True
+1147,Z_(uppercase),Z_(uppercase),Z_(uppercase),32,128,1,0,svg/1147-z-uppercase.svg,3d/1147-z-uppercase.glb,36,0.377,0.473,0.125,True
+1148,zero_(digit),zero_(digit) | 0,"zero_(digit),0",32,128,4,9,svg/1148-zero-digit.svg,3d/1148-zero-digit.glb,164,0.312,0.56,0.125,True
+1149,zero_(index_number),zero_(index_number),zero_(index_number),16,96,4,0,svg/1149-zero-index-number.svg,3d/1149-zero-index-number.glb,120,0.188,0.312,0.125,True
+1150,zigzag_line,zigzag_line,zigzag_line,32,192,4,1,svg/1150-zigzag-line.svg,3d/1150-zigzag-line.glb,92,0.312,1.062,0.125,True
