@@ -22,16 +22,32 @@ import bliss_core as bc  # noqa: E402
 
 REPO = bc.REPO
 
-TITLE = "After Rain"
-
-# Blissymbolic word order: no articles, no "is". Each line is a list of English names of Blisswords.
-STANZAS = [
-    ["sun warm water", "bird song"],
-    ["friend come home", "heart happy"],
-    ["rain go", "no sad"],
-    ["star night moon", "time walk see"],
-    ["love live open", "hope new day"],
-]
+# Each poem: output folder under poem/ (empty = poem/ itself), title, and stanzas.
+# Blissymbolic word order: no articles, no "is". Each line lists English names of Blisswords.
+POEMS = {
+    "after-rain": {
+        "folder": "",
+        "title": "After Rain",
+        "stanzas": [
+            ["sun warm water", "bird song"],
+            ["friend come home", "heart happy"],
+            ["rain go", "no sad"],
+            ["star night moon", "time walk see"],
+            ["love live open", "hope new day"],
+        ],
+    },
+    "crossing-the-river": {
+        "folder": "crossing-the-river",
+        "title": "Crossing the River",
+        "stanzas": [
+            ["bridge river", "night light"],
+            ["friend walk go", "warm"],
+            ["window home", "light fire"],
+            ["sea star", "see"],
+            ["wind sleep", "time hope"],
+        ],
+    },
+}
 
 
 def names_of(key):
@@ -82,7 +98,7 @@ h1{font:600 32px/1.2 system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif;m
 """
 
 
-def write_page(out, doc):
+def write_page(out, doc, viewer_href="../3d/viewer.html"):
     import html as H
     parts = []
     for stanza in doc["stanzas"]:
@@ -121,7 +137,7 @@ and the database entry it comes from.</p>
 <div class="notes">
 <p>Words: {len(doc["tokens"])} unique entries from <code>blissdata_chars.js</code> and <code>blissdata_words.js</code>.
 Original drawings are <code>2d/*.svg</code>; 3D equivalents are <code>3d/*.glb</code> (glTF, one unit = one Bliss square)
-with a rendered picture <code>3d/*.png</code>. Interactive viewer: <a href="../3d/viewer.html">3d/viewer.html</a>.</p>
+with a rendered picture <code>3d/*.png</code>. Interactive viewer: <a href="{viewer_href}">3d/viewer.html</a>.</p>
 </div>
 </main></body></html>
 """
@@ -129,13 +145,16 @@ with a rendered picture <code>3d/*.png</code>. Interactive viewer: <a href="../3
         f.write(page)
 
 
-def main():
+def main(poem_name="after-rain"):
+    spec = POEMS[poem_name]
+    TITLE = spec["title"]
+    STANZAS = spec["stanzas"]
     chardata, worddata = bc.load_data()
     B = bc.Bliss(chardata, worddata)
     chars = chardata["chars"]
     words = worddata["words"]
 
-    out = os.path.join(REPO, "poem")
+    out = os.path.join(REPO, "poem", spec["folder"]) if spec["folder"] else os.path.join(REPO, "poem")
     d2 = os.path.join(out, "2d")
     d3 = os.path.join(out, "3d")
     for d in (d2, d3):
@@ -181,7 +200,7 @@ def main():
     with open(os.path.join(out, "poem.json"), "w", encoding="utf8") as f:
         json.dump(doc, f, ensure_ascii=False, indent=1)
 
-    write_page(out, doc)
+    write_page(out, doc, "../../3d/viewer.html" if spec["folder"] else "../3d/viewer.html")
 
     print(f"tokens: {len(tokens)} ({sum(1 for t in tokens.values() if t['kind'] == 'word')} words, "
           f"{sum(1 for t in tokens.values() if t['kind'] == 'symbol')} symbols)")
@@ -190,4 +209,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv[1] if len(sys.argv) > 1 else "after-rain")

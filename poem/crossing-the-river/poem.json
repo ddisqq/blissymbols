@@ -1,0 +1,310 @@
+{
+ "title": "Crossing the River",
+ "stanzas": [
+  [
+   [
+    "bridge",
+    "river"
+   ],
+   [
+    "night",
+    "light"
+   ]
+  ],
+  [
+   [
+    "friend",
+    "walk",
+    "go"
+   ],
+   [
+    "warm"
+   ]
+  ],
+  [
+   [
+    "window",
+    "home"
+   ],
+   [
+    "light",
+    "fire"
+   ]
+  ],
+  [
+   [
+    "sea",
+    "star"
+   ],
+   [
+    "see"
+   ]
+  ],
+  [
+   [
+    "wind",
+    "sleep"
+   ],
+   [
+    "time",
+    "hope"
+   ]
+  ]
+ ],
+ "tokens": {
+  "bridge": {
+   "english": "bridge",
+   "database_key": "bridge,overpass",
+   "kind": "symbol",
+   "svg": "2d/01-bridge.svg",
+   "glb": "3d/01-bridge.glb",
+   "png": "3d/01-bridge.png",
+   "composition": [],
+   "base_symbols": [
+    "bridge,overpass"
+   ]
+  },
+  "river": {
+   "english": "river",
+   "database_key": "river,stream,current",
+   "kind": "symbol",
+   "svg": "2d/02-river.svg",
+   "glb": "3d/02-river.glb",
+   "png": "3d/02-river.png",
+   "composition": [],
+   "base_symbols": [
+    "river,stream,current"
+   ]
+  },
+  "night": {
+   "english": "night",
+   "database_key": "night",
+   "kind": "symbol",
+   "svg": "2d/03-night.svg",
+   "glb": "3d/03-night.glb",
+   "png": "3d/03-night.png",
+   "composition": [],
+   "base_symbols": [
+    "night"
+   ]
+  },
+  "light": {
+   "english": "light",
+   "database_key": "light",
+   "kind": "symbol",
+   "svg": "2d/04-light.svg",
+   "glb": "3d/04-light.glb",
+   "png": "3d/04-light.png",
+   "composition": [],
+   "base_symbols": [
+    "light"
+   ]
+  },
+  "friend": {
+   "english": "friend",
+   "database_key": "friend",
+   "kind": "word",
+   "svg": "2d/05-friend.svg",
+   "glb": "3d/05-friend.glb",
+   "png": "3d/05-friend.png",
+   "composition": [
+    "person,human_being,individual,human",
+    "goodness"
+   ],
+   "base_symbols": [
+    "person,human_being,individual,human",
+    "feeling,emotion,sensation",
+    "and,also,plus,too",
+    "intensity"
+   ]
+  },
+  "walk": {
+   "english": "walk",
+   "database_key": "walk,go-(to)",
+   "kind": "word",
+   "svg": "2d/06-walk.svg",
+   "glb": "3d/06-walk.glb",
+   "png": "3d/06-walk.png",
+   "composition": [
+    "legs_and_feet",
+    "indicator_(action)"
+   ],
+   "base_symbols": [
+    "legs_and_feet",
+    "indicator_(action)"
+   ]
+  },
+  "go": {
+   "english": "go",
+   "database_key": "go,depart,leave-(to)",
+   "kind": "word",
+   "svg": "2d/07-go.svg",
+   "glb": "3d/07-go.glb",
+   "png": "3d/07-go.png",
+   "composition": [
+    "departure",
+    "indicator_(action)"
+   ],
+   "base_symbols": [
+    "line,stripe",
+    "forward",
+    "indicator_(action)"
+   ]
+  },
+  "warm": {
+   "english": "warm",
+   "database_key": "warm",
+   "kind": "word",
+   "svg": "2d/08-warm.svg",
+   "glb": "3d/08-warm.glb",
+   "png": "3d/08-warm.png",
+   "composition": [
+    "hot_(temperature)",
+    "littleness,smallness"
+   ],
+   "base_symbols": [
+    "heat",
+    "indicator_(description)",
+    "littleness,smallness"
+   ]
+  },
+  "window": {
+   "english": "window",
+   "database_key": "window",
+   "kind": "symbol",
+   "svg": "2d/09-window.svg",
+   "glb": "3d/09-window.glb",
+   "png": "3d/09-window.png",
+   "composition": [],
+   "base_symbols": [
+    "window"
+   ]
+  },
+  "home": {
+   "english": "home",
+   "database_key": "home",
+   "kind": "word",
+   "svg": "2d/10-home.svg",
+   "glb": "3d/10-home.glb",
+   "png": "3d/10-home.png",
+   "composition": [
+    "house,building,dwelling,residence",
+    "feeling,emotion,sensation"
+   ],
+   "base_symbols": [
+    "house,building,dwelling,residence",
+    "feeling,emotion,sensation"
+   ]
+  },
+  "fire": {
+   "english": "fire",
+   "database_key": "fire",
+   "kind": "symbol",
+   "svg": "2d/11-fire.svg",
+   "glb": "3d/11-fire.glb",
+   "png": "3d/11-fire.png",
+   "composition": [],
+   "base_symbols": [
+    "fire"
+   ]
+  },
+  "sea": {
+   "english": "sea",
+   "database_key": "ocean,sea",
+   "kind": "word",
+   "svg": "2d/12-sea.svg",
+   "glb": "3d/12-sea.glb",
+   "png": "3d/12-sea.png",
+   "composition": [
+    "group_of,much_of,many_of,quantity_of",
+    "lake,pond"
+   ],
+   "base_symbols": [
+    "group_of,much_of,many_of,quantity_of",
+    "group_of,much_of,many_of,quantity_of",
+    "puddle,pool,water_(ground_level)"
+   ]
+  },
+  "star": {
+   "english": "star",
+   "database_key": "star",
+   "kind": "symbol",
+   "svg": "2d/13-star.svg",
+   "glb": "3d/13-star.glb",
+   "png": "3d/13-star.png",
+   "composition": [],
+   "base_symbols": [
+    "star"
+   ]
+  },
+  "see": {
+   "english": "see",
+   "database_key": "see,look,watch-(to)",
+   "kind": "word",
+   "svg": "2d/14-see.svg",
+   "glb": "3d/14-see.glb",
+   "png": "3d/14-see.png",
+   "composition": [
+    "eye",
+    "indicator_(action)"
+   ],
+   "base_symbols": [
+    "eye",
+    "indicator_(action)"
+   ]
+  },
+  "wind": {
+   "english": "wind",
+   "database_key": "wind",
+   "kind": "symbol",
+   "svg": "2d/15-wind.svg",
+   "glb": "3d/15-wind.glb",
+   "png": "3d/15-wind.png",
+   "composition": [],
+   "base_symbols": [
+    "wind"
+   ]
+  },
+  "sleep": {
+   "english": "sleep",
+   "database_key": "sleep",
+   "kind": "symbol",
+   "svg": "2d/16-sleep.svg",
+   "glb": "3d/16-sleep.glb",
+   "png": "3d/16-sleep.png",
+   "composition": [],
+   "base_symbols": [
+    "sleep"
+   ]
+  },
+  "time": {
+   "english": "time",
+   "database_key": "time",
+   "kind": "symbol",
+   "svg": "2d/17-time.svg",
+   "glb": "3d/17-time.glb",
+   "png": "3d/17-time.png",
+   "composition": [],
+   "base_symbols": [
+    "time"
+   ]
+  },
+  "hope": {
+   "english": "hope",
+   "database_key": "hope",
+   "kind": "word",
+   "svg": "2d/18-hope.svg",
+   "glb": "3d/18-hope.glb",
+   "png": "3d/18-hope.png",
+   "composition": [
+    "happiness,fun,joy,pleasure",
+    "future_(uncertain)"
+   ],
+   "base_symbols": [
+    "feeling,emotion,sensation",
+    "up,upward",
+    "future_(uncertain)"
+   ]
+  }
+ }
+}

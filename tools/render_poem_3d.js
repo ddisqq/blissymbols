@@ -1,6 +1,6 @@
 /*
  * Renders each poem token's 3D model (poem/3d/*.glb) to a PNG (poem/3d/*.png).
- *   node tools/render_poem_3d.js
+ *   node tools/render_poem_3d.js [poem-folder]   (default: poem/; e.g. poem/crossing-the-river)
  * Needs Playwright with Chromium. Set THREE_LOCAL=/path/to/node_modules/three (the package folder)
  * to serve three.js from disk instead of unpkg (useful offline).
  */
@@ -40,11 +40,12 @@ function serve() {
   await page.goto(`${base}/tools/render3d.html`);
   await page.waitForFunction('window.ready === true', null, { timeout: 60000 });
 
-  const poem = JSON.parse(fs.readFileSync(path.join(REPO, 'poem', 'poem.json'), 'utf8'));
+  const folder = process.argv[2] || 'poem';
+  const poem = JSON.parse(fs.readFileSync(path.join(REPO, folder, 'poem.json'), 'utf8'));
   let n = 0;
   for (const rec of Object.values(poem.tokens)) {
-    await page.evaluate((u) => window.renderModel(u), `${base}/poem/${rec.glb}`);
-    await page.locator('canvas').screenshot({ path: path.join(REPO, 'poem', rec.png) });
+    await page.evaluate((u) => window.renderModel(u), `${base}/${folder}/${rec.glb}`);
+    await page.locator('canvas').screenshot({ path: path.join(REPO, folder, rec.png) });
     n++;
   }
   console.log(`rendered ${n} 3D pictures`);
