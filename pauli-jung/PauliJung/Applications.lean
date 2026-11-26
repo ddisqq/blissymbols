@@ -6,9 +6,9 @@ import PauliJung.Morphisms
 /-!
 # Applications: the general theory applied to the cases
 
-* every case gets a finite presentation, and its causal verdict is
-  recomputed by the verified checker, independently of the hand-supplied
-  certificates in `Cases`;
+* every case gets a finite presentation, and its verdict (causal link, and
+  synchronicity itself) is recomputed by the verified decision procedure,
+  independently of the hand-supplied certificates in `Cases`;
 * the cases are located among the classical positions;
 * the two scarab models are related by a morphism.
 -/
@@ -132,6 +132,115 @@ theorem room137_sync_iff_meaningful :
       MeaningfulCoincidence room137W R137M.preoccupiedWith137 R137P.assignedRoom137 := by
   rw [room137Pres.sync_iff _ _ (by decide)]
   exact ⟨fun h => h.1, fun h => ⟨h, by decide⟩⟩
+
+/-! ### Full presentations: synchronicity itself by computation -/
+
+/-- All archetypes. -/
+def allArch : List Arch :=
+  [.rebirth, .shadow, .death, .fire, .series, .fish, .number, .wholeness, .psi, .union]
+
+theorem allArch_complete (a : Arch) : a ∈ allArch := by cases a <;> simp [allArch]
+
+/-- Every neutral state is in the list. -/
+macro "neutrals_tac" : tactic => `(tactic| (intro u; cases u <;> simp))
+
+def scarabFull : FullPresentation scarabW where
+  toPresentation := scarabPres
+  neutrals := [.before, .session]
+  archetypes := allArch
+  neutrals_complete := by neutrals_tac
+  archetypes_complete := allArch_complete
+
+def scarabColliderFull : FullPresentation scarabColliderW where
+  toPresentation := scarabColliderPres
+  neutrals := [.before, .session]
+  archetypes := allArch
+  neutrals_complete := by neutrals_tac
+  archetypes_complete := allArch_complete
+
+def pauliFull : FullPresentation pauliW where
+  toPresentation := pauliPres
+  neutrals := [.goettingen]
+  archetypes := allArch
+  neutrals_complete := by neutrals_tac
+  archetypes_complete := allArch_complete
+
+def birdsFull : FullPresentation birdsW where
+  toPresentation := birdsPres
+  neutrals := [.deathDay]
+  archetypes := allArch
+  neutrals_complete := by neutrals_tac
+  archetypes_complete := allArch_complete
+
+def swedFull : FullPresentation swedW where
+  toPresentation := swedPres
+  neutrals := [.evening1759]
+  archetypes := allArch
+  neutrals_complete := by neutrals_tac
+  archetypes_complete := allArch_complete
+
+def puddingFull : FullPresentation puddingW where
+  toPresentation := puddingPres
+  neutrals := [.boyhood, .restaurant, .dinner]
+  archetypes := allArch
+  neutrals_complete := by neutrals_tac
+  archetypes_complete := allArch_complete
+
+def fishFull : FullPresentation fishW where
+  toPresentation := fishPres
+  neutrals := [.lunch, .inscription, .pictures, .embroidery]
+  archetypes := allArch
+  neutrals_complete := by neutrals_tac
+  archetypes_complete := allArch_complete
+
+def room137Full : FullPresentation room137W where
+  toPresentation := room137Pres
+  neutrals := [.physicsYears, .dec1958]
+  archetypes := allArch
+  neutrals_complete := by neutrals_tac
+  archetypes_complete := allArch_complete
+
+def ichingFull : FullPresentation ichingW where
+  toPresentation := ichingPres
+  neutrals := [.consultation]
+  archetypes := allArch
+  neutrals_complete := by neutrals_tac
+  archetypes_complete := allArch_complete
+
+/-- **The strict scorecard, recomputed.** Every verdict on strict
+synchronicity in the case table is obtained by running the decision
+procedure, with no hand-supplied certificate. -/
+theorem scorecard_decided :
+    Synchronicity scarabW ScarabM.recountsDream ScarabP.beetleTaps ∧
+    Synchronicity scarabColliderW ScarabM.recountsDream ScarabP.beetleTaps ∧
+    Synchronicity pauliW PauliM.pauliOnTrain PauliP.apparatusFails ∧
+    Synchronicity birdsW BirdsM.wifeAlarmed BirdsP.husbandCollapses ∧
+    Synchronicity swedW SwedM.visionOfFire SwedP.fireSpreads ∧
+    Synchronicity puddingW PuddingM.ordersPudding PuddingP.lastPuddingTaken ∧
+    Synchronicity puddingW PuddingM.remarksAbsence PuddingP.fontgibuEnters ∧
+    ¬ Synchronicity puddingW PuddingM.tastesPudding PuddingP.fontgibuGivesPudding ∧
+    ¬ Synchronicity fishW FishM.noticesFish FishP.fishPresent ∧
+    Synchronicity room137W R137M.preoccupiedWith137 R137P.assignedRoom137 ∧
+    ¬ Synchronicity room137W R137M.computesAlpha R137P.spectrumMeasured ∧
+    ¬ Synchronicity ichingW IChingM.asksAboutBook IChingP.hexagram50 :=
+  ⟨(scarabFull.sync_iff_syncB _ _).2 (by decide),
+   (scarabColliderFull.sync_iff_syncB _ _).2 (by decide),
+   (pauliFull.sync_iff_syncB _ _).2 (by decide),
+   (birdsFull.sync_iff_syncB _ _).2 (by decide),
+   (swedFull.sync_iff_syncB _ _).2 (by decide),
+   (puddingFull.sync_iff_syncB _ _).2 (by decide),
+   (puddingFull.sync_iff_syncB _ _).2 (by decide),
+   fun h => absurd ((puddingFull.sync_iff_syncB _ _).1 h) (by decide),
+   fun h => absurd ((fishFull.sync_iff_syncB _ _).1 h) (by decide),
+   (room137Full.sync_iff_syncB _ _).2 (by decide),
+   fun h => absurd ((room137Full.sync_iff_syncB _ _).1 h) (by decide),
+   fun h => absurd ((ichingFull.sync_iff_syncB _ _).1 h) (by decide)⟩
+
+/-- The decision procedure also finds the pairs nobody listed: in the scarab
+world, the dream itself (before the session) coincides with nothing. -/
+theorem scarab_dream_not_sync :
+    ¬ Synchronicity scarabW ScarabM.dreamsOfScarab ScarabP.still :=
+  fun h => absurd ((scarabFull.sync_iff_syncB _ _).1 h) (by decide)
 
 /-! ### The cases among the positions -/
 

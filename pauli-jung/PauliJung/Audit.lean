@@ -141,3 +141,23 @@ open PauliJung
 #guard_msgs in
 #print axioms scarab_sync_from_refinement
 
+/-- info: 'PauliJung.certB_true' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms certB_true
+
+/-- info: 'PauliJung.mem_anc_iff' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms mem_anc_iff
+
+/-- info: 'PauliJung.Presentation.linked_iff'' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms Presentation.linked_iff'
+
+/-- info: 'PauliJung.FullPresentation.sync_iff_syncB' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms FullPresentation.sync_iff_syncB
+
+/-- info: 'PauliJung.scorecard_decided' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms scorecard_decided
+

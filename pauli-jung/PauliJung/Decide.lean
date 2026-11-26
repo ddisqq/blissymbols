@@ -9,20 +9,45 @@ it computes the causal past of each event by iterated expansion, then
 passes, the computed set is provably the exact causal past, and whether two
 events are causally linked is read off from whether their pasts overlap.
 
-The closure check is part of the certificate, so no bound on path lengths
-has to be proved; the theorems below are sound and complete whenever the
-check succeeds (and with `nodes.length` rounds it always does in practice).
+The closure check is then shown to pass always (`certB_true`), so the
+procedure is unconditional, and together with a search for a meaning-giving
+archetype it decides synchronicity itself (`sync_iff_syncB`).
 -/
 
 namespace PauliJung
 
 section Finite
 
+theorem length_filter_le_of_imp {α : Type} {p q : α → Bool}
+    (hpq : ∀ a, p a = true → q a = true) :
+    ∀ l : List α, (l.filter p).length ≤ (l.filter q).length
+  | [] => Nat.le_refl _
+  | x :: xs => by
+    have ih := length_filter_le_of_imp hpq xs
+    cases hp : p x <;> cases hq : q x <;> simp [List.filter, hp, hq] <;>
+      first | omega | (have := hpq x hp; simp [hq] at this)
+
+theorem length_filter_lt_of_imp {α : Type} {p q : α → Bool}
+    (hpq : ∀ a, p a = true → q a = true) :
+    ∀ (l : List α) (a : α), a ∈ l → q a = true → p a = false →
+      (l.filter p).length < (l.filter q).length
+  | x :: xs, a, ha, hqa, hpa => by
+    have le := length_filter_le_of_imp hpq xs
+    rcases List.mem_cons.1 ha with rfl | ha
+    · simp [List.filter, hqa, hpa]; omega
+    · have ih := length_filter_lt_of_imp hpq xs a ha hqa hpa
+      cases hp : p x <;> cases hq : q x <;> simp [List.filter, hp, hq] <;>
+        first | omega | (have := hpq x hp; simp [hq] at this)
+
+
 variable {α : Type} [DecidableEq α] (nodes : List α) (edge : α → α → Bool)
 
-/-- Add all direct causes of members of `S` that are not yet in `S`. -/
-def expand (S : List α) : List α :=
-  S ++ nodes.filter (fun a => !S.contains a && S.any (fun b => edge a b))
+/-- Direct causes of members of `S` that are not yet in `S`. -/
+def fresh (S : List α) : List α :=
+  nodes.filter (fun a => !S.contains a && S.any (fun b => edge a b))
+
+/-- Add all fresh direct causes. -/
+def expand (S : List α) : List α := S ++ fresh nodes edge S
 
 /-- `k` rounds of expansion. -/
 def ancN : Nat → List α → List α
@@ -115,6 +140,102 @@ theorem linkedB_iff (hall : ∀ a, a ∈ nodes) {x y : α} (hne : x ≠ y)
     · exact Or.inr (Or.inl (h2 ▸ h1))
     · exact Or.inr (Or.inr ⟨a, h1, h2⟩)
 
+/-! ### The closure check always passes
+
+Each round either adds a state that was missing or adds nothing; in the
+second case the set is already closed. Since at most `nodes.length` states
+can be missing, `nodes.length` rounds suffice. -/
+
+theorem closed_of_fresh_nil (hall : ∀ a, a ∈ nodes) (S : List α)
+    (h : fresh nodes edge S = []) :
+    AncestorClosed (fun a b => edge a b = true) (fun a => a ∈ S) := by
+  intro a b hab hb
+  by_cases ha : a ∈ S
+  · exact ha
+  · exfalso
+    have hmem : a ∈ fresh nodes edge S :=
+      List.mem_filter.2 ⟨hall a, by simpa [ha] using ⟨b, hb, hab⟩⟩
+    rw [h] at hmem
+    cases hmem
+
+theorem ancN_of_fresh_nil (S : List α) (h : fresh nodes edge S = []) :
+    ∀ k, ancN nodes edge k S = S
+  | 0 => rfl
+  | k + 1 => by
+    show ancN nodes edge k (S ++ fresh nodes edge S) = S
+    rw [h, List.append_nil]
+    exact ancN_of_fresh_nil S h k
+
+/-- States not yet collected. -/
+def missing (S : List α) : List α := nodes.filter (fun a => !S.contains a)
+
+theorem missing_lt (S : List α) (a : α) (ha : a ∈ fresh nodes edge S) :
+    (missing nodes (expand nodes edge S)).length < (missing nodes S).length := by
+  have ha' := List.mem_filter.1 ha
+  have haS : a ∉ S := by
+    have := (Bool.and_eq_true_iff.1 ha'.2).1
+    simpa using this
+  apply length_filter_lt_of_imp _ nodes a ha'.1
+  · simpa using haS
+  · simp [expand, ha]
+  · intro c hc
+    simp [expand] at hc ⊢
+    exact hc.1
+
+theorem ancN_closed (hall : ∀ a, a ∈ nodes) : ∀ (k : Nat) (S : List α),
+    (missing nodes S).length ≤ k →
+    AncestorClosed (fun a b => edge a b = true) (fun a => a ∈ ancN nodes edge k S)
+  | 0, S, h => by
+    intro a _ _ _
+    have hnil : missing nodes S = [] := List.length_eq_zero_iff.1 (Nat.le_zero.1 h)
+    by_cases ha : a ∈ S
+    · exact ha
+    · exfalso
+      have hmem : a ∈ missing nodes S := List.mem_filter.2 ⟨hall a, by simpa using ha⟩
+      rw [hnil] at hmem
+      cases hmem
+  | k + 1, S, h => by
+    cases hf : fresh nodes edge S with
+    | nil =>
+      rw [ancN_of_fresh_nil nodes edge S hf]
+      exact closed_of_fresh_nil nodes edge hall S hf
+    | cons a as =>
+      have hlt := missing_lt nodes edge S a (by rw [hf]; simp)
+      exact ancN_closed hall k _ (by omega)
+
+/-- **The computed past is closed**, unconditionally. -/
+theorem anc_closed (hall : ∀ a, a ∈ nodes) (x : α) :
+    AncestorClosed (fun a b => edge a b = true) (fun a => a ∈ anc nodes edge x) :=
+  ancN_closed nodes edge hall _ [x] (List.length_filter_le _ _)
+
+/-- **The computed past is exactly the causal past.** -/
+theorem mem_anc_iff (hall : ∀ a, a ∈ nodes) (x a : α) :
+    a ∈ anc nodes edge x ↔ a = x ∨ Path (fun a b => edge a b = true) a x := by
+  constructor
+  · exact anc_sound nodes edge x a
+  · rintro (h | h)
+    · exact h ▸ self_mem_anc nodes edge x
+    · exact h.ancestor (anc_closed nodes edge hall x) (self_mem_anc nodes edge x)
+
+theorem closedB_of_closed (S : List α)
+    (h : AncestorClosed (fun a b => edge a b = true) (fun a => a ∈ S)) :
+    closedB nodes edge S = true := by
+  apply List.all_eq_true.2
+  intro a _
+  apply List.all_eq_true.2
+  intro b _
+  cases hab : edge a b
+  · simp
+  · by_cases hb : b ∈ S
+    · simp [hb, h a b hab hb]
+    · simp [hb]
+
+/-- **The certificate is always valid.** -/
+theorem certB_true (hall : ∀ a, a ∈ nodes) (x y : α) : certB nodes edge x y = true :=
+  Bool.and_eq_true_iff.2
+    ⟨closedB_of_closed nodes edge _ (anc_closed nodes edge hall x),
+     closedB_of_closed nodes edge _ (anc_closed nodes edge hall y)⟩
+
 end Finite
 
 /-- A finite presentation of a world's causal structure. -/
@@ -175,5 +296,70 @@ theorem Presentation.sync_iff (m : W.M) (p : W.P)
   unfold Synchronicity
   rw [F.linked_iff m p hc]
   simp
+
+/-! ### Unconditional versions and a full decision procedure -/
+
+/-- **Causal links are decided by computation**, with no side condition. -/
+theorem Presentation.linked_iff' (m : W.M) (p : W.P) :
+    CausallyLinked W (.inl m) (.inr p) ↔
+      linkedB F.nodes F.edge (.inl m) (.inr p) = true :=
+  F.linked_iff m p (certB_true F.nodes F.edge F.complete _ _)
+
+/-- Causal links between mind and matter are decidable in a presented world. -/
+def Presentation.decLinked (m : W.M) (p : W.P) :
+    Decidable (CausallyLinked W (.inl m) (.inr p)) :=
+  decidable_of_iff _ (F.linked_iff' m p).symm
+
+end PauliJung
+
+namespace PauliJung
+
+/-- A finite presentation of a whole world: causal structure, neutral
+states and archetypes. -/
+structure FullPresentation (W : Model) extends Presentation W where
+  /-- Every neutral state, listed. -/
+  neutrals : List W.U
+  /-- Every archetype, listed. -/
+  archetypes : List W.A
+  neutrals_complete : ∀ u, u ∈ neutrals
+  archetypes_complete : ∀ a, a ∈ archetypes
+
+variable {W : Model} [DecidableEq W.M] [DecidableEq W.P]
+  [∀ a u, Decidable (W.constellated a u)]
+  [∀ a m, Decidable (W.expressesM a m)] [∀ a p, Decidable (W.expressesP a p)]
+  (F : FullPresentation W)
+
+/-- Is the pair a meaningful coincidence? Computed by search. -/
+def FullPresentation.meaningfulB (m : W.M) (p : W.P) : Bool :=
+  F.archetypes.any fun a => F.neutrals.any fun u =>
+    decide (W.constellated a u ∧ W.ψ u = m ∧ W.φ u = p ∧
+      W.expressesM a m ∧ W.expressesP a p)
+
+theorem FullPresentation.meaningful_iff (m : W.M) (p : W.P) :
+    MeaningfulCoincidence W m p ↔ F.meaningfulB m p = true := by
+  constructor
+  · intro ⟨a, u, h⟩
+    exact List.any_eq_true.2 ⟨a, F.archetypes_complete a,
+      List.any_eq_true.2 ⟨u, F.neutrals_complete u, decide_eq_true h⟩⟩
+  · intro h
+    obtain ⟨a, _, ha⟩ := List.any_eq_true.1 h
+    obtain ⟨u, _, hu⟩ := List.any_eq_true.1 ha
+    exact ⟨a, u, of_decide_eq_true hu⟩
+
+/-- Is the pair a synchronicity? Computed. -/
+def FullPresentation.syncB (m : W.M) (p : W.P) : Bool :=
+  F.meaningfulB m p && !linkedB F.nodes F.edge (.inl m) (.inr p)
+
+/-- **Synchronicity is decidable in finite worlds**: the computed verdict is
+correct in both directions. -/
+theorem FullPresentation.sync_iff_syncB (m : W.M) (p : W.P) :
+    Synchronicity W m p ↔ F.syncB m p = true := by
+  unfold Synchronicity FullPresentation.syncB
+  rw [F.meaningful_iff, F.toPresentation.linked_iff']
+  simp
+
+/-- The decision procedure as a `Decidable` instance. -/
+def FullPresentation.decSync (m : W.M) (p : W.P) : Decidable (Synchronicity W m p) :=
+  decidable_of_iff _ (F.sync_iff_syncB m p).symm
 
 end PauliJung

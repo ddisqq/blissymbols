@@ -22,17 +22,14 @@ its `bin` on `PATH`.
 ## Conventions
 - Don't weaken theorem statements to make them build; fix the proofs.
 - Case models are `@[reducible]` so tactics can see through `W.M`, `W.P`.
-- New case models need a `Presentation` in `Applications.lean` and a row
-  in `Main.lean`.
+- New case models need a `Presentation` and `FullPresentation` in
+  `Applications.lean`, a conjunct in `scorecard_decided`, and a row in
+  `Main.lean`.
 - `sep_tac` certifies sealed components; `anc_tac`/`dis_tac` certify
   disjoint causal pasts (use these when the events share a common effect).
 - Illustrative numbers (fish, I Ching trials, Rhine, astrology) must stay
   labelled as illustrative.
 
 ## Possible next steps
-- Prove that the checker's closure check always passes after
-  `nodes.length` rounds (a pigeonhole argument), making `Decide`
-  unconditional.
-- Decide `MeaningfulCoincidence` too for finite worlds, giving a full
-  `Decidable (Synchronicity W m p)` instance.
 - Historical data for the Rhine and astrology cases, if sourced.
+- A measure-theoretic probability layer (would need Mathlib).

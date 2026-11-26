@@ -17,8 +17,9 @@ about whether synchronicities occur.
     lake exe paulijung    # print the causal analysis of every case
 
 A successful build checks every proof and the axiom audit. The executable
-runs the verified checker on each case and prints the causal past of both
-events and the verdict.
+runs the verified decision procedure on each case and prints the causal
+past of both events, whether the pair is meaningful, and the verdict. CI
+(`.github/workflows/pauli-jung.yml` at the repo root) runs both.
 
 ## The picture
 
@@ -39,12 +40,12 @@ events and the verdict.
 | `PauliJung.Intervention` | `withCauses`, `exploit`, fragility under added causes |
 | `PauliJung.Positions` | parallelism, epiphenomenalism, interactionism, complementarity |
 | `PauliJung.Morphisms` | `Hom` between worlds; synchronicity is reflected |
-| `PauliJung.Decide` | verified checker for causal links in finite worlds |
+| `PauliJung.Decide` | verified decision procedure for causal links and synchronicity in finite worlds |
 | `PauliJung.Series` | chance baselines, look-elsewhere, the April fish as a cluster |
 | `PauliJung.Models` | small worlds separating the notions |
 | `PauliJung.Cases` | ten canonical cases and the `scorecard` theorem |
 | `PauliJung.Typology` | Jung's three kinds, time and place, no retrocausation |
-| `PauliJung.Applications` | every case re-decided by the checker; cases among the positions |
+| `PauliJung.Applications` | every case re-decided by computation; cases among the positions |
 | `PauliJung.Audit` | axiom audit of the headline theorems |
 | `Main` | the `paulijung` executable |
 
@@ -60,7 +61,10 @@ events and the verdict.
 | `sync_antitone` | adding causes never creates a synchronicity |
 | `lucadou` | using a synchronicity as a signal keeps its meaning and ends it |
 | `Hom.sync_reflect` | a meaningful coincidence whose image under a morphism is synchronistic is itself synchronistic |
-| `Presentation.linked_iff`, `Presentation.sync_iff` | the checker decides causal links, given its closure check passes |
+| `mem_anc_iff`, `certB_true` | the computed causal past is exactly the causal past; the checker's certificate always holds |
+| `Presentation.linked_iff'` | causal links are decided by computation |
+| `FullPresentation.sync_iff_syncB` | synchronicity is decidable in finite worlds |
+| `scorecard_decided` | every strict verdict in the case table, recomputed by the decision procedure |
 | `parallelism_all_sync` | under parallelism every meaningful coincidence is a synchronicity |
 | `epiphenomenal_no_control` | under epiphenomenalism mind never steers matter, even indirectly |
 | `interaction_with_sync` | synchronicity coexists with two-way mind–matter causation |
@@ -102,10 +106,8 @@ Ching, Rhine and astrology cases are illustrative, not historical data.
 - `neutral_screens_off` holds for any model: it records that the neutral
   level can always play the statistical role of a common cause, not that it
   explains any particular correlation.
-- The checker's correctness theorems assume its closure check passed. That
-  the check always passes after `nodes.length` rounds is not proved; it
-  passes for every case here.
-- The checker decides the causal half only. Whether a pair is *meaningful*
-  is supplied by the model.
+- The decision procedure covers strict synchronicity in finite worlds.
+  Which archetype gives meaning to which state is an input of each model,
+  not something the system derives.
 - The precognitive case in `Typology` is schematic, not a historical
   anecdote. The April-fish day counts in `Series` are illustrative.
