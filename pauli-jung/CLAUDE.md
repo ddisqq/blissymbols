@@ -33,4 +33,3 @@ its `bin` on `PATH`.
 ## Possible next steps
 - Check the figures in `Historical.lean` against the printed volumes and
   add page references.
-- A parser-to-`Model` bridge, so world files inherit the correctness proof.

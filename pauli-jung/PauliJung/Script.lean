@@ -3,10 +3,11 @@ import PauliJung.Decide
 /-!
 # World files
 
-A small text format for describing a dual-aspect world, and an analysis
-that runs the same functions (`anc`, `linkedB`) that `PauliJung.Decide`
-proves correct. States are names; the file is checked for undeclared names
-before anything is computed.
+A small text format for describing a dual-aspect world. A file is checked
+for undeclared names, compiled to a genuine `Model` with a finite
+presentation, and analysed by the decision procedure of `PauliJung.Decide`;
+`CWorld.verdict_correct` states that the printed verdict is right for the
+model the file describes.
 
 ```
 # comment
@@ -104,43 +105,113 @@ def validate (w : World) : List String :=
   ((w.checks.filter fun (_, p) => !isP p).map
     fun (_, p) => s!"check: `{p}` is not a physical state")
 
-def World.nodes (w : World) : List String := w.mental ++ w.physical
+/-! ### Compiling a world file to a model
 
-def World.edge (w : World) (a b : String) : Bool := w.causes.contains (a, b)
+Names become indices, so the world becomes a genuine `Model` with a
+`FullPresentation`. The verdict printed is then literally the value of the
+decision procedure, and `verdict_correct` applies to it. -/
 
-/-- Archetypes that make the pair a meaningful coincidence. -/
-def World.meanings (w : World) (m p : String) : List String :=
-  (w.archetypes.filter fun a =>
-    a.mental.contains m && a.physical.contains p &&
-    w.neutrals.any fun (u, um, up) => a.neutrals.contains u && um == m && up == p).map (·.name)
+/-- A world with states as indices. -/
+structure CWorld where
+  nM : Nat
+  nP : Nat
+  /-- Causal edges, on coded states. -/
+  edges : List (Sum Nat Nat × Sum Nat Nat)
+  /-- Neutral states, as (mental aspect, physical aspect). -/
+  ns : List (Fin nM × Fin nP)
+  /-- Archetypes, as (neutral states, mental states, physical states). -/
+  as : List (List Nat × List Nat × List Nat)
 
-def World.linked (w : World) (m p : String) : Bool := linkedB w.nodes w.edge m p
+/-- Code a manifest state as a tagged number. -/
+def code {m n : Nat} : Sum (Fin m) (Fin n) → Sum Nat Nat
+  | .inl i => .inl i.val
+  | .inr j => .inr j.val
 
-/-- The kind of causal link, for the report. -/
-def World.linkKind (w : World) (m p : String) : String :=
-  let pm := anc w.nodes w.edge m
-  let pp := anc w.nodes w.edge p
-  if pp.contains m then s!"{m} leads to {p}"
-  else if pm.contains p then s!"{p} leads to {m}"
-  else
-    let common := pm.filter pp.contains
-    s!"common cause: {", ".intercalate common}"
+/-- The model described by a compiled world. -/
+@[reducible] def CWorld.toModel (C : CWorld) : Model where
+  U := Fin C.ns.length
+  M := Fin C.nM
+  P := Fin C.nP
+  A := Fin C.as.length
+  ψ := fun u => (C.ns.get u).1
+  φ := fun u => (C.ns.get u).2
+  causes := fun x y => C.edges.contains (code x, code y) = true
+  constellated := fun a u => (C.as.get a).1.contains u.val = true
+  expressesM := fun a m => (C.as.get a).2.1.contains m.val = true
+  expressesP := fun a p => (C.as.get a).2.2.contains p.val = true
 
-def World.report (w : World) (m p : String) : String :=
-  let pm := anc w.nodes w.edge m
-  let pp := anc w.nodes w.edge p
-  let ms := w.meanings m p
-  let linked := w.linked m p
+/-- Its finite presentation. -/
+def CWorld.full (C : CWorld) : FullPresentation C.toModel where
+  nodes := (List.finRange C.nM).map Sum.inl ++ (List.finRange C.nP).map Sum.inr
+  edge := fun x y => C.edges.contains (code x, code y)
+  complete := by intro x; cases x <;> simp
+  faithful := fun _ _ => Iff.rfl
+  neutrals := List.finRange _
+  archetypes := List.finRange _
+  neutrals_complete := by intro u; simp
+  archetypes_complete := by intro a; simp
+
+/-- **What the program prints is correct**: for the model described by the
+file, the computed verdict is true exactly when the pair is a synchronicity. -/
+theorem CWorld.verdict_correct (C : CWorld) (m : Fin C.nM) (p : Fin C.nP) :
+    Synchronicity C.toModel m p ↔ C.full.syncB m p = true :=
+  C.full.sync_iff_syncB m p
+
+/-- Compile a (validated) world. Names that cannot be resolved are dropped;
+`validate` guarantees there are none. -/
+def compile (w : World) : CWorld :=
+  let st (x : String) : Option (Sum Nat Nat) :=
+    match w.mental.idxOf? x with
+    | some i => some (.inl i)
+    | none => (w.physical.idxOf? x).map .inr
+  let unames := w.neutrals.map (·.1)
+  { nM := w.mental.length
+    nP := w.physical.length
+    edges := w.causes.filterMap fun (a, b) =>
+      match st a, st b with
+      | some x, some y => some (x, y)
+      | _, _ => none
+    ns := w.neutrals.filterMap fun (_, m, p) =>
+      match w.mental.finIdxOf? m, w.physical.finIdxOf? p with
+      | some i, some j => some (i, j)
+      | _, _ => none
+    as := w.archetypes.map fun a =>
+      (a.neutrals.filterMap unames.idxOf?, a.mental.filterMap w.mental.idxOf?,
+       a.physical.filterMap w.physical.idxOf?) }
+
+def World.stateName (w : World) : Sum (Fin (compile w).nM) (Fin (compile w).nP) → String
+  | .inl i => w.mental.getD i.val "?"
+  | .inr j => w.physical.getD j.val "?"
+
+def World.report (w : World) (m : Fin (compile w).nM) (p : Fin (compile w).nP) : String :=
+  let C := compile w
+  let F := C.full
+  let x : Sum (Fin C.nM) (Fin C.nP) := .inl m
+  let y : Sum (Fin C.nM) (Fin C.nP) := .inr p
+  let pm := anc F.nodes F.edge x
+  let pp := anc F.nodes F.edge y
+  let names (l : List (Sum (Fin C.nM) (Fin C.nP))) := ", ".intercalate (l.map w.stateName)
+  let ms := (List.finRange C.as.length).filter fun a =>
+    (List.finRange C.ns.length).any fun u =>
+      decide (C.toModel.constellated a u ∧ C.toModel.ψ u = m ∧ C.toModel.φ u = p ∧
+        C.toModel.expressesM a m ∧ C.toModel.expressesP a p)
+  let meaning := ", ".intercalate (ms.map fun a => (w.archetypes.map (·.name)).getD a.val "?")
+  let linked := linkedB F.nodes F.edge x y
+  let link :=
+    if !linked then "none"
+    else if pp.contains x then s!"{w.stateName x} leads to {w.stateName y}"
+    else if pm.contains y then s!"{w.stateName y} leads to {w.stateName x}"
+    else s!"common cause: {names (pm.filter pp.contains)}"
   let verdict :=
-    if !ms.isEmpty && !linked then "SYNCHRONICITY"
-    else if !ms.isEmpty then "meaningful, but causally linked: not a synchronicity"
+    if F.syncB m p then "SYNCHRONICITY"
+    else if F.meaningfulB m p then "meaningful, but causally linked: not a synchronicity"
     else if linked then "causally linked, no shared meaning: not a synchronicity"
     else "no shared meaning: not a synchronicity"
-  s!"{m}  ~  {p}\n" ++
-  s!"  mental past:     {", ".intercalate pm}\n" ++
-  s!"  physical past:   {", ".intercalate pp}\n" ++
-  s!"  meaning:         {if ms.isEmpty then "none" else ", ".intercalate ms}\n" ++
-  s!"  causal link:     {if linked then w.linkKind m p else "none"}\n" ++
+  s!"{w.stateName x}  ~  {w.stateName y}\n" ++
+  s!"  mental past:     {names pm}\n" ++
+  s!"  physical past:   {names pp}\n" ++
+  s!"  meaning:         {if ms.isEmpty then "none" else meaning}\n" ++
+  s!"  causal link:     {link}\n" ++
   s!"  verdict:         {verdict}\n"
 
 /-- Analyse a world file: either a list of problems or one report per pair. -/
@@ -150,7 +221,13 @@ def analyse (text : String) : Except (List String) (List String) :=
   | .ok w =>
     match validate w with
     | [] =>
-      let pairs := if w.checks.isEmpty then w.neutrals.map (fun (_, m, p) => (m, p)) else w.checks
+      let C := compile w
+      let pairs : List (Fin C.nM × Fin C.nP) :=
+        if w.checks.isEmpty then C.ns
+        else w.checks.filterMap fun (m, p) =>
+          match w.mental.finIdxOf? m, w.physical.finIdxOf? p with
+          | some i, some j => some (i, j)
+          | _, _ => none
       .ok (pairs.map fun (m, p) => w.report m p)
     | errs => .error errs
 

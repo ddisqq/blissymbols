@@ -125,8 +125,9 @@ A measure-theoretic companion lives in `../pauli-jung-prob` (needs Mathlib).
 - `neutral_screens_off` holds for any model: it records that the neutral
   level can always play the statistical role of a common cause, not that it
   explains any particular correlation.
-- `paulijung FILE` runs the proved functions on named states; the
-  correctness theorems are stated for Lean models, not for parsed files.
+- `paulijung FILE` compiles the file to a model and prints the decision
+  procedure's value for it (`CWorld.verdict_correct`). The parser and the
+  name checks themselves are not verified.
 - The decision procedure covers strict synchronicity in finite worlds.
   Which archetype gives meaning to which state is an input of each model,
   not something the system derives.
