@@ -25,3 +25,8 @@ jobs:
         run: lake build
       - name: Run the case report
         run: lake exe paulijung
+      - name: Analyse the example world files
+        run: |
+          lake exe paulijung examples/scarab.world
+          lake exe paulijung examples/bookcase.world
+          ! lake exe paulijung examples/broken.world

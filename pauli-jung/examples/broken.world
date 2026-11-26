@@ -1,0 +1,5 @@
+# Deliberately wrong: used to test error reporting.
+mental    wish
+physical  rain
+cause     wish -> thunder
+neutral   day : wish / rain

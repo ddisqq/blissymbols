@@ -1,0 +1,14 @@
+# The golden scarab, with Jung as common observer of dream and beetle.
+mental    dreamsOfScarab recountsDream jungNotices
+physical  still beetleFlies beetleTaps jungCatchesBeetle
+
+cause dreamsOfScarab -> recountsDream
+cause beetleFlies    -> beetleTaps
+cause beetleTaps     -> jungNotices
+cause recountsDream  -> jungNotices
+cause jungNotices    -> jungCatchesBeetle
+
+neutral before  : dreamsOfScarab / still
+neutral session : recountsDream / beetleTaps
+
+archetype rebirth @ session : recountsDream / beetleTaps

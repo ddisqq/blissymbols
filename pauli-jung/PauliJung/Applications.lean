@@ -137,7 +137,8 @@ theorem room137_sync_iff_meaningful :
 
 /-- All archetypes. -/
 def allArch : List Arch :=
-  [.rebirth, .shadow, .death, .fire, .series, .fish, .number, .wholeness, .psi, .union]
+  [.rebirth, .shadow, .death, .fire, .series, .fish, .number, .wholeness, .psi, .union,
+   .animal]
 
 theorem allArch_complete (a : Arch) : a ∈ allArch := by cases a <;> simp [allArch]
 

@@ -1,0 +1,13 @@
+# Jung and Freud, 1909: the sceptic's model.
+mental    feelsHeat predictsSecond freudStartled
+physical  woodDries firstCrack secondCrack
+
+cause woodDries  -> firstCrack
+cause woodDries  -> secondCrack
+cause firstCrack -> freudStartled
+cause firstCrack -> predictsSecond
+
+neutral firstReport  : feelsHeat / firstCrack
+neutral secondReport : predictsSecond / secondCrack
+
+archetype shadow @ firstReport secondReport : feelsHeat predictsSecond / firstCrack secondCrack

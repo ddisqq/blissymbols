@@ -9,4 +9,7 @@ import PauliJung.Models
 import PauliJung.Cases
 import PauliJung.Typology
 import PauliJung.Applications
+import PauliJung.MoreCases
+import PauliJung.Dynamics
+import PauliJung.Historical
 import PauliJung.Audit

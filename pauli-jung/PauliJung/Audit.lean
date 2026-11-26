@@ -1,6 +1,9 @@
 import PauliJung.Applications
 import PauliJung.Typology
 import PauliJung.Series
+import PauliJung.MoreCases
+import PauliJung.Dynamics
+import PauliJung.Historical
 
 /-!
 # Axiom audit
@@ -160,4 +163,52 @@ open PauliJung
 /-- info: 'PauliJung.scorecard_decided' depends on axioms: [propext, Quot.sound] -/
 #guard_msgs in
 #print axioms scorecard_decided
+
+/-- info: 'PauliJung.sync_decline' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms sync_decline
+
+/-- info: 'PauliJung.sync_recurs' does not depend on any axioms -/
+#guard_msgs in
+#print axioms sync_recurs
+
+/-- info: 'PauliJung.not_quiet_of_periodic' does not depend on any axioms -/
+#guard_msgs in
+#print axioms not_quiet_of_periodic
+
+/-- info: 'PauliJung.fading_decline' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms fading_decline
+
+/-- info: 'PauliJung.astro_top_never_repeats' depends on axioms: [propext] -/
+#guard_msgs in
+#print axioms astro_top_never_repeats
+
+/-- info: 'PauliJung.rhine_800' does not depend on any axioms -/
+#guard_msgs in
+#print axioms rhine_800
+
+/-- info: 'PauliJung.fox_sync' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms fox_sync
+
+/-- info: 'PauliJung.clock_sync' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms clock_sync
+
+/-- info: 'PauliJung.kammerer_acausal_not_sync' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms kammerer_acausal_not_sync
+
+/-- info: 'PauliJung.bookcase_first_sync' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms bookcase_first_sync
+
+/-- info: 'PauliJung.bookcase_second_not_sync' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms bookcase_second_not_sync
+
+/-- info: 'PauliJung.bookcase_common_cause' does not depend on any axioms -/
+#guard_msgs in
+#print axioms bookcase_common_cause
 

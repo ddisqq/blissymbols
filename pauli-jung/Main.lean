@@ -1,4 +1,5 @@
 import PauliJung
+import PauliJung.Script
 
 /-!
 # `paulijung`: print the causal analysis of every case
@@ -49,9 +50,33 @@ def report : List String :=
     row "6. April fish (single encounter)" fishFull .noticesFish .fishPresent,
     row "7a. Room 137, the physics" room137Full .computesAlpha .spectrumMeasured,
     row "7b. Room 137, the room" room137Full .preoccupiedWith137 .assignedRoom137,
-    row "8. I Ching (strict reading)" ichingFull .asksAboutBook .hexagram50 ]
+    row "8. I Ching (strict reading)" ichingFull .asksAboutBook .hexagram50,
+    row "11. The fox in the wood" foxFull .tellsFoxDream .foxOnPath,
+    row "12. The clock that stops at a death" clockFull .ownerDying .clockStops,
+    row "13. Kammerer's series" kammFull .idleAttention .concertTicketNine,
+    row "14a. The bookcase, first report" bookFull .feelsHeat .firstCrack,
+    row "14b. The bookcase, the fulfilled prediction" bookFull .predictsSecond .secondCrack ]
 
-def main : IO Unit := do
-  IO.println "Pauli–Jung synchronicity: causal analysis of the cases"
+def builtin : IO Unit := do
+  IO.println "Pauli–Jung synchronicity: analysis of the cases"
   IO.println "(cases 9 and 10, Rhine and astrology, are statistical; see PauliJung.Cases)\n"
   for r in report do IO.println r
+
+def usage : String :=
+  "usage: paulijung            analyse the built-in cases\n" ++
+  "       paulijung FILE       analyse a world file (see examples/)\n"
+
+def main (args : List String) : IO UInt32 := do
+  match args with
+  | [] => builtin; return 0
+  | ["-h"] | ["--help"] => IO.print usage; return 0
+  | [file] =>
+    let text ← IO.FS.readFile file
+    match Script.analyse text with
+    | .ok reports =>
+      for r in reports do IO.println r
+      return 0
+    | .error errs =>
+      for e in errs do IO.eprintln s!"{file}: {e}"
+      return 1
+  | _ => IO.eprint usage; return 2

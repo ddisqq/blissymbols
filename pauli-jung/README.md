@@ -14,7 +14,8 @@ about whether synchronicities occur.
 ## Build and run
 
     lake build            # Lean 4.26.0, pinned in lean-toolchain
-    lake exe paulijung    # print the causal analysis of every case
+    lake exe paulijung                          # analyse the built-in cases
+    lake exe paulijung examples/bookcase.world  # analyse a world file
 
 A successful build checks every proof and the axiom audit. The executable
 runs the verified decision procedure on each case and prints the causal
@@ -46,6 +47,10 @@ past of both events, whether the pair is meaningful, and the verdict. CI
 | `PauliJung.Cases` | ten canonical cases and the `scorecard` theorem |
 | `PauliJung.Typology` | Jung's three kinds, time and place, no retrocausation |
 | `PauliJung.Applications` | every case re-decided by computation; cases among the positions |
+| `PauliJung.MoreCases` | fox, stopped clock, Kammerer's series, the bookcase |
+| `PauliJung.Dynamics` | trajectories, decline effect, recurrence |
+| `PauliJung.Historical` | figures as reported by Jung and Rhine |
+| `PauliJung.Script` | the world-file format behind `paulijung FILE` |
 | `PauliJung.Audit` | axiom audit of the headline theorems |
 | `Main` | the `paulijung` executable |
 
@@ -77,11 +82,16 @@ past of both events, whether the pair is meaningful, and the verdict. CI
 | `ground_without_cause` | such a correlation has no cause but is screened off by the neutral level |
 | `AboveChance.of_lower_baseline` | a run that beats one chance rate beats every lower one |
 | `exists_max` | every record has a most remarkable entry (look-elsewhere) |
+| `sync_decline` | once constellation stops, any early excess over chance is diluted away |
+| `sync_recurs` | on a periodic trajectory a synchronicity returns every period |
+| `kammerer_acausal_not_sync` | an acausal series without meaning is not a synchronicity |
+| `bookcase_second_not_sync` | a fulfilled prediction explained by a common cause |
+| `astro_top_never_repeats` | in Jung's reported data each batch favoured a different aspect |
 | `sync_without_any_reduction` | synchronicity with neither aspect reducible to the other |
 | `meaning_without_sync` | worlds with meaningful coincidences and no synchronicity |
 | `strict_not_content`, `iching_content_sync` | strict and content-level synchronicity are logically independent |
 
-## The ten cases
+## The cases
 
 | Case | Strict synchronicity? | Key theorem |
 |---|---|---|
@@ -95,17 +105,28 @@ past of both events, whether the pair is meaningful, and the verdict. CI
 | I Ching | no; content-level yes | `iching_not_strict_sync`, `iching_content_sync` |
 | Rhine | statistical | `rhine_refutes_stat_reichenbach`, `rhine_ground` |
 | Astrology | statistical, sporadic | `astro_sporadic` |
+| Fox in the wood | yes | `fox_sync` |
+| Stopped clock | yes | `clock_sync` |
+| Kammerer's series | no: acausal but meaningless | `kammerer_acausal_not_sync` |
+| The bookcase | first report yes, prediction no | `bookcase_first_sync`, `bookcase_second_not_sync` |
 
 "Yes" means: synchronistic *in the stated model* of the anecdote. The causal
 edges of each model are modelling choices. Numbers in the April-fish, I
-Ching, Rhine and astrology cases are illustrative, not historical data.
+Ching, Rhine and astrology cases are illustrative. Figures as reported by
+Jung and Rhine are in `PauliJung.Historical`; they were collected from
+quotations of the sources, not checked against the printed volumes.
+
+For a plain-language account see [docs/EXPOSITION.md](docs/EXPOSITION.md).
+A measure-theoretic companion lives in `../pauli-jung-prob` (needs Mathlib).
 
 ## Limits
 
-- Probability is finite-ensemble frequency; there is no measure theory.
+- In this package probability is finite-ensemble frequency.
 - `neutral_screens_off` holds for any model: it records that the neutral
   level can always play the statistical role of a common cause, not that it
   explains any particular correlation.
+- `paulijung FILE` runs the proved functions on named states; the
+  correctness theorems are stated for Lean models, not for parsed files.
 - The decision procedure covers strict synchronicity in finite worlds.
   Which archetype gives meaning to which state is an input of each model,
   not something the system derives.

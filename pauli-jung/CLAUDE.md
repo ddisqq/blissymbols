@@ -31,5 +31,6 @@ its `bin` on `PATH`.
   labelled as illustrative.
 
 ## Possible next steps
-- Historical data for the Rhine and astrology cases, if sourced.
-- A measure-theoretic probability layer (would need Mathlib).
+- Check the figures in `Historical.lean` against the printed volumes and
+  add page references.
+- A parser-to-`Model` bridge, so world files inherit the correctness proof.

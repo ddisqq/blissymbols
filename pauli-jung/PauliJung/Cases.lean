@@ -18,6 +18,7 @@ chosen to show the structure of the argument, not historical data. -/
 /-- Shared archetypes. -/
 inductive Arch
   | rebirth | shadow | death | fire | series | fish | number | wholeness | psi | union
+  | animal
   deriving DecidableEq, Repr
 
 /-- Exhaust all pairs of states: every causal edge stays inside one side. -/
