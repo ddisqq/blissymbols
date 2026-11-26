@@ -1,4 +1,6 @@
-import PauliJung.Cases
+import PauliJung.Applications
+import PauliJung.Typology
+import PauliJung.Series
 
 /-!
 # Axiom audit
@@ -66,4 +68,76 @@ open PauliJung
 /-- info: 'PauliJung.scorecard' depends on axioms: [propext] -/
 #guard_msgs in
 #print axioms scorecard
+
+/-- info: 'PauliJung.Presentation.linked_iff' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms Presentation.linked_iff
+
+/-- info: 'PauliJung.Presentation.sync_iff' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms Presentation.sync_iff
+
+/-- info: 'PauliJung.parallelism_all_sync' depends on axioms: [propext] -/
+#guard_msgs in
+#print axioms parallelism_all_sync
+
+/-- info: 'PauliJung.epiphenomenal_no_control' does not depend on any axioms -/
+#guard_msgs in
+#print axioms epiphenomenal_no_control
+
+/-- info: 'PauliJung.complementary_nonreductive' does not depend on any axioms -/
+#guard_msgs in
+#print axioms complementary_nonreductive
+
+/-- info: 'PauliJung.Hom.sync_reflect' does not depend on any axioms -/
+#guard_msgs in
+#print axioms Hom.sync_reflect
+
+/-- info: 'PauliJung.AboveChance.of_lower_baseline' depends on axioms: [propext, Classical.choice, Quot.sound] -/
+#guard_msgs in
+#print axioms AboveChance.of_lower_baseline
+
+/-- info: 'PauliJung.exists_max' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms exists_max
+
+/-- info: 'PauliJung.fish_cluster_at_chance' does not depend on any axioms -/
+#guard_msgs in
+#print axioms fish_cluster_at_chance
+
+/-- info: 'PauliJung.no_retrocausation' does not depend on any axioms -/
+#guard_msgs in
+#print axioms no_retrocausation
+
+/-- info: 'PauliJung.anticipation_link_iff' does not depend on any axioms -/
+#guard_msgs in
+#print axioms anticipation_link_iff
+
+/-- info: 'PauliJung.three_kinds_realized' does not depend on any axioms -/
+#guard_msgs in
+#print axioms three_kinds_realized
+
+/-- info: 'PauliJung.scarab_collider_decided' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms scarab_collider_decided
+
+/-- info: 'PauliJung.pudding_decided' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms pudding_decided
+
+/-- info: 'PauliJung.room137_sync_iff_meaningful' depends on axioms: [propext, Quot.sound] -/
+#guard_msgs in
+#print axioms room137_sync_iff_meaningful
+
+/-- info: 'PauliJung.crossWorld_profile' depends on axioms: [propext] -/
+#guard_msgs in
+#print axioms crossWorld_profile
+
+/-- info: 'PauliJung.interaction_with_sync' does not depend on any axioms -/
+#guard_msgs in
+#print axioms interaction_with_sync
+
+/-- info: 'PauliJung.scarab_sync_from_refinement' depends on axioms: [propext] -/
+#guard_msgs in
+#print axioms scarab_sync_from_refinement
 

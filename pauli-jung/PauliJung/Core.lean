@@ -56,6 +56,20 @@ theorem Path.mono {α : Type} {r s : α → α → Prop}
   | single hab => exact Path.single (h _ _ hab)
   | tail _ hbc ih => exact Path.tail ih (h _ _ hbc)
 
+/-- Any property carried forward by single steps is carried by whole paths. -/
+theorem Path.invariant {α : Type} {r : α → α → Prop} {I : α → Prop}
+    (h : ∀ a b, r a b → I a → I b) {a b : α} (p : Path r a b) : I a → I b := by
+  induction p with
+  | single hab => exact h _ _ hab
+  | tail _ hbc ih => exact fun ha => h _ _ hbc (ih ha)
+
+/-- A quantity that never decreases along a step never decreases along a path. -/
+theorem Path.le {α : Type} {r : α → α → Prop} (f : α → Nat)
+    (h : ∀ a b, r a b → f a ≤ f b) {a b : α} (p : Path r a b) : f a ≤ f b := by
+  induction p with
+  | single hab => exact h _ _ hab
+  | tail _ hbc ih => exact Nat.le_trans ih (h _ _ hbc)
+
 /-- A set is ancestor-closed if it contains every direct cause of its members. -/
 def AncestorClosed {α : Type} (r : α → α → Prop) (S : α → Prop) : Prop :=
   ∀ a b, r a b → S b → S a

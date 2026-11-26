@@ -1,5 +1,9 @@
 name = "pauli_jung"
-defaultTargets = ["PauliJung"]
+defaultTargets = ["PauliJung", "paulijung"]
 
 [[lean_lib]]
 name = "PauliJung"
+
+[[lean_exe]]
+name = "paulijung"
+root = "Main"

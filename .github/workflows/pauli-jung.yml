@@ -1,0 +1,27 @@
+name: pauli-jung
+
+on:
+  push:
+    paths: ["pauli-jung/**", ".github/workflows/pauli-jung.yml"]
+  pull_request:
+    paths: ["pauli-jung/**", ".github/workflows/pauli-jung.yml"]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: pauli-jung
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install elan
+        run: |
+          curl -sSfL https://raw.githubusercontent.com/leanprover/elan/master/elan-init.sh | sh -s -- -y --default-toolchain none
+          echo "$HOME/.elan/bin" >> "$GITHUB_PATH"
+      - name: Check all proofs and the axiom audit
+        run: lake build
+      - name: Run the case report
+        run: lake exe paulijung

@@ -18,7 +18,7 @@ chosen to show the structure of the argument, not historical data. -/
 /-- Shared archetypes. -/
 inductive Arch
   | rebirth | shadow | death | fire | series | fish | number | wholeness | psi | union
-  deriving DecidableEq
+  deriving DecidableEq, Repr
 
 /-- Exhaust all pairs of states: every causal edge stays inside one side. -/
 macro "sep_tac" : tactic =>
@@ -42,9 +42,9 @@ beetle taps at the window. Jung perceives the beetle and catches it, which is
 ordinary mind–matter causation. The recounting and the beetle's flight stay
 causally sealed from each other. -/
 
-inductive ScarabU | before | session deriving DecidableEq
-inductive ScarabM | dreamsOfScarab | recountsDream | jungNotices deriving DecidableEq
-inductive ScarabP | still | beetleFlies | beetleTaps | jungCatchesBeetle deriving DecidableEq
+inductive ScarabU | before | session deriving DecidableEq, Repr
+inductive ScarabM | dreamsOfScarab | recountsDream | jungNotices deriving DecidableEq, Repr
+inductive ScarabP | still | beetleFlies | beetleTaps | jungCatchesBeetle deriving DecidableEq, Repr
 
 def scarabψ : ScarabU → ScarabM
   | .before => .dreamsOfScarab
@@ -144,9 +144,9 @@ had stopped at Göttingen at that time. The failure has a perfectly good
 physical cause of its own. Synchronicity does not deny that, it only denies a
 link to Pauli. -/
 
-inductive PauliU | goettingen deriving DecidableEq
-inductive PauliM | pauliOnTrain | franckPuzzled deriving DecidableEq
-inductive PauliP | trainHalts | vacuumLeak | apparatusFails deriving DecidableEq
+inductive PauliU | goettingen deriving DecidableEq, Repr
+inductive PauliM | pauliOnTrain | franckPuzzled deriving DecidableEq, Repr
+inductive PauliP | trainHalts | vacuumLeak | apparatusFails deriving DecidableEq, Repr
 
 def pauliEdge : Sum PauliM PauliP → Sum PauliM PauliP → Bool
   | .inr .trainHalts, .inl .pauliOnTrain => true
@@ -188,9 +188,9 @@ her husband's treatment a flock settled on the house, and she grew alarmed;
 meanwhile he collapsed in the street. The birds cause her alarm (perception),
 but nothing links the alarm to the collapse. -/
 
-inductive BirdsU | deathDay deriving DecidableEq
-inductive BirdsM | wifeAlarmed deriving DecidableEq
-inductive BirdsP | birdsGather | heartFails | husbandCollapses deriving DecidableEq
+inductive BirdsU | deathDay deriving DecidableEq, Repr
+inductive BirdsM | wifeAlarmed deriving DecidableEq, Repr
+inductive BirdsP | birdsGather | heartFails | husbandCollapses deriving DecidableEq, Repr
 
 def birdsEdge : Sum BirdsM BirdsP → Sum BirdsM BirdsP → Bool
   | .inr .birdsGather, .inl .wifeAlarmed => true
@@ -225,9 +225,9 @@ In Gothenburg, Swedenborg described a fire raging in Stockholm, about 400 km
 away, as it happened. News arrived days later. The later confirmation is
 causal; the vision was not. -/
 
-inductive SwedU | evening1759 deriving DecidableEq
-inductive SwedM | visionOfFire | tellsGuests | newsArrives deriving DecidableEq
-inductive SwedP | fireStarts | fireSpreads | fireStops deriving DecidableEq
+inductive SwedU | evening1759 deriving DecidableEq, Repr
+inductive SwedM | visionOfFire | tellsGuests | newsArrives deriving DecidableEq, Repr
+inductive SwedP | fireStarts | fireSpreads | fireStops deriving DecidableEq, Repr
 
 def swedEdge : Sum SwedM SwedP → Sum SwedM SwedP → Bool
   | .inl .visionOfFire, .inl .tellsGuests => true
@@ -274,11 +274,11 @@ Fontgibu was missing, and de Fontgibu walked in, having mistaken the address.
 The boyhood gift is causal, so it is not a synchronicity. The two later
 episodes are. The `series` archetype is sporadic. -/
 
-inductive PuddingU | boyhood | restaurant | dinner deriving DecidableEq
-inductive PuddingM | tastesPudding | ordersPudding | remarksAbsence deriving DecidableEq
+inductive PuddingU | boyhood | restaurant | dinner deriving DecidableEq, Repr
+inductive PuddingM | tastesPudding | ordersPudding | remarksAbsence deriving DecidableEq, Repr
 inductive PuddingP
   | fontgibuGivesPudding | lastPuddingTaken | wrongAddress | fontgibuEnters
-  deriving DecidableEq
+  deriving DecidableEq, Repr
 
 def puddingψ : PuddingU → PuddingM
   | .boyhood => .tastesPudding
@@ -344,9 +344,9 @@ causal. Whatever is remarkable lies in the *clustering*, and Jung himself
 allowed that the run might be chance. The formal moral: the verdict depends
 entirely on the chance baseline. -/
 
-inductive FishU | lunch | inscription | pictures | embroidery deriving DecidableEq
-inductive FishM | noticesFish deriving DecidableEq
-inductive FishP | fishPresent deriving DecidableEq
+inductive FishU | lunch | inscription | pictures | embroidery deriving DecidableEq, Repr
+inductive FishM | noticesFish deriving DecidableEq, Repr
+inductive FishP | fishPresent deriving DecidableEq, Repr
 
 def fishEdge : Sum FishM FishP → Sum FishM FishP → Bool
   | .inr .fishPresent, .inl .noticesFish => true
@@ -384,9 +384,9 @@ lawlike, ordering his physics too, but there his knowledge is causal
 (spectra are measured, then understood). Only the room is a synchronicity.
 A lawlike archetype does not make every moment synchronistic. -/
 
-inductive R137U | physicsYears | dec1958 deriving DecidableEq
-inductive R137M | computesAlpha | preoccupiedWith137 deriving DecidableEq
-inductive R137P | spectrumMeasured | illness | assignedRoom137 deriving DecidableEq
+inductive R137U | physicsYears | dec1958 deriving DecidableEq, Repr
+inductive R137M | computesAlpha | preoccupiedWith137 deriving DecidableEq, Repr
+inductive R137P | spectrumMeasured | illness | assignedRoom137 deriving DecidableEq, Repr
 
 def r137ψ : R137U → R137M
   | .physicsYears => .computesAlpha
@@ -447,9 +447,9 @@ chance of the fitting hexagram. That is a statement about frequencies across
 consultations, checked below. This case shows where the strict definition is
 too coarse. -/
 
-inductive IChingU | consultation deriving DecidableEq
-inductive IChingM | asksAboutBook deriving DecidableEq
-inductive IChingP | coinsTossed | hexagram50 deriving DecidableEq
+inductive IChingU | consultation deriving DecidableEq, Repr
+inductive IChingM | asksAboutBook deriving DecidableEq, Repr
+inductive IChingP | coinsTossed | hexagram50 deriving DecidableEq, Repr
 
 def ichingEdge : Sum IChingM IChingP → Sum IChingM IChingP → Bool
   | .inl .asksAboutBook, .inr .coinsTossed => true
@@ -488,8 +488,8 @@ theorem iching_content_independent :
 A richer world with two possible questions and two possible hexagrams. Any
 question causes the toss and the toss causes whichever hexagram falls. -/
 
-inductive IQ | aboutBook | aboutWeather deriving DecidableEq
-inductive IH | coinsTossed | caldron | creative deriving DecidableEq
+inductive IQ | aboutBook | aboutWeather deriving DecidableEq, Repr
+inductive IH | coinsTossed | caldron | creative deriving DecidableEq, Repr
 
 def ichingTrialEdge : Sum IQ IH → Sum IQ IH → Bool
   | .inl _, .inr .coinsTossed => true

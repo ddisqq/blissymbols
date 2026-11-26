@@ -12,7 +12,9 @@ change alters them, update the expected message there deliberately.
 ## Build
 ```
 lake build
+lake exe paulijung
 ```
+CI: `.github/workflows/pauli-jung.yml` at the repo root runs both.
 If elan cannot reach its release mirror, download
 `lean-4.26.0-linux.zip` from the lean4 GitHub releases, unzip it, and put
 its `bin` on `PATH`.
@@ -20,13 +22,17 @@ its `bin` on `PATH`.
 ## Conventions
 - Don't weaken theorem statements to make them build; fix the proofs.
 - Case models are `@[reducible]` so tactics can see through `W.M`, `W.P`.
+- New case models need a `Presentation` in `Applications.lean` and a row
+  in `Main.lean`.
 - `sep_tac` certifies sealed components; `anc_tac`/`dis_tac` certify
   disjoint causal pasts (use these when the events share a common effect).
 - Illustrative numbers (fish, I Ching trials, Rhine, astrology) must stay
   labelled as illustrative.
 
 ## Possible next steps
-- A cluster-level treatment of the April-fish series (an ensemble of days).
-- A decidable `CausallyLinked` for finite models, so cases are classified
-  by `decide` instead of hand-supplied certificates.
+- Prove that the checker's closure check always passes after
+  `nodes.length` rounds (a pigeonhole argument), making `Decide`
+  unconditional.
+- Decide `MeaningfulCoincidence` too for finite worlds, giving a full
+  `Decidable (Synchronicity W m p)` instance.
 - Historical data for the Rhine and astrology cases, if sourced.

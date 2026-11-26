@@ -1,6 +1,12 @@
 import PauliJung.Core
 import PauliJung.Frequency
 import PauliJung.Intervention
+import PauliJung.Positions
+import PauliJung.Morphisms
+import PauliJung.Decide
+import PauliJung.Series
 import PauliJung.Models
 import PauliJung.Cases
+import PauliJung.Typology
+import PauliJung.Applications
 import PauliJung.Audit

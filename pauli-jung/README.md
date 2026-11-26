@@ -11,11 +11,14 @@ Jung & Pauli, *The Interpretation of Nature and the Psyche* (1952).
 This formalizes the *logical structure* of the conjecture. It says nothing
 about whether synchronicities occur.
 
-## Build
+## Build and run
 
-    lake build        # Lean 4.26.0, pinned in lean-toolchain
+    lake build            # Lean 4.26.0, pinned in lean-toolchain
+    lake exe paulijung    # print the causal analysis of every case
 
-A successful build checks every proof and the axiom audit.
+A successful build checks every proof and the axiom audit. The executable
+runs the verified checker on each case and prints the causal past of both
+events and the verdict.
 
 ## The picture
 
@@ -34,9 +37,16 @@ A successful build checks every proof and the axiom audit.
 | `PauliJung.Core` | paths, `Model`, `CausallyLinked`, `MeaningfulCoincidence`, `Synchronicity`, Reichenbach, reduction, lawlike/sporadic |
 | `PauliJung.Frequency` | counts, `PosCorr`, `Indep`, `ScreensOff`, `StatReichenbach`, `ContentSynchronicity` |
 | `PauliJung.Intervention` | `withCauses`, `exploit`, fragility under added causes |
+| `PauliJung.Positions` | parallelism, epiphenomenalism, interactionism, complementarity |
+| `PauliJung.Morphisms` | `Hom` between worlds; synchronicity is reflected |
+| `PauliJung.Decide` | verified checker for causal links in finite worlds |
+| `PauliJung.Series` | chance baselines, look-elsewhere, the April fish as a cluster |
 | `PauliJung.Models` | small worlds separating the notions |
 | `PauliJung.Cases` | ten canonical cases and the `scorecard` theorem |
+| `PauliJung.Typology` | Jung's three kinds, time and place, no retrocausation |
+| `PauliJung.Applications` | every case re-decided by the checker; cases among the positions |
 | `PauliJung.Audit` | axiom audit of the headline theorems |
+| `Main` | the `paulijung` executable |
 
 ## Main results
 
@@ -49,10 +59,20 @@ A successful build checks every proof and the axiom audit.
 | `sync_no_signal`, `sync_no_backsignal` | a synchronicity cannot steer matter by mind or mind by matter |
 | `sync_antitone` | adding causes never creates a synchronicity |
 | `lucadou` | using a synchronicity as a signal keeps its meaning and ends it |
+| `Hom.sync_reflect` | a meaningful coincidence whose image under a morphism is synchronistic is itself synchronistic |
+| `Presentation.linked_iff`, `Presentation.sync_iff` | the checker decides causal links, given its closure check passes |
+| `parallelism_all_sync` | under parallelism every meaningful coincidence is a synchronicity |
+| `epiphenomenal_no_control` | under epiphenomenalism mind never steers matter, even indirectly |
+| `interaction_with_sync` | synchronicity coexists with two-way mind–matter causation |
+| `complementary_nonreductive` | complementary aspects reduce in neither direction |
+| `no_retrocausation`, `anticipation_link_iff` | with forward-running causes, a precognitive coincidence is never an effect of its event |
+| `three_kinds_realized` | Jung's three kinds (coincident, distant, precognitive) each have a model |
 | `locked_aspects_correlate` | locked aspects are positively correlated |
 | `stat_reichenbach_fails_of_corr` | correlation in a causeless world refutes the statistical Reichenbach principle |
 | `neutral_screens_off` | conditional on the neutral state, mind and matter are independent |
 | `ground_without_cause` | such a correlation has no cause but is screened off by the neutral level |
+| `AboveChance.of_lower_baseline` | a run that beats one chance rate beats every lower one |
+| `exists_max` | every record has a most remarkable entry (look-elsewhere) |
 | `sync_without_any_reduction` | synchronicity with neither aspect reducible to the other |
 | `meaning_without_sync` | worlds with meaningful coincidences and no synchronicity |
 | `strict_not_content`, `iching_content_sync` | strict and content-level synchronicity are logically independent |
@@ -82,4 +102,10 @@ Ching, Rhine and astrology cases are illustrative, not historical data.
 - `neutral_screens_off` holds for any model: it records that the neutral
   level can always play the statistical role of a common cause, not that it
   explains any particular correlation.
-- The April-fish clustering is only treated through chance baselines.
+- The checker's correctness theorems assume its closure check passed. That
+  the check always passes after `nodes.length` rounds is not proved; it
+  passes for every case here.
+- The checker decides the causal half only. Whether a pair is *meaningful*
+  is supplied by the model.
+- The precognitive case in `Typology` is schematic, not a historical
+  anecdote. The April-fish day counts in `Series` are illustrative.
