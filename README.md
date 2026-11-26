@@ -134,4 +134,5 @@ Supporting files
 - `3d/`: 3D equivalent of every symbol (`.glb`), with `viewer.html` to browse them
 - `gallery/index.html`: searchable gallery of all symbols
 - `poem/`: the poem *After Rain*, each word as an original drawing and as a 3D equivalent
+- `lisp/`: Common Lisp library (`bliss`) for using Blissymbols in programs: lookup, layout, SVG and `#@"word"` identifiers
 - `tools/`: scripts that build all of the above from the database
