@@ -145,6 +145,50 @@ with a rendered picture <code>3d/*.png</code>. Interactive viewer: <a href="{vie
         f.write(page)
 
 
+def write_3d_page(out, doc, viewer_href):
+    """Same poem, showing only the 3D equivalents (index-3d.html)."""
+    import html as H
+    parts = []
+    for stanza in doc["stanzas"]:
+        lines = []
+        for line in stanza:
+            toks = []
+            for tok in line:
+                rec = doc["tokens"][tok]
+                toks.append(
+                    '<figure class="w">'
+                    f'<a href="{H.escape(rec["glb"])}"><img src="{H.escape(rec["png"])}" alt="{H.escape(tok)}, 3D"></a>'
+                    f'<figcaption>{H.escape(tok)}</figcaption></figure>'
+                )
+            lines.append('<div class="line">' + "".join(toks) + "</div>")
+        parts.append('<section class="stanza">' + "".join(lines) + "</section>")
+    css = """
+:root{--bg:#fbfaf7;--fg:#161616;--mut:#6b6b6b;--line:#e6e2d9;--card:#fff;--acc:#1f5fbf}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.5 Georgia,"Times New Roman",serif}
+main{max-width:980px;margin:0 auto;padding:36px 16px 56px}
+h1{font:600 30px/1.2 system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif;margin:0 0 24px}
+.stanza{margin:0 0 26px;padding:0 0 0 16px;border-left:2px solid var(--line)}
+.line{display:flex;flex-wrap:wrap;align-items:flex-end;gap:10px 14px;margin:0 0 12px}
+figure.w{margin:0;width:200px;text-align:center}
+figure.w a{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px}
+figure.w img{width:100%;height:170px;object-fit:contain;display:block}
+figcaption{font:italic 15px/1.3 Georgia,serif;margin-top:4px;color:var(--fg)}
+.foot{margin-top:36px;color:var(--mut);font:14px/1.5 system-ui,-apple-system,sans-serif}
+.foot a{color:var(--acc)}
+@media (max-width:560px){figure.w{width:44%}figure.w img{height:120px}}
+"""
+    page = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
+            f'<meta name="viewport" content="width=device-width,initial-scale=1">'
+            f'<title>{H.escape(doc["title"])} (3D)</title><style>{css}</style></head><body><main>'
+            f'<h1>{H.escape(doc["title"])}</h1>' + "".join(parts) +
+            f'<p class="foot">3D equivalents of each word, extruded from its original Blissymbol drawing. '
+            f'Click a picture for its .glb model. <a href="{viewer_href}">Interactive 3D viewer</a> &middot; '
+            f'<a href="index.html">Original and 3D side by side</a></p></main></body></html>')
+    with open(os.path.join(out, "index-3d.html"), "w", encoding="utf8") as f:
+        f.write(page)
+
+
 def main(poem_name="after-rain"):
     spec = POEMS[poem_name]
     TITLE = spec["title"]
@@ -200,7 +244,9 @@ def main(poem_name="after-rain"):
     with open(os.path.join(out, "poem.json"), "w", encoding="utf8") as f:
         json.dump(doc, f, ensure_ascii=False, indent=1)
 
-    write_page(out, doc, "../../3d/viewer.html" if spec["folder"] else "../3d/viewer.html")
+    viewer = "../../3d/viewer.html" if spec["folder"] else "../3d/viewer.html"
+    write_page(out, doc, viewer)
+    write_3d_page(out, doc, viewer)
 
     print(f"tokens: {len(tokens)} ({sum(1 for t in tokens.values() if t['kind'] == 'word')} words, "
           f"{sum(1 for t in tokens.values() if t['kind'] == 'symbol')} symbols)")
