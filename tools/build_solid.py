@@ -32,6 +32,7 @@ STEP = 2.0          # sample spacing in Bliss data units
 HALF_DEPTH = 20.0   # the solid is 40 units thick (five stroke widths)
 EDGE_R = 4.0        # rounding radius of every edge = half a stroke
 MARGIN = 6.0        # empty space around the drawing, in units
+SMOOTH_ITERS = 12   # Taubin smoothing passes (volume-preserving, keeps the surface closed)
 MAX_FACES = 4000    # larger solids are decimated (topology and volume are preserved; checked)
 
 
@@ -110,6 +111,9 @@ def build_solid(geom):
     faces = faces[area > 1e-9]
     mesh = trimesh.Trimesh(vertices=v, faces=faces[:, ::-1], process=True)
     trimesh.repair.fix_normals(mesh)
+    if SMOOTH_ITERS:
+        trimesh.smoothing.filter_taubin(mesh, lamb=0.5, nu=-0.53, iterations=SMOOTH_ITERS)
+        mesh.fix_normals()
     return decimate(mesh)
 
 
