@@ -2,9 +2,9 @@ name: pauli-jung
 
 on:
   push:
-    paths: ["pauli-jung/**", ".github/workflows/pauli-jung.yml"]
+    paths: ["pauli-jung/**", "pauli-jung-prob/**", ".github/workflows/pauli-jung.yml"]
   pull_request:
-    paths: ["pauli-jung/**", ".github/workflows/pauli-jung.yml"]
+    paths: ["pauli-jung/**", "pauli-jung-prob/**", ".github/workflows/pauli-jung.yml"]
 
 permissions:
   contents: read
@@ -30,3 +30,19 @@ jobs:
           lake exe paulijung examples/scarab.world
           lake exe paulijung examples/bookcase.world
           ! lake exe paulijung examples/broken.world
+
+  mathlib-companion:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: pauli-jung-prob
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install elan
+        run: |
+          curl -sSfL https://raw.githubusercontent.com/leanprover/elan/master/elan-init.sh | sh -s -- -y --default-toolchain none
+          echo "$HOME/.elan/bin" >> "$GITHUB_PATH"
+      - name: Fetch the Mathlib build cache
+        run: lake exe cache get
+      - name: Check the measure-theoretic companion
+        run: lake build

@@ -1,0 +1,14 @@
+name = "pauli_jung_prob"
+defaultTargets = ["PauliJungProb"]
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4"
+rev = "v4.26.0"
+
+[[require]]
+name = "pauli_jung"
+path = "../pauli-jung"
+
+[[lean_lib]]
+name = "PauliJungProb"
