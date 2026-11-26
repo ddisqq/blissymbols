@@ -37,7 +37,7 @@ STROKE = 8.0          # blissviewer.css stroke-width
 FONT_FILE = "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf"  # Helvetica/Arial metrics
 FONT_SIZE = 88        # font-size used for "text" paths in the data
 MESH_UNIT = 128.0     # 1 Bliss square = 1 glTF unit
-MESH_DEPTH = 16.0     # extrusion depth in data units (two stroke widths)
+MESH_DEPTH = 40.0     # extrusion depth in data units (five stroke widths, so the sides read as solid)
 
 MODIFIERS = {
     'a,an,any', 'ago,then_(past)', 'belongs_to,of_(possessive)', 'bliss-name',

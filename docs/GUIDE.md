@@ -61,12 +61,12 @@ The SVG files carry their own style block, so they display correctly when opened
 
 1. The 2D drawing is converted to filled outlines: each stroke becomes a 8-unit-wide outline with round ends, each arc is sampled, each glyph is taken from its font outline with counters (holes) respected.
 2. The outlines are merged into one shape per symbol.
-3. The shape is extruded into a solid slab with a depth of 16 units (two stroke widths).
+3. The shape is extruded into a solid slab with a depth of 40 units (five stroke widths), deep enough for the sides to read as solid.
 4. Units: **1 Bliss square = 1 glTF unit**. Y is up, Z is the depth direction. Each model is centred on the origin in X and Y.
 
 Results: 276,608 triangles across all 1,150 models. 1,099 models are fully closed ("watertight"). The other 51 are still solid and display correctly, but a few stroke ends touch at a single point, which leaves a non-manifold edge. This is noted in the `mesh_watertight` column of `symbols_index.csv`.
 
-The 3D models are a flat extrusion of the drawing, not new artwork: they show the same shape as the 2D symbol with real thickness. Word-level 3D equivalents (used in the poem) are made the same way from the whole composition.
+The 3D models are an extrusion of the drawing, not new artwork: they show the same shape as the 2D symbol with real thickness. Word-level 3D equivalents (used in the poem) are made the same way from the whole composition.
 
 ## 6. Rebuilding
 
