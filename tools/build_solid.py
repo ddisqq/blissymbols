@@ -122,14 +122,16 @@ def main():
     B = bc.Bliss(chardata, worddata)
     names = list(chardata["chars"].keys())
     os.makedirs(OUT, exist_ok=True)
-    for old in glob.glob(os.path.join(OUT, "*.glb")):
-        os.remove(old)
+    # resumable: keep models already written by an earlier (interrupted) run
 
     t0 = time.time()
     closed = 0
     fails = []
     for i, name in enumerate(names, start=1):
         stem = f"{i:04d}-{slug(name)}"
+        if os.path.exists(os.path.join(OUT, stem + ".glb")):
+            closed += 1  # written by an earlier run; checked again in the verification step
+            continue
         try:
             mesh = build_solid(B.geometry([name]))
             if mesh.is_watertight:
